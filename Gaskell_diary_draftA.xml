@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://klamerme.msu.domains/">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="Id_what">Diary</title>
+                <author/>
+                <respStmt>
+                    <resp>Transcription and coding by</resp>
+                    <persName ref="#mjk">Melissa Klamer</persName>
+                </respStmt>
+                <editionStmt>
+                    <edition>First digital edition in TEI, date: <date when="2017-08-18">August 18,
+                            2017</date>. P5.</edition>
+                </editionStmt>
+                <!-- Include respstmt re: photos taken, include photo files -->
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="dedication">
+                <p>To my dear little Marianne I shall "dedicate"<lb/> this book, which, if I should
+                    not live to give<lb/> it her myself, will I trust be reserved for her<lb/> as a
+                    token of her mother's love, and extreme<lb/> anxiety in the formation of her
+                    little<lb/> daughter's character. If that little daughter<lb/> should in time
+                    become a mother herself,<lb/> she may take an interest in the experience<lb/> of
+                    another; and at any rate she will<lb/> perhaps like to become acquainted with
+                    her character in <choice><sic>it's</sic><reg>its</reg></choice> earliest form.
+                    I<lb/> wish that (if ever she sees this) I could<lb/> give her the slightest
+                    idea of the love<lb/> and the hope that is bound up in<lb/> her. The love which
+                    passeth every
+                    earth<lb/><!-- This word breaks over the line. Research how to code this. -->=ly
+                    love, and the hope that however we<lb/> may be separated on earth, we may<lb/>
+                    each of us so behave while sojourning here<lb/> that we may meet again to renew
+                    the<lb/> dear &amp; tender tie of Mother and Daughter.</p>
+                <pb n="2"/>
+            </div>
+            <div type="entry" n="1">
+                <head>
+                    <date when="1835-03-10">March 10.<hi rend="superscript">th</hi> Tuesday Evening.
+                        >1835.</date>
+                </head>
+                <!-- Is the body element or the paragraph element more appropriate within each entry following the header? -->
+                <p>The day after tomorrow <persName ref="#Marianne_Holland"
+                    >Marianne</persName><!-- do I need to create a reference point to code a persName? Where to store this data? -->
+                    will be<lb/> six months old. I wish I had begun my<lb/> little journal sooner,
+                    for (though I should<lb/> have laughed at the idea twelve months<lb/> ago) there
+                    have beenmany little indica<lb/>=tions <!-- word split over line --> of
+                    disposition &amp;c. already; which I<lb/> can not now remember clearly. I
+                    will<lb/> try and describe her <hi rend="underline">mentally.</hi> I should<lb/>
+                    call her remarkably good tempered; though<lb/> at times she gives way to little
+                    bursts<lb/> of passion or perhaps impatience would<lb/> be the right name. She
+                    is also very firm<lb/> in her own little way occasionally; what<lb/> I suppose
+                    is obstinacy really, only that<lb/> is so hard a word to apply to one so<lb/>
+                    dear. But in general she is so good<lb/> that I feel as if I could hardly
+                    be<lb/> sufficienlty thankful, that the materials<lb/> put into my hands are so
+                    excellent,
+                        and<lb/><!-- Determine page numbering system - within entries AND within manuscript itself? Can I code these separately at the "div" level? Also is there a way to code left and right sides of pages - may be no significance to that, but just out of curiosity --><pb
+                        n="3"/> beautiful. And yet it seems to increase<lb/> the responsibility. If
+                    I should misguide from
+                    carele<!-- need to determine how to declare long s &longs; -->ssness or
+                    negligence! <choice><sic>Wilfully</sic><reg><hi rend="underline"
+                            >Willfully</hi></reg></choice><lb/> is not in a mother's heart. From
+                    ignorance<lb/> and errors in judgment I know I may,<lb/> and probably shall,
+                    very often. But oh Lord<!-- prayer element?--><lb/> I pray thee to lead me right
+                    (if it be thy<lb/> will) and to preserve in me the same<lb/> strong feeling of
+                    my responsibility which I<lb/> now feel. And you too my dearest little<lb/>
+                    girl, if when you read this, you trace back any evil, or unhappy feeling to<lb/>
+                    my mismanagement in your childhood<lb/> forgive me, love!<!-- is it necessary to include the line break as well as the paragraph break, or is this redundant?-->
+                    <lb/></p>
+                <p><persName ref="#Marianne_Holland">Marianne</persName> is now becoming every
+                    day<lb/> more and more interesting. She looks at<lb/> and tries to take hold of
+                    every thing. She<lb/> has pretty good ideas of distance and does<lb/> not try to
+                    catch sunbeams now, as she<lb/><pb n="4"/> did two months ago. Her sense of
+                    sight<lb/> is much improved lately in seeing objects<lb/> at a distance, and
+                    distinguishing them.<lb/> For instance I had her in my arms
+                    today<!-- necessary to code the slight diagonal downward on the "day" here?--><lb/>
+                    in the drawing room, and her <persName ref="#William_Gaskell"
+                    >Papa</persName><lb/> was going out of the gate; and she
+                    evi<!--split word--><lb/>=dently knows him; smiled and kicked.<lb/> She begins
+                    to show a decided preference<lb/> to those she likes; she puts out her
+                    little<lb/> arms to come to me, and would I<lb/> am sure, do so to her <persName
+                        ref="#William_Gaskell">Papa</persName>. She catches<lb/> the expression of a
+                    countenance to which she is accustomed directly;<lb/> when we laugh, she laughs;
+                    and when<lb/> I look attentive to <persName ref="#William_Gaskell"
+                        >William</persName><!--Create xml:id for William Gaskell-->'s reading,<lb/>
+                    it is quite ridiculous to see her little face of gravity, and earnestness, as
+                    if<lb/> she understood every word. I try always<lb/> to let her look at any
+                    thing which at<!--split word--><lb/>tracts her notice as long as she
+                        <unclear>will</unclear><lb/><pb n="5"/> and when I see her looking very
+                    intently<lb/> at <choice><sic>any thing</sic><reg>anything</reg></choice>, I
+                    take her to it, and let<lb/> her exercise all her senses upon
+                    it-<!-- place spaces around dashes or leave words connected?-->even<lb/> to
+                    tasting, if I am sure it can do her<lb/> no harm. My object is to give her
+                    a<lb/> habit of fixing her attention.<lb/></p>
+                <p>She takes great delight in motion just<lb/> at present; dancing, jumping,
+                    shutting<lb/> and opening the hand pleases her very
+                    much:<!-- long gap. Not sure whether to code this as a paragraph break or an empty space-->
+                    I had no idea children<lb/> at her age, made such continued<lb/> noises; she
+                    shouts, and murmurs, and<lb/> talks in her way, just like
+                    conversa=<lb/><!--split word--> tion, varying her tones &amp;c. I wish<lb/> we
+                    could know what is passing<lb/> in her little mind. She likes
+                    any<lb/><!--split word-->=thing like singing, but seems afraid<lb/> of the
+                    piano; today she even began<lb/> to cray, when I began to play.<lb/><pb n="6"
+                    /></p>
+                <p>In general, I think she is remarkably<lb/> free from fear or shyness of any
+                    sort.<lb/> She goes to <choice><sic>any one</sic><reg>anyone</reg></choice> who
+                    will take her,<lb/> staring at strangers to be sure, and being<lb/> very grave
+                    while they are in the room,<lb/> but not crying, or clinging to me. I am<lb/>
+                    very glad of this, as though is is very<lb/> flttering and endearing to me,
+                    yet<lb/> I should be sorry if she were to get the<lb/> habit of refusing to go
+                    to others.<lb/></p>
+                <p>Then as to her "bodily" qualifications.<lb/> She has had two teeth cut with very
+                    little<lb/> trouble; but I believe the worst are<lb/> to come. She is very
+                    strong in her<lb/> limbs, though because she is so fat, we<lb/> do not let her
+                    use her <choice><sic>ancles</sic><reg>ankles</reg></choice> at all,<lb/> and I
+                    hope she will be rather late in<lb/> walking that her little legs may be<lb/>
+                    very firm. I shall find it difficult to<lb/> damp the energies of the servants
+                    in<lb/> this respect, but I intend that she shall<lb/> teach herself to walk,
+                    &amp; receive no assist<lb/><pb n="7"
+                    /><!--photo blocks the equal sign used to mark split word or there is none here-->ance
+                    from hands &amp;c. She lies down on the<lb/> floor a good deal, and kicks about;
+                    a<lb/> practice I began very early, and which<lb/> has done her a great deal of
+                    good.<lb/></p>
+                <p>She goes to bed <hi rend="underline">awake</hi>; another practice<lb/> I began
+                    early, and which is so comfort<lb/><!--split word-->=able I wonder it is not
+                    more generally<lb/> adopted. Once or twice we have had<lb/> grand cryings, which
+                    have been very<lb/> very distressing to me; but when I<lb/> have convinced
+                    myself that she is not<lb/> in pain, is perfectly well, and that she<lb/> is
+                    only wanting to be taken
+                    up<!-- possibly a dash between: taken-up. Consult a better image--> I have<lb/>
+                    been quite firm, though I have some=<lb/>=times<!--split word--> cried almost as
+                    much as she<lb/> has. I never leave her <sic>till</sic> she is
+                    as=<lb/><!--split word-->=leep (except in extreme cases) and as<lb/> she is put
+                    to bed at a regular time<lb/> (6 o'clock) she generally gets very sleepy<lb/><pb
+                        n="8"/> while being undressed. While the
+                    un=<lb/><!--split word-->=dre<!-- long s -->ssing is going on, I never like
+                    her<lb/> to be talked to, played with, or excited<lb/> yet sometimes she is so
+                    very playful<lb/> when she ought to be put down, that<lb/> a turn or two up and
+                    down the room<lb/> is required to soothe her, still putting<lb/> her down awake.
+                    Sometimes she will<lb/> cry a little, and when I turn her over<lb/> in her cot
+                    she fancies she is going<lb/> to be taken up and is still in a moment<lb/>
+                    making the peculiar little triumphing<lb/> noise she always does when she
+                    is<lb/> pleased.<lb/></p>
+                <p>Crying has been a great difficulty<lb/> with me. Books do so differ. One
+                    says<lb/> "Do not let them have <choice><sic>any
+                        thing</sic><reg>anything</reg></choice> they<lb/> cry for", another
+                        (<persName ref="Madame_deSaussure">M<hi rend="superscript">me</hi> Necker de
+                        Saus<lb/><!--split word-->=sure</persName>, <title lang="Fr">sur L'Education
+                        Progressive</title>, the<lb/> nicest <title
+                        ref="sur L'Education_Progressive">book</title> I have read on the
+                        subject<lb/><pb n="9"/> says
+                        "<!--is it possible to tag this as a quotation, or link it to the title above?--><lang
+                        ref="fr">les larmes des <sic>enfans</sic> sont si
+                        a=<lb/>=mires<!--unclear, also split word-->, la calme parfaite de
+                        l'a<!-- accent mark needs to be included and declared as an entity-->me
+                            <unclear unit="word" n="1"/><lb/> est si neccessaire qu'il faut surtout
+                        a<!--accent mark-->=<!--split word-->=parquer des larmes</lang>." So I had
+                    to<lb/> make a rule for myself, and though<lb/> I am afraid I have not kept to
+                    it<lb/> quite as I ought, I still think it a<lb/> good one. We must consider
+                    that a<lb/> cry is a child's only language for<lb/> expressing its wants. It is
+                    its little way<lb/> of saying, "I am hungry, I am very<lb/> cold," and <hi
+                        rend="underline">so</hi>, I don't think we should<lb/> carry out the maxim
+                    of never letting<lb/> a child have <choice><sic>any
+                            thing</sic><reg>anything</reg></choice> for crying.<lb/> If it is to
+                    have the object for which<lb/> it is cryingI would give it, it, <hi
+                        rend="underline"
+                        >di</hi>=<lb/><!--split word during underline... two "hi" tags, or one?-->=<hi
+                        rend="underline">rectly</hi>, giving up any little occupation<lb/> or
+                    purpose of my own, rather than<lb/> try its patience <hi rend="underline"
+                        >unnecessarily</hi>. But<lb/><pb n="10"/> if it is improper for it to obtain
+                    the<lb/> object, I think it right to withhold it<lb/> steadily, however much the
+                    little creature<lb/> may cry. I think after one or two
+                    attempts<!-- text diagonals down the page here for a couple letters. Mark?--><lb/>
+                    to conquer by crying the child would
+                    be<!--split word, no evidence of usual equal signs. Check better image--><lb/>come
+                    aware that <hi rend="underline">one</hi> cry or indication<lb/> of a want was
+                    sufficient, and I think<lb/> the habit of crying would be broken.<lb/> I am
+                    almost sure even my partial<lb/> adherence to this plan has prevented<lb/> many
+                    crying fits with <persName ref="#Marianne_Holland">Marianne</persName>.<lb/> I
+                    have somewhere read that a child<lb/> gets bad habits, <hi rend="underline"
+                        >first</hi>
+                    <hi rend="underline">by</hi>
+                    <hi rend="underline">being</hi>
+                    <hi rend="underline">iirritated</hi><lb/> and then by finding that crying
+                    causes<lb/> the irritation to cease. I think this<lb/> is very true. I think it
+                    is the duty<lb/> of every mother to sacrifice a good<lb/> deal rather than have
+                    her child <hi rend="underline">unne</hi><lb/><!--split word-->=<hi
+                        rend="underline">cessarily</hi> irritated by <choice><sic>any
+                            thing</sic><reg>anything</reg></choice> - food<lb/> given irregularly or
+                    improperly, dress<lb/> uncomfortable, even to an uneasy position.<lb/> I think
+                    this rule should be attended to<lb/><pb n="11"/> But though I keep laying down
+                    rules, I<lb/> fear I have not sufficienlty attended to them,<lb/> though I hope
+                    I have been conscientious<lb/> hithterto in discharging my duty to her.
+                    Still<lb/> I sometimes fear there is too much pride<lb/> in my ownhear in
+                    attributing her good-<lb/><!--split word--> =ness to the success of my plans,
+                    when in<lb/> reality it is owing to her having hitherto had<lb/> such good
+                    health, and freedom from pain<lb/> a ble<!--long s-->ssing for which I
+                            <choice><sic>can not</sic><reg>cannot</reg></choice> be too
+                    thank=<lb/><!--split word--> =ful.Still I put down <choice><sic>every
+                            thing</sic><reg>everything</reg></choice> now
+                    be=<lb/><!--split word-->=cause I have thought a good deal about<lb/> the
+                    formation of any little plans, and I<lb/> shall like to know their success. I
+                    want<lb/> to act on principles <metamark place="below" function="insertion"
+                        rend="caret"/><add place="above"><hi rend="underline">now</hi></add> which
+                    can be carried<lb/> on through the whole of her education.<lb/> I have written a
+                    great deal tonight, and<lb/> very unconnectedly. I had no idea the<lb/> journal
+                    of my own disposition, &amp;<lb/><pb n="12"/> feelings was so intimately
+                    connected with<lb/> that of my little baby, whose regular
+                    brea=<lb/><!--split word-->=thing has been the music of my thoughts<lb/> all the
+                    time I have been writing. <!--prayer-->God,<lb/> bless her.<lb/></p>
+            </div>
+            <div type="entry" n="2">
+                <head>
+                    <date when="1835-08-04">August 4th. Tuesday Evening. 1835.</date>
+                </head>
+                <p>It seems a very long time since I have<lb/> written anything about my little
+                    darling,<!--code other names for Marianne, like this one?--><!-- ENDED HERE, 9/25/17 - line 3 of second entry. resp#mjk--><lb/>
+                    and I feel as if I had been negligent<lb/> about it, only it is so difficult to know<lb/>
+                    <!-- double check these first two "wheres" - could be "when" instead-->where to
+                    begin or where to stop when talking<lb/> thinking or writing about her.<lb/>
+                </p>
+                <p>In a few days she will be eleven months<lb/> old; and in sme things I suppose she
+                    is<lb/> rather backward; in walking and talking<lb/> for instance. <hi
+                        rend="underline">I</hi> fancy she says Mama,<lb/> but I think it is only
+                    fancy. She can<lb/> stand pretty steadily, taking hold of
+                    some=<!--split word--><lb/>=thing, for a few minutes and then she<lb/> pops
+                    down. But as I am not very<lb/> anxious for her to walk or talk earlier<lb/><pb
+                        n="13"/> than her nature prompts, and as her<lb/> Papa thinks the same, we
+                    allow her to<lb/> take her own way.<lb/></p>
+                <p>She has various little accomplishments<lb/> of her own, clapping hands,
+                    shaking<lb/> hands, which are very pretty, though I<lb/> sometimes fear we
+                    rather try <choice><sic>to</sic><reg>too</reg></choice> make her exhibit too
+                    much to strangers. We<lb/> must take care of this as she grows older.<lb/> She
+                    understands many words &amp; sentences<lb/> "Where are the cows", "the flies"
+                    &amp;c &amp;c &amp;c.<lb/> I am very much afraid of her
+                    catch=<!--split word-->=ing cro<!--longs-->ss or angry expre<!--longs-->ssions
+                    of countenance<lb/> or even one that is not quite happy -<lb/> I find her own
+                    changes so directly<lb/> to the expre<!--longs-->ssion she sees. If
+                    <!--ENDED HERE, 10/2/17 - STRIKEOUT IN SECOND ENTRY. resp#mjk--></p>
+            </div>
+            <div type="entry" n="3">
+                <head>
+                    <date when="1835-10-04">Sunday Evening <unclear unit="word" n="1"/> October 4
+                        1835</date>
+                </head>
+            </div>
+            <div type="entry" n="4">
+                <head>
+                    <date when="1835-12-28">Monday Evening Dec<add place="above">r</add>. 28.
+                        1835.</date>
+                </head>
+            </div>
+            <div type="entry" n="5">
+                <head>
+                    <date when="1836-02-04">Feb<add place="above"><hi rend="underline">ry</hi></add>
+                            7<hi rend="superscript">th</hi>.
+                        1836.<!-- how to code the superscript th with the period below?--></date>
+                </head>
+            </div>
+            <div type="entry" n="6">
+                <head>
+                    <date when="1836-11-05">Nov<hi rend="superscript">r</hi>. 5<hi
+                            rend="superscript">th</hi>. 1836.</date>
+                </head>
+            </div>
+            <div type="entry" n="7">
+                <head>
+                    <date when="1837-12-09">Dec<hi rend="superscript">r</hi>. 9<hi
+                            rend="superscript">th</hi>. 18<hi rend="underline">37</hi></date>
+                </head>
+            </div>
+            <div type="entry" n="8">
+                <head>
+                    <date when="1838-03-25">March 25<hi rend="superscript">th</hi>. 1838. Sunday
+                        Evening.</date>
+                </head>
+            </div>
+            <div type="entry" n="9">
+                <head>
+                    <date when="1838-04-08">April 8. Sunday Evening.</date>
+                </head>
+                <p>Just a fortnight since I wrote last,<pb/> and since thattime I have had a<lb/>
+                    sad fright about <persName ref="#Marianne_ Holland">Marianne</persName>, on
+                    last<lb/> Friday but one she had an attack of<lb/> croup about 8'o'clock in the
+                    evening. We<lb/> heard a cough like a dog's
+                    bark,<!-- ended here at bottom of page; need previous entries coded to add correct pagination. Wanted to code this far to show evidence for dating this entry in 1838: Gaskell writes that the previous entry was a fortnight before, indicating that this entry is also from 1838. #mjk-->
+                </p>
+            </div>
+            <div type="entry" n="10">
+                <head>
+                    <date when="1838-10-14">October 14 (38) Sunday Evening.</date>
+                </head>
+            </div>
+            <div type="entry" n="11">
+                <head>
+                    <date when="1838-10-28">Oct. 28. Sunday Evening.</date>
+                </head>
+            </div>
+        </body>
+    </text>
+</TEI>
