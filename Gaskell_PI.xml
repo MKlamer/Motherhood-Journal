@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gaskell Journal Project Personography Index</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Written in TEI by Melissa Klamer. First Edition in TEI 30 Jan, 2018.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="Collaborators">
+            <listPerson>
+               <person xml:id="mjk">
+                  <persName>
+                     <surname>Klamer</surname>
+                     <forename>Melissa</forename>
+                  </persName>
+                  <occupation>Editor</occupation>
+               </person>
+            </listPerson>
+         </div>
+         <div type="HistPersons">
+            <listPerson sortKey="histPersons">
+                  <person xml:id="ECGaskell">
+                  <persName>
+                     <surname>Gaskell</surname>
+                     <surname>Cleghorn</surname>
+                     <forename>Elizabeth</forename>
+                     </persName>
+                     <birth></birth>
+                     <death></death>
+                  <occupation>author
+                  </occupation>
+                  <note type="bio"></note>
+               </person>
+               <person xml:id="Wm_Gaskell">
+                  <persName>
+                     <surname>Gaskell</surname>
+                     <forename>William</forename>
+                  </persName>
+                  <birth></birth>
+                  <death></death>
+                  <occupation>minister, Unitarian church</occupation>
+               </person>
+               <person xml:id="MA_Gaskell" sex="f">
+                  <persName>
+                     <surname>Holland</surname>
+                     <surname>Gaskell</surname>
+                     <forename>Marianne</forename>
+                  </persName>
+                  <birth when="">
+                     <placeName></placeName>
+                  </birth>
+                  <death when="">
+                     <placeName ref=""></placeName>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p></p>
+                  </note>
+               </person >
+               <person xml:id="C_Bowles">
+                  <persName>
+                     <surname>Southey</surname>
+                     <surname>Bowles</surname>
+                     <forename>Caroline</forename>
+                  </persName>
+                  <occupation>poet</occupation>
+                  <birth></birth>
+                  <death></death>
+                  <note type="bio">Caroline Bowles was a poet whose "To A Dying Infant" is quoted in Gaskell's second entry. The poem was first written in 1821. She later married poet Robert Southey.</note>
+               </person>
+            </div>
+         <div type="Publications">
+            <listBibl sortKey=""></listBibl>
+            <listBibl sortKey=""></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>
