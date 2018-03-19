@@ -1,0 +1,24 @@
+An ongoing list of tasks to write/code/research related to the dissertation. This is NOT organized. 
+It is a place instead to keep track of ideas as they occur to make sure nothing gets lost. Tasks are moved to the project board as they are worked on. 
+
+Write introduction to diary
+Write introduction to site
+Write rationale-methodology essay
+Write journal article to accompany edition
+Write editorial statement
+Code manuscript (first-run)
+Fill in prosopography file
+ODD for prosopography
+Customize ODD for manuscript file
+Continue learning Xpath
+Learn XHTML
+Learn/Practice XSLT
+Get domain space up and working - possibly use Newtfire?
+Add Elisa formally to committee
+Research / write annotations
+Obtain copy of Shattock edition of Diary
+Look up “long s” encoding examples
+Track Gaskell’s Rules
+Get clearer statement of copyright from Ms. Prince (identify and clarify what I will do, what permissions I need, etc.)
+Give committee something to read
+
