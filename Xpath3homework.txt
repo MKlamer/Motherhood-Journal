@@ -1,0 +1,18 @@
+Xpath 3 Homework
+
+1. working with @type: 
+	a) count(//@type) (32 times)
+	b) //@type/.. (returns parent elements of @type attributes)
+	c) //@type/../name()  
+	d) distinct-values(//@type/..)  
+
+2. Working with attributes: 
+	a) //@*  (finds all attributes in document, I think?)
+	b) //@*/name()
+	c) distinct-values(//@*/name())
+	d) //body//@*/..
+	e) distinct-values(//body//@*/../name())
+	f) distinct-values(//@*/../name()) This found 18 distinct element names in the entire document which hold attributes.
+
+3. Incomplete: errors! Working with count and position functions
+	a) Tried: /p/geo[count(@select="lat") gt 1]/last()  can't get this to work.
