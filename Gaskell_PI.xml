@@ -79,7 +79,7 @@
                   <death></death>
                   <note type="bio">Caroline Bowles was a poet whose "To A Dying Infant" is quoted in Gaskell's second entry. The poem was first written in 1821. She later married poet Robert Southey.</note>
                </person>
-            </div>
+           </listPerson> </div>
          <div type="Publications">
             <listBibl sortKey=""></listBibl>
             <listBibl sortKey=""></listBibl>

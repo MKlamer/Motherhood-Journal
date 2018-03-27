@@ -1,0 +1,71 @@
+Xpath 3 Homework
+
+1. working with @type: 
+	a) count(//@type) (32 times)
+	b) //@type/.. (returns parent elements of @type attributes)
+	c) //@type/../name()  
+	d) distinct-values(//@type/..)  
+
+2. Working with attributes: 
+	a) //@*  (finds all attributes in document, I think?)
+	b) //@*/name()
+	c) distinct-values(//@*/name())
+	d) //body//@*/..
+	e) distinct-values(//body//@*/../name())
+	f) distinct-values(//@*/../name()) This found 18 distinct element names in the entire document which hold attributes.
+
+3. Working with count and position functions
+	a) (//p[count(descendant::geo[@select="lat"]) gt 2])[last()]
+	b) (//p[count(descendant::geo[@select="lat"]) gt 2])[position() =1]
+	c) (//div[@type="book"][2]/descendant::p[count(descendant::geo[@select="lat"]) gt 1])[last()]
+	d) ( //p[count(placeName) gt 1 and count(descendant::geo[@select="lat"]) gt 2])[position() =1]
+	e) ( //p[count(placeName) gt 1 and count(descendant::geo[@select="lat"]) gt 2])/text()
+		To get the placenames: 
+		distinct-values(( //p[count(placeName) gt 1 and count(descendant::geo[@select="lat"]) gt 2])/placeName/text())
+	There are 53 distinct names. I'm not sure how to copy them out of the list I got.
+
+4) Bonus Challenge: 
+
+_________________________________________________
+
+Xpath 4 Homework: 
+
+
+1) string-join(//bibl/author/text(), "; ")
+Note: this doesn't semicolon separate the coauthors of the second text. Not sure how to do that.
+
+2) a) //div//text()[contains(., 'homework')]
+	9 results
+   b) (//div//text()[contains(., "homework")])/../name()
+
+3) a) //date[contains(., "F")]
+   b) //date[contains(., "F")]/@when
+   c) string-join((//date[contains(., "F")]/@when), ', ')
+
+4) a) //div[@type="assign"][contains(., "GitHub")] - finds github assignments; still working on part B.
+   b) distinct-values(//div[(@type="assign") and (contains(., "GitHub"))])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	  
