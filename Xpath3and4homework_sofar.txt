@@ -43,12 +43,11 @@ Note: this doesn't semicolon separate the coauthors of the second text. Not sure
    c) string-join((//date[contains(., "F")]/@when), ', ')
 
 4) a) //div[@type="assign"][contains(., "GitHub")] - finds github assignments; still working on part B.
-   b) distinct-values(//div[(@type="assign") and (contains(., "GitHub"))])
+   b) min(//div[@type="assign"][contains(., "GitHub")]/string-length())
+      max(//div[@type="assign"][contains(., "GitHub")]/string-length())
 
 
-
-
-
+5) Using date
 
 
 
