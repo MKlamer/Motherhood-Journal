@@ -48,7 +48,30 @@ Note: this doesn't semicolon separate the coauthors of the second text. Not sure
 
 
 5) Using date
+a) Other ways of using datetime: 
+//@when/format-date(xs:date(.), '[FNn]/ [MNn]/ [D] / [Y]')
+//@when/format-date(xs:date(.), '[FNn], [MNn] [D1o], [Y]')
 
+Note: I also ran a variation of this xpath on my Gaskell file and got a list of the dates of each entry.
+This is extremely helpful since she doesn't always include the days of the week, and it gives me a chance
+to look at her trends for which days she was able to write! 
+
+Results of this for the diary:
+Tuesday, March 10th, 1835; 
+Tuesday, August 4th, 1835; 
+Sunday, October 4th, 1835; 
+Monday, December 28th, 1835; 
+Thursday, February 4th, 1836; 
+Saturday, November 5th, 1836; 
+Saturday, December 9th, 1837; 
+Sunday, March 25th, 1838; 
+Sunday, April 8th, 1838; 
+Sunday, October 14th, 1838; 
+Sunday, October 28th, 1838
+
+b) //@when/format-date(xs:date(.), '[FNn], [MNn] [D1o], [Y]')[contains(., "Friday")]
+
+c) //@when/format-date(xs:date(.), '[FNn], [MNn] [D1o], [Y]')[contains(., "Friday")][contains(., "October")]
 
 
 
