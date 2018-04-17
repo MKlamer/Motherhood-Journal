@@ -5,8 +5,22 @@
     version="3.0">
     <xsl:output method="xml" encoding="utf-8"/>
     <xsl:mode on-no-match="shallow-copy"/>
-    <xsl:template match="emph"></xsl:template> 
-        <hi> <xsl:apply-templates>
+    <xsl:template match="emph"> 
+        <hi rend="italics"> 
+            <xsl:apply-templates/>
         </hi>
-        </xsl:apply-templates>
-    </xsl:stylesheet>
+    </xsl:template>
+    <xsl:template match="head/l">
+        <xsl:apply-templates/><lb/>
+    </xsl:template>
+    <xsl:template match="div[@type='book']">
+        <div n="{count(preceding-sibling::div[@type='book']) + 1}">
+            <xsl:apply-templates/>
+        </div>            
+    </xsl:template>
+    <xsl:template match="div[@type='chapter']">
+        <div n="{count(preceding-sibling::div) + 1}">
+            <xsl:apply-templates/>
+        </div>
+        </xsl:template>    
+</xsl:stylesheet>

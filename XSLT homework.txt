@@ -3,6 +3,7 @@ DH Praxis
 
 XSLT homework 1: 
 
+2. 
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xpath-default-namespace="http://www.tei-c.org/ns/1.0"
@@ -10,8 +11,58 @@ XSLT homework 1:
     version="3.0">
     <xsl:output method="xml" encoding="utf-8"/>
     <xsl:mode on-no-match="shallow-copy"/>
-    <xsl:template match="emph"></xsl:template> 
-        <hi> <xsl:apply-templates>
+    <xsl:template match="emph"> 
+        <hi rend="italics"> 
+            <xsl:apply-templates/>
         </hi>
-        </xsl:apply-templates>
+    </xsl:template>
     </xsl:stylesheet>
+
+3. 
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xpath-default-namespace="http://www.tei-c.org/ns/1.0"
+    xmlns="http://www.tei-c.org/ns/1.0"
+    version="3.0">
+    <xsl:output method="xml" encoding="utf-8"/>
+    <xsl:mode on-no-match="shallow-copy"/>
+    <xsl:template match="emph"> 
+        <hi rend="italics"> 
+            <xsl:apply-templates/>
+        </hi>
+    </xsl:template>
+    <xsl:template match="head/l">
+        <xsl:apply-templates/><lb/>
+    </xsl:template>
+    </xsl:stylesheet>
+
+4. Seems to accurately put the numbers in, but it is basically replacing the type attributes 
+with the number ones. I'm not sure what I'm doing wrong. A lot of the other elements  (that 
+I didn't think I was changing at all) are becoming "instant="false"" in the output.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xpath-default-namespace="http://www.tei-c.org/ns/1.0"
+    xmlns="http://www.tei-c.org/ns/1.0"
+    version="3.0">
+    <xsl:output method="xml" encoding="utf-8"/>
+    <xsl:mode on-no-match="shallow-copy"/>
+    <xsl:template match="emph"> 
+        <hi rend="italics"> 
+            <xsl:apply-templates/>
+        </hi>
+    </xsl:template>
+    <xsl:template match="head/l">
+        <xsl:apply-templates/><lb/>
+    </xsl:template>
+    <xsl:template match="div[@type='book']">
+        <div n="{count(preceding-sibling::div[@type='book']) + 1}">
+            <xsl:apply-templates/>
+        </div>            
+    </xsl:template>
+    <xsl:template match="div[@type='chapter']">
+        <div n="{count(preceding-sibling::div) + 1}">
+            <xsl:apply-templates/>
+        </div>
+        </xsl:template>    
+</xsl:stylesheet>
