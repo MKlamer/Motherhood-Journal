@@ -36,11 +36,7 @@ XSLT homework 1:
     </xsl:template>
     </xsl:stylesheet>
 
-4. Seems to accurately put the numbers in, but it is basically replacing the type attributes 
-with the number ones. I'm not sure what I'm doing wrong. A lot of the other elements  (that 
-I didn't think I was changing at all) are becoming "instant="false"" in the output.
-
-<?xml version="1.0" encoding="UTF-8"?>
+4. <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xpath-default-namespace="http://www.tei-c.org/ns/1.0"
     xmlns="http://www.tei-c.org/ns/1.0"
@@ -56,13 +52,13 @@ I didn't think I was changing at all) are becoming "instant="false"" in the outp
         <xsl:apply-templates/><lb/>
     </xsl:template>
     <xsl:template match="div[@type='book']">
-        <div n="{count(preceding-sibling::div[@type='book']) + 1}">
+        <div n="{count(preceding-sibling::div[@type='book']) + 1}" type="book">
             <xsl:apply-templates/>
         </div>            
     </xsl:template>
     <xsl:template match="div[@type='chapter']">
-        <div n="{count(preceding-sibling::div) + 1}">
+        <div n="{count(preceding-sibling::div) + 1}" type="chapter">
             <xsl:apply-templates/>
         </div>
         </xsl:template>    
-</xsl:stylesheet>
+</xsl:stylesheet

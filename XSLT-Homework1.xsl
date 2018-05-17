@@ -14,12 +14,12 @@
         <xsl:apply-templates/><lb/>
     </xsl:template>
     <xsl:template match="div[@type='book']">
-        <div n="{count(preceding-sibling::div[@type='book']) + 1}">
+        <div n="{count(preceding-sibling::div[@type='book']) + 1}" type="book">
             <xsl:apply-templates/>
         </div>            
     </xsl:template>
     <xsl:template match="div[@type='chapter']">
-        <div n="{count(preceding-sibling::div) + 1}">
+        <div n="{count(preceding-sibling::div) + 1}" type="chapter">
             <xsl:apply-templates/>
         </div>
         </xsl:template>    
