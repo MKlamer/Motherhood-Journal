@@ -1,0 +1,17 @@
+Sonnets: 
+
+1: 
+Find: \n\ +   Replace: \n
+
+2. Find: .+ replace:<line>\0</line>
+
+3. roman numerals tagged as lines: fix:
+   Find: <line>([IVXLC]+)</line>
+   Replace: </sonnet>\n<sonnet number="\1">
+
+4. tag title & author manually, remove extra sonnet ending & beginning tags
+
+
+Novels: 
+
+1. 
