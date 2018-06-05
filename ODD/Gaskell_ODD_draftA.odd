@@ -22,6 +22,7 @@
         <moduleRef key="core"/>
         <moduleRef key="tei"/>
         <moduleRef key="textstructure"/>
+        <moduleRef key="transcr"/>
         <moduleRef key="msdescription"/>
         <moduleRef key="namesdates"/>
         
