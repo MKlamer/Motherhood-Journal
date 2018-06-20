@@ -54,10 +54,12 @@
                </person>
                <person xml:id="MA_Gaskell" sex="f">
                   <persName>
-                     <surname>Holland</surname>
-                     <surname>Gaskell</surname>
+                     <surname type="married">Holland</surname>
+                     <surname type="paternal">Gaskell</surname>
                      <forename>Marianne</forename>
                   </persName>
+                  <persName>Marianne</persName>
+                  <persName>M.A.</persName>
                   <birth when="">
                      <placeName></placeName>
                   </birth>
@@ -68,6 +70,18 @@
                      <p></p>
                   </note>
                </person >
+               <person xml:id="Meta_Gaskell">
+                  <persName>
+                     <surname type="paternal">Gaskell</surname>
+                     <forename>Margaret</forename>
+                     <forename>Emily</forename>
+                  </persName>
+                  <persName>Meta Gaskell</persName>
+                  <occupation></occupation>
+                  <birth><placeName></placeName></birth>
+                  <death><placeName></placeName></death>
+                  <note type="bio">Elizabeth Gaskell's second daughter, who is mentioned in the last serveral diary entries.</note>
+               </person>
                <person xml:id="C_Bowles">
                   <persName>
                      <surname>Southey</surname>
@@ -78,6 +92,50 @@
                   <birth></birth>
                   <death></death>
                   <note type="bio">Caroline Bowles was a poet whose "To A Dying Infant" is quoted in Gaskell's second entry. The poem was first written in 1821. She later married poet Robert Southey.</note>
+               </person>
+               <person xml:id="Betsy">
+                  <persName>
+                     <surname type="married"></surname>
+                     <surname type="paternal"></surname>
+                     <forename>Betsy</forename>
+                  </persName>
+                  <occupation></occupation>
+                  <birth><placeName></placeName></birth>
+                  <death><placeName></placeName></death>
+                  <note type="bio">Betsy was the Gaskell family's servant until.... (see entry 8)</note>
+               </person>
+               <person xml:id="Elizabeth_Servant">
+                  <persName>
+                     <surname type="married"></surname>
+                     <surname type="paternal"></surname>
+                     <forename>Elizabeth</forename>
+                  </persName>
+                  <occupation></occupation>
+                  <birth><placeName></placeName></birth>
+                  <death><placeName></placeName></death>
+                  <note type="bio">Elizabeth took over as the family servant after Betsy departed at the death of a sister.</note>
+               </person>
+               <person xml:id="Aunt_Lumb">
+                  <persName>
+                     <surname type="married">Lumb</surname>
+                     <surname type="paternal"></surname>
+                     <forename>Hannah</forename>
+                  </persName>
+                  <occupation></occupation>
+                  <birth><placeName></placeName></birth>
+                  <death><placeName></placeName></death>
+                  <note type="bio">Aunt Lumb took in Elizabeth Gaskell at the death of her mother in... </note>
+               </person>
+               <person xml:id="template">
+                  <persName>
+                     <surname type="married"></surname>
+                     <surname type="paternal"></surname>
+                     <forename></forename>
+                  </persName>
+                  <occupation></occupation>
+                  <birth><placeName></placeName></birth>
+                  <death><placeName></placeName></death>
+                  <note type="bio"></note>
                </person>
            </listPerson> </div>
          <div type="Publications">

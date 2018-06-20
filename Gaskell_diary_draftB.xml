@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../GitHub/Motherhood-Journal/ODD/out/Gaskell_ODD_draftA.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="ODD/out/Gaskell_ODD_draftA.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="file:/C:/Users/melis/Documents/GitHub/Motherhood-Journal/ODD/out/GaskellDraft_ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -295,7 +295,7 @@
                <date when="1838-04-08">April 8. Sunday <time>Evening</time>.</date>
             </head>
             <p>Just a fortnight since I wrote last,<!--<pb/ n="unknown">--> and since that time I have had a<lb/> sad
-               fright about <persName ref="#Marianne_ Holland">Marianne</persName>, on last<lb/>
+               fright about <persName ref="#MA_Gaskell">Marianne</persName>, on last<lb/>
                Friday but one she had an attack of<lb/> croup about 8'o'clock in the evening.
                We<lb/> heard a cough like a dog's
                bark,<!-- ended here at bottom of page; need previous entries coded to add correct pagination. Wanted to code this far to show evidence for dating this entry in 1838: Gaskell writes that the previous entry was a fortnight before, indicating that this entry is also from 1838. #mjk-->
