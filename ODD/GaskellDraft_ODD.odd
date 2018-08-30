@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
-  xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
+  xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:sch="http://purl.oclc.org/dsdl/schematron"
+  xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,6 +26,38 @@
         <moduleRef key="transcr"/>
         <moduleRef key="msdescription"/>
         <moduleRef key="namesdates"/>
+        
+  <!-- TEI ODD Guidance and SAMPLE ODD FILES to consult: https://github.com/ebeshero/DHClass-Hub/wiki/TEI-ODD:-Schema-Prep-Resources-for-TEI-in-Projects --> 
+        <elementRef ident="person" module="namesdates" mode="change">
+          <attList>
+            <valList type="closed">
+              <valItem ident="idWhatever"/>
+              
+              
+            </valList>
+            
+          </attList>
+          
+          
+          
+        </elementRef>
+        
+        
+        <elementSpec ident="persName" module="namesdates" mode="change">
+          <attList>
+            <attDef ident="ref" mode="replace" usage="rec">
+              <datatype>
+                <rng:text/>
+              </datatype>
+              <valList type="closed">
+                <valItem ident="#idWhatever"/>
+                <valItem ident="#Bint_Hannah">
+                  <gloss>Bint Hannah | b. 1804-09-16 | Daughter of Thomas Bint and Sarah Bint. Baptismal and family data as recorded by</gloss>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
         
       </schemaSpec>
     </body>
