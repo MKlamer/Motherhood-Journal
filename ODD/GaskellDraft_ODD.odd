@@ -27,7 +27,10 @@
         <moduleRef key="msdescription"/>
         <moduleRef key="namesdates"/>
         
-  <!-- TEI ODD Guidance and SAMPLE ODD FILES to consult: https://github.com/ebeshero/DHClass-Hub/wiki/TEI-ODD:-Schema-Prep-Resources-for-TEI-in-Projects --> 
+  <!-- TEI ODD Guidance and SAMPLE ODD FILES to consult: https://github.com/ebeshero/DHClass-Hub/wiki/TEI-ODD:-Schema-Prep-Resources-for-TEI-in-Projects 
+  
+  Assignment: Write an XSLT that pulls attribute data from your personography file and outputs this ODD file with the appropriate valItems.
+  --> 
         <elementSpec ident="person" module="namesdates" mode="change">
           <attList>
             <attDef ident="xml:id">
