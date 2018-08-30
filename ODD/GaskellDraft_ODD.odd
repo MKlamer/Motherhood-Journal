@@ -28,19 +28,21 @@
         <moduleRef key="namesdates"/>
         
   <!-- TEI ODD Guidance and SAMPLE ODD FILES to consult: https://github.com/ebeshero/DHClass-Hub/wiki/TEI-ODD:-Schema-Prep-Resources-for-TEI-in-Projects --> 
-        <elementRef ident="person" module="namesdates" mode="change">
+        <elementSpec ident="person" module="namesdates" mode="change">
           <attList>
-            <valList type="closed">
+            <attDef ident="xml:id">
+              <valList type="closed">
               <valItem ident="idWhatever"/>
               
               
             </valList>
+            </attDef>
             
           </attList>
           
           
           
-        </elementRef>
+        </elementSpec>
         
         
         <elementSpec ident="persName" module="namesdates" mode="change">
