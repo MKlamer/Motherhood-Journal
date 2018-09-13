@@ -54,20 +54,20 @@
             <!-- Is the body element or the paragraph element more appropriate within each entry following the header? -->
             <p>The day after tomorrow <persName ref="#MA_Gaskell_Holland"
                >Marianne</persName><!-- do I need to create a reference point to code a persName? Where to store this data? -->
-               will be <lb/>six months old. I wish I had begun my <lb/>little journal sooner, for
-               (though I should <lb/>have laughed at the idea twelve months <lb/>ago) there have
+               will be<lb/> six months old. I wish I had begun my <lb/>little journal sooner, for
+               (though I should<lb/> have laughed at the idea twelve months <lb/>ago) there have
                beenmany little indica <lb/>=tions of disposition
                &amp;c. already; which I <lb/>can not now remember clearly. I will <lb/>try and
                describe her <hi rend="underline">mentally.</hi> I should <lb/>call her remarkably
-               good tempered; though <lb/>at times she gives way to little bursts <lb/>of passion or
+               good tempered; though<lb/> at times she gives way to little bursts <lb/>of passion or
                perhaps impatience would <lb/>be the right name. She is also very firm <lb/>in her
-               own little way occasionally; what <lb/>I suppose is obstinacy really, only that<lb/>
+               own little way occasionally; what<lb/> I suppose is obstinacy really, only that<lb/>
                is so hard a word to apply to one so<lb/> dear. But in general she is so good<lb/>
                that I feel as if I could hardly be<lb/> sufficienlty thankful, that the
                materials <lb/>put into my hands are so excellent,
                   and <lb/><!-- Determine page numbering system - within entries AND within manuscript itself? Can I code these separately at the "div" level? Also is there a way to code left and right sides of pages - may be no significance to that, but just out of curiosity --><pb
                   n="3"/>beautiful. And yet it seems to increase <lb/>the responsibility. If I
-               should misguide from carele&#383;sness or negligence! <choice>
+               should misguide from carele<choice><sic>&#383;</sic><reg>s</reg></choice>sness or negligence! <choice>
                   <sic>Wilfully</sic>
                   <reg><hi rend="underline">Willfully</hi></reg>
                </choice><lb/> is not in a mother's heart. From ignorance<lb/> and errors in judgment
@@ -145,7 +145,7 @@
                she<lb/> has. I never leave her <sic>till</sic> she is as=<lb/><!--split word-->=leep
                (except in extreme cases) and as<lb/> she is put to bed at a regular time<lb/> (6
                o'clock) she generally gets very sleepy<lb/><pb n="8"/> while being undressed. While
-               the un=<lb/><!--split word-->=dre&#383;sing is going on, I never like her<lb/> to be
+               the un=<lb/><!--split word-->=dre<choice><sic>&#383;</sic><reg>s</reg></choice>sing is going on, I never like her<lb/> to be
                talked to, played with, or excited<lb/> yet sometimes she is so very playful<lb/>
                when she ought to be put down, that<lb/> a turn or two up and down the room<lb/> is
                required to soothe her, still putting<lb/> her down awake. Sometimes she will<lb/>
@@ -208,7 +208,7 @@
                duty to her. Still<lb/> I sometimes fear there is too much pride<lb/> in my ownhear
                in attributing her good-<lb/><!--split word--> =ness to the success of my plans, when
                in<lb/> reality it is owing to her having hitherto had<lb/> such good health, and
-               freedom from pain<lb/> a ble&#383;sing for which I <choice>
+               freedom from pain<lb/> a ble<choice><sic>&#383;</sic><reg>s</reg></choice>sing for which I <choice>
                   <sic>can not</sic>
                   <reg>cannot</reg>
                </choice> be too thank=<lb/><!--split word--> =ful.Still I put down <choice>
@@ -271,7 +271,7 @@
             <pb n="15"/>
             <p><gap unit="lines" quantity="6"
                   ><!--quantity unknown here, back of gap margin is not visible--></gap>afraid of
-               pleasure being a&#383;sociated with<lb/> the faces of pain they pull. Perhaps
+               pleasure being a<choice><sic>&#383;</sic><reg>s</reg></choice>sociated with<lb/> the faces of pain they pull. Perhaps
                this<lb/> is foolish but I will put every thing down<lb/> relating to her.<lb/></p>
             <p>She has been to <placeName>Knutsford</placeName> and
                   <placeName>Warring<lb/>ton</placeName> since I last wrote in this journal.<lb/>
@@ -285,25 +285,25 @@
                   <l>Once gladsome with her mirth</l>
                </lg></p>
             <pb n="16"/>
-            <p>I am sometimes afraid of using expre&#383;sions<lb/> of gratitude to
+            <p>I am sometimes afraid of using expre<choice><sic>&#383;</sic><reg>s</reg></choice>sions<lb/> of gratitude to
                   <persName>God</persName>, for fear I should get<lb/> into the habit of using them
                without<lb/> sufficiently feling them, but I think there<lb/> is no danger when I say
-               that <!--prayer here-->I ble&#383;s &amp; thank<lb/> my <persName>Father</persName>,
-               &amp; hers, for not taking away the<lb/> ble&#383;sing he gave; and oh! may I not
+               that <!--prayer here-->I ble<choice><sic>&#383;</sic><reg>s</reg></choice>s &amp; thank<lb/> my <persName>Father</persName>,
+               &amp; hers, for not taking away the<lb/> ble<choice><sic>&#383;</sic><reg>s</reg></choice>sing he gave; and oh! may I not
                make<lb/>her into an idol, but strive to prepare both<lb/> her &amp; myself for the
                change that may<lb/> come any day.<lb/></p>
-            <p>After her illne&#383;s her temper had suffered<lb/> from the indulgence that was
-               nece&#383;sary<lb/> during her illne&#383;s; but as she grew strong<lb/> it wore
+            <p>After her illne<choice><sic>&#383;</sic><reg>s</reg></choice>s her temper had suffered<lb/> from the indulgence that was
+               nece<choice><sic>&#383;</sic><reg>s</reg></choice>sary<lb/> during her illne<choice><sic>&#383;</sic><reg>s</reg></choice>s; but as she grew strong<lb/> it wore
                away, and I think she is now<lb/>as sweet-tempered as ever in general; though<lb/>at
-               times her little pa&#383;sions are terrible<lb/>and give me quite a heavy heart.</p>
+               times her little pa<choice><sic>&#383;</sic><reg>s</reg></choice>sions are terrible<lb/>and give me quite a heavy heart.</p>
             <p>I should say impatience will be one<lb/> of her greatest faults; and I scarecely<lb/>
                <choice>
                   <sic>knows</sic>
                   <reg>know</reg>
                </choice> the best way of managing it.<lb/> I certainly think being calm oneself
                &amp;<lb/> showing that her impatience makes<lb/><pb n="17"/> no difference in the
-               quickne&#383;s or slowne&#383;s<lb/> of her actions, and never disappointing<lb/> her
-               when <hi rend="underline">unnece&#383;sary</hi> are good rules; but then in eery
+               quickne<choice><sic>&#383;</sic><reg>s</reg></choice>s or slowne<choice><sic>&#383;</sic><reg>s</reg></choice>s<lb/> of her actions, and never disappointing<lb/> her
+               when <hi rend="underline">unnece<choice><sic>&#383;</sic><reg>s</reg></choice>sary</hi> are good rules; but then in eery
                little ase it is so diffi<lb/> =cult for an undecided person like me to<lb/>
                determine at once, and yet <hi rend="underline">every</hi>
                <hi rend="underline">body</hi><lb/> &amp; every book says that decision is of<lb/>
@@ -335,21 +335,21 @@
             <p>I see it is exactly two months since I<lb/> last wrote in this book, and I hope<lb/>
                my little girl is improved both in<lb/> "body &amp; mind" since then. She
                suffers<lb/> a good deal from the changes of wea=<lb/><!--split word-->=ther we have
-               had, and I have found<lb/> it nece&#383;sary to leave off milk as an<lb/> article of
+               had, and I have found<lb/> it nece<choice><sic>&#383;</sic><reg>s</reg></choice>sary to leave off milk as an<lb/> article of
                diet at present. She lives on<lb/> broth thickened with arrowroot, &amp;<lb/> I think
                this food strengthens her, but<lb/> she is still a delicate child, and
                back<lb/><!--split word-->ward in walking. I hope she will<lb/> not be hurried by any
                one in her<lb/> attempts at trotting about, for the more<lb/> I see and hear of
                children the more<lb/> I am convinced that when they<lb/> feel their limbs strong
                enough to<lb/> begin to walk they will constantly be trying their powers, &amp; that
-                  till<lb/><pb n="20"/> nature prompts this, it is worse than<lb/> usele&#383;s to
+                  till<lb/><pb n="20"/> nature prompts this, it is worse than<lb/> usele<choice><sic>&#383;</sic><reg>s</reg></choice>s to
                force them to their feet.<lb/></p>
             <p>She is I believe a small child of her<lb/> age, though tall, and she has looked<lb/>
-               (&amp; been too, alas!) very delicate since<lb/> that sad, sad illne&#383;s in the
+               (&amp; been too, alas!) very delicate since<lb/> that sad, sad illne<choice><sic>&#383;</sic><reg>s</reg></choice>s in the
                summer.<lb/> I am going to clothe her in flannel<lb/> waistcoats, and long sleeves to
                her frocks<lb/> this winter, and to keep her in <hi rend="underline"
                   >well-<!--word across line--><lb/> -aired</hi> rooms in preference to going<lb/>
-               much out of doors unle&#383;s the weather<lb/> is very tempting. She has now had<lb/>
+               much out of doors unle<choice><sic>&#383;</sic><reg>s</reg></choice>s the weather<lb/> is very tempting. She has now had<lb/>
                eight teeth for some time, and is<lb/> about some more I fancy; perhaps<lb/> when her
                teeth are all through her<lb/> health may be stronger. Oh may I<lb/> try not to
                fasten &amp; <choice>
@@ -361,7 +361,7 @@
             <pb n="21"/>
             <p>I think her disposition has im<lb/><!--word breaks over lines-->proved since I wrote
                last; she is<lb/> not so impatient (perhaps it was<lb/> the remains of her former
-               illne&#383;s.)<lb/> she does not throw herself back in<lb/> the pa&#383;sionate way
+               illne<choice><sic>&#383;</sic><reg>s</reg></choice>s.)<lb/> she does not throw herself back in<lb/> the pa<choice><sic>&#383;</sic><reg>s</reg></choice>sionate way
                way she used to do<lb/> seven or eight weeks ago, and she<lb/> bears her little
                disappointments better.<lb/> The fewer she can have of these, &amp; the better<lb/> I
                think, and I try to avoid exci<!--word breaks across line--><lb/>ting her
@@ -374,12 +374,12 @@
                to bearng<lb/> them, and they will encrease with<lb/> years and with the power of
                enduring,<lb/> &amp; what I mean to say is that all that<lb/><pb n="22"/> can be
                averted by a little fore-thought<lb/> on the part of the parent or nurse,
-               with<!--word breaks across the line--><lb/>out interfering with the nece&#383;sary
+               with<!--word breaks across the line--><lb/>out interfering with the nece<choice><sic>&#383;</sic><reg>s</reg></choice>sary
                degree<lb/> of quiet but resolute discipline, should<lb/> be attended to and removed.
                I do not<lb/> like the plan in fashion formerly, of <hi rend="underline"
                   >ma<lb/>king</hi> trials for young children;
                there will<lb/> naturally be some which the child must<lb/> bear, and the parent
-               calmly witne&#383;s, but<lb/> creating disappointments on purpose to<lb/> enure the
+               calmly witne<choice><sic>&#383;</sic><reg>s</reg></choice>s, but<lb/> creating disappointments on purpose to<lb/> enure the
                poor little things to them in<lb/> after life seems like giving them rich<lb/>
                unsuitable food, which grown up people<lb/> may &amp; do eat, but which their
                delicate<lb/> stomachs cannot yet digest. When<lb/> young their feelings, especially
@@ -414,26 +414,26 @@
                serious, or is not aware of the joke; she<lb/> bursts into tears; I fancy it must a
                want<lb/> of sympathy with her (at the time) serious<lb/> &amp; thoughtful feelings
                which makes her cry,<lb/> but it must be a morbid feeling I should<lb/> think, &amp;
-               one that for her happine&#383;s had<lb/> better be checked, <hi rend="underline">if I
+               one that for her happine<choice><sic>&#383;</sic><reg>s</reg></choice>s had<lb/> better be checked, <hi rend="underline">if I
                   but knew how</hi>.<lb/> Then unexpected pleasure has occasionally<lb/> made her
                cry; seeing her <persName xml:id="Wm_Gaskell">Papa</persName> after an<lb/> absence
                of a few days; and I thought tears<lb/> were not a common manifestation of joy<lb/>
                in children (so young, not 13 months old yet.<lb/> I feel very ignorant of the best
                way of ma<!--word breaks across the line--><lb/>naging their sensibilities, so
-               beautiful when<lb/> healthy, &amp; so distre&#383;sing when morbid.<lb/><pb n="25"/>
+               beautiful when<lb/> healthy, &amp; so distre<choice><sic>&#383;</sic><reg>s</reg></choice>sing when morbid.<lb/><pb n="25"/>
                Perhaps as her body becomes stronger, her mind<lb/> will too. There is a laugh of
                hers which is al<!--word breaks across the line--><lb/>most sure to end in a cry. She
                is in general<lb/> very gentle, rather grave especially with
                stran<!--word breaks across line--><lb/>gers, and remarkably observing, watching<lb/>
                actions, things &amp;c. with such continued attention.<lb/> She is very <hi
-                  rend="underline">feminine</hi> I think in her quietne&#383;s<lb/> which is as far
+                  rend="underline">feminine</hi> I think in her quietne<choice><sic>&#383;</sic><reg>s</reg></choice>s<lb/> which is as far
                removed from inactivity of<lb/> mind as possible. She sits on the ground<lb/> much
                more than she did, amusing herself<lb/> pretty well(this amusing <hi rend="underline"
                   >herself</hi>, has been<lb/> I fear more my theory than my practice,<lb/>
                otherwise she would try longer to reach<lb/> her play things herself &amp;c., but
                this <hi rend="underline">may be</hi><lb/> bodily inability.<lb/></p>
             <p>Her accomplishments are numerous<lb/> and varied;- barking like a dog, meowing,<lb/>
-               <hi rend="underline">in a way</hi>, hi&#383;sing, pointing to various<lb/> articles
+               <hi rend="underline">in a way</hi>, hi<choice><sic>&#383;</sic><reg>s</reg></choice>sing, pointing to various<lb/> articles
                when named &amp;c &amp;c &amp;c.</p>
             <p><persName ref="#Wm_Gaskell">William</persName> told me the other day I was not<lb/>
                of a jealous disposition; I do not think<lb/><pb n="26"/> he knows me; in general
@@ -442,7 +442,7 @@
                   ref="#Betsy_household">Betsy</persName>,<lb/> who has always been as far as I can
                judge<lb/> a kind, judicious, and tender nurse.
                To<!--word breaks across the line--><lb/>night <persName ref="#MA_Gaskell_Holland"
-                  >Marianne</persName> was sadly tired, and I<lb/> would fain have care&#383;sed
+                  >Marianne</persName> was sadly tired, and I<lb/> would fain have care<choice><sic>&#383;</sic><reg>s</reg></choice>sed
                &amp; soothed her while<lb/>
                <persName ref="#Betsy_household">Betsy</persName> was performing various little offices
                for<lb/> her on her knee, and <persName ref="#MA_Gaskell_Holland">M.A.</persName>
@@ -472,8 +472,8 @@
                knowest how truly I wish to<lb/> do any duty to her; Help my ignorance. O Lord<lb/>
                strengthen my good purposes, &amp; preserve<lb/><pb n="28"/> a due sense of my holy
                trust, which I now<lb/> acknowledge with fear &amp; trembling; And yet<lb/> if I do
-               right in endeavouring, thou Lord<lb/> will ble&#383;s me and her, and lead her
-               right<lb/> at last, and forgive her mother's errors. I pray<lb/> thee to ble&#383;s
+               right in endeavouring, thou Lord<lb/> will ble<choice><sic>&#383;</sic><reg>s</reg></choice>s me and her, and lead her
+               right<lb/> at last, and forgive her mother's errors. I pray<lb/> thee to ble<choice><sic>&#383;</sic><reg>s</reg></choice>s
                her through our Lord Jesus Christ.<lb/></p>
             <!-- Ended here, 4-4-18 -->
          </div>
@@ -487,7 +487,7 @@
                concerning you.</p>
             <p><lb/> <persName ref="#MA_Gaskell_Holland">Marianne</persName> is much stronger I trust <lb/>than when I wrote last, but she has
                re=<!--word breaks across the line --><lb/>=quired a great deal of care, &amp; very
-               <lb/>nourishing food; isingla&#383;s di&#383;solved in <lb/>broth &amp;c.
+               <lb/>nourishing food; isingla<choice><sic>&#383;</sic><reg>s</reg></choice>s di<choice><sic>&#383;</sic><reg>s</reg></choice>solved in <lb/>broth &amp;c.
                <!-- unclear - ampersand before this word? seems to blend into the following.-->With
                her strength has her <lb/>good temper returned, which is in ac=<lb/>=cordance with my
                theory that when <lb/>children at any rate, are irritable some=<lb/>thing is
@@ -497,15 +497,15 @@
                grave, <hi rend="underline">not</hi>
                <hi rend="underline">angry</hi>, &amp; <lb/>sometimes put our<unclear
                   reason="illegible" unit="chars" quantity="1"/> hands before our <lb/> faces, which
-               always attracts her attention, <lb/>&amp; by so doing stops her little pa&#383;sion.
+               always attracts her attention, <lb/>&amp; by so doing stops her little pa<choice><sic>&#383;</sic><reg>s</reg></choice>sion.
                <lb/>She tries to <!--check this word-->pull in down, &amp; I generally <lb/> ask her
                "is Baby sorry for having been <lb/> impatient &amp;c.;" which she quite
-               under=<lb/>=stands, and in general makes her little <lb/> a&#383;senting noise, &amp;
-               ki&#383;ses me. She quite <lb/>understands me when I gently tell <lb/>her to be
+               under=<lb/>=stands, and in general makes her little <lb/> a<choice><sic>&#383;</sic><reg>s</reg></choice>senting noise, &amp;
+               ki<choice><sic>&#383;</sic><reg>s</reg></choice>ses me. She quite <lb/>understands me when I gently tell <lb/>her to be
                patient about anything <!--punctuation mark here?--> "Wait <lb/>a little bit dear
                little Baby; <persName ref="#Betsy_household">Betsy</persName> will <lb/>come down," always makes her still; <lb/>because for one
                thing, I have never <lb/>allowed her to be told any one was <lb/>going to do anything
-               for her, unle&#383;s <pb n="30"/>
+               for her, unle<choice><sic>&#383;</sic><reg>s</reg></choice>s <pb n="30"/>
                <lb/>they <hi rend="underline">really</hi> were, and have tried to <lb/>speak as <hi
                   rend="underline">truly</hi> to her as ever I could - <lb/>If before <persName ref="#Betsy_household">Betsy</persName> comes
                with her dinner- <lb/>or whatever she wants, she again becomes <lb/>fidgety I again
@@ -517,16 +517,16 @@
                naturally <lb/>when she sees that we are scrupulous <lb/>in respecting her little
                rights.</p>
             <pb n="31"/>
-            <p>A few weeks ago her <persName ref="#Grandma_Gaskell"></persName>grandmama sent <lb/>her some sweet biscuits, and at first <lb/>I
+            <p>A few weeks ago her <persName ref="#Grandma_Gaskell">grandmama</persName> sent <lb/>her some sweet biscuits, and at first <lb/>I
                feared she was inclined to be selfish <lb/>with these luxuries, for she had never
                tasted <lb/>anything sweet before. She refused occasion=<lb/>=ally when we asked for
                a bit, instead of <lb/>offering with her own accord, but it wore off <lb/>and now she
                gives as freely as ever.</p>
             <p><lb/>She is remarkably good in being content <lb/>with a refusal, if we do not think
-               any <lb/>Eatable proper for her. She ki&#383;ses, &amp; points &amp; <lb/>tries to
+               any <lb/>Eatable proper for her. She ki<choice><sic>&#383;</sic><reg>s</reg></choice>ses, &amp; points &amp; <lb/>tries to
                speak, but does not cry when we <lb/>say no. I speak in general for of course there
-               are times when she is not so good. <lb/>Her greatest naughtine&#383;s is in being
-               washed <lb/>&amp; dre&#383;sed. She cries sadly over the washing <lb/>which I think
+               are times when she is not so good. <lb/>Her greatest naughtine<choice><sic>&#383;</sic><reg>s</reg></choice>s is in being
+               washed <lb/>&amp; dre<choice><sic>&#383;</sic><reg>s</reg></choice>sed. She cries sadly over the washing <lb/>which I think
                must be owing to her <lb/>having been put in <add place="above">it<metamark
                      place="below" function="insertion" rend="caret"/></add> too cold sometimes.
                <lb/>She dislikes <hi rend="underline">finishing</hi> her food, and by <lb/><unclear
@@ -562,7 +562,7 @@
             <p><lb/>She is I think a small child, &amp; I fear <lb/>not a very strong one. We hope
                to <lb/>take <sic>to</sic> her to the sea-side this spring.</p>
             <p><lb/><!--insert prayer element here-->Oh may I constantly bear in mind the words "The
-               Lord hath given, &amp; the <lb/>Lord hath taken away. Ble&#383;sed be the <lb/>name
+               Lord hath given, &amp; the <lb/>Lord hath taken away. Ble<choice><sic>&#383;</sic><reg>s</reg></choice>sed be the <lb/>name
                of the Lord." I feel weak &amp; <pb n="34"/><lb/>exhausted with writing, or I had
                <lb/>meant to write more. God help my <lb/>dearest child, and help her mother in
                <lb/>her earnest endeavours.</p>
@@ -578,13 +578,13 @@
                think I may <lb/>find this little
                <!--insert reference to journal itself, some sort of listbibl?-->journal a great help
                in <lb/>recalling the memory o f my darling child, <lb/>if we should lose her.</p>
-            <p><lb/>We have had much cause for thankfulne&#383;s <lb/>since I wrote last; she has
+            <p><lb/>We have had much cause for thankfulne<choice><sic>&#383;</sic><reg>s</reg></choice>s <lb/>since I wrote last; she has
                daily improved <lb/>in health, and I think her character has <lb/>developed itself a
                good deal latterly, and <lb/>promises to be amiable &amp; affectionate.</p>
             <p><lb/>I see I have generally begun my journal <lb/>with describing the bodily progress
                she <lb/>has made, and I will keep to the <lb/>proper order of things.</p>
             <pb n="35"/>
-            <p><lb/>She can manage to walk by herself <lb/>with the a&#383;sistance of chairs, the
+            <p><lb/>She can manage to walk by herself <lb/>with the a<choice><sic>&#383;</sic><reg>s</reg></choice>sistance of chairs, the
                sofa &amp;c <lb/>and the natural consequence of this <unclear><gap unit="word"
                      quantity="1"/></unclear>
                <lb/>exercise of the muscles of her legs, is that <lb/>they have become more
@@ -592,19 +592,19 @@
                a more healthy child. There <lb/>is that mottled look on the flesh, which <lb/>gives
                such joy to a <!--flag this-->Mother's eye. She has <lb/>eight single, and four
                double teeth, and <lb/>suffers <hi rend="underline">comparatively</hi> little when
-               she cuts <lb/>them. There is lo&#383;s of spirits &amp; appetite, <lb/>but no fits,
+               she cuts <lb/>them. There is lo<choice><sic>&#383;</sic><reg>s</reg></choice>s of spirits &amp; appetite, <lb/>but no fits,
                or even fever, and spirits &amp; <lb/>appetite come back, &amp; bring their
                atten=<lb/>=dant good-humour when the cause <lb/>is removed. She has a colour like a
                <lb/>cherry, instead of the shlushed wavering <lb/>red it used to be; and certainly
-               with <lb/>health, beauty has come; and I confe&#383;s <lb/>I think beauty a desirable
+               with <lb/>health, beauty has come; and I confe<choice><sic>&#383;</sic><reg>s</reg></choice>s <lb/>I think beauty a desirable
                thing. True <pb n="36"/><lb/>like most other gifts, it has its tempta=<lb/>=tions,
                but still it is a high gift in the <lb/>influence it irresistably gives its
-               po&#383;se&#383;sor <lb/>over others- an influence which may be <lb/>used for such
+               po<choice><sic>&#383;</sic><reg>s</reg></choice>se<choice><sic>&#383;</sic><reg>s</reg></choice>sor <lb/>over others- an influence which may be <lb/>used for such
                noble purposes.</p>
             <p><lb/>In general she is very sweet-tempered; <lb/>true there are little bursts of
-               pa&#383;sion <lb/>which will require watchfulne&#383;s &amp; care, <lb/>but she soon
+               pa<choice><sic>&#383;</sic><reg>s</reg></choice>sion <lb/>which will require watchfulne<choice><sic>&#383;</sic><reg>s</reg></choice>s &amp; care, <lb/>but she soon
                   <gap unit="character" quantity="1" reason="squiggles"/> puts up her finger, and
-               <lb/>says "hush" &amp; offers to ki&#383;s the person she <lb/>has offended against.
+               <lb/>says "hush" &amp; offers to ki<choice><sic>&#383;</sic><reg>s</reg></choice>s the person she <lb/>has offended against.
                Another more <lb/>difficult <hi rend="underline">fault</hi>? is her disobedience-
                <lb/> She does not seem at present to have <lb/>an idea of obedience; she is very
                obliging <lb/>and will often do the thing we desire <lb/>her to do, but sometimes she
@@ -633,7 +633,7 @@
             <p><lb/>She is remar=<lb/>=kably fond of children, and I am glad <lb/>to give her an <choice>
                   <reg>oppy</reg>
                   <supplied>opportunity</supplied>
-               </choice> of gratifying this <lb/>fondne&#383;s by taking her this week to stay
+               </choice> of gratifying this <lb/>fondne<choice><sic>&#383;</sic><reg>s</reg></choice>s by taking her this week to stay
                <lb/>a day or two at <persName ref="#Mrs_Collins">Mrs. Collins</persName>, who has a
                <lb/>little girl five or six months younger <lb/>than <persName
                   ref="#MA_Gaskell_Holland">Marianne</persName>. She seems to have <lb/>a good
@@ -642,12 +642,12 @@
             <p><lb/>Lord thou knowest that the "sin that doth <lb/>so easily beset me" hath
                overtaken me <lb/>once or twice even with this dear child- <lb/>but thou knowest too
                how bitterly I have <lb/>repented, and how earnestly I mean to <lb/>try for the
-               future. Help thou my weak=<lb/>=ne&#383;s, oh Lord, and ble&#383;s my endeavours to
+               future. Help thou my weak=<lb/>=ne<choice><sic>&#383;</sic><reg>s</reg></choice>s, oh Lord, and ble<choice><sic>&#383;</sic><reg>s</reg></choice>s my endeavours to
                <lb/>conquer myself, and oh above all things <lb/>may her presence be as holy to me,
                <lb/>checking each angry word that might <pb n="39"/><lb/> injure the precious soul
-               which thou hast <lb/>given to this little child. Ble&#383;s her, and ble&#383;s
-               <lb/>her mother, who in sorrow confe&#383;ses her fault <lb/>and prays for thy
-               guidance in her future <lb/>conduct. Oh Lord God Almighty ble&#383;s my <lb/>child,
+               which thou hast <lb/>given to this little child. Ble<choice><sic>&#383;</sic><reg>s</reg></choice>s her, and ble<choice><sic>&#383;</sic><reg>s</reg></choice>s
+               <lb/>her mother, who in sorrow confe<choice><sic>&#383;</sic><reg>s</reg></choice>ses her fault <lb/>and prays for thy
+               guidance in her future <lb/>conduct. Oh Lord God Almighty ble<choice><sic>&#383;</sic><reg>s</reg></choice>s my <lb/>child,
                as thou seest fit &amp; best for her, <lb/>but may she hear the glad words when
                <lb/>her mortal life is done, "Well come good <lb/>&amp; faithful servant, enter thou
                into the joy of thy Lord." </p>
@@ -657,14 +657,14 @@
                <date when="1836-11-05">Nov<hi rend="superscript">r</hi>. 5<hi rend="superscript"
                      >th</hi>. 1836.</date>
             </head>
-            <p><lb/>The greater part of this summer has been <lb/>pa&#383;sed in rather an unsettled
+            <p><lb/>The greater part of this summer has been <lb/>pa<choice><sic>&#383;</sic><reg>s</reg></choice>sed in rather an unsettled
                way, what <lb/>with the visit to <placeName ref="#Knutsford">Knutsford</placeName>,
                   <placeName ref="#Warrington">Warrington</placeName>, and to <lb/>the sea-side, and
                I fear this is the only ex=<lb/>=cuse I have for so long neglecting to enter
-               <lb/>any-thing in my journal. A great progre&#383;s <lb/>has naturally been made by
+               <lb/>any-thing in my journal. A great progre<choice><sic>&#383;</sic><reg>s</reg></choice>s <lb/>has naturally been made by
                the dear little <lb/>subject since writing last. I do not think <pb n="40"/><lb/>her
                health has had any material draw-back. <lb/>though for some time her languor in
-               attempt=<lb/>=ing to walk caused me some uneasine&#383;s. <lb/>When we were at
+               attempt=<lb/>=ing to walk caused me some uneasine<choice><sic>&#383;</sic><reg>s</reg></choice>s. <lb/>When we were at
                   <placeName ref="#Knutsford">Knutsford</placeName> (in <date>May</date>) <persName ref="#Wm_Deane"
                      >W<hi rend="superscript">m</hi>. <lb/>Deane</persName> quite forbid her being
                put upon her <lb/>feet and the consequence of course was that <lb/>she lost the
@@ -690,7 +690,7 @@
                as these give compa=<lb/>ratively little pain I do not feel anxious <lb/>about them.
                I have often intended to mea=<lb/>=sure her height, but somehow or other it has <pb
                   n="42"/><lb/>hitherto slipped through; but from her frocks &amp;
-               <lb/><!-- check this word-->que&#383;s she has grown a good deal these last
+               <lb/><!-- check this word-->que<choice><sic>&#383;</sic><reg>s</reg></choice>s she has grown a good deal these last
                <lb/>eight weeks, and good need she had of it, for <lb/>she was a little rolly-polly
                before.</p>
             <p>She is a famous chatter-box seldom letting <lb/>her little tongue rest either with
@@ -704,17 +704,17 @@
                that till <lb/>the age of three years or there abouts, the brain <lb/>of an infant
                appeared constantly to be verging <lb/>on inflammation, which any <metamark
                   rend="carat"/><add place="above"><hi rend="underline">little</hi></add>
-               exce&#383;s of excite=<lb/>=ment might produce. If we give her habits <lb/>of
+               exce<choice><sic>&#383;</sic><reg>s</reg></choice>s of excite=<lb/>=ment might produce. If we give her habits <lb/>of
                observation, attention &amp; perseverance, in <pb n="43"/><lb/>whatever objects her
                little mind may be occu=<lb/>=pied with, I shall think we are laying a <lb/>good
                foundation, and four years old will be <lb/>time enough to begin with <hi
-                  rend="underline">le&#383;sons</hi> &amp;c, &amp; even <lb/>then it shall be in
+                  rend="underline">le<choice><sic>&#383;</sic><reg>s</reg></choice>sons</hi> &amp;c, &amp; even <lb/>then it shall be in
                compliance with her new <lb/>wish to learn, which wish I must try to excite. <lb/>So
                much for <hi rend="underline">intellect</hi>. Now for morals.</p>
             <p><lb/>There have been times when I have felt, oh! <lb/>so cast down by her
-               wrong-doing, and as I <lb/>think I am very easily impre&#383;sible, I have<lb/>
+               wrong-doing, and as I <lb/>think I am very easily impre<choice><sic>&#383;</sic><reg>s</reg></choice>sible, I have<lb/>
                fancied there must have been some great mismanagement to produce such little
-               obsti=<lb/>nate fits, and whole hours of wilfulne&#383;s. </p>
+               obsti=<lb/>nate fits, and whole hours of wilfulne<choice><sic>&#383;</sic><reg>s</reg></choice>s. </p>
             <p><lb/>I do not however think that this has been <lb/>often the case, and when it has,
                my cooler <lb/>judgement has been aware of some little <lb/>circumstance connected
                with her physical <lb/>state that has in some measure accounted <lb/>for it. For
@@ -724,7 +724,7 @@
                six at the earliest. <lb/>Then she requires from two to three hours sleep <lb/>in the
                middle of the day, and if by any chance <lb/>her time for sleep goes by she is weary,
                fretful <lb/>and as unlike the merry happy little creature <lb/>she is in general as
-               po&#383;sible.<!--unsure if this is true paragraph break; long gap mid line--></p>
+               po<choice><sic>&#383;</sic><reg>s</reg></choice>sible.<!--unsure if this is true paragraph break; long gap mid line--></p>
             <p> We have <lb/>been puzzled for a punishment. The usual <lb/>one, putting the little
                offender into a corner <lb/>had no effect with her, as she made it into <lb/>a game
                to "<hi rend="underline">d</hi><add place="above">g</add>o into a corner and be
@@ -745,17 +745,17 @@
                <lb/>presence, without considering how holy that <lb/>little creature made the place.
                She took no <lb/>notice, at the time but the next morning <lb/>told me of it, adding
                "that <hi rend="underline">was</hi> naughty." Though <lb/>much interested in
-               preserving her love and re&#383;pect for the person to whom I allude, I <lb/>knew it
+               preserving her love and re<choice><sic>&#383;</sic><reg>s</reg></choice>pect for the person to whom I allude, I <lb/>knew it
                was my duty not to weaken her <lb/>power of discriminating, &amp; said 'it was very
                <lb/>naughty, but she was very sorry now &amp;c." <lb/>A few weeks ago she got a
                habit of refusing <lb/>her food, saying "bye-bye" &amp;c when a spoon=<lb/>=ful was
                offered to her which she did not <lb/>quite approve. I found the best plan was
                <lb/>to take her at her word, and quietly sent <lb/>the plate away, which at first
                produed <pb n="46"/><lb/>sad fits of crying, and throwing herself back, but
-               <lb/>after once or twice she became le&#383;s saucy, and <lb/>takes her food very
+               <lb/>after once or twice she became le<choice><sic>&#383;</sic><reg>s</reg></choice>s saucy, and <lb/>takes her food very
                pleasantly now. I think <lb/>she is not a greedy child, whatever her other
                <lb/>faults may be. She knows when she has had <lb/>enough. She gave me a very pretty
-               little instance<lb/> of unselfishne&#383;s when we were last at
+               little instance<lb/> of unselfishne<choice><sic>&#383;</sic><reg>s</reg></choice>s when we were last at
                   <placeName ref="#Knutsford">Knutsford</placeName>
                <lb/>which pleased me very much. We were calling <lb/>at <persName ref="#Mrs_Deane"
                      >Mr<hi rend="superscript">s</hi>. Deane</persName>s who has two children, one
@@ -770,14 +770,14 @@
                <lb/>strictly fulfilled. And the consequence is <pb n="47"/><lb/>she has a firm
                reliance on our word, and a <lb/>pretty good idea of giving up a present
                <lb/>pleasure to secure a future one, feeling <lb/>sure that the promise will be
-               performed. <lb/>While at <placeName ref="#Grange">Grange</placeName> it was nece&#383;sary for her
+               performed. <lb/>While at <placeName ref="#Grange">Grange</placeName> it was nece<choice><sic>&#383;</sic><reg>s</reg></choice>sary for her
                to <lb/>bathe, and I dreaded it for her. Luckily <lb/> her <persName ref="#Ann_Gaskell">Aunt
                   Ann</persName>, a capital bather was with <lb/>us, and undertook the charge of
                her, which <lb/>was so much better than being frightened <lb/>by being given over to
-               a strange woman in <lb/>an uncouth dre&#383;s. We made the period of <lb/>suspense as
-               short as po&#383;sible, undre&#383;sing her <lb/>directly, and giving her her plunges
+               a strange woman in <lb/>an uncouth dre<choice><sic>&#383;</sic><reg>s</reg></choice>s. We made the period of <lb/>suspense as
+               short as po<choice><sic>&#383;</sic><reg>s</reg></choice>sible, undre<choice><sic>&#383;</sic><reg>s</reg></choice>sing her <lb/>directly, and giving her her plunges
                imme=<lb/>=diately. I stood on the rocks with a shawl <lb/>ready to receive her &amp;
-               give her a biscuit, &amp; <lb/>though she often said while being undre&#383;sed
+               give her a biscuit, &amp; <lb/>though she often said while being undre<choice><sic>&#383;</sic><reg>s</reg></choice>sed
                <lb/>"Baby not bathe Mama," we never had any <lb/>crying or screaming.
                <!--long break within line again here.--> She has lately <lb/>had occasion to take
                one or two doses<!--smudge in this word, look more closely-->of Epsom <pb n="48"
@@ -788,15 +788,15 @@
                this. <!--long gap-->Sometimes as a <lb/>proof of our pleasure we have given her
                <lb/>a spunge biscuit, 1/2 a doz comfits, or a bit of <lb/>pomfret cake, but we try
                not to make her ex=<lb/>-pect these things, which are only occasional <lb/>but to
-               depend for her reward on our pleased <lb/>countenances and expre&#383;sions, and our
-               <lb/>willingne&#383;s to play and romp with her. <lb/>This love of an earthly
+               depend for her reward on our pleased <lb/>countenances and expre<choice><sic>&#383;</sic><reg>s</reg></choice>sions, and our
+               <lb/>willingne<choice><sic>&#383;</sic><reg>s</reg></choice>s to play and romp with her. <lb/>This love of an earthly
                parent's approbation <lb/>we hope in time to lead into a higher feeling.</p>
             <p><lb/>A few weeks since she saw the <lb/>funeral of a young girl in her walk with
                   <lb/><persName ref="#Betsy_household">Betsy</persName>, and showing in her way some
                <lb/>curiosity on the subject, <persName ref="#Betsy_household">Betsy</persName>
                injudiciously <lb/>but very naturally told her it was a poor <lb/>girl that they were
                going to put into a hole <pb n="48"/><lb/>and cover her up with earth. This made a
-               <lb/>great impre&#383;sion on her. Once or twice when <lb/>she has been awakened in
+               <lb/>great impre<choice><sic>&#383;</sic><reg>s</reg></choice>sion on her. Once or twice when <lb/>she has been awakened in
                the night, she <lb/>has so directly referred <!--word unclear!-->to it with signs of
                <lb/>affright, that we have concluded she has <lb/>been dreaming of it, and we have
                done our <lb/>best to counteract the feelings excited by <lb/>telling her the girl
@@ -804,25 +804,25 @@
                   rend="underline">bo</hi> &amp;c.</p>
             <p><lb/>She is very touching in her sweet little marks of affection. Once or twice when
                I <lb/>have seemed unhappy about little things <lb/> she has come and held up her
-               sweet mouth <lb/>to be ki&#383;sed. Last night I was in pain, &amp; <lb/>made a sort
+               sweet mouth <lb/>to be ki<choice><sic>&#383;</sic><reg>s</reg></choice>sed. Last night I was in pain, &amp; <lb/>made a sort
                of moan. She was lying by <lb/>me apparently asleep, but as if her gentle
                <lb/>instinct of love prompted her even then, <lb/>she peeped to me, saying
-               "Ki&#383;s, Mama." <lb/>These are trifles but how very precious <lb/>may the
+               "Ki<choice><sic>&#383;</sic><reg>s</reg></choice>s, Mama." <lb/>These are trifles but how very precious <lb/>may the
                remembrance of them become.</p>
             <pb n="49"/>
             <p><lb/>We yesterday heard of a connection of <lb/><persName ref="#Wm_Gaskell"
                   >William</persName>'s who had just lost his only child <lb/>a fine lad of nine or
                ten, by a sudden at=<lb/>=tack of croup. His father and mother were <lb/>wrapped in
                the boy, who had every promise of <lb/>excellence. Oh! how I trembled when I heard of
-               <lb/>it, and felt how insecure these "treasures in <lb/>earthen ve&#383;sels"
+               <lb/>it, and felt how insecure these "treasures in <lb/>earthen ve<choice><sic>&#383;</sic><reg>s</reg></choice>sels"
                are.</p>
             <p>
                <lb/>Oh God! give me that spirit which can feel <lb/>and say not my will but thine be
-               done. <lb/>Teach me to love this darling chlld with perfect <lb/>submi&#383;sion to
+               done. <lb/>Teach me to love this darling chlld with perfect <lb/>submi<choice><sic>&#383;</sic><reg>s</reg></choice>sion to
                thy decrees. I dare hardly think <lb/>of the uncertain future, but thou wilt uphold
                <lb/>me in time of trial, and into thy hands <lb/>I commit my treasure. So with her
                Oh Lord <lb/>as seemeth best unto thee, for thou art a God <lb/>of Love &amp; will
-               not causele&#383;sly afflict. Ble&#383;s her <lb/>in every way I earnestly beseech
+               not causele<choice><sic>&#383;</sic><reg>s</reg></choice>sly afflict. Ble<choice><sic>&#383;</sic><reg>s</reg></choice>s her <lb/>in every way I earnestly beseech
                thee, through <lb/>Jesus Christ our Lord.</p>
          </div>
          <div type="entry" n="7">
@@ -830,7 +830,7 @@
                <date when="1837-12-09">Dec<hi rend="superscript">r</hi>. 9<hi rend="superscript"
                      >th</hi>. 18<hi rend="underline">37</hi></date>
             </head>
-            <p><lb/>I feel quite ashamed that more than <lb/>a year has pa&#383;sed since I last
+            <p><lb/>I feel quite ashamed that more than <lb/>a year has pa<choice><sic>&#383;</sic><reg>s</reg></choice>sed since I last
                wrote. There have <lb/>been some sad excuses to be sure. I had very <lb/>bad health
                till my dear little <persName ref="#Meta_Gaskell">Meta</persName> was born,
                   <lb/><date when="1837-02-05">Fegruary 5<hi rend="superscript">th</hi>.
@@ -843,11 +843,11 @@
                lodgings at <placeName ref="#Knutsford">Knutsford</placeName>, with my two <lb/>little
                girls, and our dear servant <persName ref="#Betsy_household">Betsy</persName>, and on
                   <lb/><date when="1837-05-01">May 1<hi rend="superscript">st</hi>.</date> I lost my
-               best friend. May God reward <lb/>her for all her kindne&#383;s to me.</p>
+               best friend. May God reward <lb/>her for all her kindne<choice><sic>&#383;</sic><reg>s</reg></choice>s to me.</p>
             <p><lb/>After that I was much out of health for some time <lb/>and went to <placeName
                   ref="#Crosby">Crosby</placeName> in <date when="1837-07">July</date>. In <date
                   when="1837-09">September</date>
-               <persName ref="#Wm_Gaskel">William</persName>
+               <persName ref="#Wm_Gaskell">William</persName>
                <pb n="50"/><lb/>and I went into <placeName ref="Wales">Wales</placeName> for three
                weeks, leaving <persName ref="#MA_Gaskell_Holland">Mari=<lb/>anne</persName> with
                   <persName ref="#Bessy_Holland">Bessy Holland</persName>, and <persName
@@ -876,7 +876,7 @@
                <lb/>But since, I have asked my cousins &amp;c to tell me <lb/>all the particulars of
                the seven weeks that <persName ref="#MA_Gaskell_Holland">M.A</persName> staid
                <lb/>with <persName ref="#Hannah_Lumb">Aunt Lumb</persName> before she was seized
-               with her last <lb/>illne&#383;s. <!-- long gap-->They say, that <persName
+               with her last <lb/>illne<choice><sic>&#383;</sic><reg>s</reg></choice>s. <!-- long gap-->They say, that <persName
                   ref="#Hannah_Lumb">Aunt Lumb</persName> seemed so very <lb/>fond of "her little
                   <persName ref="#MA_Gaskell_Holland">Marianne</persName>". One day some one met
                <lb/>my <persName ref="#Hannah_Lumb">Aunt</persName> out of doors; she had been about
@@ -889,7 +889,7 @@
                   Lumb</persName> walked out with her, when the wea=<lb/>ther permitted. And it was
                to <persName ref="#Hannah_Lumb">Aunt Lumb</persName>, that <persName
                   ref="#MA_Gaskell_Holland">Marianne</persName> ran when in any little
-               distre&#383;s; and to <lb/>hr that she always clung.</p>
+               distre<choice><sic>&#383;</sic><reg>s</reg></choice>s; and to <lb/>hr that she always clung.</p>
             <p><lb/>The very day <persName ref="#Hannah_Lumb">Aunt Lumb</persName> was seized with
                her fatal <pb n="52"/>
                <lb/>attack, she had been with <persName ref="#MA_Gaskell_Holland"
@@ -937,9 +937,9 @@
                   >Aunt Eliza</persName>, who was <lb/>here at the time, comforting and being of
                use. <lb/>We have never told her that <persName ref="#Hannah_Lumb">Aunt
                   Lumb</persName> was dead, <lb/>fearing that a child's material ideas, might
-               connect <lb/>gloom with the idea of one so ble&#383;sed. "Gone to the <lb/>rest
+               connect <lb/>gloom with the idea of one so ble<choice><sic>&#383;</sic><reg>s</reg></choice>sed. "Gone to the <lb/>rest
                prepared for the People of God!" But I often talk <lb/>of her, and try to keep alive
-               the reeducation<!--unsure of word--> of her <lb/>love and tenderne&#383;s, and show
+               the reeducation<!--unsure of word--> of her <lb/>love and tenderne<choice><sic>&#383;</sic><reg>s</reg></choice>s, and show
                her <persName ref="#Hannah_Lumb">Aunt Lumb</persName>'s <lb/>picture, that even her
                bodily appearance (a fit shrine <lb/>for so chastened and pure a spirit) may stand
                <lb/>forth clear and distinct among her childish remem=<lb/>=brances. One day we were
@@ -953,7 +953,7 @@
                heavens." But I thought I had better <lb/>not, for to her it would have been
                unintelligible at <lb/>present. <!--pen shift-->Before she went to <placeName
                   ref="#Knutsford">Knutsford</placeName> in September, <lb/>she had again a few days
-               of untractablene&#383;s, and obsti=<lb/>=nacy. But I think she was very judiciously
+               of untractablene<choice><sic>&#383;</sic><reg>s</reg></choice>s, and obsti=<lb/>=nacy. But I think she was very judiciously
                managed <lb/>while there, for she came back a good little darling, so <lb/>gentle and
                loving. Indeed I should say that her <lb/>temper was very sweet, and her disposition
                very <lb/>affectionate. her little conscience too is becoming <lb/>very acute and
@@ -968,7 +968,7 @@
                recourse <lb/>to a severer punishment. It was one Sunday evening<!--check word for abbreviation-->
                <lb/>it may be about five weeks ago; we were trying to <lb/>teach her, her letters,
                more by way of occupation for <lb/>her these long winter evenings, than from any
-               anxie=<lb/>=ty as to her progre&#383;s in learning. She knew all the <lb/>vowels but
+               anxie=<lb/>=ty as to her progre<choice><sic>&#383;</sic><reg>s</reg></choice>s in learning. She knew all the <lb/>vowels but
                refused to say A. All the others she would <lb/>say, but would not even repeat A
                after us. We <lb/>got the slate, and drew it for her; but she persevered.
                   <lb/><persName ref="#Meta_Gaskell">Meta</persName> was asleep so we were unwilling
@@ -979,7 +979,7 @@
                cried, when she was gone <lb/>to bed. And I don't know if it was right. If not
                <lb/>pray, dear <persName ref="#MA_Gaskell_Holland">Marianne</persName>, forgive
                us.</p>
-            <p><lb/>Since then we have not attempted any more le&#383;sons <lb/>till she shows some
+            <p><lb/>Since then we have not attempted any more le<choice><sic>&#383;</sic><reg>s</reg></choice>sons <lb/>till she shows some
                desire to resume them; and I <lb/>think she is coming round, for she delights in
                <lb/>getting a book, and saying to herslef, "This is A" <lb/>or O, as the case may be
                &amp;c.</p>
@@ -990,11 +990,11 @@
             <p><lb/>She is getting both useful, and independent. She <pb n="58"/><lb/>does little
                things for herself and other people, and <lb/>thinks of things herself, such as
                fetching her <persName ref="#Wm_Gaskell">Papa</persName>'s <lb/>slippers &amp;c.
-               Today, he was going out; and she had <lb/>gone on a me&#383;sage into the kitchen,
+               Today, he was going out; and she had <lb/>gone on a me<choice><sic>&#383;</sic><reg>s</reg></choice>sage into the kitchen,
                but when <lb/>she heard him trying to open the front door, she <lb/>ran, calling out
-               Stop Papa Papa., you must <lb/>give me a ki&#383;s before you go.</p>
+               Stop Papa Papa., you must <lb/>give me a ki<choice><sic>&#383;</sic><reg>s</reg></choice>s before you go.</p>
             <p><lb/>And nowo for my little <persName ref="#Meta_Gaskell">Meta</persName>; 10 months
-               old <lb/>on the fifth of this month. she has a much <lb/>more pa&#383;sionate temper
+               old <lb/>on the fifth of this month. she has a much <lb/>more pa<choice><sic>&#383;</sic><reg>s</reg></choice>sionate temper
                than <persName ref="#MA_Gaskell_Holland">Marianne</persName>; per=<lb/>=haps much
                livelier. But I sometimes fancy that <lb/>8 weeks spent day and night in one little
                <lb/>close room, may have had some influence on <lb/>her temper. she is very bright
@@ -1008,7 +1008,7 @@
                <lb/>health with the exception of one week, when she was about 9 months and a
                fortnight old; <lb/>the same age and cutting the same teeth as <lb/><persName
                   ref="#MA_Gaskell_Holland">MA</persName> was when she had her terrible
-               illne&#383;s. <lb/>But if this was anything of the sort, it was not nearly so
+               illne<choice><sic>&#383;</sic><reg>s</reg></choice>s. <lb/>But if this was anything of the sort, it was not nearly so
                violent.</p>
             <p><lb/>She has now had four teeth for 2 months or <lb/>more. She is taller and slighter
                than <persName ref="#MA_Gaskell_Holland">M.A.</persName>
@@ -1028,7 +1028,7 @@
                   <persName ref="#Meta_Gaskell">Meta</persName> wants it. Almost too much I fancy
                <lb/>sometimes. And <persName ref="#Meta_Gaskell">Meta</persName> looks so relyingly
                for <lb/><persName ref="#MA_Gaskell_Holland">Marianne</persName>'s help if she has
-               lost any little play=<lb/>=thing or in any distre&#383;s. And she crows and dances
+               lost any little play=<lb/>=thing or in any distre<choice><sic>&#383;</sic><reg>s</reg></choice>s. And she crows and dances
                <lb/>when she hears <persName ref="#MA_Gaskell_Holland">Marianne</persName>'s voice.
                Oh! how I <lb/>hope this love will last. I must do my best to <lb/>cherish it. Oh God
                help me in all my good <lb/>resolutions with regard to these two dear children
@@ -1046,7 +1046,7 @@
                am beginning to wonder if <lb/>I have done right about this darling. There is
                <lb/>much to be said on each side. It <hi rend="underline">may</hi> weaken <lb/>her
                pleasure in home, her love for us all, her <lb/>confidence in me, at present such a
-               ble&#383;sing <lb/>to me; she <hi rend="underline">may</hi> meet with children who
+               ble<choice><sic>&#383;</sic><reg>s</reg></choice>sing <lb/>to me; she <hi rend="underline">may</hi> meet with children who
                may <lb/>teach her the menaing of things of which at <lb/>present we desire to keep
                her ignorant, that <lb/>we may give her correct ideas when her <unclear unit="word"
                   quantity="1">mind</unclear>
@@ -1073,10 +1073,10 @@
                walk home, all the little events <lb/>that have occurred in school. I can perhaps
                <lb/>set her right if her ideas get confused, and I <lb/>can sympathize with and
                advise her. <lb/>I have tried to decide in this matter for the <lb/>best, and now we
-               must await the result; only <lb/>pray for God's ble&#383;sing upon her.</p>
+               must await the result; only <lb/>pray for God's ble<choice><sic>&#383;</sic><reg>s</reg></choice>sing upon her.</p>
             <p>Since I last wrote, she and I have begun to <lb/>talk together about religion. I have
                told <lb/>her the simple truths I thought she could <lb/>understand, such as God's
-               goodne&#383;s and love, <lb/>His watching over us in the silent hours of <lb/>the
+               goodne<choice><sic>&#383;</sic><reg>s</reg></choice>s and love, <lb/>His watching over us in the silent hours of <lb/>the
                night &amp;c. I think she has now right ideas <pb n="64"/><lb/>as far as they go,
                about this important subject. <lb/>At first she perplexed me very much by her
                <lb/>very <hi rend="underline">material</hi> questions. "When does
@@ -1112,7 +1112,7 @@
                   ref="#Meta_Gaskell">Meta</persName> tonight <!-- unclear punctuation --><lb/>I must
                devote my next "<hi rend="underline">chapter</hi>" to her. In <lb/>the mean time I
                may just mention that <lb/>the two dear little sisters seem very fond <lb/>of each
-               other. May God ble&#383;s them both, <lb/>and preserve them to us. "Neverthele&#383;s
+               other. May God ble<choice><sic>&#383;</sic><reg>s</reg></choice>s them both, <lb/>and preserve them to us. "Neverthele<choice><sic>&#383;</sic><reg>s</reg></choice>s
                not <lb/>my will be done, <choice>
                   <reg>but</reg>
                   <sic>by</sic>
@@ -1132,7 +1132,7 @@
                   Wince</unclear>, and <persName ref="#Sam_Gaskell">Sam</persName>
                <lb/>&amp; <persName ref="#Mr_Partington">M<hi rend="superscript">r</hi>. Partington</persName> both came.
                They said <lb/>we had done quite rightly, and ordered <lb/>some calomel powders. Of
-               course so much <lb/>medicine, and the nece&#383;sary confinement <lb/>in the house
+               course so much <lb/>medicine, and the nece<choice><sic>&#383;</sic><reg>s</reg></choice>sary confinement <lb/>in the house
                have made her not so strong, <lb/>and prevented her from going to school, but <lb/>we
                have reason to be most thankful that <lb/>she is spared to us, and I do earnestly
                <lb/>and humbly hope that I am truly thank<lb/>=ful. Poor little <persName
@@ -1144,7 +1144,7 @@
                   ref="#MA_Gaskell_Holland">Marianne</persName>'s delicacy seems to en=<lb/>=dear her more to
                me.</p>
             <p><lb/>when I last wrote in my journal, I was <lb/>stopped by the <choice>
-                  <sic>latene&#383;s</sic>
+                  <sic>latene<choice><sic>&#383;</sic><reg>s</reg></choice>s</sic>
                   <reg>lateness</reg>
                </choice> of the hour before <lb/>I had put down any particulars about <lb/><persName
                   ref="#Meta_Gaskell">Meta</persName>. I have been amused on looking <lb/>at my
@@ -1153,7 +1153,7 @@
                independent <lb/>than <persName ref="#MA_Gaskell_Holland">Marianne</persName> was at her age,
                which <lb/>I suppose is owing to her having enjoyed <lb/>more uninterrupted good
                health. She can <lb/>crawl about any where as quickly as many <lb/>children walk, and
-               if the door is open, <pb n="69"/><lb/>she is in the pa&#383;sage directly makinng
+               if the door is open, <pb n="69"/><lb/>she is in the pa<choice><sic>&#383;</sic><reg>s</reg></choice>sage directly makinng
                to=<lb/>wards the kitchen. She can raise herself by <lb/>any thing on to her feet,
                but has no idea of <lb/>walking. She will play on the floor for an <lb/>hour at a
                time in preference to being <unclear unit="word" quantity="1"/>
@@ -1164,14 +1164,14 @@
                   <unclear unit="word" quantity="1"/>
                <lb/>some little danger of being spoilt, for nearly <lb/>every one in the house pets
                her, and she <lb/>is very full of caprices, and sometimes <lb/> gives way to sad
-               little fits of pa&#383;sion, if <lb/>she is a little bit affronted by the most <pb
+               little fits of pa<choice><sic>&#383;</sic><reg>s</reg></choice>sion, if <lb/>she is a little bit affronted by the most <pb
                   n="70"/><lb/>trifling thing. I am sometimes afraid she <lb/>is not checked enough;
                   <persName ref="#Elizabeth_Barlow_household">Elizabeth</persName> (her nurse)<lb/>always says
                "poor thing, it is time enough to <lb/><unclear unit="word" quantity="1"/>"- This I
                know is wrong, though I am <lb/>not sure if I act upon my knowledge. <persName
                   ref="#Meta_Gaskell">Meta</persName>
                <lb/>loves her <persName ref="#Wm_Gaskell">Papa</persName> so warmly that I think his
-               <lb/>influence may do much towards conquering <lb/>her little pa&#383;sions. If he
+               <lb/>influence may do much towards conquering <lb/>her little pa<choice><sic>&#383;</sic><reg>s</reg></choice>sions. If he
                says "Naughty little <persName ref="#Meta_Gaskell">Meta</persName>" <lb/>she sobs as
                if her heart would break, so of <lb/>course we avoid such a working upon <lb/>her
                sensibility. She is generous in giving <lb/>a piece of anything she likes, but not
@@ -1185,7 +1185,7 @@
                have been sorry to see <persName ref="#MA_Gaskell_Holland">Marianne</persName>, without any
                anger, or any <lb/>apparent bad feeling, hurt little <persName ref="#Meta_Gaskell"
                   >Meta</persName>, knowing <lb/>that she hurts her. I think it must be from
-               <lb/>the love of power, but of course we try to check <lb/>it. May God ble&#383;s
+               <lb/>the love of power, but of course we try to check <lb/>it. May God ble<choice><sic>&#383;</sic><reg>s</reg></choice>s
                &amp; <hi rend="underline">preserve</hi> them both - </p>
          </div>
          <div type="entry" n="10">
@@ -1193,10 +1193,10 @@
                <date when="1838-10-14">October 14 (38) Sunday <time>Evening</time>.</date>
             </head>
             <p>My dear little girls are both pretty well and <lb/>healty. How thankful I ought to
-               be; and I <lb/>do feel thankful for the ble&#383;sings, I have in <lb/>my children. I
+               be; and I <lb/>do feel thankful for the ble<choice><sic>&#383;</sic><reg>s</reg></choice>sings, I have in <lb/>my children. I
                hope they are improving <lb/>in every way. <persName ref="#MA_Gaskell_Holland"
                   >Marianne</persName> has begun since <lb/>her birthday (<date when="1838-09-12"
-                  >Sep 12</date>) to read and sew, and <lb/>makes pretty good progre&#383;s,
+                  >Sep 12</date>) to read and sew, and <lb/>makes pretty good progre<choice><sic>&#383;</sic><reg>s</reg></choice>s,
                especially in the <lb/>working time. I am glad of something that <lb/>will occupy
                her, for I have some difficulty <pb n="72"/><lb/>in finding her occupation, and she
                does not <lb/><hi rend="underline">set herself</hi> to any employment. In this
@@ -1210,12 +1210,12 @@
                <lb/>unemployment. This must be struggled against <lb/>for I can tell from experience
                how increasing <lb/>an error this is. In temper and habits of obedience <lb/>I think
                   <persName ref="#MA_Gaskell_Holland">M.A.</persName> is much improved. She has <lb/>much
-               le&#383;s frequently those fits of obstinacy <lb/>she used to have. i am so happy to
+               le<choice><sic>&#383;</sic><reg>s</reg></choice>s frequently those fits of obstinacy <lb/>she used to have. i am so happy to
                see her <lb/>(general) desire of doing right, and I try <lb/>to exercise her
                conscience by occasionally <lb/>leaving her to judge if such an action be <lb/>right
                or not. She is very affectionate, and this <pb n="73"/><lb/>again is a circumstance
                to be thankful for. <lb/>She has not yet overcome her excitability, and <lb/>we find
-               it nece&#383;sary for <hi rend="strikethrough">her</hi> to be kept her very
+               it nece<choice><sic>&#383;</sic><reg>s</reg></choice>sary for <hi rend="strikethrough">her</hi> to be kept her very
                <lb/>quiet, <unclear>and</unclear> otherwise she suffers much from <lb/>exhaustion
                which shows itself in increased ir=<lb/>=ritability. </p>
          </div>
@@ -1233,11 +1233,11 @@
                regulate <lb/>(meals, temperature &amp;c) that I feel a little anxious. <lb/>I think
                I did not mention in my last account <lb/>that, since she was four years old (<date
                   when="1838-09-12">Sep 12</date>) she has <pb n="74"/><lb/>begun to have regular
-               little le&#383;sons; before that time <lb/>indeed she had learnt her letters, partly
+               little le<choice><sic>&#383;</sic><reg>s</reg></choice>sons; before that time <lb/>indeed she had learnt her letters, partly
                in play.- <lb/>She began with one word a day, in "<persName ref="#Elizabeth_Stevenson_Gaskell"
-                  >Mama</persName>'s le&#383;sons," <lb/>but as of course it was one <hi
+                  >Mama</persName>'s le<choice><sic>&#383;</sic><reg>s</reg></choice>sons," <lb/>but as of course it was one <hi
                   rend="underline">new</hi> word, she now <lb/>sometimes reads nearly a line. She
-               seems to like <lb/>it and takes pains. Sometimes in her sewing <lb/>le&#383;sons (of
+               seems to like <lb/>it and takes pains. Sometimes in her sewing <lb/>le<choice><sic>&#383;</sic><reg>s</reg></choice>sons (of
                six stitches in seaming). I fear I am not <lb/>patient enough. Oh God, in whose hands
                are all <lb/>hearts make me more even-tempered. With her <lb/>I do try a great deal,
                but Oh my Father help me <lb/>to regulate my impatient temper better!</p>
@@ -1247,25 +1247,25 @@
                obstinacy; which are I hope diminishing <lb/>and a want of perseverance and
                dependance <lb/>upon <unclear unit="word" quantity="1"/> as to her <unclear/> and
                   <unclear><lb/></unclear>. I have begun to teach her a little prayer <lb/>morning
-               and night, merely a few words, <pb n="75"/><lb/>of thanksgiving and ble&#383;sing. I
+               and night, merely a few words, <pb n="75"/><lb/>of thanksgiving and ble<choice><sic>&#383;</sic><reg>s</reg></choice>sing. I
                am not sure <lb/>that she attaches much devotional feeling to this <lb/>observance,
                but I thought it desirable to lead her <lb/>to something beyond the visible and
                material, and <lb/>some day I hope more interest will be shown as
                   <unclear>to</unclear>
-               <lb/>the Being to whom they are addre&#383;sed. She also <lb/>comes in every morning,
+               <lb/>the Being to whom they are addre<choice><sic>&#383;</sic><reg>s</reg></choice>sed. She also <lb/>comes in every morning,
                while her <persName ref="#Wm_Gaskell">Papa</persName> reads <unclear/>
                <lb/><unclear>doddindge's repositor</unclear> and prays. I sometimes fear <lb/>this
                service is too long for her, but I think she likes <lb/>coming in, though at first we
-               had a great strug=<lb/>gle, owing I think to a sort of nervous shyne&#383;s. <lb/>God
-               ble&#383;s and preserve my darling <persName ref="#MA_Gaskell_Holland">Marianne</persName>!
+               had a great strug=<lb/>gle, owing I think to a sort of nervous shyne<choice><sic>&#383;</sic><reg>s</reg></choice>s. <lb/>God
+               ble<choice><sic>&#383;</sic><reg>s</reg></choice>s and preserve my darling <persName ref="#MA_Gaskell_Holland">Marianne</persName>!
                <lb/>As to dear little <persName ref="#Meta_Gaskell">Meta</persName>, she is totally
                different <lb/>from <persName ref="#MA_Gaskell_Holland">Marianne</persName> though very like
                her in person. <lb/>She is a more popular character, very lively, <lb/>enjoying a
-               joke, always busy for herself; but <lb/>she is pa&#383;sionate and
+               joke, always busy for herself; but <lb/>she is pa<choice><sic>&#383;</sic><reg>s</reg></choice>sionate and
                   <unclear>soulful</unclear>, through life so I <lb/>think than she was. She is a
                most generous <pb n="76"/><lb/>little creature, always ready to give away eatables.
                <lb/>Not <hi rend="underline">so</hi> generous as to her play things, but often very
-               <lb/>good about that. She has many engaging ways, <lb/>ki&#383;sing if she thinks she
+               <lb/>good about that. She has many engaging ways, <lb/>ki<choice><sic>&#383;</sic><reg>s</reg></choice>sing if she thinks she
                has offended or hurt in <lb/>any way. She is very backward in her talking -
                <lb/><unclear/> being the only word she can say - with an <lb/>attempt at "please".
                But she understands and notices <lb/>every word that is spoken before her, and makes
@@ -1276,7 +1276,7 @@
                   >Marianne</persName>
                <lb/>has within this fortnight begun to have a little <lb/>animal food, but we keep
                   <persName ref="#Meta_Gaskell">Meta</persName> to the old <lb/>plain diet. May God
-               ble&#383;s both my dear children.</p>
+               ble<choice><sic>&#383;</sic><reg>s</reg></choice>s both my dear children.</p>
          </div>
       </body>
    </text>
