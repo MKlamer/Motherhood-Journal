@@ -52,7 +52,7 @@
                   <death></death>
                   <occupation>minister, Unitarian church</occupation>
                </person>
-               <person xml:id="MA_Gaskell" sex="f">
+               <person xml:id="MA_Gaskell_Holland" sex="f">
                   <persName>
                      <surname type="married">Holland</surname>
                      <surname type="paternal">Gaskell</surname>
@@ -60,10 +60,10 @@
                   </persName>
                   <persName>Marianne</persName>
                   <persName>M.A.</persName>
-                  <birth when="">
+                  <birth when="1834">
                      <placeName></placeName>
                   </birth>
-                  <death when="">
+                  <death when="1920">
                      <placeName ref=""></placeName>
                   </death>
                   <note type="bio" resp="#mjk">
