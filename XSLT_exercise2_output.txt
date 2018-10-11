@@ -1,0 +1,131 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <title>XSLT Homework #2</title>
+   </head>
+   <body>
+      <ol>
+         <li>Archives Holding Mitford’s Papers
+            <ul>
+               <li>Baylor University, Armstrong Browning Library</li>
+               <li>Berkshire Record Office</li>
+               <li>British Library</li>
+               <li>Boston Public Library</li>
+               <li>Cambridge University: Fitzwilliam Museum</li>
+               <li>Duke University Rubenstein Library</li>
+               <li>Eton College</li>
+               <li>Florida State University Special Collections</li>
+               <li>The Women’s Library, Glasgow</li>
+               <li>Houghton Library, Harvard</li>
+               <li>Huntington Library</li>
+               <li>University of Iowa Special Collections</li>
+               <li>Massachusetts Historical Society</li>
+               <li>New York Public Library</li>
+               <li>Oxford University, Balliol College Archives</li>
+               <li>Oxford University, Bodleian Library</li>
+               <li>Reading Central Library</li>
+               <li>John Ruskin Library, Lancaster</li>
+               <li>The John Rylands Library</li>
+               <li>National Library of Scotland, Manuscript Collections</li>
+               <li>University of Texas, Ransom Center</li>
+               <li>University of Reading Special Collections</li>
+               <li>University of Virginia Special Collections</li>
+               <li>Wellesley College, Margaret Clapp Library, Special Collections</li>
+               <li>Wordsworth Trust</li>
+               <li>Yale University, Beineke Library</li>
+            </ul>
+         </li>
+         <li>Organizations Relevant to Mitford’s World
+            <ul>
+               <li>Americans</li>
+               <li>Billiard Club</li>
+               <li>House of Bourbon</li>
+               <li>Cavaliers</li>
+               <li>Court of Chancery</li>
+               <li>Church of England</li>
+               <li>Clarendon Press</li>
+               <li>the Cockney School</li>
+               <li>Court of King’s Bench</li>
+               <li>Drover family</li>
+               <li>Eton College</li>
+               <li>Hampden Club</li>
+               <li>High Court of JusticeCommissioners of the High Court of JusticeCommissioners</li>
+               <li>Holland House circleHolland House set</li>
+               <li>House of Commons</li>
+               <li>House of Lords</li>
+               <li>Italians</li>
+               <li>The Society of Jesus</li>
+               <li>the Kembles</li>
+               <li>Marylebone Cricket Club</li>
+               <li>House of Medici</li>
+               <li>Minerva Press</li>
+               <li>
+                  Mitford
+                  
+               </li>
+               <li>Mr.and Mrs.Mitford</li>
+               <li>the Moncks, family of John Berkeley
+                  Monck
+                  
+               </li>
+               <li>Members of Parliament
+                  
+               </li>
+               <li>New Model Army</li>
+               <li>Palmerite</li>
+               <li>the Parfitt’s</li>
+               <li>Parliament</li>
+               <li>Court of Pope Pius VII</li>
+               <li>PrelacyPrelates</li>
+               <li>the Presybterian factionPeace Party</li>
+               <li>Privy Council</li>
+               <li>Richmond Coach or Stage</li>
+               <li>Royal Academy of Arts</li>
+               <li>the people of ScotlandScotchScotsScotchmen</li>
+               <li>Scriblerus ClubScriblerians</li>
+               <li>
+                  Slade
+                  
+               </li>
+               <li>Taylor and Hessey</li>
+               <li>Tory Party</li>
+               <li>Twickenham Coach or Stage</li>
+               <li>
+                  Valpy
+                  the Valpys
+               </li>
+               <li>
+                  Webb
+                  
+                  
+               </li>
+               <li>Weylandite</li>
+               <li>the Whig party</li>
+            </ul>
+         </li>
+         <li>Fictional Groups Referenced by Mitford
+            <ul>
+               <li>Attendants &amp;c.</li>
+               <li>Balfours of Burleys</li>
+               <li>the Bustling Dame’s
+                  children
+               </li>
+               <li>Chorus</li>
+               <li>Citizens</li>
+               <li>the Danaides</li>
+               <li>Guards</li>
+               <li>Guards</li>
+               <li>Ladies</li>
+               <li>Nobles</li>
+               <li>Nobles</li>
+               <li>officers in Charles I
+                  
+               </li>
+               <li>Prelates</li>
+            </ul>
+         </li>
+      </ol>
+   </body>
+</html>
