@@ -9,18 +9,13 @@
         <html>
             <head>
                 <title>XSLT Homework #2</title></head>
-            <body><ol>
-                <xsl:apply-templates select="//body/div/listOrg"/>
-           </ol></body>
+            <body><ol><xsl:apply-templates select="//text/body/div/listOrg"/></ol></body>
         </html>
     </xsl:template>
     <xsl:template match="listOrg">
-        <li>
-            <xsl:apply-templates select="listOrg/org"/><xsl:apply-templates/>
+        <li><xsl:apply-templates select="./head"/><ul><xsl:apply-templates select="./org"/></ul>
         </li>
-       </xsl:template>
-    <xsl:template match="org">
-        <ul><xsl:apply-templates select="org/orgName"/><xsl:apply-templates/></ul>
-        
     </xsl:template>
+    <xsl:template match="org"><li><xsl:apply-templates select="./orgName"/></li></xsl:template>
+   
 </xsl:stylesheet>
