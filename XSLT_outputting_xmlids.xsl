@@ -8,10 +8,11 @@
         <head>
             <title>XSLT to Output Xml:ids for Gaskell Project</title></head>
         <body>
-            <ol><xsl:apply-templates select="//body/div/p/persName"/></ol>
+            <ol> <xsl:for-each select="distinct-values(//text/body/div/p/persName/@ref)">
+                <li>
+                    <xsl:value-of select="."/>
+                </li>               
+            </xsl:for-each></ol>
         </body>
     </xsl:template>
-    <xsl:template match="persName">
-        <li><xsl:apply-templates select="./@ref"></xsl:apply-templates></li>
-    </xsl:template>
-</xsl:stylesheet>
+    </xsl:stylesheet>

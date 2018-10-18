@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gaskell Journal Project Personography Index</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Written in TEI by Melissa Klamer. First Edition in TEI 30 Jan, 2018.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="HistPersons">
+            <listPerson sortKey="histPersons">
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+            </listPerson>
+         </div>
+      </body>
+   </text>
+</TEI>
