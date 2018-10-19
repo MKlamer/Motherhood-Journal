@@ -17,7 +17,7 @@
       <body>
          <div type="HistPersons">
             <listPerson sortKey="histPersons">
-               <person xml:id="">
+               <person xml:id="MA_Gaskell_Holland">
                   <persName>
                      <surname/>
                      <surname/>
@@ -33,7 +33,7 @@
                      <p/>
                   </note>
                </person>
-               <person xml:id="">
+               <person xml:id="Wm_Gaskell">
                   <persName>
                      <surname/>
                      <surname/>
@@ -49,7 +49,7 @@
                      <p/>
                   </note>
                </person>
-               <person xml:id="">
+               <person xml:id="Madame_deSaussure">
                   <persName>
                      <surname/>
                      <surname/>
@@ -65,7 +65,7 @@
                      <p/>
                   </note>
                </person>
-               <person xml:id="">
+               <person xml:id="Combe">
                   <persName>
                      <surname/>
                      <surname/>
@@ -81,7 +81,7 @@
                      <p/>
                   </note>
                </person>
-               <person xml:id="">
+               <person xml:id="Betsy_household">
                   <persName>
                      <surname/>
                      <surname/>
@@ -97,7 +97,7 @@
                      <p/>
                   </note>
                </person>
-               <person xml:id="">
+               <person xml:id="Grandma_Gaskell">
                   <persName>
                      <surname/>
                      <surname/>
@@ -113,7 +113,7 @@
                      <p/>
                   </note>
                </person>
-               <person xml:id="">
+               <person xml:id="Fanny_household">
                   <persName>
                      <surname/>
                      <surname/>
@@ -129,7 +129,7 @@
                      <p/>
                   </note>
                </person>
-               <person xml:id="">
+               <person xml:id="Elizabeth_Stevenson_Gaskell">
                   <persName>
                      <surname/>
                      <surname/>
@@ -145,7 +145,7 @@
                      <p/>
                   </note>
                </person>
-               <person xml:id="">
+               <person xml:id="Hannah_Lumb">
                   <persName>
                      <surname/>
                      <surname/>
@@ -161,7 +161,7 @@
                      <p/>
                   </note>
                </person>
-               <person xml:id="">
+               <person xml:id="Mrs_Collins">
                   <persName>
                      <surname/>
                      <surname/>
@@ -177,7 +177,7 @@
                      <p/>
                   </note>
                </person>
-               <person xml:id="">
+               <person xml:id="Wm_Deane">
                   <persName>
                      <surname/>
                      <surname/>
@@ -193,7 +193,7 @@
                      <p/>
                   </note>
                </person>
-               <person xml:id="">
+               <person xml:id="Mrs_Deane">
                   <persName>
                      <surname/>
                      <surname/>
@@ -209,7 +209,7 @@
                      <p/>
                   </note>
                </person>
-               <person xml:id="">
+               <person xml:id="Emily_Deane">
                   <persName>
                      <surname/>
                      <surname/>
@@ -225,7 +225,7 @@
                      <p/>
                   </note>
                </person>
-               <person xml:id="">
+               <person xml:id="Ann_Gaskell">
                   <persName>
                      <surname/>
                      <surname/>
@@ -241,7 +241,7 @@
                      <p/>
                   </note>
                </person>
-               <person xml:id="">
+               <person xml:id="Meta_Gaskell">
                   <persName>
                      <surname/>
                      <surname/>
@@ -257,7 +257,7 @@
                      <p/>
                   </note>
                </person>
-               <person xml:id="">
+               <person xml:id="Bessy_Holland">
                   <persName>
                      <surname/>
                      <surname/>
@@ -273,7 +273,7 @@
                      <p/>
                   </note>
                </person>
-               <person xml:id="">
+               <person xml:id="Elizabeth_Barlow_household">
                   <persName>
                      <surname/>
                      <surname/>
@@ -289,7 +289,7 @@
                      <p/>
                   </note>
                </person>
-               <person xml:id="">
+               <person xml:id="Liz_Gaskell_Holland">
                   <persName>
                      <surname/>
                      <surname/>
@@ -305,7 +305,7 @@
                      <p/>
                   </note>
                </person>
-               <person xml:id="">
+               <person xml:id="Abigail_Holland">
                   <persName>
                      <surname/>
                      <surname/>
@@ -321,7 +321,7 @@
                      <p/>
                   </note>
                </person>
-               <person xml:id="">
+               <person xml:id="Sam_Gaskell">
                   <persName>
                      <surname/>
                      <surname/>
@@ -337,7 +337,7 @@
                      <p/>
                   </note>
                </person>
-               <person xml:id="">
+               <person xml:id="Mr_Partington">
                   <persName>
                      <surname/>
                      <surname/>
@@ -353,23 +353,7 @@
                      <p/>
                   </note>
                </person>
-               <person xml:id="">
-                  <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
-                  </persName>
-                  <birth>
-                     <placeName/>
-                  </birth>
-                  <death>
-                     <placeName/>
-                  </death>
-                  <note type="bio" resp="#mjk">
-                     <p/>
-                  </note>
-               </person>
-               <person xml:id="">
+               <person xml:id="Eddy_Deane">
                   <persName>
                      <surname/>
                      <surname/>

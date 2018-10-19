@@ -24,7 +24,7 @@
                     <div type="HistPersons">
                         <listPerson sortKey="histPersons">
                             <xsl:for-each select="distinct-values(//text/body/div/p/persName/@ref)">
-                                <person xml:id="{}"> <persName>
+                                <person xml:id="{translate(current(), '#', '')}"> <persName>
                                     <surname></surname>
                                     <surname></surname>
                                     <forename></forename>
@@ -40,14 +40,12 @@
                                     </note>
                                 </person>
     </xsl:for-each>
-                            
-                        </listPerson>
+                         </listPerson>
                     </div>
                 </body></text></TEI>
     </xsl:template>
-    <xsl:variable name="ident" select="distinct-values(//text/body/div/p/persName/@ref)"/>
+ 
     
-             
         
             
    </xsl:stylesheet>
