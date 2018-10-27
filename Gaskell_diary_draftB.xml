@@ -29,21 +29,18 @@
    <text>
       <body>
          <div type="dedication">
-            <p>To my dear little Marianne I shall "dedicate"<lb/> this book, which, if I should not
-               live to give<lb/> it her myself, will I trust be reserved for her<lb/> as a token of
-               her mother's love, and extreme<lb/> anxiety in the formation of her little<lb/>
-               daughter's character. If that little daughter<lb/> should in time become a mother
-               herself,<lb/> she may take an interest in the experience<lb/> of another; and at any
-               rate she will<lb/> perhaps like to become acquainted with her character in <choice>
+            <p>To my dear little Marianne I shall "dedicate" <lb/>this book, which, if I should not
+               live to give <lb/>it her myself, will I trust be reserved for her <lb/>as a token of
+               her mother's love, and extreme <lb/>anxiety in the formation of her little <lb/>daughter's character. If that little daughter <lb/>should in time become a mother               daughter's character. If that little daughter<lb/> should in time become a mother
+               herself, <lb/>she may take an interest in the experience <lb/>of another; and at any
+               rate she will <lb/>perhaps like to become acquainted with <lb/>her character in <choice>
                   <sic>it's</sic>
                   <reg>its</reg>
-               </choice> earliest form. I<lb/> wish that (if ever she sees this) I could<lb/> give
-               her the slightest idea of the love<lb/> and the hope that is bound up in<lb/> her.
+               </choice> earliest form. I <lb/>wish that (if ever she sees this) I could <lb/>give
+               her the slightest idea of the love <lb/>and the hope that is bound up in <lb/>her.
                The love which passeth every
-               earth<lb/><!-- This word breaks over the line. Research how to code this. -->=ly
-               love, and the hope that however we<lb/> may be separated on earth, we may<lb/> each
-               of us so behave while sojourning here<lb/> that we may meet again to renew the<lb/>
-               dear &amp; tender tie of Mother and Daughter.</p>
+               earth=<lb/>=ly love, and the hope that however we <lb/>may be separated on earth, we may <lb/>each
+               of us so behave while sojourning here <lb/>that we may meet again to renew the <lb/>dear &amp; tender tie of Mother and Daughter.</p>
             <pb n="2"/>
          </div>
          <div type="entry" n="1">
@@ -53,84 +50,78 @@
             </head>
             <!-- Is the body element or the paragraph element more appropriate within each entry following the header? -->
             <p>The day after tomorrow <persName ref="#MA_Gaskell_Holland"
-               >Marianne</persName><!-- do I need to create a reference point to code a persName? Where to store this data? -->
-               will be<lb/> six months old. I wish I had begun my <lb/>little journal sooner, for
-               (though I should<lb/> have laughed at the idea twelve months <lb/>ago) there have
-               beenmany little indica <lb/>=tions of disposition
+               >Marianne</persName>
+               will be <lb/>six months old. I wish I had begun my <lb/>little journal sooner, for
+               (though I should <lb/>have laughed at the idea twelve months <lb/>ago) there have
+               been many little indica=<lb/>=tions of disposition
                &amp;c. already; which I <lb/>can not now remember clearly. I will <lb/>try and
-               describe her <hi rend="underline">mentally.</hi> I should <lb/>call her remarkably
-               good tempered; though<lb/> at times she gives way to little bursts <lb/>of passion or
+               describe her <hi rend="underline">mentally</hi>. I should <lb/>call her remarkably
+               good-tempered; though <lb/>at times she gives way to little bursts <lb/>of passion or
                perhaps impatience would <lb/>be the right name. She is also very firm <lb/>in her
-               own little way occasionally; what<lb/> I suppose is obstinacy really, only that<lb/>
-               is so hard a word to apply to one so<lb/> dear. But in general she is so good<lb/>
-               that I feel as if I could hardly be<lb/> sufficienlty thankful, that the
+               own little way occasionally; what <lb/>I suppose is obstinacy really, only that <lb/>               is so hard a word to apply to one so <lb/>dear. But in general she is so good <lb/>             that I feel as if I could hardly be <lb/>sufficiently thankful, that the
                materials <lb/>put into my hands are so excellent,
-                  and <lb/><!-- Determine page numbering system - within entries AND within manuscript itself? Can I code these separately at the "div" level? Also is there a way to code left and right sides of pages - may be no significance to that, but just out of curiosity --><pb
-                  n="3"/>beautiful. And yet it seems to increase <lb/>the responsibility. If I
-               should misguide from carele<choice><sic>&#383;</sic><reg>s</reg></choice>sness or negligence! <choice>
+                  and <!-- Determine page numbering system - within entries AND within manuscript itself? Can I code these separately at the "div" level? Also is there a way to code left and right sides of pages - may be no significance to that, but just out of curiosity --><pb
+                  n="3"/><lb/>beautiful. And yet it seems to increase <lb/>the responsibility. If I
+               should misguide <lb/>from carele<choice><sic>&#383;</sic><reg>s</reg></choice>sness or negligence! <choice>
                   <sic>Wilfully</sic>
                   <reg><hi rend="underline">Willfully</hi></reg>
-               </choice><lb/> is not in a mother's heart. From ignorance<lb/> and errors in judgment
-               I know I may,<lb/> and probably shall, very often. But oh
-               Lord<!-- prayer element?--><lb/> I pray thee to lead me right (if it be thy<lb/>
-               will) and to preserve in me the same<lb/> strong feeling of my responsibility which
-               I<lb/> now feel. And you too my dearest little<lb/> girl, if when you read this, you
-               trace back any evil, or unhappy feeling to<lb/> my mismanagement in your
-               childhood<lb/> forgive me, love!<!-- is it necessary to include the line break as well as the paragraph break, or is this redundant?-->
-               <lb/></p>
-            <p><persName ref="#MA_Gaskell_Holland">Marianne</persName> is now becoming every
-               day<lb/> more and more interesting. She looks at<lb/> and tries to take hold of every
-               thing. She<lb/> has pretty good ideas of distance and does<lb/> not try to catch
-               sunbeams now, as she<lb/><pb n="4"/> did two months ago. Her sense of sight<lb/> is
-               much improved lately in seeing objects<lb/> at a distance, and distinguishing
-               them.<lb/> For instance I had her in my arms
-               today<!-- necessary to code the slight diagonal downward on the "day" here?--><lb/>
-               in the drawing room, and her <persName ref="#Wm_Gaskell">Papa</persName><lb/> was
-               going out of the gate; and she evi<!--split word--><lb/>=dently knows him; smiled and
-               kicked.<lb/> She begins to show a decided preference<lb/> to those she likes; she
-               puts out her little<lb/> arms to come to me, and would I<lb/> am sure, do so to her
-                  <persName ref="#Wm_Gaskell">Papa</persName>. She catches<lb/> the expression of a
-               countenance to which she is accustomed directly;<lb/> when we laugh, she laughs; and
-               when<lb/> I look attentive to <persName ref="#Wm_Gaskell"
-               >William</persName><!--Create xml:id for William Gaskell-->'s reading,<lb/> it is
-               quite ridiculous to see her little face of gravity, and earnestness, as if<lb/> she
-               understood every word. I try always<lb/> to let her look at any thing which
-               at<!--split word--><lb/>tracts her notice as long as she
-                  <unclear>will</unclear><lb/><pb n="5"/> and when I see her looking very
-               intently<lb/> at <choice>
+               </choice> <lb/>is not in a mother's heart. From ignorance <lb/>and errors in judgment
+               I know I may, <lb/>and probably shall, very often. But oh
+               Lord<!-- prayer element?--> <lb/>I pray thee to lead me right (if it be thy <lb/>               will) and to preserve in me the same <lb/>strong feeling of my responsibility which
+               I <lb/>now feel. And you too my dearest little <lb/>girl, if when you read this, you
+               trace <lb/>back any evil, or unhappy feeling to <lb/>my mismanagement in your
+               childhood <lb/>forgive me, love!<!-- is it necessary to include the line break as well as the paragraph break, or is this redundant?-->
+               </p>
+            <p><lb/><persName ref="#MA_Gaskell_Holland">Marianne</persName> is now becoming every
+               day <lb/>more and more interesting. She looks at <lb/>and tries to take hold of every
+               thing. She <lb/>has pretty good ideas of distance and does <lb/>not try to catch
+               sunbeams now, as she <pb n="4"/> <lb/>did two months ago. Her sense of sight <lb/>is
+               much improved lately in seeing objects <lb/>at a distance, and distinguishing
+               them. <lb/>For instance I had her in my arms
+               today<!-- necessary to code the slight diagonal downward on the "day" here?--> <lb/>               in the drawing room, and her <persName ref="#Wm_Gaskell">Papa</persName> <lb/>was
+               going out of the gate; and she evi=<lb/>=dently knew him; smiled and
+               kicked. <lb/>She begins to show a decided preference <lb/>to those she likes; she
+               puts out her little <lb/>arms to come to me, and would I <lb/>am sure, do so to her
+                  <persName ref="#Wm_Gaskell">Papa</persName>. She catches <lb/>the expression of a
+               countenance <lb/>to which she is accustomed directly; <lb/> when we laugh, she laughs; and
+               when <lb/>I look attentive to <persName ref="#Wm_Gaskell"
+               >William</persName>'s reading, <lb/>it is
+               quite ridiculous to see her little <lb/>face of gravity, and earnestness, as if <lb/>she
+               understood every word. I try always <lb/>to let her look at any thing which
+               at=<lb/>=tracts her notice as long as she
+                  <unclear>will</unclear><pb n="5"/> <lb/>and when I see her looking very
+               intently <lb/>at <choice>
                   <sic>any thing</sic>
                   <reg>anything</reg>
-               </choice>, I take her to it, and let<lb/> her exercise all her senses upon
-               it-<!-- place spaces around dashes or leave words connected?-->even<lb/> to tasting,
-               if I am sure it can do her<lb/> no harm. My object is to give her a<lb/> habit of
-               fixing her attention.<lb/></p>
-            <p>She takes great delight in motion just<lb/> at present; dancing, jumping,
-               shutting<lb/> and opening the hand pleases her very
-               much:<!-- long gap. Not sure whether to code this as a paragraph break or an empty space-->
-               I had no idea children<lb/> at her age, made such continued<lb/> noises; she shouts,
-               and murmurs, and<lb/> talks in her way, just like conversa=<lb/><!--split word-->
-               tion, varying her tones &amp;c. I wish<lb/> we could know what is passing<lb/> in her
-               little mind. She likes any<lb/><!--split word-->=thing like singing, but seems
-               afraid<lb/> of the piano; today she even began<lb/> to cray, when I began to
-                  play.<lb/><pb n="6"/></p>
-            <p>In general, I think she is remarkably<lb/> free from fear or shyness of any
-               sort.<lb/> She goes to <choice>
+               </choice>, I take her to it, and let <lb/>her exercise all her senses upon
+               it-<!-- place spaces around dashes or leave words connected?-->even <lb/>to tasting,
+               if I am sure it can do her <lb/>no harm. My object is to give her a <lb/>habit of
+               fixing her attention. </p>
+            <p><lb/>She takes great delight in motion just <lb/>at present; dancing, jumping,
+               shutting <lb/>and opening the hand pleases her very
+               much:<space></space><!-- long gap. Not sure whether to code this as a paragraph break or an empty space-->
+               I had no idea children <lb/>at her age, made such continued <lb/>noises; she shouts,
+               and murmurs, and <lb/>talks in her way, just like conversa=<lb/>=tion, varying her tones &amp;c. I wish <lb/>we could know what is passing <lb/>in her
+               little mind. She likes any=<lb/>=thing like singing, but seems
+               afraid <lb/>of the piano; today she even began <lb/>to cry, when I began to
+                  play. <pb n="6"/></p>
+            <p><lb/>In general, I think she is remarkably <lb/>free from fear or shyness of any
+               sort. <lb/>She goes to <choice>
                   <sic>any one</sic>
                   <reg>anyone</reg>
-               </choice> who will take her,<lb/> staring at strangers to be sure, and being<lb/>
-               very grave while they are in the room,<lb/> but not crying, or clinging to me. I
-               am<lb/> very glad of this, as though is is very<lb/> flttering and endearing to me,
-               yet<lb/> I should be sorry if she were to get the<lb/> habit of refusing to go to
-               others.<lb/></p>
-            <p>Then as to her "bodily" qualifications.<lb/> She has had two teeth cut with very
-               little<lb/> trouble; but I believe the worst are<lb/> to come. She is very strong in
-               her<lb/> limbs, though because she is so fat, we<lb/> do not let her use her <choice>
+               </choice> who will take her, <lb/>staring at strangers to be sure, and being <lb/>               very grave while they are in the room, <lb/>but not crying, or clinging to me. I
+               am <lb/>very glad of this, as though it is very <lb/>flattering and endearing to me,
+               yet <lb/>I should be sorry if she were to get the <lb/>habit of refusing to go to
+               others.</p>
+            <p><lb/>Then as to her <!-- quote element -->"bodily" qualifications. <lb/>She has had two teeth cut with very
+               little <lb/>trouble; but I believe the worst are <lb/>to come. She is very strong in
+               her <lb/>limbs, though because she is so fat, we <lb/>do not let her use her <choice>
                   <sic>ancles</sic>
                   <reg>ankles</reg>
-               </choice> at all,<lb/> and I hope she will be rather late in<lb/> walking that her
-               little legs may be<lb/> very firm. I shall find it difficult to<lb/> damp the
-               energies of the servants in<lb/> this respect, but I intend that she shall<lb/> teach
-               herself to walk, &amp; receive no assist<lb/><pb n="7"
+               </choice> at all, <lb/>and I hope she will be rather late in <lb/>walking that her
+               little legs may be <lb/>very firm. I shall find it difficult to <lb/>damp the
+               energies of the servants in <lb/>this respect, but I intend that she shall <lb/>teach
+               herself to walk, &amp; receive no assist=<!-- Tandem verification stoppped here 10/27/18 --><pb n="7"
                /><!--photo blocks the equal sign used to mark split word or there is none here-->ance
                from hands &amp;c. She lies down on the<lb/> floor a good deal, and kicks about;
                a<lb/> practice I began very early, and which<lb/> has done her a great deal of

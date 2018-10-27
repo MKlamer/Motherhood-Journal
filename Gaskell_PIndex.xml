@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gaskell Journal Project Personography Index</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Written in TEI by Melissa Klamer. First Edition in TEI 30 Jan, 2018.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="HistPersons">
+            <listPerson sortKey="histPersons">
+               <person xml:id="MA_Gaskell_Holland">
+                  <persName>
+                     <surname>Gaskell</surname>/>
+                     <surname>Holland</surname>/>
+                     <forename>Marianne</forename>/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="Wm_Gaskell">
+                  <persName>
+                     <surname>Gaskell</surname>/>
+                     <surname/>
+                     <forename>William</forename>/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="Madame_deSaussure">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="Combe">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="Betsy_household">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename>Betsy</forename>/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="Grandma_Gaskell">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="Fanny_household">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="Elizabeth_Stevenson_Gaskell">
+                  <persName>
+                     <surname>Stevenson</surname>/>
+                     <surname>Gaskell</surname>/>
+                     <forename>Elizabeth</forename>/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="Hannah_Lumb">
+                  <persName>
+                     <surname>Holland</surname>
+                     <surname>Lumb</surname>/>
+                     <forename>Hannah</forename>/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="Mrs_Collins">
+                  <persName>
+                     <surname/>
+                     <surname>Collins</surname>/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="Wm_Deane">
+                  <persName>
+                     <surname>Deane</surname>/>
+                     <surname/>
+                     <forename>William</forename>/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="Mrs_Deane">
+                  <persName>
+                     <surname/>
+                     <surname>Deane</surname>/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="Emily_Deane">
+                  <persName>
+                     <surname>Deane</surname>/>
+                     <surname/>
+                     <forename>Emily</forename>/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="Ann_Gaskell">
+                  <persName>
+                     <surname>Gaskell</surname>/>
+                     <surname/>
+                     <forename>Ann</forename>/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="Meta_Gaskell">
+                  <persName>
+                     <surname>Gaskell</surname>/>
+                     <surname></surname>/>
+                     <forename>Margaret</forename>/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="Bessy_Holland">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="Elizabeth_Barlow_household">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="Liz_Gaskell_Holland">
+                  <persName>
+                     <surname>Gaskell</surname>/>
+                     <surname>Holland</surname>/>
+                     <forename>Elizabeth</forename>/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="Abigail_Holland">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="Sam_Gaskell">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="Mr_Partington">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+               <person xml:id="Eddy_Deane">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p/>
+                  </note>
+               </person>
+            </listPerson>
+         </div>
+      </body>
+   </text>
+</TEI>
