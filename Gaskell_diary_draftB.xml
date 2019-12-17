@@ -28,8 +28,10 @@
    </teiHeader>
    <text>
       <body>
+         <div type="headnote" n="0" resp="#mjk"><p><persName ref="Elizabeth_Stevenson_Gaskell">Gaskell</persName> dedicates her diary to her firstborn daughter, <persName ref="MA_GAskell_Holland">Marianne</persName>, who was born <date when="1834-09-12">September 12, 1834</date>. At the time of <persName ref="Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s death, <persName ref="MA_GAskell_Holland">Marianne</persName> was yet unmarried. She later married and had several children; the diary has been handed down through <persName ref="MA_GAskell_Holland">Marianne</persName>’s descendants, and is currently the property of Mrs. Sarah Prince, <persName ref="MA_GAskell_Holland">Marianne</persName>’s great-great granddaughter.
+            </p></div>
          <div type="dedication">
-            <p>To my dear little Marianne I shall "dedicate" <lb/>this book, which, if I should not
+              <p>To my dear little <persName ref="#MA_Gaskell_Holland">Marianne</persName> I shall "dedicate" <lb/>this book, which, if I should not
                live to give <lb/>it her myself, will I trust be reserved for her <lb/>as a token of
                her mother's love, and extreme <lb/>anxiety in the formation of her little <lb/>daughter's character. If that little daughter <lb/>should in time become a mother               daughter's character. If that little daughter<lb/> should in time become a mother
                herself, <lb/>she may take an interest in the experience <lb/>of another; and at any
@@ -43,12 +45,21 @@
                of us so behave while sojourning here <lb/>that we may meet again to renew the <lb/>dear &amp; tender tie of Mother and Daughter.</p>
             <pb n="2"/>
          </div>
+         <div type="headnote" n="1" resp="#mjk">
+            <head>Entry 1</head>
+            <dateline> March 10, 1835</dateline><!-- Research how to structure the appropriate header information here. -->
+            <head>Children's Ages: <persName ref="#MA_Gaskell_Holland">Marianne</persName>, aged 6 months</head>
+            <head>Elapsed Time: Not applicable </head>
+            <head>Length of Entry: 10 handwritten pages</head>
+            <p>In this first entry, <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> devotes a lengthy portion of her narrative (3 full pages) to writing about her own maternal choices - in this case, particularly her plans for handling common parenting concerns, including bedtimes, how to respond to cries and demands, and developmental milestones like learning to walk. This keen awareness of motherhood is marked by self-doubt and an equally pronounced sense of self-judgment stemming from Victorian assumptions about maternal duty. <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> uses the diary as a means to check her own maternal behaviors, writing: <quote>though I keep laying down rules, I fear I have not sufficiently attended to them, though I hope I have been conscientious hitherto in discharging my duty to her.</quote> These rules draw in part on educational treatises of the day; in this entry she cites a text by the French authoress <persName ref="#Mme_DeSaussure">Madame Necker DeSaussure</persName>. <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s conclusions, however, are more rigid for herself than for <persName ref="#MA_Gaskell_Holland">Marianne</persName>. While insisting that <persName ref="#MA_Gaskell_Holland">Marianne</persName> not be pressured into walking or learning anything before she is ready, <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> repeatedly reinforces her commitment to her own duty to raise <persName ref="#MA_Gaskell_Holland">Marianne</persName> according to strict principles, such as telling her nothing but the absolute truth and selflessly placing her own needs after those of her daughter.</p>
+            <p>The dedication itself, where <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> hopes the diary <quote>will be reserved for [<persName ref="#MA_Gaskell_Holland">Marianne</persName>] as a token of her mother’s love and extreme anxiety in the formation of her little daughter’s character,</quote> demonstrates even at the outset the depth of introspection that <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> associates with the diary form, and with this manuscript in particular. Although undertaken to record <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s <quote>character in it’s earliest form</quote>, the diary is ostensibly also a record of Gaskell’s own maternal anxieties, and in being so, it is also suggests her fears of maternal mortality, which echo as an underlying theme throughout the diary, both in her repeated fears of loss and in her inclusion of prayers for her daughters’ safety. The brief <quote>God bless her</quote> that closes this entry marks a tendency to conclude her entries with prayers for her daughters’ health and safety that continues throughout the diary. At all times, the relationship between mother and daughters is colored by a pervasive fear of death. </p><p><persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s first entry is slightly over ten handwritten pages, and was likely written on the same date as the dedication; the handwriting is similar in size, saturation and ink color. <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> appears to have often written in the evenings when her children were in bed; this and several other entries indicate <quote>evening</quote> in the dateline. <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> writes in this entry about <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s bedtime routine; she was laid down awake, at 6pm every evening, and since the entry concludes with a comment about listening to <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s restful breathing during the time of writing, it seems likely that this entry was written sometime after 6 pm.</p>
+         </div>
          <div type="entry" n="1">
             <head>
                <date when="1835-03-10">March 10.<hi rend="superscript">th</hi> Tuesday
                      <time>Evening</time>. 1835.</date>
             </head>
-            <!-- Is the body element or the paragraph element more appropriate within each entry following the header? -->
+            
             <p>The day after tomorrow <persName ref="#MA_Gaskell_Holland"
                >Marianne</persName>
                will be <lb/>six months old. I wish I had begun my <lb/>little journal sooner, for
@@ -217,6 +228,15 @@
                been the music of my thoughts<lb/> all the time I have been writing.
                <!--prayer-->God,<lb/> bless her.<lb/></p>
          </div>
+         <div type="headnote" n="2" resp="#mjk">
+            <head>Entry 2</head>
+            <dateline>August 4, 1835</dateline>
+            <head>Children's Ages: <persName ref="#MA_Gaskell_Holland">Marianne</persName>, aged 11 months</head>
+            <head>Elapsed Time: Six months since the previous entry</head>
+            <head>Length of Entry: Seven handwritten pages</head>
+            <p>The second entry follows the pattern <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> established at the outset of simultaneously celebrating <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s accomplishments and fearing her loss. <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> has carefully delineated her objectives for raising <persName ref="#MA_Gaskell_Holland">Marianne</persName>, many of which emphasize allowing her to develop and learn at her own pace. To this end, <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> recounts that <persName ref="#MA_Gaskell_Holland">Marianne</persName> recognizes many words and individuals, but does not walk or talk. <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> also continues with the theme of maternal responsibility, her asserting rules that she <quote>tr[ies] to attend to &amp; make the servants attend to</quote>. The cheerful mood that begins the entry fades as <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> reflects on an attack of croup  from which <persName ref="#MA_Gaskell_Holland">Marianne</persName> has recently recovered. She recounts her fear of losing her daughter, which was no doubt strengthened by the memory of the stillbirth of her firstborn daughter fourteen months before <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s birth. <note resp="#mjk">The stillbirth occurred in <date when="1833-07">July of 1833</date>; at the time of this entry it had been just over two years since this loss.</note> The fear is quite poignant for <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>, and she copies a portion of a poem by <persName ref="#Caroline_Bowles_Southey">Caroline Bowles</persName>, <quote>To A Dying Infant</quote>, which was frequently used as a Victorian epitaph. The entry includes a prayer of thankfulness that <persName ref="#MA_Gaskell_Holland">Marianne</persName> was spared, which falls in this case mid-entry.
+            </p><p>This is the only entry in the diary to have a significant portion of the text missing. The top third of the second page has been removed, presumably cut because the edge of the remaining page is smooth. The second page [recto] shows marks where a small 2-3 fragment of the page is still attached to the binding of the codex. Given the typical spacing of <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s handwritten lines, her habit of noting words broken across the lines with equal signs, and the number and placement of the extant marks on the fragment, we can assume that approximately six lines of text are missing on the recto side of the page, and 5-6 lines on the verso. We can surmise that the all of the text on the surrounding pages, together with the section that remains from the lower section of the page, are all fragments of the second diary entry, and that the lost sections did not include the start or endpoint of another diary entry. This is clear because the following (third) entry, dated <date when="1835-10-04">October fourth 1835</date>, begins, <quote>I see it is exactly two months since I last wrote in this book,</quote> which indicates that this second entry, dated <date when="1835-08-04">August 4th</date>, is the one immediately preceding it.</p>
+         </div>
          <div type="entry" n="2">
             <head>
                <date when="1835-08-04">August 4th. Tuesday <time>Evening</time>. 1835.</date>
@@ -228,7 +248,7 @@
                or where to stop when talking<lb/> thinking or writing about her.<lb/></p>
             <p>In a few days she will be eleven months<lb/> old; and in some things I suppose she
                is<lb/> rather backward; in walking and talking<lb/> for instance. <hi
-                  rend="underline">I</hi> fancy she says Mama,<lb/> but I think it is only fancy.
+                  rend="underline">I</hi> fancy she says <persName ref="#Elizabeth_Stevenson_Gaskell">Mama</persName>,<lb/> but I think it is only fancy.
                She can<lb/> stand pretty steadily, taking hold of some=<!--split word--><lb/>=thing,
                for a few minutes and then she<lb/> pops down. But as I am not very<lb/> anxious for
                her to walk or talk earlier<lb/><pb n="13"/> than her nature prompts, and as her<lb/>
@@ -269,12 +289,12 @@
                And oh! after her visit to <placeName>Warrington</placeName><lb/> she was very very
                ill; and I was very<lb/> much afraid we should have lost her.<lb/> I did so try to be
                resigned; but I cannot<lb/> tell how I sickened at my heart, at<lb/> the thought of
-               seeing her no more here.<lb/>
+               seeing her no more here.<lb/><quote>
                <lg>
                   <l>Her empty crib to see</l>
                   <l>Her silent nursery,</l>
                   <l>Once gladsome with her mirth</l>
-               </lg></p>
+               </lg></quote></p>
             <pb n="16"/>
             <p>I am sometimes afraid of using expre<choice><sic>&#383;</sic><reg>s</reg></choice>sions<lb/> of gratitude to
                   <persName>God</persName>, for fear I should get<lb/> into the habit of using them
@@ -318,13 +338,21 @@
                without writing about my dear little<lb/> girl.</p>
             <pb n="19"/>
          </div>
+         <div type="headnote" n="3">
+            <head>Entry 3</head>
+            <dateline> October 4, 1835</dateline>
+            <head>Children's Ages: <persName ref="#MA_Gaskell_Holland">Marianne</persName>, aged 13 months</head>
+            <head>Elapsed Time: Two months since previous entry</head>
+            <head>Length of Entry: </head>
+            <p>At the time she wrote this entry, <persName ref="#MA_Gaskell_Holland">Marianne</persName> was the same age that <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> herself had been when she lost her own mother. The entry is preoccupied with <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s observations and decisions related to <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s physical health. She introduces her belief that in children, <quote>every change of temper might be deduced from some corresponding change in the body.</quote> She cites <persName ref="#Andrew_Combe">Combe</persName>’s <title>Physiology</title> as one source of this conviction and describes in detail <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s temperament. In addition to offering examples of <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s <quote>self-government</quote> and her improvement in patience, <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> also lays out again her mother-rules for raising <persName ref="#MA_Gaskell_Holland">Marianne</persName>. Due to <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s fragility, <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> plans to dress her warmly and keep her indoors during the winter, and she has stopped feeding <persName ref="#MA_Gaskell_Holland">Marianne</persName> milk, believing that thickened broth is a more <quote>strengthening</quote> food. The entry concludes with a lengthy prayer asking not only for <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s health, but for <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s own strength in the event that she should lose her only daughter.</p>
+         </div>
          <div type="entry" n="3">
             <head>
                <date when="1835-10-04">Sunday <time>Evening</time>
                   <unclear unit="word" n="1"/> October 4 1835</date>
             </head>
             <p>I see it is exactly two months since I<lb/> last wrote in this book, and I hope<lb/>
-               my little girl is improved both in<lb/> "body &amp; mind" since then. She
+               my little girl is improved both in<lb/> <quote>body &amp; mind</quote> since then. She
                suffers<lb/> a good deal from the changes of wea=<lb/><!--split word-->=ther we have
                had, and I have found<lb/> it nece<choice><sic>&#383;</sic><reg>s</reg></choice>sary to leave off milk as an<lb/> article of
                diet at present. She lives on<lb/> broth thickened with arrowroot, &amp;<lb/> I think
@@ -380,7 +408,7 @@
                see the diffe<!--word breaks across the line--><lb/>rence bodily feelings make in
                <persName ref="#MA_Gaskell_Holland">Mari<lb/> anne</persName>'s temper &amp; powers of
                   enducance.<!-- manuscript check... punctuation missing here--><lb/><pb n="23"/> I
-               was in a great measure prepared for this<lb/> by <persName ref="#Combe">Combe</persName>'s
+               was in a great measure prepared for this<lb/> by <persName ref="#Andrew_Combe">Combe</persName>'s
                   <title>Physiology</title>, but I had no idea how<lb/> every change of tempre might
                be deduced<lb/> from some corresponding change in the body.<lb/> Mothers are
                sometimes laughed at for attri<!--word breaks across the line--><lb/>buting little
@@ -466,7 +494,14 @@
                right in endeavouring, thou Lord<lb/> will ble<choice><sic>&#383;</sic><reg>s</reg></choice>s me and her, and lead her
                right<lb/> at last, and forgive her mother's errors. I pray<lb/> thee to ble<choice><sic>&#383;</sic><reg>s</reg></choice>s
                her through our Lord Jesus Christ.<lb/></p>
-            <!-- Ended here, 4-4-18 -->
+               </div>
+         <div type="headnote" n="4">
+            <head>Entry 4</head>
+            <dateline>December 28, 1835</dateline>
+            <head>Children's Ages: <persName ref="#MA_Gaskell_Holland">Marianne</persName>, aged 15 months</head>
+            <head>Elapsed Time: Two and a half months since the previous entry.</head>
+            <head>Length of Entry: Six handwritten pages</head>
+            <p><persName ref="#Elizabeth_Gaskell_Stevenson">Gaskell</persName> continues describing <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s development and her own convictions about parenting in this entry. According to the descriptions given here, the Gaskells were still calling <persName ref="#MA_Gaskell_Holland">Marianne</persName> <quote>baby</quote>. She would be an only child until 1837. <persName ref="#Elizabeth_Gaskell_Stevenson">Gaskell</persName> both celebrates behaviors that she interprets as the beginning of self-government, while also commenting at length on <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s recovery from an illness that is recounted in the previous entry. She mentions throughout <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s personality- that she recognizes family, will share food, rarely cries, etc., and mentions her growing vocabulary and general observation and attentiveness. Throughout the entry, in addition to learning more about <persName ref="#MA_Gaskell_Holland">Marianne</persName> - she still does not walk, and is still living on thickened broth, which <persName ref="#Elizabeth_Gaskell_Stevenson">Gaskell</persName> believes has improved her health - we continue to learn more about <persName ref="#Elizabeth_Gaskell_Stevenson">Gaskell</persName>’s maternal instincts. She is deeply self-critical and sets high standards for herself. In the opening of the entry, she criticizes herself for not having written sooner, although it has been only two months since the previous entry. She also claims that she <quote>ought not</quote> to be negligent in any regard toward her daughter, including in this instance, in writing about her in the journal. Of particular note in this entry is the penultimate sentence, in which <persName ref="#Elizabeth_Gaskell_Stevenson">Gaskell</persName> writes, <quote>I feel weak &amp; exhausted with writing, or I had meant to write more.</quote> This admission, in addition to underscoring the duty <persName ref="#Elizabeth_Gaskell_Stevenson">Gaskell</persName> feels to keep the diary, foregrounds the weight which maternal writing held for <persName ref="#Elizabeth_Gaskell_Stevenson">Gaskell</persName>. This writing is not merely record keeping or reflection; it is a deeply personal, emotionally invested act which requires energy of the author. Even paper motherhood is taxing. The entry, as many do, ends with a prayer, asking a blessing upon <persName ref="#MA_Gaskell_Holland">Marianne</persName>, and help for <persName ref="#Elizabeth_Gaskell_Stevenson">Gaskell</persName> as she fulfils her sense of duty.</p>
          </div>
          <div type="entry" n="4">
             <head>
@@ -490,11 +525,11 @@
                   reason="illegible" unit="chars" quantity="1"/> hands before our <lb/> faces, which
                always attracts her attention, <lb/>&amp; by so doing stops her little pa<choice><sic>&#383;</sic><reg>s</reg></choice>sion.
                <lb/>She tries to <!--check this word-->pull in down, &amp; I generally <lb/> ask her
-               "is Baby sorry for having been <lb/> impatient &amp;c.;" which she quite
+               <quote>is Baby sorry for having been <lb/> impatient &amp;c.;</quote> which she quite
                under=<lb/>=stands, and in general makes her little <lb/> a<choice><sic>&#383;</sic><reg>s</reg></choice>senting noise, &amp;
                ki<choice><sic>&#383;</sic><reg>s</reg></choice>ses me. She quite <lb/>understands me when I gently tell <lb/>her to be
-               patient about anything <!--punctuation mark here?--> "Wait <lb/>a little bit dear
-               little Baby; <persName ref="#Betsy_household">Betsy</persName> will <lb/>come down," always makes her still; <lb/>because for one
+               patient about anything <!--punctuation mark here?--> <quote>Wait <lb/>a little bit dear
+               little Baby; <persName ref="#Betsy_household">Betsy</persName> will <lb/>come down,</quote> always makes her still; <lb/>because for one
                thing, I have never <lb/>allowed her to be told any one was <lb/>going to do anything
                for her, unle<choice><sic>&#383;</sic><reg>s</reg></choice>s <pb n="30"/>
                <lb/>they <hi rend="underline">really</hi> were, and have tried to <lb/>speak as <hi
@@ -508,7 +543,7 @@
                naturally <lb/>when she sees that we are scrupulous <lb/>in respecting her little
                rights.</p>
             <pb n="31"/>
-            <p>A few weeks ago her <persName ref="#Grandma_Gaskell">grandmama</persName> sent <lb/>her some sweet biscuits, and at first <lb/>I
+            <p>A few weeks ago her <persName ref="#Margaret_Gaskell_Dimock">grandmama</persName> sent <lb/>her some sweet biscuits, and at first <lb/>I
                feared she was inclined to be selfish <lb/>with these luxuries, for she had never
                tasted <lb/>anything sweet before. She refused occasion=<lb/>=ally when we asked for
                a bit, instead of <lb/>offering with her own accord, but it wore off <lb/>and now she
@@ -534,8 +569,8 @@
                and dancing <lb/>with delight when she hears the bell which <lb/>is a signal for her
                to come in after din=<lb/>=ner.</p>
             <p><lb/>She will talk before she walks I think- <lb/>She can say pretty plainly
-                  "<persName ref="#Wm_Gaskell">Papa</persName>, dark <lb/><!--unsure-->stir, ship,
-               lamp, book, tea, sweep" &amp;c. - <lb/>leaving poor <hi rend="underline"><persName
+                  <quote><persName ref="#Wm_Gaskell">Papa</persName>, dark <lb/><!--unsure-->stir, ship,
+               lamp, book, tea, sweep</quote> &amp;c. - <lb/>leaving poor <hi rend="underline"><persName
                      ref="#Elizabeth_Stevenson_Gaskell">Mama</persName></hi> in the back ground.
                <lb/>She is delighted when we stir the fire or <pb n="33"/><lb/>make any <hi
                   rend="underline">commotion</hi> in the room. <lb/>I am sometimes surprised to find
@@ -543,7 +578,7 @@
                ourselves.</p>
             <p><lb/>For instance, I was one day speaking of <lb/><hi rend="underline">biscuits</hi>,
                but fearing if she understood <lb/>me, her mopes would be excited, I <lb/>merely
-               described them as "things that <lb/>were on the breakfast table this morning".
+               described them as <quote>things that <lb/>were on the breakfast table this morning</quote>.
                <lb/>(there were
                   none<!-- this incorrect notation - the word is "in", and it is legible albeit underneath what appears to be a blot of ink--><unclear
                   reason="illegible" unit="word" quantity="1"><supplied resp="#mjk"
@@ -552,18 +587,26 @@
                bis.</p>
             <p><lb/>She is I think a small child, &amp; I fear <lb/>not a very strong one. We hope
                to <lb/>take <sic>to</sic> her to the sea-side this spring.</p>
-            <p><lb/><!--insert prayer element here-->Oh may I constantly bear in mind the words "The
+            <p><lb/><!--insert prayer element here-->Oh may I constantly bear in mind the words <quote>The
                Lord hath given, &amp; the <lb/>Lord hath taken away. Ble<choice><sic>&#383;</sic><reg>s</reg></choice>sed be the <lb/>name
-               of the Lord." I feel weak &amp; <pb n="34"/><lb/>exhausted with writing, or I had
+               of the Lord.</quote> I feel weak &amp; <pb n="34"/><lb/>exhausted with writing, or I had
                <lb/>meant to write more. God help my <lb/>dearest child, and help her mother in
                <lb/>her earnest endeavours.</p>
          </div>
+         <div type="headnote" n="5">
+            <head> Entry 5</head>
+            <dateline>February 7, 1836</dateline>
+            <head>Children's Ages: <persName ref="#MA_Gaskell_Holland">Marianne</persName>, aged 17 months</head>
+            <head>Elapsed Time: Five weeks since the previous entry</head>
+            <head>Length of Entry: Nearly six handwritten pages</head>
+            <p>Although this is not the last entry in which Gaskell writes only about <persName ref="#MA_Gaskell_Holland">Marianne</persName>, it is the last one in which she has only one child. By the date of the following entry, <persName ref="#Elizabeth_Gaskell_Stevenson">Gaskell</persName> was already expecting her second daughter, <persName ref="#Meta_Gaskell">Margaret Emily (called Meta) </persName>. Six of the eleven journal entries, including this one, are written on Sundays, usually in the evenings. <persName ref="#Elizabeth_Gaskell_Stevenson">Gaskell</persName> opens this entry with a recollection of the sermon text, drawn from the Christmas narrative in <bibl>Luke</bibl>, which mentions a mother treasuring memory of her son <note>See textual note regarding the placement of this reading in February</note>. <persName ref="#Elizabeth_Gaskell_Stevenson">Gaskell</persName> connects the text with her own maternal practice of actively seeking to remember her children, and specifically credits her diary-keeping practice: <quote>I sometimes think I may find this little journal a great help in recalling the memory of my darling child if we should lose her.</quote></p><p>After this rather melancholy opening, <persName ref="#Elizabeth_Gaskell_Stevenson">Gaskell</persName> goes on to record <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s development according to her custom: first physical development, and then social and emotional. Between the lines of the text, however, <persName ref="#Elizabeth_Gaskell_Stevenson">Gaskell</persName> has inscribed another record, the record of her own re-reading of the journal. Beyond merely suggesting that rereading the journal <quote>would</quote> be helpful in the instance of <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s death, Gaskell actually rereads her diary while she is living, as indicated by the sentence, <quote>I see I have generally begun my journal with describing the bodily progress she has made, and I will keep to the proper order of things.</quote> Thus, even in writing the diary itself, <persName ref="#Elizabeth_Gaskell_Stevenson">Gaskell</persName> is prescribing and following maternal rules. The diary too, must follow a carefully planned form in order to be successful. It must be <quote>proper</quote>.</p><p><persName ref="#Elizabeth_Gaskell_Stevenson">Gaskell</persName> is on the whole pleased with <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s development here, claiming that her personality promises to be affectionate and pleasant, although she bemoans her disobedience. The remaining diary entry emphasizes obedience on two levels: <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s disobedience in trying to traverse a gap between two chairs, resulting in a fall, and <persName ref="#Elizabeth_Gaskell_Stevenson">Gaskell</persName>’s own disobedience to her perceived higher calling as a mother. <persName ref="#Elizabeth_Gaskell_Stevenson">Gaskell</persName> ends this entry with a rather lengthy prayer element, in which she bemoans the <quote>sin that doth so easily beset me,</quote> anger, as the rest of the entry would suggest, and prays for help to control herself, particularly for her daughter. She “intends” herself to be patient, just as she <quote>intends</quote> <persName ref="#MA_Gaskell_Holland">Marianne</persName> to be independent, and as in much of the journal, she takes the responsibility herself, though calling on a higher power to support her goals. </p>
+         </div>
          <div type="entry" n="5">
             <head>
-               <date when="1836-02-04">Feb<add place="above"><hi rend="underline">ry</hi></add> 7<hi
+               <date when="1836-02-07">Feb<add place="above"><hi rend="underline">ry</hi></add> 7<hi
                      rend="superscript">th</hi>.
                   1836.<!-- how to code the superscript th with the period below?--></date>
-            </head>
+            </head><note resp="#mjk">The first extant letter contemporaneous to the diary occurs between these entries, dated <date when="1836-05-12">May 12, 1836</date>; it was written to <persName ref="#Elizabeth_Gaskell_Holland">Elizabeth Gaskell</persName>, her sister-in-law, from Sandlebridge, a home of <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>'s Holland relatives. The letter mentions that <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> had been reading Wordsworth at the time.</note>
             <p>This morning we heard a sermon from <lb/>the text "And his mother kept all these
                <lb/>sayings in her heart." Oh! how very, very <lb/>true it is - and I sometimes
                think I may <lb/>find this little
@@ -612,7 +655,7 @@
                <lb/>is hurt or sorry, she strokes their face, <lb/>saying "poor <persName
                   ref="#Elizabeth_Stevenson_Gaskell">Mama</persName>, poor <persName
                   ref="#Wm_Gaskell">Papa</persName> &amp;c"- <lb/>Her qreat delight just now is in
-               make-<lb/>believe letters; reading her own from <lb/><persName ref="#Hannah_Lumb"
+               make-<lb/>believe letters; reading her own from <lb/><persName ref="#Hannah_Holland_Lumb"
                   >Aunt Lumb</persName>, and introducing the names <lb/>of all the things she knows,
                such as<lb/>"flowers, geese &amp;c. <choice>
                   <supplied resp="#mjk">"</supplied>
@@ -640,8 +683,17 @@
                <lb/>her mother, who in sorrow confe<choice><sic>&#383;</sic><reg>s</reg></choice>ses her fault <lb/>and prays for thy
                guidance in her future <lb/>conduct. Oh Lord God Almighty ble<choice><sic>&#383;</sic><reg>s</reg></choice>s my <lb/>child,
                as thou seest fit &amp; best for her, <lb/>but may she hear the glad words when
-               <lb/>her mortal life is done, "Well come good <lb/>&amp; faithful servant, enter thou
-               into the joy of thy Lord." </p>
+               <lb/>her mortal life is done, <quote>Well come good <lb/>&amp; faithful servant, enter thou
+               into the joy of thy Lord.</quote> </p>
+         </div>
+         <div type="headnote" n="6">
+            <head>Entry 6</head>
+            <dateline>November 5, 1836</dateline>
+            <head>Children's Ages: <persName ref="#MA_Gaskell_Holland">Marianne</persName>, aged 26 months old; <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> was expecting <persName ref="#Meta_Gaskell">Meta</persName> at the time.</head>
+            <head>Elapsed Time: Nine months have passed since the last entry.</head>
+            <head>Length of Entry: Eleven and a half handwritten pages.</head>
+            <p>The sixth entry foregrounds <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s belief that <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s behavior is heavily dependent upon and affected by her physiological status. She follows her established pattern, beginning with a description of <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s physical development, followed by her intellectual and moral development. The entry’s physical description surrounds <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s learning to walk, which she did at the late age of 22 months old. According to <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>, upon the advice of <persName ref="#Richard_Deane">Dr. Richard Deane</persName>, a partner in her Uncle <persName ref="#Peter_Holland">Peter Holland</persName>’s medical practice in <placeName>Knutsford</placeName>, <persName ref="#MA_Gaskell_Holland">Marianne</persName> was kept from being put on her feet during a summer visit in 1836, when she would have been nearly 21 months old. Following a “violent attack” which the Gaskells treated with a warm bath and a dose of castor oil, <persName ref="#MA_Gaskell_Holland">Marianne</persName> cut her eye teeth, and subsequently <quote>began almost suddenly to walk.</quote> The narrative of this milestone step exemplifies <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s attitudes toward development throughout the diary: while eager to see <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s achievements, <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> insists on letting her daughters develop at their own pace, and concerns herself primarily with helping <persName ref="#MA_Gaskell_Holland">Marianne</persName> to develop habits of perseverance and patience, rather than insisting on her gaining any particular knowledge or skills.</p>
+            <p>The remainder of the diary entry emphasizes <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s intellectual and moral development; she enjoys stories and chatters often, but <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>, as with walking, intends to wait on formal instruction until <persName ref="#MA_Gaskell_Holland">Marianne</persName> is over 3 years old. She is pleased with her daughter’s awareness of right and wrong, commenting that <persName ref="#MA_Gaskell_Holland">Marianne</persName> often talks to herself about being a <quote>dood dirl</quote> [good  girl], and even recording a situation in which she observed an adult engaged in something wrong and told her mother about it. Although she shows evident pleasure in <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s growth, <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> again closes the entry with anxious maternal worries. Recalling the unexpected death of an acquaintance’s only child, she concludes with the observation of <quote>how very precious may the remembrance of [events recorded in the journal] become,</quote> and a prayer for her strength and resignation in the face of possible loss. </p>
          </div>
          <div type="entry" n="6">
             <head>
@@ -656,7 +708,7 @@
                the dear little <lb/>subject since writing last. I do not think <pb n="40"/><lb/>her
                health has had any material draw-back. <lb/>though for some time her languor in
                attempt=<lb/>=ing to walk caused me some uneasine<choice><sic>&#383;</sic><reg>s</reg></choice>s. <lb/>When we were at
-                  <placeName ref="#Knutsford">Knutsford</placeName> (in <date>May</date>) <persName ref="#Wm_Deane"
+                  <placeName ref="#Knutsford">Knutsford</placeName> (in <date>May</date>) <persName ref="#Richard_Deane"
                      >W<hi rend="superscript">m</hi>. <lb/>Deane</persName> quite forbid her being
                put upon her <lb/>feet and the consequence of course was that <lb/>she lost the
                little idea of walking which she <lb/>had before. At <placeName ref="#Prospect_Hill"
@@ -748,7 +800,7 @@
                <lb/>faults may be. She knows when she has had <lb/>enough. She gave me a very pretty
                little instance<lb/> of unselfishne<choice><sic>&#383;</sic><reg>s</reg></choice>s when we were last at
                   <placeName ref="#Knutsford">Knutsford</placeName>
-               <lb/>which pleased me very much. We were calling <lb/>at <persName ref="#Mrs_Deane"
+               <lb/>which pleased me very much. We were calling <lb/>at <persName ref="#MaryAnn_Deane"
                      >Mr<hi rend="superscript">s</hi>. Deane</persName>s who has two children, one
                about <lb/>9 months older, the other about that much <lb/>younger than <persName
                   ref="#MA_Gaskell_Holland">Marianne</persName>. A few comfits <lb/> were thrown on
@@ -816,6 +868,16 @@
                not causele<choice><sic>&#383;</sic><reg>s</reg></choice>sly afflict. Ble<choice><sic>&#383;</sic><reg>s</reg></choice>s her <lb/>in every way I earnestly beseech
                thee, through <lb/>Jesus Christ our Lord.</p>
          </div>
+         <div type="headnote" n="7">
+            <head>Entry 7</head>
+            <dateline>December 9, 1837</dateline>
+            <head>Children's Ages: <persName ref="#MA_Gaskell_Holland">Marianne</persName>, aged 3 years, 3 months; <persName ref="#Meta_Gaskell">Meta</persName>, aged 10 months</head>
+            <head>Elapsed Time: Thirteen months since the previous entry.</head>
+            <head>Length of Entry: Twelve handwritten pages</head>
+            <p>The seventh entry spans twelve handwritten manuscript pages, one of the longest entries in the diary. In this entry <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> introduces two new individuals; her second daughter, <persName ref="#Meta_Gaskell">Margaret Emily</persName>, called <quote>Meta</quote>, and her maternal aunt, <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s adoptive <quote>more-than-mother</quote> <persName ref="#Hannah_Lumb">Hannah Lumb</persName>. <persName ref="#Hannah_Lumb">Aunt Lumb</persName> was a *widowed woman who raised <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> after her <persName ref="#Elizabeth_Holland_Stevenson">mother</persName>’s death when she was only thirteen months old. Shortly following the birth of <persName ref="#Meta_Gaskell">Meta</persName>, <persName ref="#Hannah_Lumb">Aunt Lumb</persName> suffered a stroke that marked the beginning of her final illness. <persName ref="#MA_Gaskell_Holland">Marianne</persName> had been staying with her at the time, during her <persName ref="#Elizabeth_Stevenson_Gaskell">mother</persName>’s confinement, and both <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> and one-month-old <persName ref="#Meta_Gaskell">Meta</persName> traveled to be with <persName ref="#MA_Gaskell_Holland">Marianne</persName> and <persName ref="#Hannah_Lumb">Aunt Lumb</persName> early in March until her death in May. These events, <persName ref="#Meta_Gaskell">Meta</persName>’s birth and <persName ref="#Hannah_Lumb">Aunt Lumb</persName>’s death, are alluded to by <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> early in the entry, when she writes that “sad excuses” in some part account for the year-long lapse between this diary entry and the one that preceded it. </p>
+            <p>Much of the entry is told looking back on the months that have passed between the entries, during which time <persName ref="#Meta_Gaskell">Meta</persName> was born, and <persName ref="#Hannah_Lumb">Aunt Lumb</persName> passed away. The events were closely connected, in fact; <persName ref="#MA_Gaskell_Holland">Marianne</persName> had gone to stay with <persName ref="#Hannah_Lumb">Aunt Lumb</persName> had a paralytic stroke, and <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> traveled to <placeName>Knutsford</placeName>, with newborn <persName ref="#Meta_Gaskell">Meta</persName> and a servant, Betsy, and remained there in rented rooms with both girls for nearly two months until <persName ref="#Hannah_Lumb">Aunt Lumb</persName>’s death on May 1st. A letter, dated <date when="1837-03-18">18 March 1837</date>, recounts <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s experience of <persName ref="#Hannah_Lumb">Aunt Lumb</persName>’s illness. There is also a second letter, written to <persName ref="#Holbrook_Gaskell">Holbrook Gaskell</persName>, tentatively dated in 1837 as <persName ref="#MA_Gaskell_Holland">Marianne</persName> is the only child mentioned; part of the letter is missing. The letter details plans for the possibility of negotiating a new servant.</p>
+            <p>The diary entry looks back on these events and comments tenderly on <persName ref="#Hannah_Lumb">Aunt Lumb</persName>’s care of both <persName ref="#MA_Gaskell_Holland">Marianne</persName> and <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>, and recounts <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s careful management of the situation with <persName ref="#MA_Gaskell_Holland">Marianne</persName>, who was not told that <persName ref="#Hannah_Lumb">Aunt Lumb</persName> had died. The later part of the entry discusses the differences between the two sisters, commenting that <persName ref="#Meta_Gaskell">Meta</persName>, already ten months old, is livelier and physically developing earlier than <persName ref="#MA_Gaskell_Holland">Marianne</persName>, crawling “famously”. <persName ref="#MA_Gaskell_Holland">Marianne</persName>, to <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s pleasure, has a very “acute” conscience, and is becoming “useful and independent,” often willing to share with her sister and generally obedient and cheerful. <persName ref="#Meta_Gaskell">Meta</persName>, however, is <quote>saucy</quote>, <quote>clever</quote>, and <quote>not so gentle</quote> as her elder sister.</p>
+         </div>
          <div type="entry" n="7">
             <head>
                <date when="1837-12-09">Dec<hi rend="superscript">r</hi>. 9<hi rend="superscript"
@@ -828,7 +890,7 @@
                1837</date>, and I had hardly recovered <lb/>my strength when (<date
                   when="1837-03-10">March 10<hi rend="superscript">th</hi>.</date>) I received a
                sum=<lb/>=mons to <placeName ref="#Knutsford">Knutsford</placeName>. My dearest
-                  <persName ref="#Hannah_Lumb">Aunt Lumb</persName>, my <lb/>more than mother had
+                  <persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>, my <lb/>more than mother had
                had a paralytic stroke <lb/>on <date when="1837-03-08">Wednesday March 8<hi
                      rend="superscript">th</hi>.</date> For eight weeks I re=<lb/>=mained in
                lodgings at <placeName ref="#Knutsford">Knutsford</placeName>, with my two <lb/>little
@@ -842,7 +904,7 @@
                <pb n="50"/><lb/>and I went into <placeName ref="Wales">Wales</placeName> for three
                weeks, leaving <persName ref="#MA_Gaskell_Holland">Mari=<lb/>anne</persName> with
                   <persName ref="#Bessy_Holland">Bessy Holland</persName>, and <persName
-                  ref="#Meta_Gaskell">Meta</persName> with <persName ref="#Mrs_Deane">M<hi
+                  ref="#Meta_Gaskell">Meta</persName> with <persName ref="#MaryAnn_Deane">M<hi
                      rend="superscript">rs</hi>. <lb/>Deane</persName>. We have lost our servant
                <persName ref="#Betsy_household">Betsy</persName>, who was <lb/>obliged to leave us, being wanted at home, in conse=<lb/>=quence
                of the death of a sister. But we still <lb/>keep her as a friend, and she has been to
@@ -853,69 +915,69 @@
                <lb/>changes in our domestic relations, that if this <lb/>book be given to <persName
                   ref="#MA_Gaskell_Holland">Marianne</persName>, (as I hope it will be) <lb/>after
                my death she may understand more fully <lb/>any thing I may have occasion to allude
-               to. <lb/>When my most dearly loved <persName ref="#Hannah_Lumb">Aunt</persName> left
+               to. <lb/>When my most dearly loved <persName ref="#Hannah_Holland_Lumb">Aunt</persName> left
                this house <lb/>for the last time, (<date when="1837-01-15">Jan<hi rend="superscript"
                      >ry</hi> 15<hi rend="superscript">th</hi> 1837.</date>) she took <persName
                   ref="#MA_Gaskell_Holland">Marianne</persName>
                <lb/>back with her to <placeName ref="#Knutsford">Knutsford</placeName>; to stay with
                her over <lb/>the time of my approaching confinement. As <lb/><persName
-                  ref="#Hannah_Lumb">Aunt Lumb</persName>'s eyesight had failed her very much, <pb
+                  ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>'s eyesight had failed her very much, <pb
                   n="51"/>
                <lb/>she was unable to write; so I had no particular ac=<lb/>counts of my darling;
                only general news of her health.</p>
             <p>
                <lb/>But since, I have asked my cousins &amp;c to tell me <lb/>all the particulars of
                the seven weeks that <persName ref="#MA_Gaskell_Holland">M.A</persName> staid
-               <lb/>with <persName ref="#Hannah_Lumb">Aunt Lumb</persName> before she was seized
+               <lb/>with <persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName> before she was seized
                with her last <lb/>illne<choice><sic>&#383;</sic><reg>s</reg></choice>s. <!-- long gap-->They say, that <persName
-                  ref="#Hannah_Lumb">Aunt Lumb</persName> seemed so very <lb/>fond of "her little
+                  ref="#Hannah_Holland_Lumb">Aunt Lumb</persName> seemed so very <lb/>fond of "her little
                   <persName ref="#MA_Gaskell_Holland">Marianne</persName>". One day some one met
-               <lb/>my <persName ref="#Hannah_Lumb">Aunt</persName> out of doors; she had been about
+               <lb/>my <persName ref="#Hannah_Holland_Lumb">Aunt</persName> out of doors; she had been about
                an hour <lb/>out, and said she was hastening home, for she did <lb/>not think she had
                left <persName ref="#MA_Gaskell_Holland">M.A.</persName> so long before; The little
-               <lb/>girl slept in a cot by <persName ref="#Hannah_Lumb">Aunt Lumb</persName>'s bed;
-                  <persName ref="#Hannah_Lumb">Aunt Lumb</persName>
+               <lb/>girl slept in a cot by <persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>'s bed;
+                  <persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>
                <lb/>gave her, her breakfast, sitting on her knee, by a win=<lb/>=dow, with many
-               loving little jokes between them. <lb/><persName ref="#Hannah_Lumb">Aunt
+               loving little jokes between them. <lb/><persName ref="#Hannah_Holland_Lumb">Aunt
                   Lumb</persName> walked out with her, when the wea=<lb/>ther permitted. And it was
-               to <persName ref="#Hannah_Lumb">Aunt Lumb</persName>, that <persName
+               to <persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>, that <persName
                   ref="#MA_Gaskell_Holland">Marianne</persName> ran when in any little
                distre<choice><sic>&#383;</sic><reg>s</reg></choice>s; and to <lb/>hr that she always clung.</p>
-            <p><lb/>The very day <persName ref="#Hannah_Lumb">Aunt Lumb</persName> was seized with
+            <p><lb/>The very day <persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName> was seized with
                her fatal <pb n="52"/>
                <lb/>attack, she had been with <persName ref="#MA_Gaskell_Holland"
-                  >Marianne</persName> in <persName ref="#Mrs_Deane">M<hi rend="underline">rs</hi>
+                  >Marianne</persName> in <persName ref="#MaryAnn_Deane">M<hi rend="underline">rs</hi>
                   <lb/>Deane</persName>'s poney-carriage to the <placeName ref="#Infant_School">Infant
                school</placeName>, and <lb/>was so pleased with <persName ref="#MA_Gaskell_Holland"
                   >Marianne</persName>'s pleasure.</p>
             <p><lb/>That evening about 1/2 past 10, she had a para=<lb/>=lytic stroke. <persName
                   ref="#MA_Gaskell_Holland">M.A.</persName> was as usual in her little sofa <lb/>bed
-               by <persName ref="#Hannah_Lumb">Aunt Lumb</persName>'s, and remained there till
+               by <persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>'s, and remained there till
                <lb/>morning, when she wanted according to her custom <lb/>to come into <persName
-                  ref="#Hannah_Lumb">Aunt Lumb</persName>'s bed. But <persName ref="#Hannah_Lumb"
+                  ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>'s bed. But <persName ref="#Hannah_Holland_Lumb"
                   >Aunt Lumb</persName>
                <lb/>did not heed the little voice that kept petitioning <lb/>to be taken in, and
-               when they told her "<persName ref="#Hannah_Lumb">Aunt Lumb</persName> was poorly."
-               she kept saying "<persName ref="#Hannah_Lumb">Aunt Lumb</persName>
+               when they told her "<persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName> was poorly."
+               she kept saying "<persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>
                <lb/>tell me if you are poorly." Of course she was <lb/>sent to a friend's till I
                came.</p>
             <p><lb/>We were confined to two little bed-rooms in that <lb/>unhappy eight weeks, and
                the little girls could <lb/>hardly ever go out. But <persName
                   ref="#MA_Gaskell_Holland">Marianne</persName> was a good <lb/>little comfort,
                though in such trying circumstances <lb/>to a child's temper. <persName
-                  ref="#Hannah_Lumb">Aunt Lumb</persName> asked to see her, about a week after her
+                  ref="#Hannah_Holland_Lumb">Aunt Lumb</persName> asked to see her, about a week after her
                first seizure; and <lb/>I took her in. But the room was darkened <pb n="53"
-               /><lb/>gloomy; <persName ref="#Hannah_Lumb">Aunt Lumb</persName> had had leeches to
+               /><lb/>gloomy; <persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName> had had leeches to
                her head <lb/>and it was bound up, almost corpse-like, with <lb/>a handkerchief.
                   <persName ref="#MA_Gaskell_Holland">Marianne</persName> was frightened I
-               <lb/>think; and I was afraid <persName ref="#Hannah_Lumb">Aunt Lumb</persName>,
+               <lb/>think; and I was afraid <persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>,
                though not <lb/>herself, and blind; (alas!) perceived it. The next time <lb/>she
                begged to have a night-cap put on, and had <lb/>a fig put behind her pillow, and
                   <persName ref="#MA_Gaskell_Holland">M.A.</persName> was recon=<lb/>ciled, and
                played about the room. She went in seve=<lb/>=ral times, and her coming always gave
-                  <persName ref="#Hannah_Lumb">Aunt <lb/>Lumb</persName> pleasure. It was such a
+                  <persName ref="#Hannah_Holland_Lumb">Aunt <lb/>Lumb</persName> pleasure. It was such a
                beautiful spring <lb/>morning, that <date when="1837-05-01">1<hi rend="superscript"
-                     >st</hi> of May</date>, when <persName ref="#Hannah_Lumb">Aunt Lumb</persName>
+                     >st</hi> of May</date>, when <persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>
                died; <lb/> such a contrast to the dreary weather before.</p>
             <p><lb/>On the 3<hi rend="superscript">rd</hi> we all came back to <placeName
                   ref="#Manchester">Manchester</placeName>; and <lb/>then I rather began to fear
@@ -924,21 +986,21 @@
                darling! She was fretful, and rather <lb/>obstinate sometimes. But <persName
                   ref="#Betsy_household">Betsy</persName> was leaving us <pb n="54"/><lb/>and a new
                servant coming, which I do think is <lb/>a trial for a child. It soon wore off with
-               patient; and <lb/>gentle treatment from her <persName ref="#Liz_Gaskell_Holland"
+               patient; and <lb/>gentle treatment from her <persName ref="#Elizabeth_Gaskell_Holland"
                   >Aunt Eliza</persName>, who was <lb/>here at the time, comforting and being of
-               use. <lb/>We have never told her that <persName ref="#Hannah_Lumb">Aunt
+               use. <lb/>We have never told her that <persName ref="#Hannah_Holland_Lumb">Aunt
                   Lumb</persName> was dead, <lb/>fearing that a child's material ideas, might
                connect <lb/>gloom with the idea of one so ble<choice><sic>&#383;</sic><reg>s</reg></choice>sed. "Gone to the <lb/>rest
                prepared for the People of God!" But I often talk <lb/>of her, and try to keep alive
                the reeducation<!--unsure of word--> of her <lb/>love and tenderne<choice><sic>&#383;</sic><reg>s</reg></choice>s, and show
-               her <persName ref="#Hannah_Lumb">Aunt Lumb</persName>'s <lb/>picture, that even her
+               her <persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>'s <lb/>picture, that even her
                bodily appearance (a fit shrine <lb/>for so chastened and pure a spirit) may stand
                <lb/>forth clear and distinct among her childish remem=<lb/>=brances. One day we were
-               talking, and she said "<persName ref="#Hannah_Lumb">Aunt <lb/>Lumb</persName> was
+               talking, and she said "<persName ref="#Hannah_Holland_Lumb">Aunt <lb/>Lumb</persName> was
                poorly;" "No," I said, "she is well and happy <lb/>now." Is she, replied my dear
                little girl, "Oh then <lb/>I am so glad; let me go and coax her." And <lb/>since she
                has been at Knutsford (in September)<pb n="55"/><lb/>she has told me <persName
-                  ref="#Hannah_Lumb">Aunt Lumb</persName> did not live with <lb/><persName
+                  ref="#Hannah_Holland_Lumb">Aunt Lumb</persName> did not live with <lb/><persName
                   ref="#Abigail_Holland">Aunt Ab</persName> now; she had left that house. I longed
                to <lb/>say she was "gone to a house not made with hands, <lb/>eternal, in the
                heavens." But I thought I had better <lb/>not, for to her it would have been
@@ -1026,6 +1088,16 @@
                <lb/>for without thee I have no strength. Amen.</p>
             <pb n="61"/>
          </div>
+         <div type="headnote" n="8">
+            <head>Entry 8</head>
+            <dateline>March 25, 1838</dateline>
+            <head>Children's Ages: <persName ref="#MA_Gaskell_Holland">Marianne</persName>, aged 3 and a half; <persName ref="#Meta_Gaskell">Meta</persName>, aged 13 months</head>
+            <head>Elapsed Time: Three and a half months since the previous entry.</head>
+            <head>Length of Entry: Five and a half handwritten pages.</head>
+            <p>In the dateline of this entry, the year is obscured, so that an 8 is superimposed over the seven. As the entry follows an entry for <date when="1837-12">December 1837</date>, however, and the entirety of the diary continues in chronological sequence, it is clear that this entry was written in <date when="1838-03-25">1838</date>. Although <persName ref="#Meta_Gaskell">Meta</persName> is at this time over a year old, <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> appears rushed in this entry and writes only about <persName ref="#MA_Gaskell_Holland">Marianne</persName>, who is to begin “Infant School.” <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s maternal responsibility surrounding the education of her daughters is a fitting topic in the wake of <persName ref="#Queen_Victoria">Queen Victoria</persName>’s accession to the throne nine months earlier, in <date when="1837-06">June 1837</date>. The coronation had not yet taken place, but the country must have been watching closely as they prepared for rule under a female monarch. The entry foregrounds <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s indecisiveness or doubt in maternal choices, and she uses the journal to weigh both sides of the decision. On one hand, she worries, <persName ref="#MA_Gaskell_Holland">Marianne</persName> may learn things at school from the other children that she would not wish her to know, and may care less for her home, but on the other hand, <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> reasons, school will give her the opportunity to learn obedience and perseverance, which are characteristics that <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> and her <persName ref="#Wm_Gaskell">husband</persName> are firmly devoted to. They are not concerned with <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s learning much in the school, so much as her developing the necessary habits that will underly her learning later. </p>
+            <p>The entry builds upon <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s concerns with <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s education by discussing her initial mother-daughter conversations regarding religious belief. <persName ref="#MA_Gaskell_Holland">Marianne</persName> has attended her first Chapel service, on Christmas Day in <date when="1837">1837</date>, at age 3, and <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> is pleased with her understanding of the teachings so far. <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s language is developing; she knows her letters and can spell a few words, and recite a poem. </p>
+            <p>The entry’s closing allows an intriguing glimpse into the connections <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> makes between this early diary and her later writing career. In the final paragraph, where she bemoans the lack of time to write anything about <persName ref="#Meta_Gaskell">Meta</persName>, <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> writes pointedly, <quote>I must devote my next ‘chapter’ to her.</quote> This is the first moment in the diary in which she likens her writing to its commercial counterpart. This connection notably follows <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s first publication. The previous year, in <date when="1837-01">January 1837</date>, only a month before <persName ref="#Meta_Gaskell">Meta</persName>’s birth, <quote>Sketches Among The Poor,</quote> a poem co-written by the Gaskells, had appeared in <bibl>Blackwoods</bibl>’. </p>
+         </div>
          <div type="entry" n="8">
             <head>
                <date when="1838-03-25">March 25<hi rend="superscript">th</hi>. 1838. Sunday
@@ -1074,11 +1146,11 @@
                <!-- encode the emdash? --> go to <lb/>bed," &amp;c. But now we talk together in a
                low <lb/>tone, and she likes to hear about him, and refers <lb/>very properly to him
                as the "Giver of every good <lb/>thing." (Not her words, of course.) Her <persName
-                  ref="#Liz_Gaskell_Holland">Aunt Liz=<lb/>=zy</persName> is coming here soon, and tonight I
-               told <lb/>her we should have <persName ref="#Liz_Gaskell_Holland">Aunt Lizzy</persName>here in
+                  ref="#Elizabeth_Gaskell_Holland">Aunt Liz=<lb/>=zy</persName> is coming here soon, and tonight I
+               told <lb/>her we should have <persName ref="#Elizabeth_Gaskell_Holland">Aunt Lizzy</persName>here in
                three <lb/>weeks, if we were all well. "But whom must <lb/>we ask to keep us well."
                (M.A.)"God." After a <lb/>pause she added "I shall ask God to keep <lb/><persName
-                  ref="#Liz_Gaskell_Holland">Aunt Lizzy</persName> well too." She went to chapel for <lb/>the
+                  ref="#Elizabeth_Gaskell_Holland">Aunt Lizzy</persName> well too." She went to chapel for <lb/>the
                first and only time on <date>Christmas day</date>, &amp; <lb/>was I think a little
                tired, though she likes <lb/>much to talk about it.</p>
             <p>She has picked up all her large letters, <lb/>and can arrange them so as to make Dog
@@ -1109,6 +1181,16 @@
                   <sic>by</sic>
                </choice> thine O Lord. Amen.</p>
          </div>
+         <div type="headnote" n="9">
+            <head>Entry 9</head>
+            <dateline>April 8, 1838</dateline>
+            <head>Children's Ages: <persName ref="#MA_Gaskell_Holland">Marianne</persName>, aged 3 and a half; <persName ref="#Meta_Gaskell">Meta</persName>, aged 14 months</head>
+            <head>Elapsed Time: Two weeks since the previous entry.</head>
+            <head>Length of Entry: Four and two halves handwritten pages.</head>
+            <p>The ninth entry draws comparisons between the two daughters, and is particularly concerned with health, and again, with the possibility of loss. <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> opens the entry by recounting her fright at <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s recent <quote>attack of croup,</quote> which likely occurred only days after the previous entry. This illness was deeply significant for <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>; it forms the primary substance of a contemporaneous letter, dated <date when="1838-03-30">March 30, 1838</date> to <persName ref="#Elizabeth_Gaskell_Holland">Eliza (Aunt Lizzy) Gaskell</persName>, <persName ref="#Wm_Gaskell">William Gaskell</persName>’s then unmarried sister, and one of <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s most frequent early correspondents. Gaskell also comments in both sources (diary and letter) about the death of <persName ref="#Edward_Deane">Eddy Deane</persName>, whose father, <persName ref="#Richard_Deane">Dr. Richard Deane</persName>, was <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s uncle <persName ref="#Peter_Holland">Peter Holland</persName>’s partner in <placeName>Knutsford</placeName>. <persName ref="#Edward_Deane">Eddy Deane</persName> was nine months older than <persName ref="#MA_Gaskell_Holland">Marianne</persName> and had been ill with croup the same night as <persName ref="#MA_Gaskell_Holland">Marianne</persName> and died four days later. G<persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> interjects a prayer for resignation into the account following this story. </p>
+            <p>This entry marks another instance of <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s own rereading of her journal. As she turns from recording <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s illness to fulfill her promise of devoting the next <quote>chapter</quote> to <persName ref="#Meta_Gaskell">Meta</persName>, she writes <quote>I have been amused on looking at my former writing in this book to perceive the difference between the two little girls.</quote> <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> has done this before, commenting on her own perception of the diary as she rereads it before continuing its composition.</p>
+            <p><persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> continues with a description of <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s development, much like those earlier in the diary for <persName ref="#MA_Gaskell_Holland">Marianne</persName>. <persName ref="#Meta_Gaskell">Meta</persName> is independent, crawling and pulling herself up, playing and making noise. She is more fretful than <persName ref="#MA_Gaskell_Holland">Marianne</persName>, and <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> reasserts her former <quote>rules,</quote> although in Meta’s case, she fears that the servants are spoiling her rather than attending to them. <persName ref="#Meta_Gaskell">Meta</persName> eagerly wants what her sister has, and according to the entry, eats nearly everything she is given as well. The entry ends with a brief comment on the sisters’ relationship, this time worrying that although they get along well, <persName ref="#MA_Gaskell_Holland">Marianne</persName> on occasion hurts <persName ref="#Meta_Gaskell">Meta</persName> knowingly. The entry closes with another prayer for their preservation, and a dash, perhaps indicating a hurried closing. </p>
+         </div>
          <div type="entry" n="9">
             <head>
                <date when="1838-04-08">April 8. Sunday <time>Evening</time>.</date>
@@ -1121,13 +1203,13 @@
                (she <pb n="67"/><lb/>had had a cold in her head, and had <lb/>seemed pale, and
                languid all day.) We <lb/>gave her <!--unclear-->21 drops of <unclear>Ipec:
                   Wince</unclear>, and <persName ref="#Sam_Gaskell">Sam</persName>
-               <lb/>&amp; <persName ref="#Mr_Partington">M<hi rend="superscript">r</hi>. Partington</persName> both came.
+               <lb/>&amp; <persName ref="#James_Partington">M<hi rend="superscript">r</hi>. Partington</persName> both came.
                They said <lb/>we had done quite rightly, and ordered <lb/>some calomel powders. Of
                course so much <lb/>medicine, and the nece<choice><sic>&#383;</sic><reg>s</reg></choice>sary confinement <lb/>in the house
                have made her not so strong, <lb/>and prevented her from going to school, but <lb/>we
                have reason to be most thankful that <lb/>she is spared to us, and I do earnestly
                <lb/>and humbly hope that I am truly thank<lb/>=ful. Poor little <persName
-                  ref="#Eddy_Deane">Eddy Deane</persName> was taken ill of <lb/>croup on the same
+                  ref="#Edward_Deane">Eddy Deane</persName> was taken ill of <lb/>croup on the same
                night; and died on <lb/>the following Monday. (Oh! may I bring <lb/>myself to a
                thorough resignation about <pb n="68"/><lb/>the afflictions which God may see fit
                <lb/>to send me; and Oh Lord, while I pray thee <lb/>to preserve my darling children,
@@ -1179,6 +1261,15 @@
                <lb/>the love of power, but of course we try to check <lb/>it. May God ble<choice><sic>&#383;</sic><reg>s</reg></choice>s
                &amp; <hi rend="underline">preserve</hi> them both - </p>
          </div>
+         <div type="headnote" n="10">
+            <head>Entry 10</head>
+            <dateline>October 14, 1838</dateline>
+            <head>Children's Ages: <persName ref="#MA_Gaskell_Holland">Marianne</persName>, aged 4 years; <persName ref="#Meta_Gaskell">Meta</persName>, aged 20 months</head>
+            <head>Elapsed Time: Six months since the previous entry.</head>
+            <head>Length of Entry: Two handwritten pages.</head>
+            <p>This is the shortest entry in the diary, barely covering two handwritten pages. In the entry which follows, <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> states that she had been interrupted when she last wrote, which in part explains the brevity of this entry. <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s focus here is on comparing her daughters; <persName ref="#Meta_Gaskell">Meta</persName> once again is described as <quote>much the most energetic</quote> and constantly <quote>busy</quote>, whereas <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> worries that <persName ref="#MA_Gaskell_Holland">Marianne</persName> is not <quote>industrious</quote> and requires guidance to keep busy. <persName ref="#MA_Gaskell_Holland">Marianne</persName> has improved however, and <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> is pleased to see that her former <quote>obstinacy</quote> is growing less frequent. Even as she comments on her daughters’ achievements and cautiously observes their faults, however, <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> takes on herself the responsibility: <quote>I am afraid I do not set her a good example,</quote> she writes of <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s lack of initiative. In spite of this however, <persName ref="#MA_Gaskell_Holland">Marianne</persName> has begun to read and sew, though she is only four years old. The entry ends rather abruptly after <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> asserts that she still ascribes much of <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s behavior to physical complaints; she makes a consistent effort to keep her <quote>quiet, as otherwise she suffers much from exhaustion which shows itself in increased irritability.</quote> Here the entry ends.</p>
+            <p>In the interim between this entry and the previous one, <persName ref="#Queen_Victoria">Queen Victoria</persName>’s coronation took place, although there is no indication that the Gaskells were at all involved in the festivities. An event more likely to have affected them was the formation of the <orgName>Anti-Corn Law Association</orgName> in <placeName>Manchester</placeName>, which was to become the <orgName>Anti-Corn Law League</orgName> the following year. Two months before this entry, <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> wrote a letter to <persName ref="#William_Howitt">William Howitt</persName> in which she described <placeName>Clopton Hall</placeName>, <!-- having heard he was working on a collection, “Visits to Remarkable Places”. He was impressed with her description and included it nearly verbatim in his “Rural Life of England” (1840). check publication facts--> </p>
+         </div>
          <div type="entry" n="10">
             <head>
                <date when="1838-10-14">October 14 (38) Sunday <time>Evening</time>.</date>
@@ -1209,6 +1300,14 @@
                it nece<choice><sic>&#383;</sic><reg>s</reg></choice>sary for <hi rend="strikethrough">her</hi> to be kept her very
                <lb/>quiet, <unclear>and</unclear> otherwise she suffers much from <lb/>exhaustion
                which shows itself in increased ir=<lb/>=ritability. </p>
+         </div>
+         <div type="headnote" n="11">
+            <head>Entry 11</head>
+            <dateline>October 28, 1838</dateline>
+            <head>Children's Ages: <persName ref="#MA_Gaskell_Holland">Marianne</persName>, aged four years; <persName ref="#Meta_Gaskell">Meta</persName>, aged nearly 21 months</head>
+            <head>Elapsed Time: Two weeks since the previous entry.</head>
+            <head>Length of Entry: Four handwritten pages.</head>
+            <p>The final entry in the diary is still quite brief, although at the outset <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> states that she intends to <quote>make up for</quote> having been interrupted in the previous entry. She continues to worry about <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s health, and writes that they are traveling to <placeName>Prospect Hill</placeName>, the home of a relative of <persName ref="#Wm_Gaskell">William</persName>’s, south of <placeName>Warrington</placeName>, on the recommendation of William’s brother, <persName ref="#Sam_Gaskell">Sam Gaskell</persName>, who was a physician and seems to have been a frequent purveyor of medical advice to the family. <persName ref="#MA_Gaskell_Holland">Marianne</persName> is progressing in other respects, as well, and has begun to have regular lessons at home in reading and sewing. <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> prays for patience in regulating her temper during these lessons. While she applauds <persName ref="#MA_Gaskell_Holland">Marianne</persName>’s sympathy for others, she is still concerned about what she believes is a lack of perseverance. <persName ref="#Meta_Gaskell">Meta</persName>, however, is generous, walked at 18 months, and is very energetic, even passionate at times. Just before closing, <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> mentions that <persName ref="#MA_Gaskell_Holland">Marianne</persName> has begun to eat <quote>animal food</quote> now that she is four years old. The entry closes, as most do, with a prayer, <quote>May God bless both my dear children.</quote> </p>
          </div>
          <div type="entry" n="11">
             <head>

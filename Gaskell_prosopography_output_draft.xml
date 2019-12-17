@@ -19,12 +19,13 @@
             <listPerson sortKey="histPersons">
                <person xml:id="MA_Gaskell_Holland">
                   <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
+                     <surname type="paternal">Gaskell</surname>
+                     <surname type="married">Holland</surname>
+                     <forename>Marianne</forename>
+                     <addName>MA</addName>
                   </persName>
                   <birth>
-                     <placeName/>
+                     <date when="09-12-1834">September 12 1834</date><placeName>Manchester, UK</placeName>/>
                   </birth>
                   <death>
                      <placeName/>
@@ -275,9 +276,8 @@
                </person>
                <person xml:id="Elizabeth_Barlow_household">
                   <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
+                     <surname>Barlow</surname>
+                     <forename>Elizabeth</forename>
                   </persName>
                   <birth>
                      <placeName/>
@@ -291,9 +291,11 @@
                </person>
                <person xml:id="Liz_Gaskell_Holland">
                   <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
+                     <surname type="birth">Gaskell</surname>
+                     <surname type="married">Holland</surname>
+                     <forename>Elizabeth</forename>
+                     <addName>Lizzy</addName>
+                     <addName>Aunt Lizzy</addName>
                   </persName>
                   <birth>
                      <placeName/>
@@ -302,7 +304,7 @@
                      <placeName/>
                   </death>
                   <note type="bio" resp="#mjk">
-                     <p/>
+                     <p>William Gaskell's sister, Lizzy, was one of Gaskell's early correspondents. Most of the extant early letters are written to her. <!-- According to Dickens Journal site (see Zotero), Aunt Lizzy may have also written for household words. -->  </p>
                   </note>
                </person>
                <person xml:id="Abigail_Holland">

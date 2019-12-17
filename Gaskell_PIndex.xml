@@ -23,13 +23,13 @@
                      <surname>Holland</surname>/>
                      <forename>Marianne</forename>/>
                   </persName>
-                  <birth>
+                  <birth><date when="1834-09-12">September 12, 1834</date>
                      <placeName/>
                   </birth>
-                  <death>
+                  <death><date>1920</date>
                      <placeName/>
                   </death>
-                  <note type="bio" resp="#mjk">
+                  <note type="bio" resp="#mjk">Marianne was Gaskell's first surviving daughter, and the subject of most of the diary manuscript. Marianne married Edward Thursdan Holland in 1866. Her mother did not live to see her married. Marianne was also the longest lived of Gaskell’s four surviving daughters, dying in 1920 at the age of ___. As Gaskell predicted, the journal was preserved, and has been handed down through Marianne’s descendants. Marianne was the only one of Gaskell’s daughters to become a mother herself.
                      <p/>
                   </note>
                </person>
@@ -355,14 +355,15 @@
                </person>
                <person xml:id="Eddy_Deane">
                   <persName>
+                     <surname type="parental">Deane</surname>
                      <surname/>
-                     <surname/>
-                     <forename/>
+                     <forename>Edward</forename>
                   </persName>
                   <birth>
                      <placeName/>
                   </birth>
                   <death>
+                     <date when="1838-04-02">April 2, 1838</date>
                      <placeName/>
                   </death>
                   <note type="bio" resp="#mjk">
