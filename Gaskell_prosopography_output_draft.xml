@@ -15,8 +15,8 @@
    </teiHeader>
    <text>
       <body>
-         <div type="HistPersons">
-            <listPerson sortKey="histPersons">
+         <div type="ReferencedPersons">
+            <listPerson sortKey="ReferencedPersons">
                <person xml:id="MA_Gaskell_Holland">
                   <persName>
                      <surname type="paternal">Gaskell</surname>
@@ -25,13 +25,14 @@
                      <addName>MA</addName>
                   </persName>
                   <birth>
-                     <date when="09-12-1834">September 12 1834</date><placeName>Manchester, UK</placeName>/>
+                     <date when="1834-09-12">September 12 1834</date><placeName>Manchester, UK</placeName>/>
                   </birth>
                   <death>
+                     <date when="1920"></date>
                      <placeName/>
                   </death>
                   <note type="bio" resp="#mjk">
-                     <p/>
+                     <p>The Gaskells’ first surviving daughter, born <date when="1834-09-12">September 12, 1834</date>. Marianne is the subject of most of the diary, and is described as “gentle”. She was the only one of Gaskell’s daughters to become a mother herself, though she was still unmarried at the time of Gaskell’s death.</p>
                   </note>
                </person>
                <person xml:id="Wm_Gaskell">
@@ -47,7 +48,8 @@
                      <placeName/>
                   </death>
                   <note type="bio" resp="#mjk">
-                     <p/>
+                     <p>Elizabeth Gaskell’s husband, a Unitarian minister. They married August 30, 1832. At the time, William was serving at the Cross Street Chapel, Manchester, with J. G. Robberds.
+                     </p>
                   </note>
                </person>
                <person xml:id="Madame_deSaussure">
@@ -371,6 +373,113 @@
                      <p/>
                   </note>
                </person>
+            </listPerson>
+         </div>
+         <div type="NonReferencedHistoricalPersons">
+            <listPerson sortKey="NonReferencedHistoricalPersons">
+               <person xml:id="Flossy_Gaskell_Crompton">
+                  <persName>
+                     <surname type="given">Gaskell</surname>
+                     <surname type="married">Crompton</surname>
+                     <forename>Florence</forename>
+                  </persName>
+                  <birth>
+                     <date when="1842-10-07">October 7 1842</date>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <date when="1881-10-05">October 5 1881</date>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p>The Gaskells’ third daughter (born 1842), who married Charles Crompton, and lived in London where she died aged 39. The couple had no children.</p>
+                  </note>
+               </person> <person xml:id="Julia_Gaskell">
+                  <persName>
+                     <surname type="given">Gaskell</surname>
+                     <surname/>
+                     <forename>Julia</forename>
+                  </persName>
+                  <birth>
+                     <date when="1845-09-03">September 3 1846</date>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <date when="1908-10-24">October 24 1908</date>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p>The Gaskells’ fourth daughter, (born 3 Sept. 1846 - 24 Oct. 1908). She, with her older sister Meta, remained unmarried and living in Knutsford, caring for their father after Gaskell’s death in 1865.</p>
+                  </note>
+               </person>
+               <person xml:id="Willie_Gaskell">
+                  <persName>
+                     <surname>Gaskell</surname>
+                     <surname/>
+                     <forename>William</forename>
+                  </persName>
+                  <birth>
+                     <date when="1844-10-23">Octover 23, 1844</date>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <date when="1845-08-10">August 10, 1845</date>
+                     <placeName>Porthmadog, UK</placeName><placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p>The Gaskells’ second born (first surviving) son,  who died in 1845 aged 9 months. An oft-cited anecdote recounts that Gaskell’s husband, also William, encouraged her to begin writing a novel to assist her in recovering from the grief of his death. The result was Mary Barton; his death is alluded to in the preface.
+                     </p>
+                  </note>
+               </person>
+               <person xml:id="William_Stevenson">
+                  <persName>
+                     <surname/>
+                     <surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p>Gaskell's Father</p>
+                  </note>
+               </person>
+               <person xml:id="Elizabeth_Holland_Stevenson">
+                  <persName>
+                     <surname type="maiden">Holland</surname><surname/>
+                     <surname type="married">Gaskell</surname>
+                     <forename>Elizabeth</forename>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <date when="1811"></date>
+                     <placeName/>
+                  </death>
+                  <note type="bio" resp="#mjk">
+                     <p>Gaskell’s mother, fourth daughter and sixth child of Samuel and Anne Holland of Sandlebridge, in Knutsford. Tradition, passed down through narratives of family and friends, holds that only her first (John) and last (Elizabeth) of 8 children survived, though only John’s birth is registered. She died when Gaskell was 13 months old.</p>
+                  </note></person>
+               <person xml:id="John_Stevenson">
+                  <persName><surname type="given">Stevenson</surname>
+                  <forename>John</forename>
+                  </persName>
+                  <birth when="1798-11-17">November 17 1798</birth>              
+               <note resp="mjk"><p>Gaskell’s older brother; a sailor, was lost at sea or in India sometime in fall 1828.</p></note> </person>
+               <person xml:id="Catherine_Thompson_Stevenson">
+                  <persName>
+                     <surname type="given">Thompson</surname>
+                     <surname type="married">Stevenson</surname>
+                     <forename>Catherine</forename>
+                  </persName>
+                  <birth></birth>
+                  <death></death>
+                  <note><p>Gaskell’s stepmother. Gaskell saw little of her father after the marriage. Catherine’s  brother married Katherine Byerly, who founded the school Gaskell attended.</p></note>
+               </person>
+               
             </listPerson>
          </div>
       </body>

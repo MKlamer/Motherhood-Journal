@@ -9,34 +9,37 @@
         <author>Melissa J. Klamer</author>
       </titleStmt>
       <publicationStmt>
-        <p>Prepared in TEI by Melissa Klamer for the Digital Edition of Elizabeth Gaskell's Manuscript Journal. GitHub repository: https://github.com/MKlamer/Motherhood </p>     </publicationStmt>
+        <p>Prepared in TEI by Melissa Klamer for the Digital Edition of Elizabeth Gaskell's Manuscript Journal. GitHub repository: https://github.com/MKlamer/Motherhood 
+        </p></publicationStmt>
       <sourceDesc>
-        <p>Information about the source</p>
+        <p>[Information about the creation of the ODD]</p>
       </sourceDesc>
     </fileDesc>
+    <revisionDesc>
+      <change who="#mjk" when="2019-12-18">Added RevisionDesc.</change>
+    </revisionDesc>
   </teiHeader>
   <text>
     <body>
+      <head>ODD for the Elizabeth Gaskell Diary Transcription XML file; encoding and schema developed by Melissa J. Klamer</head>
       <schemaSpec ident="oddex1" start="TEI">
-        <moduleRef key="header"/>
+         <moduleRef key="tei"/>
         <moduleRef key="core"/>
-        <moduleRef key="tei"/>
+        <moduleRef key="header"/>  
         <moduleRef key="textstructure"/>
         <moduleRef key="transcr"/>
         <moduleRef key="msdescription"/>
+        <moduleRef key="certainty"/>
+        <moduleRef key="gaiji"/>
+        <moduleRef key="verse"/>
+        <moduleRef key="textcrit"/>
+        <moduleRef key="linking"/>
         <moduleRef key="namesdates"/>
-        
-  <!-- TEI ODD Guidance and SAMPLE ODD FILES to consult: https://github.com/ebeshero/DHClass-Hub/wiki/TEI-ODD:-Schema-Prep-Resources-for-TEI-in-Projects 
-  
-  Assignment: Write an XSLT that pulls attribute data from your personography file and outputs this ODD file with the appropriate valItems.
-  --> 
-        <elementSpec ident="person" module="namesdates" mode="change">
+          <elementSpec ident="person" module="namesdates" mode="change">
           <attList>
             <attDef ident="xml:id">
               <valList type="closed">
-              <valItem ident="idWhatever"/>
-              
-              
+              <valItem ident="idWhatever"/>              
             </valList>
             </attDef>
             
@@ -54,10 +57,6 @@
                 <rng:text/>
               </datatype>
               <valList type="closed">
-                <valItem ident="#idWhatever"/>
-                <valItem ident="#Bint_Hannah">
-                  <gloss>Bint Hannah | b. 1804-09-16 | Daughter of Thomas Bint and Sarah Bint. Baptismal and family data as recorded by</gloss>
-                </valItem>
               </valList>
             </attDef>
           </attList>
