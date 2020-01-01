@@ -30,7 +30,7 @@
         <moduleRef key="transcr"/>
         <moduleRef key="msdescription"/>
         <moduleRef key="certainty"/>
-        <moduleRef key="gaiji"/>
+        <moduleRef key="gaiji" include=""/>
         <moduleRef key="verse"/>
         <moduleRef key="textcrit"/>
         <moduleRef key="linking"/>
@@ -52,7 +52,7 @@
         
         <elementSpec ident="persName" module="namesdates" mode="change">
           <attList>
-            <attDef ident="ref" mode="replace" usage="rec">
+            <attDef ident="ref" mode="replace" usage="req">
               <datatype>
                 <rng:text/>
               </datatype>

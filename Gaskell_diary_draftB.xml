@@ -244,22 +244,21 @@
             <p>In a few days she will be eleven months<lb/> old; and in some things I suppose she
                is<lb/> rather backward; in walking and talking<lb/> for instance. <hi
                   rend="underline">I</hi> fancy she says <persName ref="#Elizabeth_Stevenson_Gaskell">Mama</persName>,<lb/> but I think it is only fancy.
-               She can<lb/> stand pretty steadily, taking hold of some=<!--split word--><lb/>=thing,
-               for a few minutes and then she<lb/> pops down. But as I am not very<lb/> anxious for
-               her to walk or talk earlier<lb/><pb n="13"/> than her nature prompts, and as her<lb/>
-               Papa thinks the same, we allow her to<lb/> take her own way.<lb/></p>
-            <p>She has various little accomplishments<lb/> of her own, clapping hands, shaking<lb/>
-               hands, which are very pretty, though I<lb/> sometimes fear we rather try <choice>
+               She can<lb/> stand pretty steadily, taking hold of some=<lb break="no"/>=thing,
+               for a few minutes and then she <lb/>pops down. But as I am not very<lb/> anxious for
+               her to walk or talk earlier <lb/><pb n="13"/>than her nature prompts, and as her <lb/>
+               Papa thinks the same, we allow her to <lb/>take her own way.<lb/></p>
+            <p>She has various little accomplishments <lb/>of her own, clapping hands, shaking<lb/>
+               hands, which are very pretty, though I <lb/>sometimes fear we rather try <choice>
                   <sic>to</sic>
                   <reg>too</reg>
-               </choice> make her exhibit too much to strangers. We<lb/> must take care of this as
-               she grows older.<lb/> She understands many words &amp; sentences<lb/> "Where are the
-               cows", "the flies" &amp;c &amp;c &amp;c.<lb/> I am very much afraid of her
-               catch=<!--split word-->=ing cro<!--longs-->ss or angry expre<!--longs-->ssions of
-               countenance<lb/> or even one that is not quite happy -<lb/> I find her own changes so
-               directly<lb/> to the expre<!--longs-->ssion she sees. If
-               <!-- coding difference here. Wilson believes changed to "we"... I think it was changed to "I"--><!--annotation here-->
-               I could but consider a child properly, what a beautiful safe-guard from evil would <choice>
+               </choice> make her exhibit too much to strangers. We <lb/>must take care of this as
+               she grows older. <lb/>She understands many words &amp; sentences <lb/><q>Where are the
+               cows</q>, <q>the flies</q> &amp;c &amp;c &amp;c. <lb/>I am very much afraid of her
+               catch=<lb break="no"/>=ing cro<choice><sic>&#383;</sic><reg>s</reg></choice>s or angry expre<choice><sic>&#383;</sic><reg>s</reg></choice>sions of
+               countenance<lb/> or even one that is not quite happy - <lb/>I find her own changes so
+               directly <lb/>to the expre<choice><sic>&#383;</sic><reg>s</reg></choice>sion she sees. If
+               <del rend="strikethrough">we</del><add place="inline">I</add> could but consider a child properly, what a beautiful safe-guard from evil would <choice>
                   <sic>it's</sic>
                   <reg>its</reg>
                </choice>presence be. Oh! I do hope &amp; intend </p>
@@ -873,68 +872,68 @@
             <p>Much of the entry is told looking back on the months that have passed between the entries, during which time <persName ref="#Meta_Gaskell">Meta</persName> was born, and <persName ref="#Hannah_Lumb">Aunt Lumb</persName> passed away. The events were closely connected, in fact; <persName ref="#MA_Gaskell_Holland">Marianne</persName> had gone to stay with <persName ref="#Hannah_Lumb">Aunt Lumb</persName> had a paralytic stroke, and <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> traveled to <placeName>Knutsford</placeName>, with newborn <persName ref="#Meta_Gaskell">Meta</persName> and a servant, Betsy, and remained there in rented rooms with both girls for nearly two months until <persName ref="#Hannah_Lumb">Aunt Lumb</persName>’s death on May 1st. A letter, dated <date when="1837-03-18">18 March 1837</date>, recounts <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s experience of <persName ref="#Hannah_Lumb">Aunt Lumb</persName>’s illness. There is also a second letter, written to <persName ref="#Holbrook_Gaskell">Holbrook Gaskell</persName>, tentatively dated in 1837 as <persName ref="#MA_Gaskell_Holland">Marianne</persName> is the only child mentioned; part of the letter is missing. The letter details plans for the possibility of negotiating a new servant.</p>
             <p>The diary entry looks back on these events and comments tenderly on <persName ref="#Hannah_Lumb">Aunt Lumb</persName>’s care of both <persName ref="#MA_Gaskell_Holland">Marianne</persName> and <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>, and recounts <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s careful management of the situation with <persName ref="#MA_Gaskell_Holland">Marianne</persName>, who was not told that <persName ref="#Hannah_Lumb">Aunt Lumb</persName> had died. The later part of the entry discusses the differences between the two sisters, commenting that <persName ref="#Meta_Gaskell">Meta</persName>, already ten months old, is livelier and physically developing earlier than <persName ref="#MA_Gaskell_Holland">Marianne</persName>, crawling “famously”. <persName ref="#MA_Gaskell_Holland">Marianne</persName>, to <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s pleasure, has a very “acute” conscience, and is becoming “useful and independent,” often willing to share with her sister and generally obedient and cheerful. <persName ref="#Meta_Gaskell">Meta</persName>, however, is <quote>saucy</quote>, <quote>clever</quote>, and <quote>not so gentle</quote> as her elder sister.</p>
          </div>
-         <div type="entry" n="7">
+         <div type="entry" n="7"> <!-- verification started 1/1/20-->
             <head>
                <date when="1837-12-09">Dec<hi rend="superscript">r</hi>. 9<hi rend="superscript"
                      >th</hi>. 18<hi rend="underline">37</hi></date>
             </head>
-            <p><lb/>I feel quite ashamed that more than <lb/>a year has pa<choice><sic>&#383;</sic><reg>s</reg></choice>sed since I last
+            <p><lb/>I feel quite ashamed to see that more than <lb/>a year has pa<choice><sic>&#383;</sic><reg>s</reg></choice>sed since I last
                wrote. There have <lb/>been some sad excuses to be sure. I had very <lb/>bad health
                till my dear little <persName ref="#Meta_Gaskell">Meta</persName> was born,
-                  <lb/><date when="1837-02-05">Fegruary 5<hi rend="superscript">th</hi>.
+                  <lb/><date when="1837-02-05">February 5<hi rend="superscript">th</hi>.
                1837</date>, and I had hardly recovered <lb/>my strength when (<date
                   when="1837-03-10">March 10<hi rend="superscript">th</hi>.</date>) I received a
-               sum=<lb/>=mons to <placeName ref="#Knutsford">Knutsford</placeName>. My dearest
+               sum=<lb break="no"/>=mons to <placeName ref="#Knutsford">Knutsford</placeName>. My dearest
                   <persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>, my <lb/>more than mother had
                had a paralytic stroke <lb/>on <date when="1837-03-08">Wednesday March 8<hi
-                     rend="superscript">th</hi>.</date> For eight weeks I re=<lb/>=mained in
+                     rend="superscript">th</hi>.</date>; For eight weeks I re=<lb break="no"/>=mained in
                lodgings at <placeName ref="#Knutsford">Knutsford</placeName>, with my two <lb/>little
-               girls, and our dear servant <persName ref="#Betsy_household">Betsy</persName>, and on
+               girls, and our dear servant <persName ref="#Betsy_household">Betsy</persName>; and on
                   <lb/><date when="1837-05-01">May 1<hi rend="superscript">st</hi>.</date> I lost my
-               best friend. May God reward <lb/>her for all her kindne<choice><sic>&#383;</sic><reg>s</reg></choice>s to me.</p>
+               best friend. May <persName ref="#God">God</persName> reward <lb/>her for all her kindne<choice><sic>&#383;</sic><reg>s</reg></choice>s to me.</p>
             <p><lb/>After that I was much out of health for some time <lb/>and went to <placeName
                   ref="#Crosby">Crosby</placeName> in <date when="1837-07">July</date>. In <date
                   when="1837-09">September</date>
                <persName ref="#Wm_Gaskell">William</persName>
                <pb n="50"/><lb/>and I went into <placeName ref="Wales">Wales</placeName> for three
-               weeks, leaving <persName ref="#MA_Gaskell_Holland">Mari=<lb/>anne</persName> with
+               weeks, leaving <persName ref="#MA_Gaskell_Holland">Mari=<lb break="no"/>anne</persName> with
                   <persName ref="#Bessy_Holland">Bessy Holland</persName>, and <persName
                   ref="#Meta_Gaskell">Meta</persName> with <persName ref="#MaryAnn_Deane">M<hi
                      rend="superscript">rs</hi>. <lb/>Deane</persName>. We have lost our servant
-               <persName ref="#Betsy_household">Betsy</persName>, who was <lb/>obliged to leave us, being wanted at home, in conse=<lb/>=quence
+               <persName ref="#Betsy_household">Betsy</persName>, who was <lb/>obliged to leave us, being wanted at home, in conse=<lb break="no"/>=quence
                of the death of a sister. But we still <lb/>keep her as a friend, and she has been to
                stay <lb/>with us several weeks this autumn. Her place <lb/>is supplied by <persName
                   ref="#Elizabeth_Barlow_household">Elizabeth</persName>, a clever servant, and who <lb/>is
                very kind to the children especially to little <lb/><persName ref="#Meta_Gaskell"
-                  >Meta</persName>. <!--long break-->I have given this little account of the
+                  >Meta</persName>. <space type="long"/>I have given this little account of the
                <lb/>changes in our domestic relations, that if this <lb/>book be given to <persName
                   ref="#MA_Gaskell_Holland">Marianne</persName>, (as I hope it will be) <lb/>after
                my death she may understand more fully <lb/>any thing I may have occasion to allude
                to. <lb/>When my most dearly loved <persName ref="#Hannah_Holland_Lumb">Aunt</persName> left
                this house <lb/>for the last time, (<date when="1837-01-15">Jan<hi rend="superscript"
-                     >ry</hi> 15<hi rend="superscript">th</hi> 1837.</date>) she took <persName
+                     >ry</hi> 15<hi rend="superscript">th</hi>. 1837.</date>) she took <persName
                   ref="#MA_Gaskell_Holland">Marianne</persName>
                <lb/>back with her to <placeName ref="#Knutsford">Knutsford</placeName>; to stay with
                her over <lb/>the time of my approaching confinement. As <lb/><persName
                   ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>'s eyesight had failed her very much, <pb
                   n="51"/>
-               <lb/>she was unable to write; so I had no particular ac=<lb/>counts of my darling;
+               <lb/>she was unable to write; so I had no particular ac=<lb break="no"/>counts of my darling;
                only general news of her health.</p>
             <p>
                <lb/>But since, I have asked my cousins &amp;c to tell me <lb/>all the particulars of
-               the seven weeks that <persName ref="#MA_Gaskell_Holland">M.A</persName> staid
+               the seven weeks that <persName ref="#MA_Gaskell_Holland">M.A</persName> <choice><sic>staid</sic><reg>stayed</reg></choice>
                <lb/>with <persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName> before she was seized
-               with her last <lb/>illne<choice><sic>&#383;</sic><reg>s</reg></choice>s. <!-- long gap-->They say, that <persName
-                  ref="#Hannah_Holland_Lumb">Aunt Lumb</persName> seemed so very <lb/>fond of "her little
-                  <persName ref="#MA_Gaskell_Holland">Marianne</persName>". One day some one met
+               with her last <lb/>illne<choice><sic>&#383;</sic><reg>s</reg></choice>s. <space type="short"/>They say, that <persName
+                  ref="#Hannah_Holland_Lumb">Aunt Lumb</persName> seemed so very <lb/>fond of <q>her little
+                  <persName ref="#MA_Gaskell_Holland">Marianne</persName></q>. One day some one met
                <lb/>my <persName ref="#Hannah_Holland_Lumb">Aunt</persName> out of doors; she had been about
                an hour <lb/>out, and said she was hastening home, for she did <lb/>not think she had
-               left <persName ref="#MA_Gaskell_Holland">M.A.</persName> so long before; The little
+               left <persName ref="#MA_Gaskell_Holland">M. A.</persName> so long before; The little
                <lb/>girl slept in a cot by <persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>'s bed;
                   <persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>
-               <lb/>gave her, her breakfast, sitting on her knee, by a win=<lb/>=dow, with many
+               <lb/>gave her, her breakfast, sitting on her knee, by a win=<lb break="no"/>=dow, with many
                loving little jokes between them. <lb/><persName ref="#Hannah_Holland_Lumb">Aunt
-                  Lumb</persName> walked out with her, when the wea=<lb/>ther permitted. And it was
+                  Lumb</persName> walked out with her, when the wea=<lb break="no"/>ther permitted. And it was
                to <persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>, that <persName
                   ref="#MA_Gaskell_Holland">Marianne</persName> ran when in any little
                distre<choice><sic>&#383;</sic><reg>s</reg></choice>s; and to <lb/>hr that she always clung.</p>
@@ -942,41 +941,41 @@
                her fatal <pb n="52"/>
                <lb/>attack, she had been with <persName ref="#MA_Gaskell_Holland"
                   >Marianne</persName> in <persName ref="#MaryAnn_Deane">M<hi rend="underline">rs</hi>
-                  <lb/>Deane</persName>'s poney-carriage to the <placeName ref="#Infant_School">Infant
+                  <lb/>Deane</persName>'s <choice><sic>poney</sic><reg>pony</reg></choice>-carriage to the <placeName ref="#Infant_School">Infant
                school</placeName>, and <lb/>was so pleased with <persName ref="#MA_Gaskell_Holland"
                   >Marianne</persName>'s pleasure.</p>
-            <p><lb/>That evening about 1/2 past 10, she had a para=<lb/>=lytic stroke. <persName
+            <p><lb/>That evening about 1/2 past 10, she had a para=<lb break="no"/>=lytic stroke. <persName
                   ref="#MA_Gaskell_Holland">M.A.</persName> was as usual in her little sofa <lb/>bed
                by <persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>'s, and remained there till
                <lb/>morning, when she wanted according to her custom <lb/>to come into <persName
                   ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>'s bed. But <persName ref="#Hannah_Holland_Lumb"
                   >Aunt Lumb</persName>
                <lb/>did not heed the little voice that kept petitioning <lb/>to be taken in, and
-               when they told her "<persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName> was poorly."
-               she kept saying "<persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>
-               <lb/>tell me if you are poorly." Of course she was <lb/>sent to a friend's till I
+               when they told her <q><persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName> was poorly.</q>
+               she kept saying <q><persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>
+               <lb/>tell me if you are poorly.</q> Of course she was <lb/>sent to a friend's <choice><sic>till</sic><reg>until</reg></choice> I
                came.</p>
             <p><lb/>We were confined to two little bed-rooms in that <lb/>unhappy eight weeks, and
                the little girls could <lb/>hardly ever go out. But <persName
                   ref="#MA_Gaskell_Holland">Marianne</persName> was a good <lb/>little comfort,
                though in such trying circumstances <lb/>to a child's temper. <persName
-                  ref="#Hannah_Holland_Lumb">Aunt Lumb</persName> asked to see her, about a week after her
-               first seizure; and <lb/>I took her in. But the room was darkened <pb n="53"
+                  ref="#Hannah_Holland_Lumb">Aunt Lumb</persName> asked to see <lb/>her, about a week after her
+               first seizure; and <lb/>I took <persName ref="#Marianne_Gaskell_Holland">MA</persName> in. But the room was darkened <pb n="53"
                /><lb/>gloomy; <persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName> had had leeches to
                her head <lb/>and it was bound up, almost corpse-like, with <lb/>a handkerchief.
                   <persName ref="#MA_Gaskell_Holland">Marianne</persName> was frightened I
                <lb/>think; and I was afraid <persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>,
-               though not <lb/>herself, and blind; (alas!) perceived it. The next time <lb/>she
+               though not <lb/>herself, and blind, (alas!) perceived it. The next time <lb/>she
                begged to have a night-cap put on, and had <lb/>a fig put behind her pillow, and
-                  <persName ref="#MA_Gaskell_Holland">M.A.</persName> was recon=<lb/>ciled, and
-               played about the room. She went in seve=<lb/>=ral times, and her coming always gave
+                  <persName ref="#MA_Gaskell_Holland">M.A.</persName> was recon=<lb break="no"/>ciled, and
+               played about the room. She went in seve=<lb break="no"/>=ral times, and her coming always gave
                   <persName ref="#Hannah_Holland_Lumb">Aunt <lb/>Lumb</persName> pleasure. It was such a
                beautiful spring <lb/>morning, that <date when="1837-05-01">1<hi rend="superscript"
                      >st</hi> of May</date>, when <persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>
                died; <lb/> such a contrast to the dreary weather before.</p>
             <p><lb/>On the 3<hi rend="superscript">rd</hi> we all came back to <placeName
                   ref="#Manchester">Manchester</placeName>; and <lb/>then I rather began to fear
-               that the long confine=<lb/>ment in small rooms had <hi rend="underline">told</hi>
+               that the long confine=<lb break="no"/>ment in small rooms had <hi rend="underline">told</hi>
                upon <persName ref="#MA_Gaskell_Holland">Marianne</persName>'s <lb/>temper, poor
                darling! She was fretful, and rather <lb/>obstinate sometimes. But <persName
                   ref="#Betsy_household">Betsy</persName> was leaving us <pb n="54"/><lb/>and a new
@@ -985,44 +984,44 @@
                   >Aunt Eliza</persName>, who was <lb/>here at the time, comforting and being of
                use. <lb/>We have never told her that <persName ref="#Hannah_Holland_Lumb">Aunt
                   Lumb</persName> was dead, <lb/>fearing that a child's material ideas, might
-               connect <lb/>gloom with the idea of one so ble<choice><sic>&#383;</sic><reg>s</reg></choice>sed. "Gone to the <lb/>rest
-               prepared for the People of God!" But I often talk <lb/>of her, and try to keep alive
-               the reeducation<!--unsure of word--> of her <lb/>love and tenderne<choice><sic>&#383;</sic><reg>s</reg></choice>s, and show
+               connect <lb/>gloom with the idea of one so ble<choice><sic>&#383;</sic><reg>s</reg></choice>sed. <quote>Gone to the <lb/>rest
+               prepared for the People of God!</quote> But I often talk <lb/>of her, and try to keep alive
+               the recollection of her <lb/>love and tenderne<choice><sic>&#383;</sic><reg>s</reg></choice>s, and show
                her <persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>'s <lb/>picture, that even her
                bodily appearance (a fit shrine <lb/>for so chastened and pure a spirit) may stand
-               <lb/>forth clear and distinct among her childish remem=<lb/>=brances. One day we were
-               talking, and she said "<persName ref="#Hannah_Holland_Lumb">Aunt <lb/>Lumb</persName> was
-               poorly;" "No," I said, "she is well and happy <lb/>now." Is she, replied my dear
-               little girl, "Oh then <lb/>I am so glad; let me go and coax her." And <lb/>since she
-               has been at Knutsford (in September)<pb n="55"/><lb/>she has told me <persName
+               <lb/>forth clear and distinct among her childish remem=<lb break="no"/>=brances. One day we were
+               talking, and she said <q><persName ref="#Hannah_Holland_Lumb">Aunt <lb/>Lumb</persName> was
+               poorly;</q> <q>No,</q> I said, <q>she is well and happy <lb/>now.</q> Is she, replied my dear
+               little girl, <q>Oh then <lb/>I am so glad; let me go and coax her.</q> And <lb/>since she
+               has been at Knutsford (in <date when="1837-09">September</date>)<pb n="55"/><lb/>she has told me <persName
                   ref="#Hannah_Holland_Lumb">Aunt Lumb</persName> did not live with <lb/><persName
                   ref="#Abigail_Holland">Aunt Ab</persName> now; she had left that house. I longed
-               to <lb/>say she was "gone to a house not made with hands, <lb/>eternal, in the
-               heavens." But I thought I had better <lb/>not, for to her it would have been
-               unintelligible at <lb/>present. <!--pen shift-->Before she went to <placeName
-                  ref="#Knutsford">Knutsford</placeName> in September, <lb/>she had again a few days
-               of untractablene<choice><sic>&#383;</sic><reg>s</reg></choice>s, and obsti=<lb/>=nacy. But I think she was very judiciously
+               to <lb/>say she was <quote>gone to a house not made with hands, <lb/>eternal, in the
+               heavens.</quote>  But I thought I had better <lb/>not, for to her it would have been
+               unintelligible at <lb/>present. <!--pen shift--><!-- Ink change; darker strokes follow -->Before she went to <placeName
+                  ref="#Knutsford">Knutsford</placeName> in <date when="1837-09">September</date>, <lb/>she had again a few days
+               of untractablene<choice><sic>&#383;</sic><reg>s</reg></choice>s, and obsti=<lb break="no"/>=nacy. But I think she was very judiciously
                managed <lb/>while there, for she came back a good little darling, so <lb/>gentle and
                loving. Indeed I should say that her <lb/>temper was very sweet, and her disposition
-               very <lb/>affectionate. her little conscience too is becoming <lb/>very acute and
+               very <lb/>affectionate. Her little conscience too is becoming <lb/>very acute and
                well-judging. I think most of her <lb/>faults are of inadvertence (hardly <hi
-                  rend="underline">faults</hi>;) ex=<lb/>=cept now and then when she has a fit of
-               obsti=<lb/>=nacy; but we are very steady in fulfilling our <hi rend="underline"
+                  rend="underline">faults</hi>;) ex=<lb break="no"/>=cept now and then when she has a fit of
+               obsti=<lb break="no"/>=nacy; but we are very steady in fulfilling our <hi rend="underline"
                   >threat</hi><pb n="56"/><lb/>of punishment, so these little obstinacies are
                gradually <lb/>disappearing. Our punishment for her is taking her <lb/>and leaving
                her alone for five minutes or so, in a <lb/>light room. We tell her the length of
                time that she <lb/>may not think we are influenced by caprice, or <lb/>that she gains
                her point (of leaving the room) by <lb/>crying. Once and once only have we had
-               recourse <lb/>to a severer punishment. It was one Sunday evening<!--check word for abbreviation-->
+               recourse <lb/>to a severer punishment. It was one Sunday <choice><sic>eveng</sic><reg>evening</reg></choice>
                <lb/>it may be about five weeks ago; we were trying to <lb/>teach her, her letters,
                more by way of occupation for <lb/>her these long winter evenings, than from any
-               anxie=<lb/>=ty as to her progre<choice><sic>&#383;</sic><reg>s</reg></choice>s in learning. She knew all the <lb/>vowels but
-               refused to say A. All the others she would <lb/>say, but would not even repeat A
+               anxie=<lb break="no"/>=ty as to her progre<choice><sic>&#383;</sic><reg>s</reg></choice>s in learning. She knew all the <lb/>vowels but
+               refused to say A. All the others she would <lb/>say, but would not even <!-- Unsure of word, very illegible --> repeat A
                after us. We <lb/>got the slate, and drew it for her; but she persevered.
                   <lb/><persName ref="#Meta_Gaskell">Meta</persName> was asleep so we were unwilling
                to provoke <lb/>the violent crying, which generally ensues when <lb/>she is taken
                upstairs; so <persName ref="#Wm_Gaskell">W<hi rend="superscript">m</hi>.</persName>
-               gave her a slap <pb n="57"/><lb/>on her hand every time she refused to say it, till
+               gave her a slap <pb n="57"/><lb/>on her hand <!-- Verification paused, 1/1/20 --> every time she refused to say it, till
                <lb/>at last she said it quite pat. Still I am sure we <lb/>were so unhappy that we
                cried, when she was gone <lb/>to bed. And I don't know if it was right. If not
                <lb/>pray, dear <persName ref="#MA_Gaskell_Holland">Marianne</persName>, forgive

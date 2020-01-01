@@ -1,0 +1,22 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+element test { xsd:double }
+start = TEI
+TEI = element TEI {teiHeader, text}
+teiHeader = element teiHeader {fileDesc}
+fileDesc = element fileDesc {titleStmt, publicationStmt, sourceDesc}
+titleStmt = element titleStmt {title, author, respStmt}
+title = element title {idWhat}
+idWhat = attribute idWhat {text}
+author = element author {persName}
+persName = element persName {ref}
+ref = attribute ref {xmlid}
+xmlid = attribute xml:id {xsd:ID}
+respStmt = element respStmt {resp}
+resp = attribute resp {xmlid}
+
+
+\text = element text {body}
+body = element body {div+}
+div = element div {type, n?}
+type = attribute type {
