@@ -50,17 +50,89 @@
         </elementSpec>
         
         
-        <elementSpec ident="persName" module="namesdates" mode="change">
+        <elementSpec ident="sp" module="core" mode="change">
           <attList>
-            <attDef ident="ref" mode="replace" usage="req">
-              <datatype>
-                <rng:text/>
-              </datatype>
-              <valList type="closed">
+            <attDef ident="who" mode="replace" usage="req">
+              <datatype><rng:text/></datatype>
+              <valList type="semi">
+                
+                <valItem ident="#hamilton"/>
+                <valItem ident="#burr"/>
+                <valItem ident="#washington"/>
+                <valItem ident="#mulligan"/>
+                <valItem ident="#lafayette"/>
+                <valItem ident="#laurens"/>
+                <valItem ident="#kingGeorge"/>
+                <valItem ident="#seabury"/>
+                <valItem ident="#lee"/>
+                <valItem ident="#eliza"/>
+                <valItem ident="#angelica"/>
+                <valItem ident="#peggy"/>
+                <valItem ident="#jefferson"/>
+                <valItem ident="#madison"/>
+                <valItem ident="#philipH"/>
+                <valItem ident="#maria"/>
+                <valItem ident="#reynolds"/>
+                <valItem ident="#eacker"/>
+                <valItem ident="#doctor"/>
+                <valItem ident="#martha"/>
+                <valItem ident="#dolly"/>
+                <valItem ident="#ensemble"/>
+                <valItem ident="#company"/>
+                <valItem ident="#men"/>
+                <valItem ident="#women"/>
+                <valItem ident="#recording"/>
               </valList>
             </attDef>
+            
           </attList>
-        </elementSpec>
+          
+          
+        </elementSpec>      
+        <elementSpec ident="persName" module="core" mode="change">
+          <attList>
+            <attDef ident="ref" mode="replace" usage="req">
+              <valList type="closed">
+                <valItem ident="#Elizabeth_Stevenson_Gaskell"/>
+                <valItem ident="#Wm_Gaskell"/>
+                <valItem ident="#MA_Gaskell_Holland"/>
+                <valItem ident="#Meta_Gaskell"/>
+                <valItem ident="#Hannah_Holland_Lumb"/>
+                <valItem ident="#Abigail_Holland"/>
+                <valItem ident="#Bessey_Holland"/>
+                <valItem ident="#Margaret_Gaskell_Dimock"/>
+                <valItem ident="#Elizabeth_Gaskell_Holland"/>
+                <valItem ident="#Sam_Gaskell"/>
+                <valItem ident="#Richard_Deane"/>
+                <valItem ident="#MaryAnn_Deane"/>
+                <valItem ident="#Edward_Deane"/>
+                <valItem ident="#Emily_Deane"/>
+                <valItem ident="#Mrs_Collins"/>
+                <valItem ident="#James_Partington"/>
+                <valItem ident="#Betsy_household"/>
+                <valItem ident="#Fanny_household"/>
+                <valItem ident="#Elizabeth_Barlow_household"/>
+                <valItem ident="#Mme_DeSaussure"/>
+                <valItem ident="#Andrew_Combe"/>
+                <valItem ident="#Florence_Gaskell_Crompton"/>
+                <valItem ident="#Julia_Gaskell"/>
+                <valItem ident="#William_Gaskell_son"/>
+                <valItem ident="#William_Stevenson"/>
+                <valItem ident="#Elizabeth_Holland_Stevenson"/>
+                <valItem ident="#John_Stevenson"/>
+                <valItem ident="#Catherine_Thompson_Stevenson"/>
+                <valItem ident="#Marianne_Lumb"/>
+                <valItem ident="#Anne_Gaskell"/>
+                <valItem ident="#Robert_Gaskell"/>
+                <valItem ident="#Edward_Dimock"/>
+                <valItem ident="#William_Gaskell_Senior"/>
+              </valList>
+            </attDef>
+            
+          </attList>
+          
+          
+        </elementSpec> 
         
       </schemaSpec>
     </body>
