@@ -28,7 +28,7 @@
    </teiHeader>
    <text>
       <body>
-         <div type="headnote" n="0" resp="#mjk"><p><persName ref="Elizabeth_Stevenson_Gaskell">Gaskell</persName> dedicates her diary to her firstborn daughter, <persName ref="MA_GAskell_Holland">Marianne</persName>, who was born <date when="1834-09-12">September 12, 1834</date>. At the time of <persName ref="Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s death, <persName ref="MA_GAskell_Holland">Marianne</persName> was yet unmarried. She later married and had several children; the diary has been handed down through <persName ref="MA_GAskell_Holland">Marianne</persName>’s descendants, and is currently the property of Mrs. Sarah Prince, <persName ref="MA_GAskell_Holland">Marianne</persName>’s great-great granddaughter.
+         <div type="headnote" n="0" resp="#mjk"><p><persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> dedicates her diary to her firstborn daughter, <persName ref="#MA_GAskell_Holland">Marianne</persName>, who was born <date when="1834-09-12">September 12, 1834</date>. At the time of <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s death, <persName ref="#MA_GAskell_Holland">Marianne</persName> was yet unmarried. She later married and had several children; the diary has been handed down through <persName ref="#MA_GAskell_Holland">Marianne</persName>’s descendants, and is currently the property of Mrs. Sarah Prince, <persName ref="#MA_GAskell_Holland">Marianne</persName>’s great-great granddaughter.
             </p></div>
          <div type="dedication">
               <p>To my dear little <persName ref="#MA_Gaskell_Holland">Marianne</persName> I shall <q>dedicate</q> <lb/>this book, which, if I should not
@@ -1132,7 +1132,7 @@
                advise her. <lb/>I have tried to decide in this matter for the <lb/>best, and now we
                must await the result; only <lb/>pray for <persName ref="#God">God</persName>'s ble<choice><sic>&#383;</sic><reg>s</reg></choice>sing upon her.</p>
             <p>Since I last wrote, she and I have begun to <lb/>talk together about religion. I have
-               told <lb/>her the simple truths I thought she could <lb/>understand, such as <persName ref="God">God</persName>'s
+               told <lb/>her the simple truths I thought she could <lb/>understand, such as <persName ref="#God">God</persName>'s
                goodne<choice><sic>&#383;</sic><reg>s</reg></choice>s and love, <lb/>His watching over us in the silent hours of <lb/>the
                night &amp;c. I think she has now right ideas <pb n="64"/><lb/>as far as they go,
                about this important subject. <lb/>At first she perplexed me very much by her
@@ -1143,7 +1143,7 @@
                   ref="#Elizabeth_Gaskell_Holland">Aunt Liz=<lb break="no"/>=zy</persName> is coming here soon, and tonight I
                told <lb/>her we should have <persName ref="#Elizabeth_Gaskell_Holland">Aunt Lizzy</persName>here in
                three <lb/>weeks, if we were all well. <q>But whom must <lb/>we ask to keep us well.</q>
-               (<persName ref="MA_Gaskell_Holland">M. A.</persName>)<q><persName ref="God">God</persName>.</q> After a <lb/>pause she added <quote>I shall ask <persName ref="God">God</persName> to keep <lb/><persName
+               (<persName ref="#MA_Gaskell_Holland">M. A.</persName>)<q><persName ref="#God">God</persName>.</q> After a <lb/>pause she added <quote>I shall ask <persName ref="#God">God</persName> to keep <lb/><persName
                   ref="#Elizabeth_Gaskell_Holland">Aunt Lizzy</persName> well too.</quote> She went to chapel for <lb/>the
                first and only time on <date>Christmas day</date>, &amp; <lb/>was I think a little
                tired, though she likes <lb/>much to talk about it.</p>
@@ -1159,7 +1159,7 @@
                has been done sorrowfully <lb/>and gently, and has never failed in making <lb/>her
                more obedient, without producing the <hi rend="underline">least</hi>
                <lb/>resentful feeling. She is a sweet little creature <lb/>in general; full of good
-               feeling. She would give <lb/>rather too freely to the poor. <q>I love <persName ref="Elizabeth_Stevenson_Gaskell">you</persName>, and
+               feeling. She would give <lb/>rather too freely to the poor. <q>I love <persName ref="#Elizabeth_Stevenson_Gaskell">you</persName>, and
                   <lb/><persName ref="#Wm_Gaskell">Papa</persName>, &amp; <persName
                   ref="#Meta_Gaskell">Meta</persName>, &amp; <persName ref="#Elizabeth_Barlow_household"
                   >Elizabeth</persName>, &amp; <persName ref="#Fanny_household">Fanny</persName>, and poor <pb
@@ -1173,7 +1173,7 @@
                not <lb/>my will be done, <choice>
                   <reg>but</reg>
                   <sic>by</sic>
-               </choice> thine O <persName ref="God">Lord</persName>. Amen.</p>
+               </choice> thine O <persName ref="#God">Lord</persName>. Amen.</p>
          </div>
          <div type="headnote" n="9">
             <head>Entry 9</head>
@@ -1355,7 +1355,7 @@
                suffered <lb/>much to what many children do. <persName ref="#MA_Gaskell_Holland"
                   >Marianne</persName>
                <lb/>has within this fortnight begun to have a little <lb/>animal food, but we keep
-                  <persName ref="#Meta_Gaskell">Meta</persName> to the old <lb/>plain diet. May <persName ref="God">God</persName>
+                  <persName ref="#Meta_Gaskell">Meta</persName> to the old <lb/>plain diet. May <persName ref="#God">God</persName>
                ble<choice><sic>&#383;</sic><reg>s</reg></choice>s both my dear children.</p>
          </div>
       </body>

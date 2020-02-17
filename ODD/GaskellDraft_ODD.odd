@@ -24,9 +24,9 @@
       <head>ODD for the Elizabeth Gaskell Diary Transcription XML file; encoding and schema developed by Melissa J. Klamer</head>
       <schemaSpec ident="oddex1" start="TEI">
          <moduleRef key="tei"/>
-        <moduleRef key="core" include="listBibl bibl title author editor publisher pubPlace biblScope name date desc head lg l lb note p q ref resp respStmt textLang"/>
+        <moduleRef key="core" include="listBibl bibl title author editor publisher pubPlace biblScope name date desc head lg l lb note p q ref resp respStmt textLang quote pb choice unclear add gap time hi sic reg"/>
         <moduleRef key="header"/>  
-        <moduleRef key="textstructure" include="TEI body div front text"/>
+        <moduleRef key="textstructure" include="TEI body div front text dateline"/>
         <moduleRef key="transcr"/>
         <moduleRef key="msdescription"/>
         <moduleRef key="certainty"/>
