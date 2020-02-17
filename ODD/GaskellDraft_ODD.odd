@@ -24,18 +24,20 @@
       <head>ODD for the Elizabeth Gaskell Diary Transcription XML file; encoding and schema developed by Melissa J. Klamer</head>
       <schemaSpec ident="oddex1" start="TEI">
          <moduleRef key="tei"/>
-        <moduleRef key="core" include="listBibl bibl title author editor publisher pubPlace biblScope name date desc head lg l lb note p q ref resp respStmt textLang quote pb choice unclear add gap time hi sic reg"/>
+        <moduleRef key="core" include="listBibl bibl title author editor publisher pubPlace biblScope name date desc head lg l lb note p q ref resp respStmt textLang quote pb choice unclear add gap time hi sic reg del"/>
         <moduleRef key="header"/>  
         <moduleRef key="textstructure" include="TEI body div front text dateline"/>
         <moduleRef key="transcr"/>
         <moduleRef key="msdescription"/>
         <moduleRef key="certainty"/>
-        <moduleRef key="gaiji" include=""/>
+        <moduleRef key="gaiji"/>
         <moduleRef key="verse"/>
         <moduleRef key="textcrit"/>
         <moduleRef key="linking"/>
-        <moduleRef key="namesdates" include="persName placeName roleName geo place"/>
-          <elementSpec ident="person" module="namesdates" mode="change">
+        <moduleRef key="namesdates"/>
+          <!-- 2020-02-17 ebb: Commenting this out until we are ready to populate it. Make sure the mode attribute isn't wrong. 
+            I think this should be mode="add". 
+            <elementSpec ident="person" module="namesdates" mode="change">
           <attList>
             <attDef ident="xml:id">
               <valList type="closed">
@@ -47,7 +49,7 @@
           
           
           
-        </elementSpec>
+        </elementSpec>-->
         <elementSpec ident="persName" module="core" mode="change">
           <attList>
             <attDef ident="ref" mode="replace" usage="req">
@@ -86,6 +88,7 @@
                 <valItem ident="#Robert_Gaskell"/>
                 <valItem ident="#Edward_Dimock"/>
                 <valItem ident="#William_Gaskell_Senior"/>
+                <valItem ident="#God"/>
               </valList>
             </attDef>
             
