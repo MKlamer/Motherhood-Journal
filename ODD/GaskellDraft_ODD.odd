@@ -24,9 +24,9 @@
       <head>ODD for the Elizabeth Gaskell Diary Transcription XML file; encoding and schema developed by Melissa J. Klamer</head>
       <schemaSpec ident="oddex1" start="TEI">
          <moduleRef key="tei"/>
-        <moduleRef key="core"/>
+        <moduleRef key="core" include="listBibl bibl title author editor publisher pubPlace biblScope name date desc head lg l lb note p q ref resp respStmt textLang"/>
         <moduleRef key="header"/>  
-        <moduleRef key="textstructure"/>
+        <moduleRef key="textstructure" include="TEI body div front text"/>
         <moduleRef key="transcr"/>
         <moduleRef key="msdescription"/>
         <moduleRef key="certainty"/>
@@ -34,7 +34,7 @@
         <moduleRef key="verse"/>
         <moduleRef key="textcrit"/>
         <moduleRef key="linking"/>
-        <moduleRef key="namesdates"/>
+        <moduleRef key="namesdates" include="persName placeName roleName geo place"/>
           <elementSpec ident="person" module="namesdates" mode="change">
           <attList>
             <attDef ident="xml:id">
@@ -50,7 +50,7 @@
         </elementSpec>
         
         
-        <elementSpec ident="sp" module="core" mode="change">
+        <!--<elementSpec ident="sp" module="core" mode="change">
           <attList>
             <attDef ident="who" mode="replace" usage="req">
               <datatype><rng:text/></datatype>
@@ -85,7 +85,7 @@
               </valList>
             </attDef>
             
-          </attList>
+          </attList>-->
           
           
         </elementSpec>      
@@ -93,6 +93,7 @@
           <attList>
             <attDef ident="ref" mode="replace" usage="req">
               <valList type="closed">
+                <valItem ident="#mjk"/>
                 <valItem ident="#Elizabeth_Stevenson_Gaskell"/>
                 <valItem ident="#Wm_Gaskell"/>
                 <valItem ident="#MA_Gaskell_Holland"/>
