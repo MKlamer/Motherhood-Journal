@@ -48,47 +48,6 @@
           
           
         </elementSpec>
-        
-        
-        <!--<elementSpec ident="sp" module="core" mode="change">
-          <attList>
-            <attDef ident="who" mode="replace" usage="req">
-              <datatype><rng:text/></datatype>
-              <valList type="semi">
-                
-                <valItem ident="#hamilton"/>
-                <valItem ident="#burr"/>
-                <valItem ident="#washington"/>
-                <valItem ident="#mulligan"/>
-                <valItem ident="#lafayette"/>
-                <valItem ident="#laurens"/>
-                <valItem ident="#kingGeorge"/>
-                <valItem ident="#seabury"/>
-                <valItem ident="#lee"/>
-                <valItem ident="#eliza"/>
-                <valItem ident="#angelica"/>
-                <valItem ident="#peggy"/>
-                <valItem ident="#jefferson"/>
-                <valItem ident="#madison"/>
-                <valItem ident="#philipH"/>
-                <valItem ident="#maria"/>
-                <valItem ident="#reynolds"/>
-                <valItem ident="#eacker"/>
-                <valItem ident="#doctor"/>
-                <valItem ident="#martha"/>
-                <valItem ident="#dolly"/>
-                <valItem ident="#ensemble"/>
-                <valItem ident="#company"/>
-                <valItem ident="#men"/>
-                <valItem ident="#women"/>
-                <valItem ident="#recording"/>
-              </valList>
-            </attDef>
-            
-          </attList>-->
-          
-          
-        </elementSpec>      
         <elementSpec ident="persName" module="core" mode="change">
           <attList>
             <attDef ident="ref" mode="replace" usage="req">
