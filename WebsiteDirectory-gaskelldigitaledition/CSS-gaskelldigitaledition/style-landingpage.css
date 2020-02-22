@@ -13,3 +13,10 @@ h2 {
   color: #000000;
   text-align: center;
 }
+h3 { color: #000000; text-align: center;
+}
+h5 {
+  color: #000000;
+  text-align: center;
+}
+td {width: 200px}
