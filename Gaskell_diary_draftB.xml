@@ -242,7 +242,7 @@
                         <reg>anything</reg>
                      </choice> they <lb/>cry for</quote>, another (<persName ref="#Mme_DeSaussure"
                         >M<hi rend="superscript">me</hi> Necker de Saus<lb break="no"
-                     />=sure</persName>, <title>sur L'Education Progressive</title><!--lang="Fr"-->,
+                        />=sure</persName>, <title>sur L'Education Progressive</title><note resp="#mjk"><title>L’Education Progressive; ou, etude sur la cours de la vie</title> was published in England in several volumes between <date when="1829">1829</date> and <date when="1838">1838</date>. <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> must have been reading the original French; an English translation was not printed in <placeName>England</placeName> until <date when="1838">1838</date>. <persName ref="#Mme_DeSaussure">Mme Necker de Saussure</persName> was a Swiss woman of letters known primarily for this text. The quotation included here (“les larmes des enfans sont si amère, la calme parfaite de l’âme leur est si necessaire qu’il faut surtout aparquer des larmes”) is translated “The tears of infants are so bitter, the perfect calm of the soul is so necessary to them, that it is necessary especially to prevent tears.” (Translation resp: #mjk) </note><!--lang="Fr"-->,
                   the <lb/>nicest <title ref="sur L'Education_Progressive"
                   >book</title><!-- bibl, rather than title here? --> I have read on the subject
                      <lb/><pb n="9"/> says
@@ -411,27 +411,27 @@
                      <reg>its</reg>
                   </choice>presence be. Oh! I do hope &amp; intend </p>
                <pb n="14"/>
-               <gap unit="lines" quantity="6"/>
+               <gap unit="lines" quantity="6"/><note resp="#mjk">The top third of the second leaf of this entry has been cut away. See headnote for this entry.</note>
                <p>how all a woman's life, at least so it seems to me now, ought to have a
-                  refe=<!--word break--><lb/> =rence to the period when she will be
-                  ful=<!--word break-->=filling one of her greatest &amp; highest<lb/> duties, those
+                  refe=<lb break="no"/>=rence to the period when she will be
+                  ful=<lb break="no"/>=filling one of her greatest &amp; highest<lb/> duties, those
                   of a mother. I feel myself<lb/> so unknowing, so doubtful about many<lb/> things
                   in her intellectual &amp; moral treatment already, and what shall I<lb/> be when
-                  she grows older, &amp; asks those<lb/> puzzling qustions that chlidren do?<lb/> I
+                  she grows older, &amp; asks those<lb/> puzzling qustions that children do?<lb/> I
                   hope I<!--unclear marking near I--> shall always preserve my present good
                   intentions &amp; sense of my<lb/> holy trust, and then I must pray, to be<lb/>
                   forgiven for my errors, &amp; led into a better<lb/> course.</p>
                <pb n="15"/>
                <p><gap unit="lines" quantity="6"
-                     ><!--quantity unknown here, back of gap margin is not visible--></gap>afraid of
+                  ><!--quantity unknown here, back of gap margin is not visible--></gap><note resp="#mjk">The top third of the second leaf of this entry has been cut away. See headnote for this entry.</note>afraid of
                   pleasure being a<choice>
                      <sic>&#383;</sic>
                      <reg>s</reg>
                   </choice>sociated with<lb/> the faces of pain they pull. Perhaps this<lb/> is
                   foolish but I will put every thing down<lb/> relating to her.<lb/></p>
-               <p>She has been to <placeName>Knutsford</placeName> and
-                     <placeName>Warring<lb/>ton</placeName> since I last wrote in this journal.<lb/>
-                  And oh! after her visit to <placeName>Warrington</placeName><lb/> she was very
+               <p>She has been to <placeName ref="#Knutsford">Knutsford</placeName><note resp="#mjk"><placeName ref="#Knutsford">Knutsford</placeName> was the home of the Hollands, <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s <persName ref="#Elizabeth_Holland_Stevenson">mother</persName>’s family. After <persName ref="#Elizabeth_Holland_Stevenson">Elizabeth (Holland) Stevenson</persName> died when young <persName ref="#Elizabeth_Stevenson_Gaskell">Elizabeth</persName> was thirteen months old, she went to <placeName ref="#Knutsford">Knutsford</placeName> to live with her <persName ref="#Elizabeth_Holland_Stevenson">mother</persName>’s <persName ref="#Hannah_Holland_Lumb">sister</persName>, <persName ref="#Hannah_Holland_Lumb">Hannah (Holland) Lumb</persName> and her daughter, <persName ref="#Marianne_Lumb">Marianne Lumb</persName>. </note> and
+                     <placeName>Warring<lb/>ton</placeName><note resp="#mjk"><placeName ref="#Warrington">Warrington</placeName> was the home of <persName ref="#William_Gaskell_Senior">William Gaskell</persName>’s family, who were Dissenters. His widowed <persName ref="#Margaret_Gaskell_Dimock">mother</persName> lived there with her second husband, <persName ref="#Edward_Dimock">Edward Dimock</persName>, who was also a Unitarian minister at <placeName ref="#Id_whatSankey-Street-Chapel">Sankey Street Chapel</placeName> in <placeName ref="#Id_whatWarrington">Warrington</placeName>Warrington. </note> since I last wrote in this journal.<lb/>
+                  And oh! after her visit to <placeName ref="#Warrington">Warrington</placeName><lb/> she was very
                   very ill; and I was very<lb/> much afraid we should have lost her.<lb/> I did so
                   try to be resigned; but I cannot<lb/> tell how I sickened at my heart, at<lb/> the
                   thought of seeing her no more here.<lb/><quote>
@@ -1121,7 +1121,7 @@
                      >Gaskell</persName>, upon the advice of <persName ref="#Richard_Deane">Dr.
                      Richard Deane</persName>, a partner in her Uncle <persName ref="#Peter_Holland"
                      >Peter Holland</persName>’s medical practice in
-                     <placeName>Knutsford</placeName>, <persName ref="#MA_Gaskell_Holland"
+                     <placeName ref="#Knutsford">Knutsford</placeName>, <persName ref="#MA_Gaskell_Holland"
                      >Marianne</persName> was kept from being put on her feet during a summer visit
                   in 1836, when she would have been nearly 21 months old. Following a “violent
                   attack” which the Gaskells treated with a warm bath and a dose of castor oil,
@@ -1439,7 +1439,7 @@
                      >Marianne</persName> had gone to stay with <persName ref="#Hannah_Holland_Lumb"
                      >Aunt Lumb</persName> had a paralytic stroke, and <persName
                      ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> traveled to
-                     <placeName>Knutsford</placeName>, with newborn <persName ref="#Meta_Gaskell"
+                     <placeName ref="#Knutsford">Knutsford</placeName>, with newborn <persName ref="#Meta_Gaskell"
                      >Meta</persName> and a servant, Betsy, and remained there in rented rooms with
                   both girls for nearly two months until <persName ref="#Hannah_Holland_Lumb">Aunt
                      Lumb</persName>’s death on May 1st. A letter, dated <date when="1837-03-18">18
@@ -1628,8 +1628,7 @@
                      poorly;</q>
                   <q>No,</q> I said, <q>she is well and happy <lb/>now.</q> Is she, replied my dear
                   little girl, <q>Oh then <lb/>I am so glad; let me go and coax her.</q> And
-                  <lb/>since she has been at Knutsford (in <date when="1837-09">September</date>)<pb
-                     n="55"/><lb/>she has told me <persName ref="#Hannah_Holland_Lumb">Aunt
+                  <lb/>since she has been at <placeName ref="Knutsford">Knutsford</placeName> (in <date when="1837-09">September</date>)<pb n="55"/><lb/>she has told me <persName ref="#Hannah_Holland_Lumb">Aunt
                      Lumb</persName> did not live with <lb/><persName ref="#Abigail_Holland">Aunt
                      Ab</persName> now; she had left that house. I longed to <lb/>say she was
                      <quote>gone to a house not made with hands, <lb/>eternal, in the
@@ -1944,7 +1943,7 @@
                      ref="#Richard_Deane">Dr. Richard Deane</persName>, was <persName
                      ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s uncle <persName
                      ref="#Peter_Holland">Peter Holland</persName>’s partner in
-                     <placeName>Knutsford</placeName>. <persName ref="#Edward_Deane">Eddy
+                     <placeName ref="#Knutsford">Knutsford</placeName>. <persName ref="#Edward_Deane">Eddy
                      Deane</persName> was nine months older than <persName ref="#MA_Gaskell_Holland"
                      >Marianne</persName> and had been ill with croup the same night as <persName
                      ref="#MA_Gaskell_Holland">Marianne</persName> and died four days later.
@@ -2178,7 +2177,7 @@
                      >Marianne</persName>’s health, and writes that they are traveling to
                      <placeName>Prospect Hill</placeName>, the home of a relative of <persName
                      ref="#Wm_Gaskell">William</persName>’s, south of
-                     <placeName>Warrington</placeName>, on the recommendation of William’s brother,
+                     <placeName ref="#Warrington">Warrington</placeName>, on the recommendation of William’s brother,
                      <persName ref="#Sam_Gaskell">Sam Gaskell</persName>, who was a physician and
                   seems to have been a frequent purveyor of medical advice to the family. <persName
                      ref="#MA_Gaskell_Holland">Marianne</persName> is progressing in other respects,

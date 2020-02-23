@@ -102,6 +102,24 @@
           
         </elementSpec> 
         
+        <elementSpec ident="placeName" module="core" mode="change">
+          <attList>
+            <attDef ident="ref" mode="replace" usage="req">
+              <valList type="closed">
+                <valItem ident="Knutsford"/>
+                <valItem ident="Warrington"/>
+                <valItem ident="Prospect Hill"/>
+                <valItem ident="Grange"/>
+                <valItem ident="Crosby"/>
+                <valItem ident="Wales"/>
+                <valItem ident="Infant school"/>
+                <valItem ident="Manchester"/>
+                <valItem ident="Clopton Hall"/>
+                <valItem ident="Sankey-Street-Chapel"/>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
       </schemaSpec>
     </body>
   </text>
