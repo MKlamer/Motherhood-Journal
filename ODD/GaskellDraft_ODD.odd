@@ -106,16 +106,17 @@
           <attList>
             <attDef ident="ref" mode="replace" usage="req">
               <valList type="closed">
-                <valItem ident="Knutsford"/>
-                <valItem ident="Warrington"/>
-                <valItem ident="Prospect Hill"/>
-                <valItem ident="Grange"/>
-                <valItem ident="Crosby"/>
-                <valItem ident="Wales"/>
-                <valItem ident="Infant school"/>
-                <valItem ident="Manchester"/>
-                <valItem ident="Clopton Hall"/>
-                <valItem ident="Sankey-Street-Chapel"/>
+                <valItem ident="#Knutsford"/>
+                <valItem ident="#Warrington"/>
+                <valItem ident="#Prospect Hill"/>
+                <valItem ident="#Grange"/>
+                <valItem ident="#Crosby"/>
+                <valItem ident="#Wales"/>
+                <valItem ident="#Infant school"/>
+                <valItem ident="#Manchester"/>
+                <valItem ident="#Clopton Hall"/>
+                <valItem ident="#Sankey-Street-Chapel"/>
+                <valItem ident="#England"></valItem>
               </valList>
             </attDef>
           </attList>

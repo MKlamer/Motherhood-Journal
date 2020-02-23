@@ -242,7 +242,7 @@
                         <reg>anything</reg>
                      </choice> they <lb/>cry for</quote>, another (<persName ref="#Mme_DeSaussure"
                         >M<hi rend="superscript">me</hi> Necker de Saus<lb break="no"
-                        />=sure</persName>, <title>sur L'Education Progressive</title><note resp="#mjk"><title>L’Education Progressive; ou, etude sur la cours de la vie</title> was published in England in several volumes between <date when="1829">1829</date> and <date when="1838">1838</date>. <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> must have been reading the original French; an English translation was not printed in <placeName>England</placeName> until <date when="1838">1838</date>. <persName ref="#Mme_DeSaussure">Mme Necker de Saussure</persName> was a Swiss woman of letters known primarily for this text. The quotation included here (“les larmes des enfans sont si amère, la calme parfaite de l’âme leur est si necessaire qu’il faut surtout aparquer des larmes”) is translated “The tears of infants are so bitter, the perfect calm of the soul is so necessary to them, that it is necessary especially to prevent tears.” (Translation resp: #mjk) </note><!--lang="Fr"-->,
+                        />=sure</persName>, <title>sur L'Education Progressive</title><note resp="#mjk"><title>L’Education Progressive; ou, etude sur la cours de la vie</title> was published in England in several volumes between <date when="1829">1829</date> and <date when="1838">1838</date>. <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> must have been reading the original French; an English translation was not printed in <placeName ref="#England">England</placeName> until <date when="1838">1838</date>. <persName ref="#Mme_DeSaussure">Mme Necker de Saussure</persName> was a Swiss woman of letters known primarily for this text. The quotation included here (“les larmes des enfans sont si amère, la calme parfaite de l’âme leur est si necessaire qu’il faut surtout aparquer des larmes”) is translated “The tears of infants are so bitter, the perfect calm of the soul is so necessary to them, that it is necessary especially to prevent tears.” (Translation resp: #mjk) </note><!--lang="Fr"-->,
                   the <lb/>nicest <title ref="sur L'Education_Progressive"
                   >book</title><!-- bibl, rather than title here? --> I have read on the subject
                      <lb/><pb n="9"/> says
@@ -430,7 +430,7 @@
                   </choice>sociated with<lb/> the faces of pain they pull. Perhaps this<lb/> is
                   foolish but I will put every thing down<lb/> relating to her.<lb/></p>
                <p>She has been to <placeName ref="#Knutsford">Knutsford</placeName><note resp="#mjk"><placeName ref="#Knutsford">Knutsford</placeName> was the home of the Hollands, <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s <persName ref="#Elizabeth_Holland_Stevenson">mother</persName>’s family. After <persName ref="#Elizabeth_Holland_Stevenson">Elizabeth (Holland) Stevenson</persName> died when young <persName ref="#Elizabeth_Stevenson_Gaskell">Elizabeth</persName> was thirteen months old, she went to <placeName ref="#Knutsford">Knutsford</placeName> to live with her <persName ref="#Elizabeth_Holland_Stevenson">mother</persName>’s <persName ref="#Hannah_Holland_Lumb">sister</persName>, <persName ref="#Hannah_Holland_Lumb">Hannah (Holland) Lumb</persName> and her daughter, <persName ref="#Marianne_Lumb">Marianne Lumb</persName>. </note> and
-                     <placeName>Warring<lb/>ton</placeName><note resp="#mjk"><placeName ref="#Warrington">Warrington</placeName> was the home of <persName ref="#William_Gaskell_Senior">William Gaskell</persName>’s family, who were Dissenters. His widowed <persName ref="#Margaret_Gaskell_Dimock">mother</persName> lived there with her second husband, <persName ref="#Edward_Dimock">Edward Dimock</persName>, who was also a Unitarian minister at <placeName ref="#Id_whatSankey-Street-Chapel">Sankey Street Chapel</placeName> in <placeName ref="#Id_whatWarrington">Warrington</placeName>Warrington. </note> since I last wrote in this journal.<lb/>
+                     <placeName ref="#Warrington">Warring<lb/>ton</placeName><note resp="#mjk"><placeName ref="#Warrington">Warrington</placeName> was the home of <persName ref="#William_Gaskell_Senior">William Gaskell</persName>’s family, who were Dissenters. His widowed <persName ref="#Margaret_Gaskell_Dimock">mother</persName> lived there with her second husband, <persName ref="#Edward_Dimock">Edward Dimock</persName>, who was also a Unitarian minister at <placeName ref="#Sankey-Street-Chapel">Sankey Street Chapel</placeName> in <placeName ref="#Warrington">Warrington</placeName>Warrington. </note> since I last wrote in this journal.<lb/>
                   And oh! after her visit to <placeName ref="#Warrington">Warrington</placeName><lb/> she was very
                   very ill; and I was very<lb/> much afraid we should have lost her.<lb/> I did so
                   try to be resigned; but I cannot<lb/> tell how I sickened at my heart, at<lb/> the
@@ -1177,7 +1177,7 @@
                   (in <date>May</date>) <persName ref="#Richard_Deane">W<hi rend="superscript"
                         >m</hi>. <lb/>Deane</persName> quite forbid her being put upon her <lb/>feet
                   and the consequence of course was that <lb/>she lost the little idea of walking
-                  which she <lb/>had before. At <placeName ref="#Prospect_Hill">Prospect
+                  which she <lb/>had before. At <placeName ref="#Prospect Hill">Prospect
                      Hill</placeName>she gained strength <lb/>though she had one violent attack,
                   (beginning <lb/>with violent screaming as if in pain), but <lb/> we put her
                   directly into warm water, &amp; <lb/>gave her castor oil, sending at the same
@@ -1500,7 +1500,7 @@
                      ref="#Crosby">Crosby</placeName> in <date when="1837-07">July</date>. In <date
                      when="1837-09">September</date>
                   <persName ref="#Wm_Gaskell">William</persName>
-                  <pb n="50"/><lb/>and I went into <placeName ref="Wales">Wales</placeName> for
+                  <pb n="50"/><lb/>and I went into <placeName ref="#Wales">Wales</placeName> for
                   three weeks, leaving <persName ref="#MA_Gaskell_Holland">Mari=<lb break="no"
                      />anne</persName> with <persName ref="#Bessey_Holland">Bessy
                   Holland</persName>, and <persName ref="#Meta_Gaskell">Meta</persName> with
@@ -1564,7 +1564,7 @@
                      <lb/>Deane</persName>'s <choice>
                      <sic>poney</sic>
                      <reg>pony</reg>
-                  </choice>-carriage to the <placeName ref="#Infant_School">Infant
+                  </choice>-carriage to the <placeName ref="#Infant school">Infant
                      school</placeName>, and <lb/>was so pleased with <persName
                      ref="#MA_Gaskell_Holland">Marianne</persName>'s pleasure.</p>
                <p><lb/>That evening about 1/2 past 10, she had a para=<lb break="no"/>=lytic stroke.
@@ -1628,7 +1628,7 @@
                      poorly;</q>
                   <q>No,</q> I said, <q>she is well and happy <lb/>now.</q> Is she, replied my dear
                   little girl, <q>Oh then <lb/>I am so glad; let me go and coax her.</q> And
-                  <lb/>since she has been at <placeName ref="Knutsford">Knutsford</placeName> (in <date when="1837-09">September</date>)<pb n="55"/><lb/>she has told me <persName ref="#Hannah_Holland_Lumb">Aunt
+                  <lb/>since she has been at <placeName ref="#Knutsford">Knutsford</placeName> (in <date when="1837-09">September</date>)<pb n="55"/><lb/>she has told me <persName ref="#Hannah_Holland_Lumb">Aunt
                      Lumb</persName> did not live with <lb/><persName ref="#Abigail_Holland">Aunt
                      Ab</persName> now; she had left that house. I longed to <lb/>say she was
                      <quote>gone to a house not made with hands, <lb/>eternal, in the
@@ -1816,7 +1816,7 @@
                         <time>Evening</time>.</date>
                </head>
                <p><lb/>There is a new era in the little life of my dear <lb/>little girl. Tomorrow
-                  she goes to an <placeName>Infant School</placeName>. <lb/>I think I am naturally
+                  she goes to an <placeName ref="#Infant school">Infant School</placeName>. <lb/>I think I am naturally
                   undecided, or rather <lb/>perhaps apt to repent my decision when it is <lb/>too
                   late, but now I am beginning to wonder if <lb/>I have done right about this
                   darling. There is <lb/>much to be said on each side. It <hi rend="underline"
@@ -2107,11 +2107,11 @@
                   although there is no indication that the Gaskells were at all involved in the
                   festivities. An event more likely to have affected them was the formation of the
                      <orgName>Anti-Corn Law Association</orgName> in
-                     <placeName>Manchester</placeName>, which was to become the <orgName>Anti-Corn
+                     <placeName ref="#Manchester">Manchester</placeName>, which was to become the <orgName>Anti-Corn
                      Law League</orgName> the following year. Two months before this entry,
                      <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> wrote a letter
                   to <persName ref="#William_Howitt">William Howitt</persName> in which she
-                  described <placeName>Clopton Hall</placeName>,
+                  described <placeName ref="#Clopton Hall">Clopton Hall</placeName>,
                   <!-- having heard he was working on a collection, “Visits to Remarkable Places”. He was impressed with her description and included it nearly verbatim in his “Rural Life of England” (1840). check publication facts-->
                </p>
             </div>
@@ -2175,7 +2175,7 @@
                   intends to <quote>make up for</quote> having been interrupted in the previous
                   entry. She continues to worry about <persName ref="#MA_Gaskell_Holland"
                      >Marianne</persName>’s health, and writes that they are traveling to
-                     <placeName>Prospect Hill</placeName>, the home of a relative of <persName
+                     <placeName ref="#Prospect Hill">Prospect Hill</placeName>, the home of a relative of <persName
                      ref="#Wm_Gaskell">William</persName>’s, south of
                      <placeName ref="#Warrington">Warrington</placeName>, on the recommendation of William’s brother,
                      <persName ref="#Sam_Gaskell">Sam Gaskell</persName>, who was a physician and
@@ -2202,7 +2202,7 @@
                <p><lb/>I was interrupted when I last wrote, but I shall <lb/>try and make up for it
                   tonight. <persName ref="#MA_Gaskell_Holland">Marianne</persName> and I <lb/>are
                   going in <add type="insertion" place="above">a</add> day to <placeName
-                     ref="#Prospect_Hill">Prospect Hill</placeName>, on account of <lb/>her health;
+                     ref="#Prospect Hill">Prospect Hill</placeName>, on account of <lb/>her health;
                   she has grown very much lately, and <lb/>her <persName ref="#Sam_Gaskell">Uncle
                      Sam</persName> thinks it desirable for her to have a <lb/>little change of air
                   before winter sets in. I hope <lb/>it will do her good, but there are so many
