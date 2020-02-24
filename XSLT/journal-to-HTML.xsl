@@ -71,10 +71,9 @@
         <br id="n{count(preceding::lb) + 1}"/><span class="line-number"><xsl:value-of select="count(preceding::lb) + 1"/><xsl:text>. </xsl:text></span>
     </xsl:template>
     
-    <xsl:template match="body" mode="toc">
-        <li>
-           
-            
+    <xsl:template match="body//div[@type='journal']" mode="toc">
+        <li><a href="#j{count(preceding::div[@type='journal']) + 1}"><xsl:apply-templates select="descendant::div[@type='headnote']/head[1]"/><xsl:text>: </xsl:text> 
+            <xsl:apply-templates select="descendant::dateline"/></a>
         </li>
     </xsl:template>
  
