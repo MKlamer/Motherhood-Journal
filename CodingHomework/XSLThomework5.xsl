@@ -10,33 +10,8 @@
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
         omit-xml-declaration="yes"/>
     
-    <xsl:variable name="dickinsonColl" select="collection('Dickinson/>?select=*.xml')"/>
+    <xsl:variable name="dickinsonColl" select="collection('Dickinson/?select=*.xml')"/>
     <!-- Unsure at what points to include xsl:template rules to create the output and at which points to use them to walk down the tree. -->
-    <xsl:template match="/">
-        <html>
-        <head>
-        <title>Poems in Dickinson Fascicle 16</title>
-    </head> 
-        <body>
-            <xsl:apply-templates select="$dickinsonColl//body"/>
-        </body>
-     </html>
-    </xsl:template>
-    <xsl:template match="$dickinsonColl//body/head">
-          <h2>
-            <ol>
-                <xsl:apply-templates select="body/head/title"/> 
-            </ol>
-          </h2>
-    </xsl:template>
-    <xsl:template match="$dickinsonColl//body/lg">
-              <p>  <xsl:apply-templates select="body/lg/l"/> </p>
-          </xsl:template>   
-    <xsl:template match="$dickinsonColl//body/lg/l/app">
-     <span class="{./rdg/@wit}">
-        <xsl:apply-templates/><br/>
-     </span>
-    </xsl:template>
     <xsl:template match="/">
         <html>
             <head><title>Emily Dickinson's Fascicle 16</title></head>
@@ -47,20 +22,36 @@
                     <xsl:apply-templates select="$dickinsonColl//body" mode="toc"/>
                 </ul>
                 <hr/>
-            </body>
             <div id="main">
                 <xsl:apply-templates select="$dickinsonColl//body"/>
             </div>
+            </body>
         </html>
     </xsl:template>
-    <xsl:template match="$dickinsonColl//body/head/title" mode="toc">
-        <li>
-            <xsl:apply-templates/>
-        </li>
+    <xsl:template match="body">
+        <h2><xsl:apply-templates select="child::head/title"/></h2> 
+          <xsl:apply-templates select="child::lg"/>
+            
     </xsl:template>
-    <xsl:template match="$dickinsonColl//body/lg/l[1]" mode="toc">
+    <xsl:template match="lg">
+              <p>  <xsl:apply-templates select="l"/> </p>
+          </xsl:template>  
+    <xsl:template match="l">
+        <span class="number"><xsl:value-of select="count(preceding::l) + 1"/></span>
+        <xsl:text> </xsl:text>
+        <xsl:apply-templates/><br/>
+    </xsl:template>
+    <xsl:template match="$dickinsonColl//body/lg/l/app">
+     <span class="{./rdg/@wit}">
+        <xsl:apply-templates/><br/>
+     </span>
+    </xsl:template>
+   
+    <xsl:template match="body" mode="toc">
         <li>
-            <xsl:apply-templates></xsl:apply-templates>
+            <xsl:apply-templates select="descendant::title"/>: 
+            <xsl:apply-templates select="lg[1]/l[1]"/>
+            
         </li>
     </xsl:template>
  
