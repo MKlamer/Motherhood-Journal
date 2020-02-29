@@ -30,6 +30,7 @@
       <body>
          <div type="journal">
             <div type="headnote" n="0" resp="#mjk">
+               <head>Dedication</head>
                <p><persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> dedicates her
                   diary to her firstborn daughter, <persName ref="#MA_Gaskell_Holland"
                      >Marianne</persName>, who was born <date when="1834-09-12">September 12,
@@ -42,8 +43,7 @@
                      >Marianne</persName>’s great-great granddaughter. </p>
             </div>
             <div type="dedication">
-               <head>Dedication</head>
-               <p>To my dear little <persName ref="#MA_Gaskell_Holland">Marianne</persName> I shall
+                  <pb n="1"/><p>To my dear little <persName ref="#MA_Gaskell_Holland">Marianne</persName> I shall
                      <q>dedicate</q>
                   <lb/>this book, which, if I should not live to give <lb/>it her myself, will I
                   trust be reserved for her <lb/>as a token of her mother's love, and extreme
@@ -60,7 +60,7 @@
                   however we <lb/>may be separated on earth, we may <lb/>each of us so behave while
                   sojourning here <lb/>that we may meet again to renew the <lb/>dear &amp; tender
                   tie of Mother and Daughter.</p>
-               <pb n="2"/>
+               
             </div>
          </div>
          <div type="journal">
@@ -125,6 +125,7 @@
                   likely that this entry was written sometime after 6 pm.</p>
             </div>
             <div type="entry" n="1">
+               <pb n="2"/>
                <head>
                   <date when="1835-03-10">March 10.<hi rend="superscript">th</hi> Tuesday
                         <time>Evening</time>. 1835.</date>
@@ -142,8 +143,7 @@
                   that <lb/> is so hard a word to apply to one so <lb/>dear. But in general she is
                   so good <lb/> that I feel as if I could hardly be <lb/>sufficiently thankful, that
                   the materials <lb/>put into my hands are so excellent, and
-                     <!-- Determine page numbering system - within entries AND within manuscript itself? Can I code these separately at the "div" level? Also is there a way to code left and right sides of pages - may be no significance to that, but just out of curiosity --><pb
-                     n="3"/><lb/>beautiful. And yet it seems to increase <lb/>the responsibility. If
+                     <pb n="3"/><lb/>beautiful. And yet it seems to increase <lb/>the responsibility. If
                   I should misguide <lb/>from carele<choice>
                      <sic>&#383;</sic>
                      <reg>s</reg>
@@ -186,13 +186,13 @@
                   <lb/>habit of fixing her attention. </p>
                <p><lb/>She takes great delight in motion just <lb/>at present; dancing, jumping,
                   shutting <lb/>and opening the hand pleases her very
-                  much:<space/><!-- long gap. Not sure whether to code this as a paragraph break or an empty space-->
+                  <lb/>much:<space type="short"/><!-- long gap. Not sure whether to code this as a paragraph break or an empty space-->
                   I had no idea children <lb/>at her age, made such continued <lb/>noises; she
                   shouts, and murmurs, and <lb/>talks in her way, just like conversa=<lb break="no"
                   />=tion, varying her tones &amp;c. I wish <lb/>we could know what is passing
                   <lb/>in her little mind. She likes any=<lb break="no"/>=thing like singing, but
                   seems afraid <lb/>of the piano; today she even began <lb/>to cry, when I began to
-                  play. <pb n="6"/></p>
+                  play. </p><pb n="6"/>
                <p><lb/>In general, I think she is remarkably <lb/>free from fear or shyness of any
                   sort. <lb/>She goes to <choice>
                      <sic>any one</sic>
@@ -213,12 +213,12 @@
                   energies of the servants in <lb/>this respect, but I intend that she shall
                   <lb/>teach herself to walk, &amp; receive no
                      assist=<!-- Tandem verification stoppped here 10/27/18 --><pb n="7"
-                  /><!--photo blocks the equal sign used to mark split word or there is none here-->ance
+                  /><!--photo blocks the equal sign used to mark split word or there is none here--><lb/>ance
                   from hands &amp;c. She lies down on the<lb/> floor a good deal, and kicks about;
                   a<lb/> practice I began very early, and which<lb/> has done her a great deal of
                   good.<lb/></p>
                <p>She goes to bed <hi rend="underline">awake</hi>; another practice<lb/> I began
-                  early, and which is so comfort<lb break="no"/>>=able I wonder it is not more
+                  early, and which is so comfort<lb break="no"/>=able I wonder it is not more
                   generally <lb/>adopted. Once or twice we have had <lb/>grand cryings, which have
                   been very <lb/>very distressing to me; but when I <lb/>have convinced myself that
                   she is not <lb/>in pain, is perfectly well, and that she <lb/>is only wanting to
@@ -226,7 +226,7 @@
                   have <lb/>been quite firm, though I have some=<lb break="no"/>=times cried almost
                   as much as she <lb/>has. I never leave her <sic>till</sic> she is as=<lb
                      break="no"/>=leep (except in extreme cases) and as <lb/>she is put to bed at a
-                  regular time <lb/>(6 o'clock) she generally gets very sleepy <lb/><pb n="8"/>while
+                  regular time <lb/>(6 o'clock) she generally gets very sleepy <pb n="8"/><lb/>while
                   being undressed. While the un=<lb break="no"/>=dre<choice>
                      <sic>&#383;</sic>
                      <reg>s</reg>
@@ -236,22 +236,22 @@
                   still putting <lb/>her down awake. Sometimes she will <lb/>cry a little, and when
                   I turn her over <lb/>in her cot she fancies she is going <lb/> to be taken up and
                   is still in a moment<lb/> making the peculiar little triumphing <lb/>noise she
-                  always does when she is <lb/>pleased. <lb/></p>
-               <p>Crying has been a great difficulty <lb/>with me. Books do so differ. One says<lb/>
+                  always does when she is <lb/>pleased. </p>
+               <p><lb/>Crying has been a great difficulty <lb/>with me. Books do so differ. One says<lb/>
                   <quote>Do not let them have <choice>
                         <sic>any thing</sic>
                         <reg>anything</reg>
                      </choice> they <lb/>cry for</quote>, another (<persName ref="#Mme_DeSaussure"
                         >M<hi rend="superscript">me</hi> Necker de Saus<lb break="no"
-                        />=sure</persName>, <title>sur L'Education Progressive</title><note resp="#mjk"><title>L’Education Progressive; ou, etude sur la cours de la vie</title> was published in England in several volumes between <date when="1829">1829</date> and <date when="1838">1838</date>. <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> must have been reading the original French; an English translation was not printed in <placeName ref="#England">England</placeName> until <date when="1838">1838</date>. <persName ref="#Mme_DeSaussure">Mme Necker de Saussure</persName> was a Swiss woman of letters known primarily for this text. The quotation included here (“les larmes des enfans sont si amère, la calme parfaite de l’âme leur est si necessaire qu’il faut surtout aparquer des larmes”) is translated “The tears of infants are so bitter, the perfect calm of the soul is so necessary to them, that it is necessary especially to prevent tears.” (Translation resp: #mjk) </note><!--lang="Fr"-->,
+                        />=sure</persName>, <title>sur L'Education Progressive</title><note resp="#mjk"><title>L’Education Progressive; ou, etude sur la cours de la vie</title> was published in England in several volumes between <date when="1829">1829</date> and <date when="1838">1838</date>. <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> must have been reading the original French; an English translation was not printed in <placeName ref="#England">England</placeName> until <date when="1838">1838</date>. <persName ref="#Mme_DeSaussure">Mme Necker de Saussure</persName> was a Swiss woman of letters known primarily for this text. The quotation included here (“les larmes des enfans sont si amère, la calme parfaite de l’âme leur est si necessaire qu’il faut surtout aparquer des larmes”) is translated “The tears of infants are so bitter, the perfect calm of the soul is so necessary to them, that it is necessary especially to prevent tears.” (Translation by Melissa Klamer, 2019) </note><!--lang="Fr"-->,
                   the <lb/>nicest <title ref="sur L'Education_Progressive"
                   >book</title><!-- bibl, rather than title here? --> I have read on the subject
-                     <lb/><pb n="9"/> says
+                     <pb n="9"/> <lb/>says
                      <quote><!--is it possible to link this quotation to the title above?--><!--lang
                   ref="fr"-->les
                      larmes des <sic>enfans</sic> sont si a=<lb break="no"/>=mires, la calme
                      parfaite de
-                     l'a<!-- accent mark needs to be included and declared as an entity-->me
+                     l'a&#770;me
                         <unclear unit="word" n="1"/>
                      <lb/>est si neccessaire qu'il faut surtout a<!--accent mark-->=<lb break="no"
                      />=parquer des larmes.</quote> So I had to <lb/>make a rule for myself, and
@@ -263,14 +263,14 @@
                      <sic>any thing</sic>
                      <reg>anything</reg>
                   </choice> for crying. <lb/>If it is to have the object for which <lb/>it is
-                  cryingI would give it, it, <hi rend="underline">di</hi>=<lb break="no"/>=<hi
+                  crying I would give it, it, <hi rend="underline">di</hi>=<lb break="no"/>=<hi
                      rend="underline">rectly</hi>, giving up any little occupation <lb/>or purpose
                   of my own, rather than <lb/>try its patience <hi rend="underline"
-                     >unnecessarily</hi>. But <lb/><pb n="10"/>if it is improper for it to obtain
+                     >unnecessarily</hi>. But <pb n="10"/><lb/>if it is improper for it to obtain
                   the <lb/>object, I think it right to withhold it <lb/>steadily, however much the
                   little creature <lb/>may cry. I think after one or two attempts <lb/>to conquer by
                   crying the child would
-                     be<!-- no evidence of usual equal signs. Check better image--><lb break="no"
+                     be<!-- no evidence of usual equal signs to mark a word broken across the line. --><lb break="no"
                   />come aware that <hi rend="underline">one</hi> cry or indication <lb/>of a want
                   was sufficient, and I think<lb/> the habit of crying would be broken. <lb/>I am
                   almost sure even my partial <lb/>adherence to this plan has prevented <lb/>many
@@ -287,8 +287,8 @@
                      <sic>any thing</sic>
                      <reg>anything</reg>
                   </choice> - food <lb/>given irregularly or improperly, dress <lb/>uncomfortable,
-                  even to an uneasy position. <lb/>I think this rule should be attended to <lb/><pb
-                     n="11"/> But though I keep laying down rules, I <lb/>fear I have not
+                  even to an uneasy position. <lb/>I think this rule should be attended to <pb
+                     n="11"/> <lb/>But though I keep laying down rules, I <lb/>fear I have not
                   sufficienlty attended to them, <lb/>though I hope I have been conscientious
                   <lb/>hithterto in discharging my duty to her. Still <lb/>I sometimes fear there is
                   too much pride <lb/>in my own heart in attributing her good=<lb break="no"/>=ness
@@ -305,14 +305,14 @@
                   </choice> now be=<lb break="no"/>=cause I have thought a good deal about <lb/> the
                   formation of any little plans, and I <lb/> shall like to know their success. I
                   want <lb/> to act on principles
-                  <!-- Error Commented out: How to code metamark? <add type="metamark" place="below" function="insertion"
-                  rend="caret"/><add place="above"><hi rend="underline">now</hi></add>-->
+                 <add type="metamark" place="below" cause="insertion"
+                  rend="caret"/><add place="above"><hi rend="underline">now</hi></add>
                   which can be carried <lb/>on through the whole of her education. <lb/>I have
                   written a great deal tonight, and <lb/>very unconnectedly. I had no idea the
                   <lb/>journal of my own disposition, &amp; <lb/><pb n="12"/>feelings was so
                   intimately connected with <lb/>that of my little baby, whose regular brea=<lb
                      break="no"/>-=thing has been the music of my thoughts <lb/>all the time I have
-                  been writing. <persName ref="#God">God</persName>, <lb/>bless her. <lb/></p>
+                  been writing. <persName ref="#God">God</persName>, <lb/>bless her. </p>
             </div>
          </div>
          <div type="journal">
@@ -373,21 +373,21 @@
                <head>
                   <date when="1835-08-04">August 4th. Tuesday <time>Evening</time>. 1835.</date>
                </head>
-               <p>It seems a very long time since I have<lb/> written anything about my little
+               <p><lb/>It seems a very long time since I have<lb/> written anything about my little
                   darling,<!--code other names for Marianne, like this one?--><!-- ENDED HERE, 9/25/17 - line 3 of second entry. resp#mjk--><lb/>
                   and I feel as if I had been negligent<lb/> about it, only it is so difficult to know<lb/>
                   <!-- double check these first two "wheres" - could be "when" instead-->where to
-                  begin or where to stop when talking<lb/> thinking or writing about her.<lb/></p>
-               <p>In a few days she will be eleven months<lb/> old; and in some things I suppose she
+                  begin or where to stop when talking<lb/> thinking or writing about her.</p>
+               <p><lb/>In a few days she will be eleven months<lb/> old; and in some things I suppose she
                   is<lb/> rather backward; in walking and talking<lb/> for instance. <hi
                      rend="underline">I</hi> fancy she says <persName
                      ref="#Elizabeth_Stevenson_Gaskell">Mama</persName>,<lb/> but I think it is only
                   fancy. She can<lb/> stand pretty steadily, taking hold of some=<lb break="no"
                   />=thing, for a few minutes and then she <lb/>pops down. But as I am not very<lb/>
-                  anxious for her to walk or talk earlier <lb/><pb n="13"/>than her nature prompts,
+                  anxious for her to walk or talk earlier <pb n="13"/><lb/>than her nature prompts,
                   and as her <lb/> Papa thinks the same, we allow her to <lb/>take her own
-                  way.<lb/></p>
-               <p>She has various little accomplishments <lb/>of her own, clapping hands,
+                  way.</p>
+               <p><lb/>She has various little accomplishments <lb/>of her own, clapping hands,
                   shaking<lb/> hands, which are very pretty, though I <lb/>sometimes fear we rather
                   try <choice>
                      <sic>to</sic>
@@ -413,7 +413,7 @@
                   </choice>presence be. Oh! I do hope &amp; intend </p>
                <pb n="14"/>
                <gap unit="lines" quantity="6"/><note resp="#mjk">The top third of the second leaf of this entry has been cut away. See headnote for this entry.</note>
-               <p>how all a woman's life, at least so it seems to me now, ought to have a
+               <p><lb/>how all a woman's life, at least so it seems to me now, ought to have a
                   refe=<lb break="no"/>=rence to the period when she will be
                   ful=<lb break="no"/>=filling one of her greatest &amp; highest<lb/> duties, those
                   of a mother. I feel myself<lb/> so unknowing, so doubtful about many<lb/> things
@@ -424,13 +424,13 @@
                   forgiven for my errors, &amp; led into a better<lb/> course.</p>
                <pb n="15"/>
                <p><gap unit="lines" quantity="6"
-                  ><!--quantity unknown here, back of gap margin is not visible--></gap><note resp="#mjk">The top third of the second leaf of this entry has been cut away. See headnote for this entry.</note>afraid of
+                  ><!--quantity unknown here, back of gap margin is not visible--></gap><note resp="#mjk">The top third of the second leaf of this entry has been cut away. See headnote for this entry.</note><lb/>afraid of
                   pleasure being a<choice>
                      <sic>&#383;</sic>
                      <reg>s</reg>
                   </choice>sociated with<lb/> the faces of pain they pull. Perhaps this<lb/> is
-                  foolish but I will put every thing down<lb/> relating to her.<lb/></p>
-               <p>She has been to <placeName ref="#Knutsford">Knutsford</placeName><note resp="#mjk"><placeName ref="#Knutsford">Knutsford</placeName> was the home of the Hollands, <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s <persName ref="#Elizabeth_Holland_Stevenson">mother</persName>’s family. After <persName ref="#Elizabeth_Holland_Stevenson">Elizabeth (Holland) Stevenson</persName> died when young <persName ref="#Elizabeth_Stevenson_Gaskell">Elizabeth</persName> was thirteen months old, she went to <placeName ref="#Knutsford">Knutsford</placeName> to live with her <persName ref="#Elizabeth_Holland_Stevenson">mother</persName>’s <persName ref="#Hannah_Holland_Lumb">sister</persName>, <persName ref="#Hannah_Holland_Lumb">Hannah (Holland) Lumb</persName> and her daughter, <persName ref="#Marianne_Lumb">Marianne Lumb</persName>. </note> and
+                  foolish but I will put every thing down<lb/> relating to her.</p>
+               <p><lb/>She has been to <placeName ref="#Knutsford">Knutsford</placeName><note resp="#mjk"><placeName ref="#Knutsford">Knutsford</placeName> was the home of the Hollands, <persName ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName>’s <persName ref="#Elizabeth_Holland_Stevenson">mother</persName>’s family. After <persName ref="#Elizabeth_Holland_Stevenson">Elizabeth (Holland) Stevenson</persName> died when young <persName ref="#Elizabeth_Stevenson_Gaskell">Elizabeth</persName> was thirteen months old, she went to <placeName ref="#Knutsford">Knutsford</placeName> to live with her <persName ref="#Elizabeth_Holland_Stevenson">mother</persName>’s <persName ref="#Hannah_Holland_Lumb">sister</persName>, <persName ref="#Hannah_Holland_Lumb">Hannah (Holland) Lumb</persName> and her daughter, <persName ref="#Marianne_Lumb">Marianne Lumb</persName>. </note> and
                      <placeName ref="#Warrington">Warring<lb/>ton</placeName><note resp="#mjk"><placeName ref="#Warrington">Warrington</placeName> was the home of <persName ref="#William_Gaskell_Senior">William Gaskell</persName>’s family, who were Dissenters. His widowed <persName ref="#Margaret_Gaskell_Dimock">mother</persName> lived there with her second husband, <persName ref="#Edward_Dimock">Edward Dimock</persName>, who was also a Unitarian minister at <placeName ref="#Sankey-Street-Chapel">Sankey Street Chapel</placeName> in <placeName ref="#Warrington">Warrington</placeName>Warrington. </note> since I last wrote in this journal.<lb/>
                   And oh! after her visit to <placeName ref="#Warrington">Warrington</placeName><lb/> she was very
                   very ill; and I was very<lb/> much afraid we should have lost her.<lb/> I did so
@@ -442,7 +442,7 @@
                         <l>Once gladsome with her mirth</l>
                      </lg></quote></p>
                <pb n="16"/>
-               <p>I am sometimes afraid of using expre<choice>
+               <p><lb/>I am sometimes afraid of using expre<choice>
                      <sic>&#383;</sic>
                      <reg>s</reg>
                   </choice>sions<lb/> of gratitude to <persName ref="#God">God</persName>, for fear
@@ -456,8 +456,8 @@
                      <reg>s</reg>
                   </choice>sing he gave; and oh! may I not make<lb/>her into an idol, but strive to
                   prepare both<lb/> her &amp; myself for the change that may<lb/> come any
-                  day.<lb/></p>
-               <p>After her illne<choice>
+                  day.</p>
+               <p><lb/>After her illne<choice>
                      <sic>&#383;</sic>
                      <reg>s</reg>
                   </choice>s her temper had suffered<lb/> from the indulgence that was nece<choice>
@@ -471,12 +471,12 @@
                      <sic>&#383;</sic>
                      <reg>s</reg>
                   </choice>sions are terrible<lb/>and give me quite a heavy heart.</p>
-               <p>I should say impatience will be one<lb/> of her greatest faults; and I scarecely<lb/>
+               <p><lb/>I should say impatience will be one<lb/> of her greatest faults; and I scarecely<lb/>
                   <choice>
                      <sic>knows</sic>
                      <reg>know</reg>
                   </choice> the best way of managing it.<lb/> I certainly think being calm oneself
-                  &amp;<lb/> showing that her impatience makes<lb/><pb n="17"/> no difference in the quickne<choice>
+                  &amp;<lb/> showing that her impatience makes<pb n="17"/> <lb/>no difference in the quickne<choice>
                      <sic>&#383;</sic>
                      <reg>s</reg>
                   </choice>s or slowne<choice>
@@ -486,11 +486,11 @@
                      rend="underline">unnece<choice>
                         <sic>&#383;</sic>
                         <reg>s</reg>
-                     </choice>sary</hi> are good rules; but then in eery little ase it is so
-                  diffi<lb/> =cult for an undecided person like me to<lb/> determine at once, and
+                     </choice>sary</hi> are good rules; but then in every little case it is so
+                  diffi<lb break="no"/>=cult for an undecided person like me to<lb/> determine at once, and
                   yet <hi rend="underline">every</hi>
                   <hi rend="underline">body</hi><lb/> &amp; every book says that decision is of<lb/>
-                  such consequence to the comfort &amp; conse=<lb/> =quently to the temper of a
+                  such consequence to the comfort &amp; conse=<lb/>=quently to the temper of a
                   child; &amp; that<lb/> it is almost better for <hi rend="underline">the</hi>
                   <hi rend="underline">time</hi>, to go<lb/> on with a treatment that is <hi
                      rend="underline">not</hi>
@@ -499,7 +499,7 @@
                   to have presence of mind to remark<lb/> &amp; adopt the better method every
                   future<lb/> occasion.<lb/></p>
                <p>There is another thing I try to attend to<lb/> &amp; make the servants attend to;
-                     never<lb/><pb n="18"/> by way of distracting her attention to call<lb/> it to a
+                     never<pb n="18"/> <lb/>by way of distracting her attention to call<lb/> it to a
                   thing that is not there, and never<lb/> to promise her any thing
                   unconditionally<lb/> without performing it.<lb/></p>
                <p>Of course she now knows all those whom<lb/> she is in the habit of seeing. I do
@@ -860,7 +860,7 @@
                      <reg>s</reg>
                   </choice>sed. She cries sadly over the washing <lb/>which I think must be owing to
                   her <lb/>having been put in <add place="above">it<metamark place="below"
-                        function="insertion" rend="caret"/></add> too cold sometimes. <lb/>She
+                     function="insertion" rend="caret"/></add> too cold sometimes. <lb/>She
                   dislikes <hi rend="underline">finishing</hi> her food, and by <lb/><unclear
                      unit="character" quantity="1"><supplied resp="#mjk">a</supplied></unclear>
                   curious sort of fancy, often refuses <pb n="32"/><lb/>the last two or three
@@ -1271,14 +1271,14 @@
                   <hi rend="underline">one</hi>, in <lb/>anger did what was decidedly wrong in her
                   <lb/>presence, without considering how holy that <lb/>little creature made the
                   place. She took no <lb/>notice, at the time but the next morning <lb/>told me of
-                  it, adding "that <hi rend="underline">was</hi> naughty." Though <lb/>much
-                  interested in preserving her love and re<choice>
+                  it, adding <q>that <hi rend="underline">was</hi> naughty.</q> Though <lb/>much
+                  interested in preserving her love and <lb/>re<choice>
                      <sic>&#383;</sic>
                      <reg>s</reg>
                   </choice>pect for the person to whom I allude, I <lb/>knew it was my duty not to
-                  weaken her <lb/>power of discriminating, &amp; said 'it was very <lb/>naughty, but
-                  she was very sorry now &amp;c." <lb/>A few weeks ago she got a habit of refusing
-                  <lb/>her food, saying "bye-bye" &amp;c when a spoon=<lb/>=ful was offered to her
+                  weaken her <lb/>power of discriminating, &amp; said <q>it was very <lb/>naughty, but
+                  she was very sorry now &amp;c.</q> <lb/>A few weeks ago she got a habit of refusing
+                  <lb/>her food, saying <q>bye-bye</q> &amp;c when a spoon=<lb/>=ful was offered to her
                   which she did not <lb/>quite approve. I found the best plan was <lb/>to take her
                   at her word, and quietly sent <lb/>the plate away, which at first produed <pb
                      n="46"/><lb/>sad fits of crying, and throwing herself back, but <lb/>after once
@@ -2052,8 +2052,7 @@
                         >Meta</persName></q>
                   <lb/>she sobs as if her heart would break, so of <lb/>course we avoid such a
                   working upon <lb/>her sensibility. She is generous in giving <lb/>a piece of
-                  anything she likes, but not <lb/>good in giving up a plaything, and when=<lb
-                     break="no"/>ever she sees <persName ref="#MA_Gaskell_Holland"
+                  anything she likes, but not <lb/>good in giving up a plaything, and when=<lb break="no"/>ever she sees <persName ref="#MA_Gaskell_Holland"
                      >Marianne</persName> occupied or a=<lb break="no"/>=mused by anything, that is
                   the very thing <lb/>she wants to have. She wants every eatable <lb/>or drinkable
                   she sees others having, and <lb/>what is more likes them all down to <lb/>rhubarb
@@ -2263,8 +2262,7 @@
                      <sic>&#383;</sic>
                      <reg>s</reg>
                   </choice>s and preserve my darling <persName ref="#MA_Gaskell_Holland"
-                     >Marianne</persName>!</p>
-               <p><lb/>As to dear little <persName ref="#Meta_Gaskell">Meta</persName>, she is
+                     >Marianne</persName>!</p><p><lb/>As to dear little <persName ref="#Meta_Gaskell">Meta</persName>, she is
                   totally different <lb/>from <persName ref="#MA_Gaskell_Holland"
                      >Marianne</persName> though very like her in person. <lb/>She is a more popular
                   character: very lively, <lb/>enjoying a joke, always busy for herself; but

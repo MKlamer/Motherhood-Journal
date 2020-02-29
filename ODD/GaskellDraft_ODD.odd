@@ -121,6 +121,19 @@
             </attDef>
           </attList>
         </elementSpec>
+        <elementSpec ident="bibl" module="core" mode="change">
+          <attList>
+            <attDef ident="ref" mode="replace" usage="req">
+              <valList type="closed">
+                <valItem ident="#Southey-ToADyingInfant"/>
+                <valItem ident="#Saussure-LEducationProgressive"/>
+                <valItem ident="#Combe-Physiology"/>
+                <valItem ident="Blackwoods"/>
+                <valItem ident="#Luke"/>
+               </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
       </schemaSpec>
     </body>
   </text>

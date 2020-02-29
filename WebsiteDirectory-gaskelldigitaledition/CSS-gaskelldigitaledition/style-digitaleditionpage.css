@@ -1,0 +1,32 @@
+body {
+  background-color: #f0f0f0;
+}
+
+img{
+max-width: 100% ;
+width: 100%;
+margin: auto ;
+height: auto
+}
+
+h2 {font-size: 250%;
+  color: #000000;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+h3 {font-size: 150%;
+  color: #000000;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;}
+  
+h4, h5 {
+  color: #000000;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;}
+  
+p {
+    text-indent: 5%}
+

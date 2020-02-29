@@ -13,7 +13,7 @@
    <xsl:template match="/">
         <html>
             <head><title></title>
-                <link rel="stylesheet" type="text/css" href="??????.css"/>
+                <link rel="stylesheet" type="text/css" href="style-digitaleditionpage.css"/>
                 <!--ebb: YOU'LL NEED TO DEVELOP A CSS STYLESHEET 
                     and the filepath in @href should point to where it is in relation to 
                     the output HTML where you're saving it. -->
@@ -55,6 +55,42 @@
    <xsl:template match="p">
        <p><xsl:apply-templates/></p>
    </xsl:template>
+    <xsl:template match="pb">
+        <br id="page {count(preceding::pb)}">
+            <br/>Page <xsl:value-of select="count(preceding::pb)"></xsl:value-of><xsl:apply-templates/>
+        </br>
+    </xsl:template>
+    <xsl:template match="space"><!-- Uses html non-breaking space characters to replicate Gaskell's long mid-paragraph breaks. -->
+        <span class="longspace">&#160;&#160;&#160;&#160;
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="gap">
+        <hr style="border-top: dotted 1px;"/><xsl:text>Portion of page cut away. See headnote.</xsl:text><hr style="border-top: dotted 1px;"/><xsl:apply-templates/>
+    </xsl:template>
+    <xsl:template match="note">
+        <br/><i>Note: (Resp:<xsl:value-of select="@resp"/>)
+            <xsl:apply-templates/>
+        </i>
+    </xsl:template>
+    <xsl:template match="del">
+        <del>
+            <xsl:apply-templates/>
+        </del>
+    </xsl:template>
+    <xsl:template match="add"><!-- This needs to be changed - possibly using CSS? -  to align above the regular text line. I realized later that it isn't actually a superscript... Need to check in manuscript. -->
+        <sup>
+            <xsl:apply-templates/>
+        </sup>
+    </xsl:template>
+    <xsl:template match="lg | l"> <!-- This and other elements (add, delete, etc. need to appear differently in a clear reading view and in an analytical view. The italics should only show up in the simple reading view. The scholarly view will include the note regarding where Gaskell was quoting from. -->
+        <i>
+            <xsl:apply-templates/>
+        </i>
+    </xsl:template>
+    <!-- Have to checkc consistency of metamark encoding.
+        <xsl:template match="metamark">
+        </xsl:template> -->
     <xsl:template match="choice">
         <span class="choice">
             <span class="sic"><xsl:apply-templates select="sic"></xsl:apply-templates></span>
@@ -76,5 +112,6 @@
             <xsl:apply-templates select="descendant::dateline"/></a>
         </li>
     </xsl:template>
+
  
 </xsl:stylesheet>
