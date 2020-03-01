@@ -37,16 +37,16 @@
                      <p>The Gaskells’ first surviving daughter, born <date when="1834-09-12">September 12, 1834</date>. Marianne is the subject of most of the diary, and is described as <q>gentle</q>. She was the only one of Gaskell’s daughters to become a mother herself, though she was still unmarried at the time of Gaskell’s death.</p>
                   </note>
                </person>
-               <person xml:id="William_Gaskell_Senior">
-                  <persName ref="#William_Gaskell_Senior">
+               <person xml:id="Wm_Gaskell">
+                  <persName ref="#Wm_Gaskell">
                      <surname>Gaskell</surname>
                      <forename>William</forename>
                   </persName>
                   <birth><date when="1805-07-24">July 24, 1805</date>
-                     <placeName ref="#Latchford"/>
+                     <placeName ref="#Latchford">Latchford, Warrington, UK</placeName>
                   </birth>
-                  <death>
-                     <placeName/>
+                  <death when="1884-06-11">
+                     <placeName ref="#Manchester">Manchester, UK</placeName>
                   </death>
                   <note type="bio" resp="#mjk">
                      <p>Elizabeth Gaskell’s husband, a Unitarian minister. They married August 30, 1832. At the time, William was serving at the Cross Street Chapel, Manchester, with J. G. Robberds.
@@ -54,92 +54,75 @@
                   </note>
                </person>
                <person xml:id="Madame_deSaussure">
-                  <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
+                  <persName ref="#Mme_DeSaussure">
+                     <surname>de Saussure</surname>
+                     <surname>Necker</surname>
+                     <forename>Albertine</forename>
                   </persName>
-                  <birth>
-                     <placeName/>
+                  <birth when="1766">
+                     <placeName ref="#Geneva"/>
                   </birth>
-                  <death>
-                     <placeName/>
+                  <death when="1841">
+                     <placeName ref="#Geneva"/>
                   </death>
                   <note type="bio" resp="#mjk">
-                     <p/>
-                  </note>
+                     <p>Mme Necker de Saussure was a Swiss woman of letters, most well known for her <q>L’Education progressive</q>. She was related through her botanist husband to Germaine de Staël.</p>
+                 </note>
                </person>
-               <person xml:id="Combe">
-                  <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
+               <person xml:id="Andrew_Combe">
+                  <persName ref="#Andrew_Combe">
+                     <surname>Combe</surname>
+                     <forename>Andrew</forename>
+                     <roleName>Physician</roleName>
                   </persName>
-                  <birth>
-                     <placeName/>
+                  <birth when="1797-10-27">
+                     <placeName ref="#Edinburgh"></placeName>
                   </birth>
-                  <death>
-                     <placeName/>
+                  <death when="1847-08-09">
+                     <placeName ref="#Edinburgh"/>
                   </death>
-                  <note type="bio" resp="#mjk">
-                     <p/>
+                  <note type="bio" resp="#mjk"><p>Author, scientist. Combe was a Physician/Phrenologist, who established the <title>Phrenological Journal</title> with his brother and others. He was also the President of <orgName>Edinburgh Phrenological Society</orgName> in 1827. Gaskell quotes his <title><hi rend="italics">Physiology applied to Health and Education</hi></title> (1834), which was a bestseller.
+                  </p>
                   </note>
                </person>
                <person xml:id="Betsy_household">
-                  <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
+                  <persName ref="#Betsy_household">
+                     <surname>Unknown</surname>
+                     <forename>Betsy</forename>
                   </persName>
-                  <birth>
-                     <placeName/>
-                  </birth>
-                  <death>
-                     <placeName/>
-                  </death>
                   <note type="bio" resp="#mjk">
-                     <p/>
+                     <p>Betsy was a servant of the Gaskells, who also appears to have worked as a nurse to the children. She is mentioned early on in the journal in several entries. Shortly after the birth of Meta (Margaret Emily, the Gaskells' second surviving daughter), she was replaced by Elizabeth.</p>
                   </note>
                </person>
-               <person xml:id="Grandma_Gaskell">
-                  <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
+               <person xml:id="Margaret_Gaskell_Dimock">
+                  <persName ref="#Margaret_Gaskell_Dimock">
+                     <surname type="married">Dimock</surname>
+                     <surname type="married">Gaskell</surname>
+                     <surname type="maiden">Jackson</surname>
+                     <forename>Margaret</forename>
                   </persName>
-                  <birth>
-                     <placeName/>
-                  </birth>
-                  <death>
-                     <placeName/>
+                  <death when="1850-01-12">January 12, 1850, aged 69 years. <!-- Chapple, Early Years p. 403 -->
+                     <placeName ref="#Warrington"/>
                   </death>
-                  <note type="bio" resp="#mjk">
-                     <p/>
+                  <note type="bio" resp="#mjk"><p>Margaret Gaskell, later Dimock, was William Gaskell’s mother. William (b. 1805) was the oldest of five children: including Samuel (1807), Anne (1808), Margaret (b. 1810, died 1816), Elizabeth (1812), Robert (1814) and John (b. 1816, died 1821). After her first husband's death in 1819, she married Rev. Edward Dimock, who had arrived as the Pastor of Sankey Street Chapel in 1822.</p>
                   </note>
                </person>
                <person xml:id="Fanny_household">
-                  <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
+                  <persName ref="#Fanny_household">
+                     <surname>Unknown</surname>
+                     <forename>Fanny</forename>
                   </persName>
-                  <birth>
-                     <placeName/>
-                  </birth>
-                  <death>
-                     <placeName/>
-                  </death>
                   <note type="bio" resp="#mjk">
-                     <p/>
+                     <p>No information is known about Fanny.</p>
                   </note>
                </person>
                <person xml:id="Elizabeth_Stevenson_Gaskell">
-                  <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
+                  <persName ref="#Elizabeth_Stevenson_Gaskell">
+                     <surname type="married">Gaskell</surname>
+                     <surname type="maiden">Stevenson</surname>
+                     <forename>Elizabeth</forename>
                   </persName>
-                  <birth>
+                  <birth >
                      <placeName/>
                   </birth>
                   <death>
@@ -433,50 +416,52 @@
                   </note>
                </person>
                <person xml:id="William_Stevenson">
-                  <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
+                  <persName ref="#William_Stevenson">
+                     <surname>Stevenson</surname>
+                     <forename>William</forename>
                   </persName>
-                  <birth>
-                     <placeName/>
+                  <birth when="1770">
+                     <placeName ref="#Berwick"/>
                   </birth>
-                  <death>
-                     <placeName/>
+                  <death when="1828">
                   </death>
                   <note type="bio" resp="#mjk">
                      <p>Gaskell's Father</p>
                   </note>
                </person>
                <person xml:id="Elizabeth_Holland_Stevenson">
-                  <persName>
+                  <persName ref="#Elizabeth_Holland_Stevenson">
                      <surname type="maiden">Holland</surname><surname/>
                      <surname type="married">Gaskell</surname>
                      <forename>Elizabeth</forename>
                   </persName>
-                  <birth>
-                     <placeName/>
+                  <birth when="1771-04-19">
+                     <placeName ref="#Knutsford"/>
                   </birth>
                   <death>
-                     <date when="1811"></date>
-                     <placeName/>
+                     <date when="1811">October, 1811</date>
+                     <placeName ref="#Chelsea"/>Chelsea, St. Luke <!-- Were living in a home in Beaufort Row, per Chapple p. 112 -->
                   </death>
                   <note type="bio" resp="#mjk">
-                     <p>Gaskell’s mother, fourth daughter and sixth child of Samuel and Anne Holland of Sandlebridge, in Knutsford. Tradition, passed down through narratives of family and friends, holds that only her first (John) and last (Elizabeth) of 8 children survived, though only John’s birth is registered. She died when Gaskell was 13 months old.</p>
+                     <p>Gaskell’s mother, fourth daughter and sixth child of Samuel and Anne Holland of Sandlebridge, in Knutsford. Tradition, passed down through narratives of family and friends, holds that only her first (John) and last (Elizabeth) of 8 children survived, though only Elizabeth’s birth is registered. She died when Gaskell was 13 months old.</p>
                   </note></person>
                <person xml:id="John_Stevenson">
-                  <persName><surname type="given">Stevenson</surname>
+                  <persName ref="#John_Stevenson">
+                     <surname type="given">Stevenson</surname>
                   <forename>John</forename>
                   </persName>
-                  <birth when="1798-11-17">November 17 1798</birth>              
+                  <birth when="1798-11-17">November 17 1798</birth>  
+                  <death when="1828"></death>
                <note resp="mjk"><p>Gaskell’s older brother; a sailor, was lost at sea or in India sometime in fall 1828.</p></note> </person>
                <person xml:id="Catherine_Thompson_Stevenson">
-                  <persName>
+                  <persName ref="#Catherine_Thompson_Stevenson">
                      <surname type="given">Thompson</surname>
                      <surname type="married">Stevenson</surname>
                      <forename>Catherine</forename>
                   </persName>
-                  <birth></birth>
+                  <birth when="1775">
+                     <placeName ref="#Savannah">Savannah, Georgia</placeName>
+                  </birth>
                   <death></death>
                   <note><p>Gaskell’s stepmother. Gaskell saw little of her father after the marriage. Catherine’s  brother married Katherine Byerly, who founded the school Gaskell attended.</p></note>
                </person>
