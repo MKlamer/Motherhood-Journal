@@ -44,7 +44,7 @@
                      >Marianne</persName>’s great-great granddaughter. </p>
             </div>
             <div type="dedication">
-                  <pb n="1"/><p>To my dear little <persName ref="#MA_Gaskell_Holland">Marianne</persName> I shall
+                  <pb n="1"/><p><lb/>To my dear little <persName ref="#MA_Gaskell_Holland">Marianne</persName> I shall
                      <q>dedicate</q>
                   <lb/>this book, which, if I should not live to give <lb/>it her myself, will I
                   trust be reserved for her <lb/>as a token of her mother's love, and extreme
@@ -132,7 +132,7 @@
                         <time>Evening</time>. 1835.</date>
                </head>
 
-               <p>The day after tomorrow <persName ref="#MA_Gaskell_Holland">Marianne</persName>
+               <p><lb/>The day after tomorrow <persName ref="#MA_Gaskell_Holland">Marianne</persName>
                   will be <lb/>six months old. I wish I had begun my <lb/>little journal sooner, for
                   (though I should <lb/>have laughed at the idea twelve months <lb/>ago) there have
                   been many little indica=<lb/>=tions of disposition &amp;c. already; which I
@@ -218,7 +218,7 @@
                   from hands &amp;c. She lies down on the<lb/> floor a good deal, and kicks about;
                   a<lb/> practice I began very early, and which<lb/> has done her a great deal of
                   good.<lb/></p>
-               <p>She goes to bed <hi rend="underline">awake</hi>; another practice<lb/> I began
+               <p><lb/>She goes to bed <hi rend="underline">awake</hi>; another practice<lb/> I began
                   early, and which is so comfort<lb break="no"/>=able I wonder it is not more
                   generally <lb/>adopted. Once or twice we have had <lb/>grand cryings, which have
                   been very <lb/>very distressing to me; but when I <lb/>have convinced myself that
@@ -310,9 +310,9 @@
                   rend="caret"/><add place="above"><hi rend="underline">now</hi></add>
                   which can be carried <lb/>on through the whole of her education. <lb/>I have
                   written a great deal tonight, and <lb/>very unconnectedly. I had no idea the
-                  <lb/>journal of my own disposition, &amp; <lb/><pb n="12"/>feelings was so
+                  <lb/>journal of my own disposition, &amp; <pb n="12"/><lb/>feelings was so
                   intimately connected with <lb/>that of my little baby, whose regular brea=<lb
-                     break="no"/>-=thing has been the music of my thoughts <lb/>all the time I have
+                     break="no"/>=thing has been the music of my thoughts <lb/>all the time I have
                   been writing. <persName ref="#God">God</persName>, <lb/>bless her. </p>
             </div>
          </div>
@@ -498,16 +498,16 @@
                   <hi rend="underline">bad</hi>,<lb/> rather than by changing to a better, let<lb/>
                   the child see your wavering. I only<lb/> mean for the time. I must take care<lb/>
                   to have presence of mind to remark<lb/> &amp; adopt the better method every
-                  future<lb/> occasion.<lb/></p>
-               <p>There is another thing I try to attend to<lb/> &amp; make the servants attend to;
+                  future<lb/> occasion.</p>
+               <p><lb/>There is another thing I try to attend to<lb/> &amp; make the servants attend to;
                      never<pb n="18"/> <lb/>by way of distracting her attention to call<lb/> it to a
                   thing that is not there, and never<lb/> to promise her any thing
-                  unconditionally<lb/> without performing it.<lb/></p>
-               <p>Of course she now knows all those whom<lb/> she is in the habit of seeing. I do
+                  unconditionally<lb/> without performing it.</p>
+               <p><lb/>Of course she now knows all those whom<lb/> she is in the habit of seeing. I do
                   not<lb/> think she is remarkably shy, although<lb/> more so than she was. But
                   certainly<lb/> most people take children in such a<lb/> brusque injudicious
-                  mannter that no<lb/> wonder they are often shy.<lb/></p>
-               <p>And now I shall conclude tonight, &amp;<lb/> I do not intend to be so long
+                  mannter that no<lb/> wonder they are often shy.</p>
+               <p><lb/>And now I shall conclude tonight, &amp;<lb/> I do not intend to be so long
                   again<lb/> without writing about my dear little<lb/> girl.</p>
                <pb n="19"/>
             </div>
@@ -550,7 +550,8 @@
                   <date when="1835-10-04">Sunday <time>Evening</time>
                      <unclear unit="word" n="1"/> October 4 1835</date>
                </head>
-               <p><lb/>I see it is exactly two months since I <lb/>last wrote in this book, and I
+               <p>
+                  <lb/>I see it is exactly two months since I <lb/>last wrote in this book, and I
                   hope <lb/>my little girl is improved both in <lb/><q>body &amp; mind</q> since then. She suffers <lb/>a good deal from the changes
                   of wea=<lb break="no"/>=ther we have had, and I have found <lb/>it nece<choice>
                      <sic>&#383;</sic>
