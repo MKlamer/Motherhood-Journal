@@ -31,7 +31,7 @@
                   </birth>
                   <death>
                      <date when="1920"></date>
-                     <placeName/>
+                     <placeName ref="#Manchester"/>
                   </death>
                   <note type="bio" resp="#mjk">
                      <p>The Gaskells’ first surviving daughter, born <date when="1834-09-12">September 12, 1834</date>. Marianne is the subject of most of the diary, and is described as <q>gentle</q>. She was the only one of Gaskell’s daughters to become a mother herself, though she was still unmarried at the time of Gaskell’s death.</p>
@@ -122,293 +122,256 @@
                      <surname type="maiden">Stevenson</surname>
                      <forename>Elizabeth</forename>
                   </persName>
-                  <birth >
-                     <placeName/>
+                  <birth when="1810-09-29">
+                     <placeName ref="#Chelsea">"Bell Vue, Chelsea"</placeName>
                   </birth>
-                  <death>
-                     <placeName/>
+                  <death when="1865-11-12">
+                     <placeName ref="#Alton"></placeName>
                   </death>
                   <note type="bio" resp="#mjk">
-                     <p/>
+                     <p></p>
                   </note>
                </person>
                <person xml:id="Hannah_Lumb">
-                  <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
+                  <persName ref="#Hannah_Holland_Lumb">
+                     <surname type="married">Lumb</surname>
+                     <surname type="maiden">Holland</surname>
+                     <forename>Hannah</forename>
                   </persName>
-                  <birth>
-                     <placeName/>
+                  <birth when="1767-07-29">
+                     <placeName ref="#Knutsford"></placeName>
                   </birth>
-                  <death>
-                     <placeName/>
+                  <death when="1837-05-01">
+                     <placeName ref="#Knutsford"></placeName>
                   </death>
                   <note type="bio" resp="#mjk">
-                     <p/>
+                     <p>Elizabeth Gaskell’s mother’s sister, who nursed her during her final illness. After Elizabeth Stevenson’s death, Hannah Lumb and her daughter, Marianne, took Gaskell to live with them in Knutsford. Marianne died shortly after, and Gaskell lived with Aunt Lumb until her marrriage. 
+                     </p>
                   </note>
                </person>
                <person xml:id="Mrs_Collins">
-                  <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
+                  <persName ref="#Mrs_Collins">
+                     <surname>Collins</surname>
+                    
                   </persName>
-                  <birth>
-                     <placeName/>
-                  </birth>
-                  <death>
-                     <placeName/>
-                  </death>
+                 
                   <note type="bio" resp="#mjk">
-                     <p/>
+                     <p>Neighbor of the Gaskells'. No other information known.</p>
                   </note>
                </person>
-               <person xml:id="Wm_Deane">
-                  <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
+               <person xml:id="Richard_Deane">
+                  <persName ref="#Richard_Deane">
+                     <surname>Deane</surname>
+                     <roleName>Physician</roleName>
+                     <forename>Richard</forename>
                   </persName>
-                  <birth>
-                     <placeName/>
-                  </birth>
-                  <death>
-                     <placeName/>
-                  </death>
+                  
+                  <death when="1851-01-20"></death>
+
                   <note type="bio" resp="#mjk">
-                     <p/>
+                     <p>Dr. Richard Thomas Deane, business partner of EG’s oldest uncle, Dr. Peter Holland, of Church House in Knutsford. After his first wife died, he married Susan Holland (1811-1889), Peter Holland’s daughter and Elizabeth Gaskell’s cousin. </p>
                   </note>
                </person>
-               <person xml:id="Mrs_Deane">
-                  <persName>
+               <person xml:id="MaryAnn_Deane">
+                  <persName ref="#MaryAnn_Deane">
+                     <surname type="married">Deane</surname>
                      <surname/>
-                     <surname/>
-                     <forename/>
+                     <forename>Mary Ann</forename>
                   </persName>
-                  <birth>
-                     <placeName/>
-                  </birth>
-                  <death>
-                     <placeName/>
-                  </death>
+                 
+                  <death when="1842-03-30">
+                     </death>
                   <note type="bio" resp="#mjk">
-                     <p/>
+                     <p>Mary Ann Deane, first wife of Dr. Richard Deane. Edward and Emily were two of their children.</p>
                   </note>
                </person>
                <person xml:id="Emily_Deane">
-                  <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
+                  <persName ref="#Emily_Deane">
+                     <surname>Deane</surname>
+                     <forename>Emily</forename>
                   </persName>
-                  <birth>
-                     <placeName/>
-                  </birth>
-                  <death>
-                     <placeName/>
-                  </death>
+                  <birth when="1835"></birth>
+                  <!--Still living 1861, death unknown -->
                   <note type="bio" resp="#mjk">
-                     <p/>
+                     <p>Daughter of Dr. and Mrs. Deane of Knutsford</p>
                   </note>
                </person>
-               <person xml:id="Ann_Gaskell">
-                  <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
+               <person xml:id="Anne_Gaskell">
+                  <persName ref="#Anne_Gaskell">
+                     <surname type="married">Robson</surname>
+                     <surname type="maiden">Gaskell</surname>
+                     <forename>Anne</forename>
                   </persName>
-                  <birth>
-                     <placeName/>
+                  <birth when="1808">
+                     <placeName ref="#Warrington"></placeName>
                   </birth>
-                  <death>
-                     <placeName/>
-                  </death>
+                
                   <note type="bio" resp="#mjk">
-                     <p/>
+                     <p></p>
                   </note>
                </person>
                <person xml:id="Meta_Gaskell">
-                  <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
+                  <persName ref="#Meta_Gaskell">
+                     <surname>Gaskell</surname>
+                     <forename>Margaret Emily</forename>
                   </persName>
-                  <birth>
-                     <placeName/>
+                  <birth when="1837-02-05">
+                     <placeName ref="#Manchester"/>
                   </birth>
-                  <death>
-                     <placeName/>
+                  <death when="1913-10-26">
+                     <placeName ref="#Manchester"/>
                   </death>
                   <note type="bio" resp="#mjk">
-                     <p/>
+                     <p>The Gaskells’ second surviving daughter, Margaret Emily, called “Meta”, was born on Feburay 5, 1837. The diary describes Meta as clever and lively. </p>
                   </note>
                </person>
                <person xml:id="Bessy_Holland">
-                  <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
+                  <persName ref="#Bessey_Holland">
+                     <surname type="married">Howorth</surname>
+                     <surname type="maiden">Holland</surname>
+                     <forename>Bessy</forename>
                   </persName>
-                  <birth>
-                     <placeName/>
+                  <birth when="1796-02-22">
+                     <placeName ref="#Knutsford"></placeName>
                   </birth>
-                  <death>
-                     <placeName/>
+                  <death when="1886-07-16">
+                   
                   </death>
                   <note type="bio" resp="#mjk">
-                     <p/>
+                     <p>A cousin of Gaskell’s, Bessy was the daughter of Dr. Peter Holland, the ?oldest son of Gaskell’s grandfather, Samuel Holland, of Sandlebridge in Knutsford. Bessy was a friend of Maria Edgeworth. 
+                     </p>
                   </note>
                </person>
                <person xml:id="Elizabeth_Barlow_household">
-                  <persName>
+                  <persName ref="#Elizabeth_Barlow_household">
                      <surname>Barlow</surname>
                      <forename>Elizabeth</forename>
                   </persName>
-                  <birth>
-                     <placeName/>
-                  </birth>
-                  <death>
-                     <placeName/>
-                  </death>
+                 
                   <note type="bio" resp="#mjk">
-                     <p/>
+                     <p>No information known.</p>
                   </note>
                </person>
                <person xml:id="Liz_Gaskell_Holland">
-                  <persName>
+                  <persName ref="#Elizabeth_Gaskell_Holland">
                      <surname type="birth">Gaskell</surname>
                      <surname type="married">Holland</surname>
                      <forename>Elizabeth</forename>
                      <addName>Lizzy</addName>
                      <addName>Aunt Lizzy</addName>
                   </persName>
-                  <birth>
-                     <placeName/>
+                  <birth when="1812">
+                     <placeName ref="#Warrington"/>
                   </birth>
-                  <death>
-                     <placeName/>
-                  </death>
                   <note type="bio" resp="#mjk">
                      <p>William Gaskell's sister, Lizzy, was one of Gaskell's early correspondents. Most of the extant early letters are written to her. <!-- According to Dickens Journal site (see Zotero), Aunt Lizzy may have also written for household words. -->  </p>
                   </note>
                </person>
                <person xml:id="Abigail_Holland">
-                  <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
+                  <persName ref="#Abigail_Holland">
+                     <surname>Holland</surname>
+                     <forename>Abigail</forename>
+                     <addName>Aunt Ab</addName>
                   </persName>
-                  <birth>
-                     <placeName/>
+                  <birth when="1773-09-12">
+                     <placeName ref="#Knutsford"></placeName>
                   </birth>
-                  <death>
-                     <placeName/>
-                  </death>
+                  <death when="1848-07-26"><placeName ref="#Knutsford"></placeName></death>
                   <note type="bio" resp="#mjk">
-                     <p/>
+                     <p>An unmarried sister of Elizabeth Stevenson and Hannah Lumb, Abigail, “Aunt Ab”, lived with two of her brothers’ families (Swinton and Samuel) and taught their children before later moving to Heathside to live with Hannah and Elizabeth</p>
                   </note>
                </person>
                <person xml:id="Sam_Gaskell">
-                  <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
+                  <persName ref="#Sam_Gaskell">
+                     <surname>Gaskell</surname>
+                     <roleName>Physician</roleName>
+                     <forename>Samuel</forename>
                   </persName>
-                  <birth>
-                     <placeName/>
+                  <birth when="1807">
+                     <placeName ref="#Warrington"/>
                   </birth>
-                  <death>
-                     <placeName/>
-                  </death>
                   <note type="bio" resp="#mjk">
-                     <p/>
+                     <p>William Gaskell’s brother and a doctor in Manchester. Sam had a particular affinity for patients with mental health problems, and eventually became superintendent of the Lancaster Asylum from 1840-1489, and was a member of the Luncacy Commission from 1849-1856.</p>
                   </note>
                </person>
-               <person xml:id="Mr_Partington">
-                  <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
+               <person xml:id="James_Partington">
+                  <persName ref="#James_Partington">
+                     <surname>Partington</surname>
+                     <roleName>Physician</roleName>
+                     <forename>James</forename>
                   </persName>
-                  <birth>
-                     <placeName/>
-                  </birth>
-                  <death>
-                     <placeName/>
-                  </death>
                   <note type="bio" resp="#mjk">
-                     <p/>
+                     <p>James E. Partington, surgeon of Oxford Road, Manchester. Also looked after the family of J.G. Robberds.</p>
                   </note>
                </person>
-               <person xml:id="Eddy_Deane">
-                  <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
+               <person xml:id="Edward_Deane">
+                  <persName ref="#Edward_Deane">
+                     <surname>Deane</surname>
+                     <addName>Eddy Deane</addName>
+                     <forename>Edward</forename>
                   </persName>
-                  <birth>
-                     <placeName/>
+                  <birth when="1833">
+                     <placeName ref="#Knutsford"></placeName>
                   </birth>
-                  <death>
-                     <placeName/>
+                  <death when="1838">
+                     <placeName ref="#Knutsford"></placeName>
                   </death>
                   <note type="bio" resp="#mjk">
-                     <p/>
+                     <p>Son of Dr. and Mrs. Deane of Knutsford. His death of croup  at the age of 5 is recorded in the diary.
+                     </p>
                   </note>
                </person>
             </listPerson>
          </div>
          <div type="NonReferencedHistoricalPersons">
             <listPerson sortKey="NonReferencedHistoricalPersons">
-               <person xml:id="Flossy_Gaskell_Crompton">
-                  <persName>
+               <person xml:id="Florence_Gaskell_Crompton">
+                  <persName ref="#Florence_Gaskell_Crompton">
                      <surname type="given">Gaskell</surname>
                      <surname type="married">Crompton</surname>
                      <forename>Florence</forename>
                   </persName>
                   <birth>
                      <date when="1842-10-07">October 7 1842</date>
-                     <placeName/>
+                     <placeName ref="#Manchester"/>
                   </birth>
                   <death>
                      <date when="1881-10-05">October 5 1881</date>
-                     <placeName/>
+                     <placeName ref="#London"/>
                   </death>
                   <note type="bio" resp="#mjk">
                      <p>The Gaskells’ third daughter (born 1842), who married Charles Crompton, and lived in London where she died aged 39. The couple had no children.</p>
                   </note>
                </person> <person xml:id="Julia_Gaskell">
-                  <persName>
+                  <persName ref="#Julia_Gaskell">
                      <surname type="given">Gaskell</surname>
                      <surname/>
                      <forename>Julia</forename>
                   </persName>
                   <birth>
                      <date when="1845-09-03">September 3 1846</date>
-                     <placeName/>
+                     <placeName ref="#Manchester"/>
                   </birth>
                   <death>
                      <date when="1908-10-24">October 24 1908</date>
-                     <placeName/>
                   </death>
                   <note type="bio" resp="#mjk">
                      <p>The Gaskells’ fourth daughter, (born 3 Sept. 1846 - 24 Oct. 1908). She, with her older sister Meta, remained unmarried and living in Knutsford, caring for their father after Gaskell’s death in 1865.</p>
                   </note>
                </person>
-               <person xml:id="Willie_Gaskell">
-                  <persName>
+               <person xml:id="William_Gaskell_son">
+                  <persName ref="#William_Gaskell_son">
                      <surname>Gaskell</surname>
                      <surname/>
                      <forename>William</forename>
                   </persName>
                   <birth>
                      <date when="1844-10-23">Octover 23, 1844</date>
-                     <placeName/>
+                     <placeName ref="#Manchester"/>
                   </birth>
-                  <death>
+                  <death when="1845-08-10">
                      <date when="1845-08-10">August 10, 1845</date>
-                     <placeName>Porthmadog, UK</placeName><placeName/>
+                     <placeName ref="#Porthmadog">Porthmadog, UK</placeName>
                   </death>
                   <note type="bio" resp="#mjk">
                      <p>The Gaskells’ second born (first surviving) son,  who died in 1845 aged 9 months. An oft-cited anecdote recounts that Gaskell’s husband, also William, encouraged her to begin writing a novel to assist her in recovering from the grief of his death. The result was Mary Barton; his death is alluded to in the preface.

@@ -107,6 +107,8 @@
             <attDef ident="ref" mode="replace" usage="req">
               <valList type="closed">
                 <valItem ident="#Knutsford"/>
+                <valItem ident="#London"/>
+                <valItem ident="#Alton"/>
                 <valItem ident="#Warrington"/>
                 <valItem ident="#Prospect Hill"/>
                 <valItem ident="#Grange"/>
