@@ -20,31 +20,30 @@
          <div type="ReferencedPersons">
             <listPerson sortKey="ReferencedPersons">
                <person xml:id="MA_Gaskell_Holland">
-                  <persName>
+                  <persName ref="#MA_Gaskell_Holland">
                      <surname type="paternal">Gaskell</surname>
                      <surname type="married">Holland</surname>
                      <forename>Marianne</forename>
                      <addName>MA</addName>
                   </persName>
                   <birth>
-                     <date when="1834-09-12">September 12 1834</date><placeName>Manchester, UK</placeName>/>
+                     <date when="1834-09-12">September 12 1834</date><placeName ref="#Manchester">Manchester, UK</placeName>/>
                   </birth>
                   <death>
                      <date when="1920"></date>
                      <placeName/>
                   </death>
                   <note type="bio" resp="#mjk">
-                     <p>The Gaskells’ first surviving daughter, born <date when="1834-09-12">September 12, 1834</date>. Marianne is the subject of most of the diary, and is described as “gentle”. She was the only one of Gaskell’s daughters to become a mother herself, though she was still unmarried at the time of Gaskell’s death.</p>
+                     <p>The Gaskells’ first surviving daughter, born <date when="1834-09-12">September 12, 1834</date>. Marianne is the subject of most of the diary, and is described as <q>gentle</q>. She was the only one of Gaskell’s daughters to become a mother herself, though she was still unmarried at the time of Gaskell’s death.</p>
                   </note>
                </person>
-               <person xml:id="Wm_Gaskell">
-                  <persName>
-                     <surname/>
-                     <surname/>
-                     <forename/>
+               <person xml:id="William_Gaskell_Senior">
+                  <persName ref="#William_Gaskell_Senior">
+                     <surname>Gaskell</surname>
+                     <forename>William</forename>
                   </persName>
-                  <birth>
-                     <placeName/>
+                  <birth><date when="1805-07-24">July 24, 1805</date>
+                     <placeName ref="#Latchford"/>
                   </birth>
                   <death>
                      <placeName/>
