@@ -28,7 +28,7 @@
                 </ul>
                 <hr/>
             <div id="main">
-                <xsl:apply-templates select="descendant::body/div[@type='journal' and descendant::div[@type='headnote']/head]"/>
+                <xsl:apply-templates select="descendant::body/div[@type='journal']"/>
             </div>
             </body>
         </html>
@@ -61,9 +61,8 @@
        <p><xsl:apply-templates/></p>
    </xsl:template>
     <xsl:template match="pb">
-        <br id="page{count(preceding::pb)}">
-            <br/>Page <xsl:value-of select="count(preceding::pb)"></xsl:value-of><xsl:apply-templates/>
-        </br>
+        <span class="page-{count(preceding::pb) + 1}">Page <xsl:value-of select="count(preceding::pb) + 1"/>
+        </span>
     </xsl:template>
     <xsl:template match="space"><!-- Uses html non-breaking space characters to replicate Gaskell's long mid-paragraph breaks. -->
         <span class="longspace">&#160;&#160;&#160;&#160;
@@ -71,12 +70,12 @@
         </span>
     </xsl:template>
     <xsl:template match="gap">
-        <hr style="border-top: dotted 1px;"/><xsl:text>Portion of page cut away. See headnote.</xsl:text><hr style="border-top: dotted 1px;"/><xsl:apply-templates/>
+        <span class="gap"><xsl:text>Portion of page cut away. See headnote.</xsl:text><xsl:apply-templates/></span>
     </xsl:template>
     <xsl:template match="note">
-        <br/><i>Note: (Resp:<xsl:value-of select="@resp"/>)
-            <xsl:apply-templates/>
-        </i>
+        <span class="ref" id="ref-{count(preceding::note) + 1}"><xsl:value-of select="count(preceding::note) + 1"/></span>
+        <span class="note" id="note-{count(preceding::note) + 1}"><i>Note: (Resp:<xsl:value-of select="@resp"/>)
+            <xsl:apply-templates/></i></span>
     </xsl:template>
     <xsl:template match="del">
         <del>
