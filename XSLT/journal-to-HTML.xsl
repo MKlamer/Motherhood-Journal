@@ -19,8 +19,10 @@
                     the output HTML where you're saving it. -->
             </head>
             <body>
-                <h1>Gaskell’s Journals</h1>
-                <h2>Table of Contents</h2>
+                <hgroup>
+                    <h1>Gaskell’s Journals</h1>
+                    <h2>Table of Contents</h2>
+                </hgroup>
                 <ul>
                     <xsl:apply-templates select="descendant::body" mode="toc"/>
                 </ul>
@@ -32,22 +34,25 @@
         </html>
     </xsl:template>
     <xsl:template match="div[@type='journal']">
-        <div id="j{count(preceding::div[@type='journal']) + 1}">
+        <section class="journal_full" id="j{count(preceding::div[@type='journal']) + 1}">
             <xsl:apply-templates/>
-        </div>
+        </section>
     </xsl:template>
     <xsl:template match="div[@type='journal']/div[@type='headnote'][head]">
-       <div class="headnote"> <h2><xsl:apply-templates select="head[1]"/></h2> 
+       <header class="headnote"> <h2><xsl:apply-templates select="head[1]"/></h2> 
       <h3><xsl:apply-templates select="dateline"/></h3>
         <!--We need to process the other following-sibling head elements here, and
         it will help to have attribute values on those in case you want to process them differently.-->
             <xsl:apply-templates select="head[position() gt 1]"/>
-        <xsl:apply-templates select="p"/></div>
+        <xsl:apply-templates select="p"/></header>
     </xsl:template>
     <xsl:template match="div[@type='journal']/div[@type='entry']">
-        <div class="entry"> 
-            <xsl:apply-templates/>
-        </div>
+        <section class="journal_sep">
+            <article class="entry_txt">
+                <xsl:apply-templates/>
+            </article>
+            <article class="entry_img"></article>
+        </section>
     </xsl:template>
     <xsl:template match="head[position() gt 1]">
         <h4><xsl:apply-templates/></h4>
