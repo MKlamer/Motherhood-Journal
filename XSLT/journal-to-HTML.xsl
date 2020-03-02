@@ -61,7 +61,7 @@
        <p><xsl:apply-templates/></p>
    </xsl:template>
     <xsl:template match="pb">
-        <br id="page {count(preceding::pb)}">
+        <br id="page{count(preceding::pb)}">
             <br/>Page <xsl:value-of select="count(preceding::pb)"></xsl:value-of><xsl:apply-templates/>
         </br>
     </xsl:template>
