@@ -63,7 +63,7 @@
             <article class="entry_txt">
                 <xsl:apply-templates/>
             </article>
-            <article class="entry_img"></article>
+           <!-- <article class="entry_img"></article>-->
         </section>
     </xsl:template>
     <xsl:template match="head[position() gt 1]">
@@ -73,8 +73,10 @@
        <p><xsl:apply-templates/></p>
    </xsl:template>
     <xsl:template match="pb">
-        <span  class="page" id="page-{count(preceding::pb) + 1}">Page <xsl:value-of select="count(preceding::pb) + 1"/>
-        </span>
+        <figure class="page" id="page-{count(preceding::pb) + 1}">
+            <img class="page" src="?????.jpg" alt="photo facsimile page {count(preceding::pb) + 1}"/>
+            <figcaption>Page <xsl:value-of select="count(preceding::pb) + 1"/></figcaption>
+        </figure>
     </xsl:template>
     <xsl:template match="space"><!-- Uses html non-breaking space characters to replicate Gaskell's long mid-paragraph breaks. -->
         <span class="longspace">&#160;&#160;&#160;&#160;
