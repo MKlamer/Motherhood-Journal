@@ -84,9 +84,9 @@
         </sup>
     </xsl:template>
     <xsl:template match="lg | l"> <!-- This and other elements (add, delete, etc. need to appear differently in a clear reading view and in an analytical view. The italics should only show up in the simple reading view. The scholarly view will include the note regarding where Gaskell was quoting from. -->
-        <i>
+        <br/>
             <xsl:apply-templates/>
-        </i>
+        <br/>
     </xsl:template>
     <!-- Have to checkc consistency of metamark encoding.
         <xsl:template match="metamark">
@@ -100,8 +100,13 @@
     <xsl:template match="quote | q">
         <q><xsl:apply-templates/></q>
     </xsl:template>
-    <xsl:template match="hi">
+    <xsl:template match="hi[@type='underline']">
         <u><xsl:apply-templates/></u>
+    </xsl:template>
+    <xsl:template match="hi[@type='superscript']">
+        <sup>
+            <xsl:apply-templates/>
+        </sup>
     </xsl:template>
     <xsl:template match="lb">
         <br id="n{count(preceding::lb) + 1}"/><span class="line-number"><xsl:value-of select="count(preceding::lb) + 1"/><xsl:text>. </xsl:text></span>
