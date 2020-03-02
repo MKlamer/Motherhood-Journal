@@ -408,7 +408,11 @@
                      <sic>it's</sic>
                      <reg>its</reg>
                   </choice>presence be. Oh! I do hope &amp; intend </p>
-               <pb n="14"/>
+               <pb facs="page-image.png" n="14"/><!--2020-03-02 ebb: I'm just planting a sample @facs attribute here for us to transform.
+               Optimally: we'll be able to write an XSLT identity transformation that plugs in your @facs attribute values 
+               based on their regularly named filenames and URL (site addresses). Jeffrey C. Witt is the member of the IIIF community who I know works
+               with XML and IIIF, and he will know how this is best done.  
+               -->
                <gap unit="lines" quantity="6"/><note resp="#mjk">The top third of the second leaf of this entry has been cut away. See headnote for this entry.</note>
                <p><lb/>how all a woman's life, at least so it <lb/>seems to me now, ought to have a
                   refe=<lb break="no"/>=rence to the period when she will be

@@ -13,12 +13,24 @@
    <xsl:template match="/">
         <html>
             <head><title></title>
-                <link rel="stylesheet" type="text/css" href="style-digitaleditionpage.css"/>
+                <link rel="stylesheet" type="text/css" href="../css/style-landingpage.css"/>
+                <link rel="stylesheet" type="text/css" href="../css/style-digitaleditionpage.css"/>
                 <!--ebb: YOU'LL NEED TO DEVELOP A CSS STYLESHEET 
                     and the filepath in @href should point to where it is in relation to 
                     the output HTML where you're saving it. -->
             </head>
             <body>
+                <div class="navigation">
+                    <img width="1920" height="256" src="../images/GDE-headerimage-nocircle.jpg" alt="The Elizabeth Gaskell Diary Header Image"/> 
+                    
+                    <!-- Create navigation bar here: Relative links (About - contents: project methodology, acknowledgements, editorial statement, etc.) (Gaskell - Contents: biography, links to house site / archives, family tree, people directory) (Digital Edition - content: central page, search function, view toggles, etc.)) (Exhibits - if able to create these in time) -->
+                    <table>
+                        <tr>
+                            <td><a href="index.html">Home</a></td>
+                            <td><a href="GDE-aboutpage.html">About the Gaskell Diary</a> </td>
+                            <td><a href="GDE-editionpage.html">The Digital Edition</a> </td>
+                            <td> <a href="GDE-gaskellpage.html">Elizabeth Gaskell</a></td>
+                            <td><a href="GDE-digitaldissertationpage.html">The Digital Dissertation</a></td></tr></table></div>
                 <hgroup>
                     <h1>Gaskell’s Journals</h1>
                     <h2>Table of Contents</h2>
@@ -61,7 +73,7 @@
        <p><xsl:apply-templates/></p>
    </xsl:template>
     <xsl:template match="pb">
-        <span class="page-{count(preceding::pb) + 1}">Page <xsl:value-of select="count(preceding::pb) + 1"/>
+        <span  class="page" id="page-{count(preceding::pb) + 1}">Page <xsl:value-of select="count(preceding::pb) + 1"/>
         </span>
     </xsl:template>
     <xsl:template match="space"><!-- Uses html non-breaking space characters to replicate Gaskell's long mid-paragraph breaks. -->
