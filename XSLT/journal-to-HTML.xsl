@@ -83,6 +83,10 @@
             <xsl:apply-templates/>
         </sup>
     </xsl:template>
+    <xsl:template match="supplied">
+        <i>&#160;*Supplied by&#160;<xsl:value-of select="./@resp"></xsl:value-of>&#160;:&#160;
+        [<xsl:apply-templates/>]</i>
+    </xsl:template>
     <xsl:template match="lg | l"> <!-- This and other elements (add, delete, etc. need to appear differently in a clear reading view and in an analytical view. The italics should only show up in the simple reading view. The scholarly view will include the note regarding where Gaskell was quoting from. -->
         <br/>
             <xsl:apply-templates/>
@@ -103,12 +107,17 @@
     <xsl:template match="hi[@type='underline']">
         <u><xsl:apply-templates/></u>
     </xsl:template>
-    <xsl:template match="hi[@type='superscript']">
-        <sup>
+    <xsl:template match="hi[@type='supercript']">
+        <span class="above">
             <xsl:apply-templates/>
-        </sup>
+        </span>
     </xsl:template>
-    <xsl:template match="lb">
+    <xsl:template match="persName | placeName"><!-- This outputs the names (I think) in link colors only so far... It will need to also draw on the prosopography file to reproduce the biographical notes.  -->
+        <a class="personography">
+            <xsl:apply-templates/>
+        </a>
+    </xsl:template>
+   <xsl:template match="lb">
         <br id="n{count(preceding::lb) + 1}"/><span class="line-number"><xsl:value-of select="count(preceding::lb) + 1"/><xsl:text>. </xsl:text></span>
     </xsl:template>
     
