@@ -6,7 +6,7 @@
       <fileDesc>
          <!-- From TEI: "Contains a full bibliographic description of an electronic file." -->
          <titleStmt>
-            <title xml:id="Id_what">Elizabeth Gaskell's Journal: A Digital Edition</title>
+            <title>Elizabeth Gaskell's Journal: A Digital Edition</title>
             <author><persName ref="#Elizabeth_Stevenson_Gaskell">Elizabeth Cleghorn
                   Gaskell</persName></author>
             <editor>Edited by <persName ref="#mjk">Melissa J Klamer</persName></editor>
@@ -51,7 +51,10 @@
                      (1754-1914)</collection>
                   <idno>Archive File: BC MS 19c Gaskell/03</idno>
                   <msName>ECG diary dedicated to her daughter, Marianne.</msName>
-
+                  <altIdentifier>
+                     <idno>Persistent Link: https://explore.library.leeds.ac.uk/special-collections-explore/33745</idno>
+                  </altIdentifier>
+                  
                </msIdentifier>
                <head>ECG diary dedicated to her daughter, Marianne.</head>
                <physDesc>
@@ -143,11 +146,11 @@
                         <name>Margaret Evelyn Averia</name>, who married Clifford Trevor
                      Jones.</provenance>
                   <provenance>After Margaret Jones, the ms. passed to her daughter, <name>Elizabeth
-                        Rosemary (Trevor) Dabbs</name>.</provenance>
+                     Rosemary (Trevor) Dabbs</name>. Mrs. Dabbs placed the manuscript on loan to the Brotherton Special
+                     Collections</provenance>
                   <provenance>Following the death of Mrs. Rosemary Trevor Dabbs, the ms. passed to
                      her daughter, <name>Mrs. Sarah Prince</name>, who currently holds the
-                     copyright. Mrs. Prince placed the manuscript on loan to the Brotherton Special
-                     Collections.</provenance>
+                     copyright.</provenance>
 
                </history>
                <additional>
@@ -166,50 +169,134 @@
          </sourceDesc>
 
       </fileDesc>
-      <encodingDesc><!-- From TEI: "Documents the relationship between an electronic text and the source or sources from which it was derived." -->
-      <projectDesc>
-         <p>The Gaskell Journal Digital Edition will create an online, openly accessible edition of a single Gaskell text, Elizabeth Gaskell’s manuscript journal, offering an annotated and newly transcribed text with high-quality digital images of the manuscript pages. This new edition will provide a fully-encoded version of the text, allowing richer analysis of the content of the journal. Additionally, the Elizabeth Gaskell Journal - Digital Edition will provide editorial headnotes contextualizing the journal as a text predominantly focused on motherhood, and a full prosopography identifying important individuals, texts, and geographic locations that created the context within which Gaskell wrote. 
-            The Gaskell Journal Digital Edition will simultaneously work as an intervention in dissertation practice, through modeling a digital dissertation deliverable which mobilizes current practices in textual encoding to create an online edition of the manuscript capitalizing on available technologies. The core of the edition will be a new transcription of the journal, fully encoded in TEI-XML. Images of the journal pages will be facilitated and implemented through IIIF frameworks. This digital edition also offers contextual information including a scholarly Introduction, annotations, and editorial notes, as well as supplemental materials. The digital edition of the journal will make the text and facsimile images available to a broader audience, both scholars interested in Gaskell’s life writing, and fans of her work who wish to delve more deeply into her writing beyond the novels. 
-         </p>
-      </projectDesc>
+      <encodingDesc>
+         <!-- From TEI: "Documents the relationship between an electronic text and the source or sources from which it was derived." -->
+         <projectDesc>
+            <p>The Gaskell Journal Digital Edition will create an online, openly accessible edition
+               of a single Gaskell text, Elizabeth Gaskell’s manuscript journal, offering an
+               annotated and newly transcribed text with high-quality digital images of the
+               manuscript pages. This new edition will provide a fully-encoded version of the text,
+               allowing richer analysis of the content of the journal. Additionally, the Elizabeth
+               Gaskell Journal - Digital Edition will provide editorial headnotes contextualizing
+               the journal as a text predominantly focused on motherhood, and a full prosopography
+               identifying important individuals, texts, and geographic locations that created the
+               context within which Gaskell wrote. The Gaskell Journal Digital Edition will
+               simultaneously work as an intervention in dissertation practice, through modeling a
+               digital dissertation deliverable which mobilizes current practices in textual
+               encoding to create an online edition of the manuscript capitalizing on available
+               technologies. The core of the edition will be a new transcription of the journal,
+               fully encoded in TEI-XML. Images of the journal pages will be facilitated and
+               implemented through IIIF frameworks. This digital edition also offers contextual
+               information including a scholarly Introduction, annotations, and editorial notes, as
+               well as supplemental materials. The digital edition of the journal will make the text
+               and facsimile images available to a broader audience, both scholars interested in
+               Gaskell’s life writing, and fans of her work who wish to delve more deeply into her
+               writing beyond the novels. </p>
+         </projectDesc>
          <editorialDecl>
-            <p>Repository: The files for the digital edition are stored and version-controlled through a GitHub repository (https://github.com/MKlamer/Motherhood-Journal). In addition to tracking the project and maintaining a record of changes through the Git version-control system, the GitHub repository simultaneously allows a venue for the online publication of the code underlying the project, participating in a movement that enables the free sharing and remixing of encoding structures and examples to enrich further online projects and data models.
-            </p>
-            <p>Editing Policy: The copy-text for this journal transcription is the original manuscript, currently held in the Special Collections of the Brotherton Library, Leeds UK. The transcription was hand-encoded from photographic images of the manuscript obtained through the gracious generosity of Kristen Mapes. Gaskell’s chirography is remarkably clear and quite consistent, however in the event of unclear characters, consultation was supplemented by comparison with the high-quality IIIF images made available through the Brotherton Special Collections site, and additionally through in-person scrutiny of the manuscript during a research trip to the UK made in the summer of 2018. Where doubt remained, I have adhered to a policy of submitting to the wisdom of previous editors, and have found no reason in such cases to substantially change the transcription offered in these editions. In nearly every case, this new edition adheres to the faithful transcriptions made in 1996 by Anita Wilson and J.A.V. Chapple and in 2006 by Joanne Shattock. The rare occasions in which this transcription differs from previous editors have been notated in “Editorial Changes”.</p> 
-              <p> In two regards this transcription does differ markedly from the previous editions: in the choice to retain Gaskell’s own terminology of “journal”, and in my decision to preserve Gaskell’s use of underlining throughout the manuscript, in contrast to the previous editors’ policy of rendering all underlined text in italics. The decision to return to Gaskell’s own use of the term “journal”, which has been made in contradistinction to all previous published editions of the text, is intended first and foremost to adhere as much as possible to Gaskell’s own textual choices. This aim to reproduce the manuscript completely, as far as possible, complete with its own idiosyncracies, has been the central driving principle of this edition. The digital medium makes possible heretofore impossible levels of comparison between the manuscript pages and transcriptions of the journal, and it is hoped that in adhering as much as possible to Gaskell’s own chirographical and grammatical choices, the reader will find rich avenues for new inquiry.  The choice to maintain Gaskell’s underlining is twofold: first, it preserves the character and authenticity of Gaskell’s original manuscript; second, it provides greater clarity for reader comparison between the transcription and the manuscript images which are offered for the first time in this digital edition.
-              </p><p>The editing policy has been to preserve Gaskell’s own spelling and punctuation as it exists in the manuscript. Markup has been applied as follows:</p>
-            <ab>Underlining: I have retained Gaskell’s use of underlining throughout the manuscript using the &lt;hi&gt; element.</ab>
-              <ab>Supplied / Reg: Gaskell’s idiosyncratic spellings and missing punctuation have been marked using a structure of choice, sic, and reg elements, or unclear, reason and supplied elements.</ab>
-              <ab> Long S: Gaskell’s long s characters have been encoded using the escape character &#383; wrapped in a choice, sic and reg structure.</ab>
-               <ab>Line Breaks: Gaskell inserts an equal sign on both sides of the break. All new lines have been denoted in the markup with the use of a line beginning element: &lt;lb/&gt; with the additional @break attribute, with a value of “no,”</ab>
-               <ab>Unclear and Gap: Obscure text has been marked with an unclear element, and the single cut away section is marked by a gap element.</ab>
-               <p> Structural Markup: The journal has been encoded as a single XML-TEI file. Journal entries, together with their respective headnotes, are enclosed within a div element of type <q>journal</q>. Each individual journal entry and headnote is enclosed in an individual div element within these larger divs. </p>
-            
-                  </editorialDecl>
+            <p>Repository: The files for the digital edition are stored and version-controlled
+               through a GitHub repository (https://github.com/MKlamer/Motherhood-Journal). In
+               addition to tracking the project and maintaining a record of changes through the Git
+               version-control system, the GitHub repository simultaneously allows a venue for the
+               online publication of the code underlying the project, participating in a movement
+               that enables the free sharing and remixing of encoding structures and examples to
+               enrich further online projects and data models. </p>
+            <p>Editing Policy: The copy-text for this journal transcription is the original
+               manuscript, currently held in the Special Collections of the Brotherton Library,
+               Leeds UK. The transcription was hand-encoded from photographic images of the
+               manuscript obtained through the gracious generosity of Kristen Mapes. Gaskell’s
+               chirography is remarkably clear and quite consistent, however in the event of unclear
+               characters, consultation was supplemented by comparison with the high-quality IIIF
+               images made available through the Brotherton Special Collections site, and
+               additionally through in-person scrutiny of the manuscript during a research trip to
+               the UK made in the summer of 2018. Where doubt remained, I have adhered to a policy
+               of submitting to the wisdom of previous editors, and have found no reason in such
+               cases to substantially change the transcription offered in these editions. In nearly
+               every case, this new edition adheres to the faithful transcriptions made in 1996 by
+               Anita Wilson and J.A.V. Chapple and in 2006 by Joanne Shattock. </p>
+            <p> In two regards this transcription does differ markedly from the previous editions:
+               in the choice to retain Gaskell’s own terminology of <q>journal</q>, and in my decision to
+               preserve Gaskell’s use of underlining throughout the manuscript, in contrast to the
+               previous editors’ policy of rendering all underlined text in italics. The decision to
+               return to Gaskell’s own use of the term <q>journal</q>, which has been made in
+               contradistinction to all previous published editions of the text, is intended first
+               and foremost to adhere as much as possible to Gaskell’s own textual choices. This aim
+               to reproduce the manuscript completely, as far as possible, complete with its own
+               idiosyncracies, has been the central driving principle of this edition. The digital
+               medium makes possible heretofore impossible levels of comparison between the
+               manuscript pages and transcriptions of the journal, and it is hoped that in adhering
+               as much as possible to Gaskell’s own chirographical and grammatical choices, the
+               reader will find rich avenues for new inquiry. The choice to maintain Gaskell’s
+               underlining is twofold: first, it preserves the character and authenticity of
+               Gaskell’s original manuscript; second, it provides greater clarity for reader
+               comparison between the transcription and the manuscript images which are offered for
+               the first time in this digital edition. </p>
+            <p>The editing policy has been to preserve Gaskell’s own spelling and punctuation as it
+               exists in the manuscript. Markup has been applied as follows:</p>
+            <ab>Underlining: I have retained Gaskell’s use of underlining throughout the manuscript
+               using the &lt;hi&gt; element.</ab>
+            <ab>Supplied / Reg: Gaskell’s idiosyncratic spellings and missing punctuation have been
+               marked using a structure of choice, sic, and reg elements, or unclear, reason and
+               supplied elements.</ab>
+            <ab> Long S: Gaskell’s long s characters have been encoded using the escape character
+               &#383; wrapped in a choice, sic and reg structure.</ab>
+            <ab>Line Breaks: Gaskell inserts an equal sign on both sides of the break. All new lines
+               have been denoted in the markup with the use of a line beginning element: &lt;lb/&gt;
+               with the additional @break attribute, with a value of “no,”</ab>
+            <ab>Unclear and Gap: Obscure text has been marked with an unclear element, and the
+               single cut away section is marked by a gap element.</ab>
+            <p> Structural Markup: The journal has been encoded as a single XML-TEI file. Journal
+               entries, together with their respective headnotes, are enclosed within a div element
+               of type <q>journal</q>. Each individual journal entry and headnote is enclosed in an
+               individual div element within these larger divs. </p>
+
+         </editorialDecl>
          <refsDecl>
-            <p>The unique entities named in the diary have all been given individual xml:ids. There are nineteen individuals named within the text. The methodology used in naming these entities is as follows. Wherever possible, the xml:ids have been created to assist in human readability of the code. Assigned xml:ids begin with the name that Gaskell most commonly applies within the diary, and are followed with an underscore and the last name. In the case of married women, the first name is followed by underscores and the maiden name, followed by the married name of the individual. In this way the xml:ids are connected both to Gaskell’s usual notation and to the individuals’ legal names in an attempt to aid scholars approaching the code from multiple angles. Where last names are not known, another descriptor is applied; this is particularly true of servants, whose surnames are in most cases unknown. For servants, the word _household has been added for additional clarity. Where multiple names are used throughout the diary for the same individual, the shortest form has been adopted. Xml:ids have also been provided for a number of individuals who are not named or referenced in the diary, but who played a significant role in Gaskell’s life and are therefore frequently mentioned in editorial headnotes and other contextualizing information. Similar structuring has been employed to label these individuals.  </p>
-      </refsDecl>
-         <schemaRef url="ODD/out/GaskellDraft_ODD.rng"></schemaRef>
+            <p>The unique entities named in the diary have all been given individual xml:ids. There
+               are nineteen individuals named within the text. The methodology used in naming these
+               entities is as follows. Wherever possible, the xml:ids have been created to assist in
+               human readability of the code. Assigned xml:ids begin with the name that Gaskell most
+               commonly applies within the diary, and are followed with an underscore and the last
+               name. In the case of married women, the first name is followed by underscores and the
+               maiden name, followed by the married name of the individual. In this way the xml:ids
+               are connected both to Gaskell’s usual notation and to the individuals’ legal names in
+               an attempt to aid scholars approaching the code from multiple angles. Where last
+               names are not known, another descriptor is applied; this is particularly true of
+               servants, whose surnames are in most cases unknown. For servants, the word _household
+               has been added for additional clarity. Where multiple names are used throughout the
+               diary for the same individual, the shortest form has been adopted. Xml:ids have also
+               been provided for a number of individuals who are not named or referenced in the
+               diary, but who played a significant role in Gaskell’s life and are therefore
+               frequently mentioned in editorial headnotes and other contextualizing information.
+               Similar structuring has been employed to label these individuals. </p>
+         </refsDecl>
+         <schemaRef url="ODD/out/GaskellDraft_ODD.rng"/>
       </encodingDesc>
       <profileDesc><!-- From TEI: "Provides a detailed description of non-bibliographic aspects of a text, specifically the languages and sublanguages used, the situation in which it was produced, the participants and their setting." --></profileDesc>
       <xenoData><!-- From TEI: "provides a container element into which metadata in non-TEI forms may be placed." --></xenoData>
-      <revisionDesc><!-- From TEI: "summarizes the revision history for a file." -->
-      <listChange>
-         <change when="2020-03-04" resp="#mjk">Updated TEI Header.</change>
-         <change when="2020-03-03" resp="#mjk">Tandem Verification complete entry 4.</change>
-         <change when="2020-03-01" resp="#mjk">Verifying line begin elements in transcription file. </change>
-         <change when="2020-02-18" resp="#mjk">New Site Domain Name. First version of site available online.</change>
-         <change when="2020-02-17" resp="#mjk">Updated Odd; Validation working. </change>
-         <change when="2020-01-05" resp="#mjk">Tandem Verification complete entry 7.</change>
-         <change when="2019-12-29" resp="#mjk">Tandem Verification complete entries 8-11.</change>
-         <change when="2018-10-27" resp="#mjk">Tandem Verification begun; complete through page 6.</change>
-         <change when="2018-09-13" resp="#mjk">Updated xml:ids.</change>
-         <change when="2018-06-20" resp="#mjk">Transcription Complete - first version.</change>
-         <change when="2018-01-30" resp="#mjk">Added first draft of ODD file.</change>
-         <change when="2018-01-17" resp="#mjk">Initial file commit to GitHub Repo</change>
-         <change datingPoint="2017-08-18" resp="#mjk">Transcription File Created August 18, 2017.</change>
-         
-      </listChange>
+      <revisionDesc>
+         <!-- From TEI: "summarizes the revision history for a file." -->
+         <listChange>
+            <change when="2020-03-04" resp="#mjk">Updated TEI Header.</change>
+            <change when="2020-03-03" resp="#mjk">Tandem Verification complete entry 4.</change>
+            <change when="2020-03-01" resp="#mjk">Verifying line begin elements in transcription
+               file. </change>
+            <change when="2020-02-18" resp="#mjk">New Site Domain Name. First version of site
+               available online.</change>
+            <change when="2020-02-17" resp="#mjk">Updated Odd; Validation working. </change>
+            <change when="2020-01-05" resp="#mjk">Tandem Verification complete entry 7.</change>
+            <change when="2019-12-29" resp="#mjk">Tandem Verification complete entries
+               8-11.</change>
+            <change when="2018-10-27" resp="#mjk">Tandem Verification begun; complete through page
+               6.</change>
+            <change when="2018-09-13" resp="#mjk">Updated xml:ids.</change>
+            <change when="2018-06-20" resp="#mjk">Transcription Complete - first version.</change>
+            <change when="2018-01-30" resp="#mjk">Added first draft of ODD file.</change>
+            <change when="2018-01-17" resp="#mjk">Initial file commit to GitHub Repo</change>
+            <change datingPoint="2017-08-18" resp="#mjk">Transcription File Created August 18,
+               2017.</change>
+
+         </listChange>
       </revisionDesc>
    </teiHeader>
    <text xml:lang="en">
