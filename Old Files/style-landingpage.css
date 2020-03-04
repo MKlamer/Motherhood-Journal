@@ -2,7 +2,7 @@ body {
   background-color: #f0f0f0;
 }
 
-img{
+img.header {
 max-width: 100% ;
 width: 100%;
 margin: auto ;
@@ -30,11 +30,13 @@ h4, h5 {
 /* Too dark; need to find some other way to set title aside. div.headerbox {background-color: rgb(122,118,126);} --> */
 
 div.navigation {background-color: RGB(207,201,189); max-width: 100%;}
-table {background-color:RGB(207,201,189); margin-right: auto; margin-left: auto;
-
+table.navigation {background-color:RGB(207,201,189); margin-right: auto; margin-left: auto;
  width: 100%}
  
- td {width: 20%; text-align: center; padding: 16px}
+ div.footer {background-color: RGB(207,201,189); max-width: 100%; margin-right: auto; margin-left: auto; position: fixed; bottom: 0px; font-size: .75em;}
+
+ 
+ td.navigation {width: 20%; text-align: center; padding: 16px}
  
  a:link {color: blue; text-decoration: none}
  

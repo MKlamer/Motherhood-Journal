@@ -1,0 +1,50 @@
+body {
+  background-color: #f0f0f0; font-size: 1em; padding: 20px}
+
+img.header {
+max-width: 100% ;
+width: 100%;
+margin: auto ;
+height: auto
+}
+
+h2 {font-size: 250%;
+  color: #000000;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+h3 {font-size: 150%;
+  color: #000000;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;}
+  
+h4, h5 {
+  color: #000000;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;}
+
+div.navigation {background-color: RGB(207,201,189); max-width: 100%;}
+table.navigation {margin-right: auto; margin-left: auto;
+ width: 100%}
+ 
+ div.footer {background-color: RGB(207,201,189); max-width: 100%; margin-right: auto; margin-left: auto; position: fixed; bottom: 0px; font-size: .75em;}
+
+ 
+td {width: 20%; text-align: center; padding: 16px}
+ 
+p {font-size:1em; line-height: 1.2em; padding: 20px} 
+ 
+a:link {color: blue; text-decoration: none}
+ 
+a:visited {color: purple; text-decoration: none}
+ 
+a[class='personography']:link {color: blue}
+
+a[class='personography']:hover {color: crimson}
+    
+span[class="above"] {
+vertical-align: super }
+/* Too dark; need to find some other way to set title aside. div.headerbox {background-color: rgb(122,118,126);} --> */
