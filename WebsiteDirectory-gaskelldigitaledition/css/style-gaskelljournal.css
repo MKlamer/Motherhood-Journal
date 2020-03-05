@@ -30,7 +30,9 @@ div.navigation {background-color: RGB(207,201,189); max-width: 100%;}
 table.navigation {margin-right: auto; margin-left: auto;
  width: 100%}
  
- div.footer {background-color: RGB(207,201,189); max-width: 100%; margin-right: auto; margin-left: auto; position: fixed; bottom: 0px; font-size: .75em;}
+div.body {background-color: white; width: 100%; }
+ 
+ div.footer {clear: both; background-color: RGB(207,201,189); width: 100%; margin-right: auto; margin-left: auto; font-size: .75em;}
 
  
 td {width: 20%; text-align: center; padding: 16px}
