@@ -1,0 +1,2 @@
+addEventListener ('click', notesfunction);
+

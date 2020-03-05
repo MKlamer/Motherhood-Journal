@@ -13,8 +13,8 @@
    <xsl:template match="/">
         <html>
             <head><title></title>
-                <link rel="stylesheet" type="text/css" href="../css/style-landingpage.css"/>
-                <link rel="stylesheet" type="text/css" href="../css/style-digitaleditionpage.css"/>
+                <link rel="stylesheet" type="text/css" href="../css/style-gaskelljournal.css"/>
+                <script type="text/javascript" src="../scripts/gde-script.js"/>
                 <!--ebb: YOU'LL NEED TO DEVELOP A CSS STYLESHEET 
                     and the filepath in @href should point to where it is in relation to 
                     the output HTML where you're saving it. -->
@@ -27,12 +27,12 @@
                     <table>
                         <tr>
                             <td><a href="index.html">Home</a></td>
-                            <td><a href="GDE-aboutpage.html">About the Gaskell Diary</a> </td>
-                            <td><a href="GDE-editionpage.html">The Digital Edition</a> </td>
-                            <td> <a href="GDE-gaskellpage.html">Elizabeth Gaskell</a></td>
-                            <td><a href="GDE-digitaldissertationpage.html">The Digital Dissertation</a></td></tr></table></div>
+                            <td><a href="gde-aboutpage.html">About</a> </td>
+                            <td><a href="gde-editionpage.html">The Digital Edition</a> </td>
+                            <td> <a href="gde-gaskellpage.html">People</a></td>
+                            <td><a href="gde-digitaldissertationpage.html">The Digital Dissertation</a></td></tr></table></div>
                 <hgroup>
-                    <h1>Gaskell’s Journals</h1>
+                    <h1>Gaskell’s Journal</h1>
                     <h2>Table of Contents</h2>
                 </hgroup>
                 <ul>
