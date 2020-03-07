@@ -1,3 +1,8 @@
+/* CSS file created for The Elizabeth Gaskell Journal: Digital Edition
+ * Available at: www.elizabethgaskelljournal.com
+ * First digital edition in TEI-XML, 2020
+ * Maintained and Edited by Melissa J. Klamer (klamerme@msu.edu) */
+
 body {
   background-color: #f0f0f0; font-size: 1em;}
 
@@ -19,6 +24,8 @@ h3 {font-size: 150%;
   text-align: center;
   margin-right: auto;
   margin-left: auto;}
+  
+span.headnote-text {font-style: italic;}
   
 h4, h5 {
   color: #000000;

@@ -56,7 +56,7 @@
         <!--We need to process the other following-sibling head elements here, and
         it will help to have attribute values on those in case you want to process them differently.-->
             <xsl:apply-templates select="head[position() gt 1]"/>
-        <xsl:apply-templates select="p"/></header>
+        <span class="headnote-text"><xsl:apply-templates select="p"/></span></header>
     </xsl:template>
     <xsl:template match="div[@type='journal']/div[@type='entry']">
         <section class="journal_sep">
@@ -70,7 +70,7 @@
         <h4><xsl:apply-templates/></h4>
     </xsl:template>
    <xsl:template match="p">
-       <p><xsl:apply-templates/></p>
+       <p><xsl:apply-templates/></p> 
    </xsl:template>
     <xsl:template match="pb">
         <figure class="page" id="page-{count(preceding::pb) + 1}">
@@ -88,7 +88,7 @@
     </xsl:template>
     <xsl:template match="note">
         <span class="ref" id="ref-{count(preceding::note) + 1}"><xsl:value-of select="count(preceding::note) + 1"/></span>
-        <span class="note" id="note-{count(preceding::note) + 1}"><i>Note: (Resp:<xsl:value-of select="@resp"/>)
+        <span class="ed-note" id="note-{count(preceding::note) + 1}"><i>Note: (Resp:<xsl:value-of select="@resp"/>)
             <xsl:apply-templates/></i></span>
     </xsl:template>
     <xsl:template match="del">
