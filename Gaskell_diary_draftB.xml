@@ -277,6 +277,7 @@
       <revisionDesc>
          <!-- From TEI: "summarizes the revision history for a file." -->
          <listChange>
+            <change when="2020-03-08" resp="#mjk">Updated transcription: added seg elements to encode prayers within the text.</change>
             <change when="2020-03-04" resp="#mjk">Updated TEI Header.</change>
             <change when="2020-03-03" resp="#mjk">Tandem Verification complete entry 4.</change>
             <change when="2020-03-01" resp="#mjk">Verifying line begin elements in transcription
@@ -2206,11 +2207,11 @@
                   <lb/>course of her walk home, all the little events <lb/>that have occurred in
                   school. I can perhaps <lb/>set her right if her ideas get confused, and I <lb/>can
                   sympathize with and advise her. <lb/>I have tried to decide in this matter for the
-                  <lb/>best, and now we must await the result; only <lb/>pray for <persName
+                  <lb/>best, and now we must await the result; only<seg type="prayer"><lb/>pray for <persName
                      ref="#God">God</persName>'s ble<choice>
                      <sic>&#383;</sic>
                      <reg>s</reg>
-                  </choice>sing upon her.</p>
+                  </choice>sing upon her.</seg></p>
                <p>Since I last wrote, she and I have begun to <lb/>talk together about religion. I
                   have told <lb/>her the simple truths I thought she could <lb/>understand, such as
                      <persName ref="#God">God</persName>'s goodne<choice>
@@ -2260,7 +2261,7 @@
                      <persName ref="#Meta_Gaskell">Meta</persName> tonight. <lb/>I must devote my
                   next <q><hi rend="underline">chapter</hi></q> to her. In <lb/>the mean time I may
                   just mention that <lb/>the two dear little sisters seem very fond <lb/>of each
-                  other. May God ble<choice>
+                  other. <seg type="prayer">May God ble<choice>
                      <sic>&#383;</sic>
                      <reg>s</reg>
                   </choice>s them both, <lb/>and preserve them to us. <!-- possible half-quotation here. -->Neverthele<choice>
@@ -2269,7 +2270,7 @@
                   </choice>s not <lb/>my will be done, <choice>
                      <reg>but</reg>
                      <sic>by</sic>
-                  </choice> thine O <persName ref="#God">Lord</persName>. Amen.</p>
+                  </choice> thine O <persName ref="#God">Lord</persName>. Amen.</seg></p>
             </div>
          </div>
          <div type="journal">
@@ -2339,7 +2340,7 @@
                   <lb/>sad fright about <persName ref="#MA_Gaskell_Holland">Marianne</persName>, on
                   last <lb/>Friday but one she had an attack of <lb/>croup about 8 o'clock in the
                   evening. We <lb/>heard a cough like a dog's
-                  bark,<!-- Wanted to code this far to show evidence for dating this entry in 1838: Gaskell writes that the previous entry was a fortnight before, indicating that this entry is also from 1838. #mjk-->
+                  bark,<!--  evidence for dating this entry in 1838: Gaskell writes that the previous entry was a fortnight before, indicating that this entry is also from 1838. #mjk-->
                   (she <pb n="67"/><lb/>had had a cold in her head, and had <lb/>seemed pale, and
                   languid all day.) We <lb/>gave her <!--unclear-->24 drops of Ipec: Wine, and
                      <persName ref="#Sam_Gaskell">Sam</persName>
@@ -2354,13 +2355,13 @@
                   that <lb/>she is spared to us, and I do earnestly <lb/>and humbly hope that I am
                   truly thank<lb break="no"/>=ful. Poor little <persName ref="#Edward_Deane">Eddy
                      Deane</persName> was taken ill of <lb/>croup on the same night; and died on
-                  <lb/>the following Monday. (Oh! may I bring <lb/>myself to a thorough resignation
+                  <lb/>the following Monday. <seg type="prayer">(Oh! may I bring <lb/>myself to a thorough resignation
                   about <pb n="68"/><lb/>the afflictions which <persName ref="#God">God</persName>
                   may see fit <lb/>to send me; and Oh <persName ref="#God">Lord</persName>, while I
                   pray thee <lb/>to preserve my darling children, may I <lb/>not be too much wrapt
                   up in them. Every <lb/>proof of <persName ref="#MA_Gaskell_Holland"
                      >Marianne</persName>'s delicacy seems to en=<lb break="no"/>=dear her more to
-                  me.<!-- missing closing parentheses --></p>
+                  me.<supplied resp="#mjk">)</supplied></seg><!-- missing closing parentheses --></p>
                <p><lb/>when I last wrote in my journal, I was <lb/>stopped by the <choice>
                      <sic>latene<choice>
                            <sic>&#383;</sic>
@@ -2417,10 +2418,10 @@
                      >Marianne</persName>, without any anger, or any <lb/>apparent bad feeling, hurt
                   little <persName ref="#Meta_Gaskell">Meta</persName>, knowing <lb/>that she hurts
                   her. I think it must be from <lb/>the love of power, but of course we try to check
-                  <lb/>it. May <persName ref="#God">God</persName> ble<choice>
+                  <lb/>it. <seg type="prayer"> May <persName ref="#God">God</persName> ble<choice>
                      <sic>&#383;</sic>
                      <reg>s</reg>
-                  </choice>s &amp; <hi rend="underline">preserve</hi> them both - </p>
+                  </choice>s &amp; <hi rend="underline">preserve</hi> them both - </seg></p>
             </div>
          </div>
          <div type="journal">
@@ -2579,10 +2580,10 @@
                      <sic>&#383;</sic>
                      <reg>s</reg>
                   </choice>sons (of six stitches in seaming). I fear I am not <lb/>patient enough.
-                  Oh <persName ref="#God">God</persName>, in whose hands are all <lb/>hearts make me
+                  <seg type="prayer">Oh <persName ref="#God">God</persName>, in whose hands are all <lb/>hearts make me
                   more even-tempered. With her <lb/>I do try a great deal, but Oh my <persName
                      ref="#God">Father</persName> help me <lb/>to regulate my impatient temper
-                  better!</p>
+                  better!</seg></p>
                <p><lb/>She is a most sympathetic little thing. She tries <lb/>so to comfort me if
                   she sees me looking sad, <lb/>or thinks that anything has happened to dis=<lb
                      break="no"/>=comfort me. <space type="long"/>Her great faults are unaccountable
@@ -2612,11 +2613,11 @@
                   great strug=<lb break="no"/>gle, owing I think to a sort of nervous shyne<choice>
                      <sic>&#383;</sic>
                      <reg>s</reg>
-                  </choice>s. <lb/><persName ref="#God">God</persName> ble<choice>
+                  </choice>s. <lb/><seg type="prayer"><persName ref="#God">God</persName> ble<choice>
                      <sic>&#383;</sic>
                      <reg>s</reg>
                   </choice>s and preserve my darling <persName ref="#MA_Gaskell_Holland"
-                     >Marianne</persName>!</p>
+                     >Marianne</persName>!</seg></p>
                <p><lb/>As to dear little <persName ref="#Meta_Gaskell">Meta</persName>, she is
                   totally different <lb/>from <persName ref="#MA_Gaskell_Holland"
                      >Marianne</persName> though very like her in person. <lb/>She is a more popular
@@ -2640,11 +2641,11 @@
                   for <lb/>her, poor darling, though she has not suffered <lb/>much to what many
                   children do. <persName ref="#MA_Gaskell_Holland">Marianne</persName>
                   <lb/>has within this fortnight begun to have a little <lb/>animal food, but we
-                  keep <persName ref="#Meta_Gaskell">Meta</persName> to the old <lb/>plain diet. May
+                  keep <persName ref="#Meta_Gaskell">Meta</persName> to the old <lb/>plain diet. <seg type="prayer">May
                      <persName ref="#God">God</persName> ble<choice>
                      <sic>&#383;</sic>
                      <reg>s</reg>
-                  </choice>s both my dear children.</p>
+                  </choice>s both my dear children.</seg></p>
             </div>
          </div>
       </body>
