@@ -4,7 +4,7 @@
  * Maintained and Edited by Melissa J. Klamer (klamerme@msu.edu) */
 
 body {
-  background-color: #f0f0f0; font-size: 1em;}
+  background-color: #f0f0f0; font-family: "Georgia", Times, serif; font-size: 1em; width: 100vw; line-height: 2; }
 
 img.header {
 max-width: 100% ;
@@ -37,14 +37,12 @@ div.navigation {background-color: RGB(207,201,189); max-width: 100%;}
 table.navigation {margin-right: auto; margin-left: auto;
  width: 100%}
  
-div.body {background-color: white; width: 100%; line-height: 2em; font-size:1em;}
- 
  div.footer {clear: both; background-color: RGB(207,201,189); width: 100%; margin-right: auto; margin-left: auto; font-size: .75em;}
 
  
 td {width: 20%; text-align: center; padding: 16px}
  
-p {padding: 20px} 
+p {padding-left: 5vw; padding-right: 5vw}
  
 a:link {color: blue; text-decoration: none}
  
@@ -56,5 +54,6 @@ a:visited {color: purple; text-decoration: none}
 span.above {
 vertical-align: super }
 /* Too dark; need to find some other way to set title aside. div.headerbox {background-color: rgb(122,118,126);} --> */
-span.ref {color:crimson; }
-span.ed-note
+span.ref {color:crimson; vertical-align: super; }
+span.ed-note {display:none;}
+.line-number {color:crimson; padding-right: .5em; font-size:.7em;}
