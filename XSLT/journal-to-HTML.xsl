@@ -7,9 +7,9 @@
     xmlns="http://www.w3.org/1999/xhtml"
     version="3.0">
     
-    <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
-        omit-xml-declaration="yes"/>
-    
+    <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat" omit-xml-declaration="yes"/>
+  
+<!--You'll need an xsl:variable that points to the personography/placeography file to reference later.   -->  
    <xsl:template match="/">
         <html>
             <head><title></title>
@@ -133,9 +133,10 @@
         </span>
     </xsl:template>
     <xsl:template match="persName | placeName"><!-- This outputs the names (I think) in link colors only so far... It will need to also draw on the prosopography file to reproduce the biographical notes.  -->
-        <a class="personography">
+        <span class="personography">
             <xsl:apply-templates/>
-        </a>
+        </span>
+        <span class="personNote"><!--You'll need to read in from a variable that points to the document('path/to/your/personographyFile.xml')//*[@xml:id = ./@ref]//note  (or whatever element you want to display). --></span>
     </xsl:template>
    <xsl:template match="lb">
         <br id="n{count(preceding::lb) + 1}"/><span class="line-number"><xsl:value-of select="count(preceding::lb) + 1"/><xsl:text>. </xsl:text></span>

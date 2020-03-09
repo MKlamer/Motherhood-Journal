@@ -75,3 +75,6 @@ display:none;
 
 }
 .line-number {color:crimson; padding-right: .5em; font-size:.7em;}
+.figure {display:block;}
+.caption {color:crimson; padding-right: .5em; font-size:.7em; display:block; margin:auto;}
+
