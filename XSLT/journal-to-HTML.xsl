@@ -74,9 +74,10 @@
        <p><xsl:apply-templates/></p> 
    </xsl:template>
     <xsl:template match="pb">
-       
+       <span class="figure">
             <img class="page" id="page-{count(preceding::pb) + 1}" src="?????.jpg" alt="photo facsimile page {count(preceding::pb) + 1}"/>
-            <span class="caption">Page <xsl:value-of select="count(preceding::pb) + 1"/></span>
+           <span class="caption">Page <xsl:value-of select="count(preceding::pb) + 1"/></span>
+       </span>
         
     </xsl:template>
     <xsl:template match="space"><!-- Uses html non-breaking space characters to replicate Gaskell's long mid-paragraph breaks. -->

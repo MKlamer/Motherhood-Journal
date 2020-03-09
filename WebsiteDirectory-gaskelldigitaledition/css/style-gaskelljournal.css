@@ -55,5 +55,23 @@ span.above {
 vertical-align: super }
 /* Too dark; need to find some other way to set title aside. div.headerbox {background-color: rgb(122,118,126);} --> */
 span.ref {color:crimson; vertical-align: super; }
-span.ed-note {display:none;}
+span.ed-note {display:none;
+position: absolute;
+right:40vw;
+color: #000041;
+line-height:normal;
+text-decoration:none;
+font-size: .75em;
+text-align:left;
+font-weight: normal;
+background: #CCE0EB;
+border:solid #440029 2px;
+width:300px;
+height:auto;
+padding:5px;
+overflow-y:scroll;
+z-index: 3;
+display:none;
+
+}
 .line-number {color:crimson; padding-right: .5em; font-size:.7em;}
