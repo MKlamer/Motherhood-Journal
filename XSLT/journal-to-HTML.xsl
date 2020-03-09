@@ -52,11 +52,12 @@
     </xsl:template>
     <xsl:template match="div[@type='journal']/div[@type='headnote'][head]">
        <header class="headnote"> <h2><xsl:apply-templates select="head[1]"/></h2> 
-      <h3><xsl:apply-templates select="dateline"/></h3>
+      <xsl:if test="child::dateline"><h3><xsl:apply-templates select="dateline"/></h3></xsl:if>
         <!--We need to process the other following-sibling head elements here, and
         it will help to have attribute values on those in case you want to process them differently.-->
             <xsl:apply-templates select="head[position() gt 1]"/>
-        <span class="headnote-text"><xsl:apply-templates select="p"/></span></header>
+        </header>
+        <div class="headnote-text"><xsl:apply-templates select="p"/></div>
     </xsl:template>
     <xsl:template match="div[@type='journal']/div[@type='entry']">
         <section class="journal_sep">
@@ -73,10 +74,10 @@
        <p><xsl:apply-templates/></p> 
    </xsl:template>
     <xsl:template match="pb">
-        <figure class="page" id="page-{count(preceding::pb) + 1}">
-            <img class="page" src="?????.jpg" alt="photo facsimile page {count(preceding::pb) + 1}"/>
-            <figcaption>Page <xsl:value-of select="count(preceding::pb) + 1"/></figcaption>
-        </figure>
+       
+            <img class="page" id="page-{count(preceding::pb) + 1}" src="?????.jpg" alt="photo facsimile page {count(preceding::pb) + 1}"/>
+            <span class="caption">Page <xsl:value-of select="count(preceding::pb) + 1"/></span>
+        
     </xsl:template>
     <xsl:template match="space"><!-- Uses html non-breaking space characters to replicate Gaskell's long mid-paragraph breaks. -->
         <span class="longspace">&#160;&#160;&#160;&#160;

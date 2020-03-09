@@ -50,10 +50,11 @@ a:link {color: blue; text-decoration: none}
  
 a:visited {color: purple; text-decoration: none}
  
-a[class='personography']:link {color: blue}
+.personography {color: blue}
 
-a[class='personography']:hover {color: crimson}
+/*a[class='personography']:hover {color: crimson}  Remember: these are not <a> elements, but span elements. */
+.personography:hover {color: crimson}
     
-span[class="above"] {
+span.above {
 vertical-align: super }
 /* Too dark; need to find some other way to set title aside. div.headerbox {background-color: rgb(122,118,126);} --> */
