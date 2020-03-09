@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Gaskell Journal Methodology</title>
+    </head>
+    <body>
+        <!-- Navigational Header Begin -->
+        <div class="navigation"><p><img class="header" width="1920" height="256" src="images/GDE-headerimage-nocircle.jpg" alt="The Elizabeth Gaskell Journal Header Image"/></p>
+            <table class="navigation"> 
+                <tr>
+                    <td><a href="index.html">Home</a></td>
+                    <td><a href="gde-aboutpage.html">About</a></td>
+                    <td><a href="gde-editionpage.html">The Digital Edition</a></td>
+                    <td><a href="gde-gaskellpage.html">People</a></td>
+                    <td><a href="gde-digitaldissertationpage.html">The Digital Dissertation</a></td></tr></table>
+        </div> <!-- Navigational Header End -->
+        <h3>Methods and Structure:</h3>
+        <h5>Version Control:</h5>
+        <p>The files for the digital edition are stored and version-controlled through a <a href="https://github.com/MKlamer/Motherhood-Journal">GitHub repository</a>. In addition to tracking the project and maintaining a record of changes through the Git version-control system, the GitHub repository simultaneously allows a venue for the online publication of the code underlying the project, participating in a movement that enables the free sharing and remixing of encoding structures and examples to enrich further online projects and data models.</p>
+       <h5>XML Markup</h5>
+        <p>The Elizabeth Gaskell Journal: Digital edition provides a new transcription encoded in eXtensible Markup Language (XML), an international standard for editing documents in the humanities and history defined by the Text Encoding Initiative (TEI) and their current P5 guidelines. View <a href="gde-editorialpolicypage">Editing Policy</a>. This project has been written via the text editor oXygen. XML (extensible markup language) enables the editor to embed contextual information at the level of the code itself, so that research and referencing material is available within the transcription itself. XML is a markup language, through which I as editor am able to place tags around key textual elements to render them machine readable. In this way, the transcription is able to contain embedded information that preserves physical characteristics of the manuscript, including for example line breaks and gaps or physical damage to the pages. The encoded file contains all the metadata that will be required to identify the document, its provenance and its physical description, and also allows for clear references to the editorial and authorial entities who are responsible for interpretive decisions through the inclusion of an attribute.</p> 
+       <h5>Project Schema</h5> 
+        <p>In addition to the  core transcription, the digital edition of the journal makes use of an ODD file, XSLT transformations, and an XML prosopography. The journal&#39;s ODD file governs the code through setting rules and structures against which the transcription is validated. This ODD validation ensures that the code conforms to a correct, hierarchical TEI structure, while also protecting the project&#39;s own consistency in the usage of uniquely assigned xml:ids and designated subset of TEI tags. The project also implements XSLT (extensible stylesheet transformations) which transform the XML transcription into a machine-readable html file for display on web browsers. </p>
+        <h5>Prosopography</h5>
+        <p>An XML prosopography index was produced simultaneously with the transcription file, which gathers information on all the relevant people, places and texts within the journal. This prosopography assigns unique xml:ids to each entity within the journal (as well as several others referenced in the contextual documents produced as part of the edition), which are tracked and validated through the ODD to ensure consistency across project documents. The prosopography gathers relevant detail about these entities that can be used to provide annotations and indexes, and can be mobilized in later stages of the project to connect Gaskell’s social network to those of other prominent figures in the period, and to create data visualizations to support the project.</p>
+        <h5>IIIF</h5> 
+        <p>A key technology which the edition will make use of is IIIF technology (International Image Interoperability Frameworks). IIIF allows the use of reciprocal APIs to enable the project to digitally enable the use of high-quality pan and zoom ready images of the manuscript pages created by the Brotherton Special Collections within my own digital edition site. Through the use of the APIs and the IIIF images, visitors to the digital edition site will be able to gain rich access to highly detailed images of the original manuscript pages. The coding files for the Digital Edition, including the XML transcription, ODD file, XSLT transformation, XML prosopography, HTML site pages, CSS stylesheet, and Javascript additions, have all been encoded using the text editor oXygen, now in version 22.1. </p>
+
+Back to <a href="gde-aboutpage.html">About Page</a>
+        
+    </body>
+</html>
