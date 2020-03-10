@@ -55,7 +55,7 @@ a:visited {color: purple; text-decoration: none}
 span.above {
 vertical-align: super }
 /* Too dark; need to find some other way to set title aside. div.headerbox {background-color: rgb(122,118,126);} --> */
-span.ref {color:crimson; vertical-align: super; }
+span.ref {color: navy; vertical-align: super; }
 span.ed-note {display:none;
 position: absolute;
 right:40vw;
