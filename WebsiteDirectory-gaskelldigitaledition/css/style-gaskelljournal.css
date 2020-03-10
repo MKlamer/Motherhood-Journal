@@ -7,10 +7,11 @@ body {
   background-color: #f0f0f0; font-family: "Georgia", Times, serif; font-size: 1em; width: 100vw; line-height: 2; }
 
 img.header {
-max-width: 100% ;
-width: 100%;
-margin: auto ;
-height: auto
+max-width: 100%;
+width: 100vw;
+margin-right: auto;
+margin-left: auto;
+height: auto;
 }
 
 h2 {font-size: 250%;
@@ -33,9 +34,9 @@ h4, h5 {
   margin-right: auto;
   margin-left: auto;}
 
-div.navigation {background-color: RGB(207,201,189); max-width: 100%;}
+div.navigation {background-color: RGB(207,201,189); max-width: 100vw;}
 table.navigation {margin-right: auto; margin-left: auto;
- width: 100%}
+ width: 100vw;}
  
  div.footer {clear: both; background-color: RGB(207,201,189); width: 100%; margin-right: auto; margin-left: auto; font-size: .75em;}
 
