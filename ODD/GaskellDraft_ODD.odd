@@ -124,7 +124,9 @@
                 <valItem ident="#Manchester"/>
                 <valItem ident="#Clopton Hall"/>
                 <valItem ident="#Sankey-Street-Chapel"/>
-                <valItem ident="#England"></valItem>
+                <valItem ident="#England"/>
+                <valItem ident="#Chelsea"/>
+                <valItem ident="#Porthmadog"/>
               </valList>
             </attDef>
           </attList>

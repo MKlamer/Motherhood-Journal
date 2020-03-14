@@ -31,10 +31,13 @@
                             <td><a href="gde-editionpage.html">The Digital Edition</a> </td>
                             <td> <a href="gde-gaskellpage.html">People</a></td>
                             <td><a href="gde-digitaldissertationpage.html">The Digital Dissertation</a></td></tr></table></div>
-                <hgroup>
+                
                     <h1>Gaskell’s Journal</h1>
-                    <h2>Table of Contents</h2>
-                </hgroup>
+                    
+                    <div id="fieldset"><fieldset><legend><span class="dipNorm">Edition View: The default view of the journal represents Gaskell's original text as it appears in the manuscript. <br/>This edition view contains editorial notes and Gaskell's own spellings and symbols.<br/> Click to choose the Normalized view</span><span class="dipNormSmall"> (shows conventional spellings; hides
+                            notes, insertion marks, and deletions):</span></legend><input type="checkbox" id="REGtoggle" style="cursor:pointer"/>Select normalized view.<br/></fieldset></div>
+                    <h2>Explore the Journal by Entry:</h2>
+                
                 <ul>
                     <xsl:apply-templates select="descendant::body" mode="toc"/>
                 </ul>
@@ -117,8 +120,8 @@
         </xsl:template> -->
     <xsl:template match="choice">
         <span class="choice">
-            <span class="sic"><xsl:apply-templates select="sic"></xsl:apply-templates></span>
-            <span class="reg"><xsl:apply-templates select="reg"></xsl:apply-templates></span> 
+            <span class="sic"><xsl:apply-templates select="sic"/>[sic]</span>
+            <span class="reg"><xsl:apply-templates select="reg"/></span> 
         </span>
     </xsl:template>
     <xsl:template match="quote | q">

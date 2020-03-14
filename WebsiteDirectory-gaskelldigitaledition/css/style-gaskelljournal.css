@@ -7,7 +7,7 @@ body {
   background-color: #f0f0f0; font-family: "Georgia", Times, serif; font-size: 1em; width: 100vw; line-height: 2; }
 
 img.header {
-max-width: 100%;
+max-width: 100vw;
 width: 100vw;
 margin-right: auto;
 margin-left: auto;
@@ -75,6 +75,8 @@ z-index: 3;
 display:none;
 
 }
+span.reg {display:none; line-height:normal; text-decoration:none; font-weight:normal;}
+span.sic {display:inline; line-height:normal; text-decoration:none; font-weight:normal;}
 .line-number {color:crimson; padding-right: .5em; font-size:.7em;}
 .figure {display:block;}
 .caption {color:crimson; padding-right: .5em; font-size:.7em; display:block; margin:auto;}

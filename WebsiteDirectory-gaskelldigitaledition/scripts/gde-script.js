@@ -15,6 +15,10 @@ function init() {
         anchors[i].addEventListener('mouseout', hide_footnote, false);
         anchors[i].addEventListener('dblclick', hide_footnote, false);
         }
+      var fieldset = document.getElementsByTagName ('input');
+    for (var i = 0; i < fieldset.length; i++) {
+    fieldset[i].addEventListener('click', toggle, false);
+    }
 }
 
 function show_footnote() {
@@ -27,5 +31,39 @@ function hide_footnote() {
     var footnote = this.nextSibling;
     footnote.style.display = "none";
 }
+
+function toggle () {
+   var id = REGtoggle
+   switch (id) {
+       case "sic": {
+           var edView = document.getElementsByClassName('sic');
+           for (var i = 0; i < sic.length; i++) {
+               sic[i].classList.toggle("on")
+           }
+           }
+           break;
+      case "REG": {
+          var regView = document.getElementsByClassName('reg');
+          for (var i=0; i < reg.length; i++) {
+              reg[i].classList.toggle("on")   
+      }
+      }
+      break;
+    
+   }
+   
+   /* var edView = document.getElementsByClassName('sic');
+    console.log('sic =' +sic);
+    sic.style.display = "inline";
+       
+    var regView = document.getElementsByClassName('reg');
+    console.log('reg =' +reg);
+    reg.style.display = "hidden"; */
+     
+  }  
+
+ 
+
+
 
 
