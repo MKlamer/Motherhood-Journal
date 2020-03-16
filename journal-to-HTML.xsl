@@ -8,11 +8,11 @@
     version="3.0">
     
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat" omit-xml-declaration="yes"/>
-  <xsl:variable name="pIndex" select="../Gaskell_prosopography.xml"/>
+  <xsl:variable name="pIndex" as="document-node()" select="document('Gaskell_prosopography.xml')"/>
 <!--You'll need an xsl:variable that points to the personography/placeography file to reference later.   -->  
    <xsl:template match="/">
         <html>
-            <head><title></title>
+            <head><title>Gaskell Journal</title>
                 <link rel="stylesheet" type="text/css" href="../css/style-gaskelljournal.css"/>
                 <script type="text/javascript" src="../scripts/gde-script.js"/>
                 <!--ebb: YOU'LL NEED TO DEVELOP A CSS STYLESHEET 
@@ -136,9 +136,9 @@
         </span>
     </xsl:template>
     <xsl:template match="persName | placeName">
-       <span class="pIndex">
-       <span class="pi-note"><xsl:value-of select="$pIndex//body/div/listPerson/person[@xml:id =./@ref]/note"/></span> 
-           <xsl:apply-templates/><!--You'll need to read in from a variable that points to the document('path/to/your/personographyFile.xml')//*[@xml:id = ./@ref]//note  (or whatever element you want to display). --></span>
+        <span class="pIndex"><xsl:apply-templates/></span>
+       <span class="pi-note">
+           <xsl:value-of select="$pIndex//*[@xml:id = tokenize(current()/@ref, '#')]/note/p/string()"/></span> 
     </xsl:template>
    <xsl:template match="lb">
         <br id="n{count(preceding::lb) + 1}"/><span class="line-number"><xsl:value-of select="count(preceding::lb) + 1"/><xsl:text>. </xsl:text></span>
