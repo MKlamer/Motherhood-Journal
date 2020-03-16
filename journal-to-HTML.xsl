@@ -136,9 +136,9 @@
         </span>
     </xsl:template>
     <xsl:template match="persName | placeName">
-       <span class="pIndexNote">
-           <xsl:value-of select="*/@ref"/>
-               <xsl:apply-templates select="$pIndex//body/div/listPerson/person/@xml:id//note"/><!--You'll need to read in from a variable that points to the document('path/to/your/personographyFile.xml')//*[@xml:id = ./@ref]//note  (or whatever element you want to display). --></span>
+       <span class="pIndex">
+       <span class="pi-note"><xsl:value-of select="$pIndex//body/div/listPerson/person[@xml:id =./@ref]/note"/></span> 
+           <xsl:apply-templates/><!--You'll need to read in from a variable that points to the document('path/to/your/personographyFile.xml')//*[@xml:id = ./@ref]//note  (or whatever element you want to display). --></span>
     </xsl:template>
    <xsl:template match="lb">
         <br id="n{count(preceding::lb) + 1}"/><span class="line-number"><xsl:value-of select="count(preceding::lb) + 1"/><xsl:text>. </xsl:text></span>

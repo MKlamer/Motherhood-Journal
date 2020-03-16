@@ -49,7 +49,7 @@ a:link {color: blue; text-decoration: none}
  
 a:visited {color: purple; text-decoration: none}
  
-.personography {display:inline;}
+span.pIndexNote {display:inline; color: blue; }
     
 span.above {
 vertical-align: super }

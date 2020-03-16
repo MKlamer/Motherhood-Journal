@@ -27,7 +27,7 @@ function hide_footnote() {
     var footnote = this.nextSibling;
     footnote.style.display = "none";
 }
-}
+
 var fieldset = document.getElementsByTagName('input');
     for (var j = 0; j < fieldset.length; j++) {
         fieldset[j].addEventListener('click', toggle, false);
@@ -44,12 +44,7 @@ function hide_personography() {
     var footnote = this.child/note;
     footnote.style.display = "none";
 }
-
-
-
-*  
- * 
- * function toggle () {
+function toggle () {
    var id = REGtoggle
    switch (id) {
        case "sic": {
@@ -66,7 +61,7 @@ function hide_personography() {
       }
       }
       break;
-    
+    }
    }
    
    var edView = document.getElementsByClassName('sic');
@@ -75,10 +70,10 @@ function hide_personography() {
        
     var regView = document.getElementsByClassName('reg');
     console.log('reg =' +reg);
-    reg.style.display = "hidden"; */
+    reg.style.display = "hidden";
      
   
-
+}
  
 
 
