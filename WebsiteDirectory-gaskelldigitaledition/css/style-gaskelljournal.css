@@ -49,13 +49,12 @@ a:link {color: blue; text-decoration: none}
  
 a:visited {color: purple; text-decoration: none}
  
-.personography {color: blue}
-.personography:hover {color: crimson}
+.personography {display:inline;}
     
 span.above {
 vertical-align: super }
 /* Too dark; need to find some other way to set title aside. div.headerbox {background-color: rgb(122,118,126);} --> */
-span.ref {color: navy; vertical-align: super; }
+span.ref {color: crimson; vertical-align: super; }
 span.ed-note {display:none;
 position: absolute;
 right:40vw;
@@ -77,7 +76,7 @@ display:none;
 }
 span.reg {display:none; line-height:normal; text-decoration:none; font-weight:normal;}
 span.sic {display:inline; line-height:normal; text-decoration:none; font-weight:normal;}
-.line-number {color:crimson; padding-right: .5em; font-size:.7em;}
+.line-number {color: gray; padding-right: .5em; font-size:.7em;}
 .figure {display:block;}
 .caption {color:crimson; padding-right: .5em; font-size:.7em; display:block; margin:auto;}
 

@@ -15,12 +15,8 @@ function init() {
         anchors[i].addEventListener('mouseout', hide_footnote, false);
         anchors[i].addEventListener('dblclick', hide_footnote, false);
         }
-      var fieldset = document.getElementsByTagName ('input');
-    for (var i = 0; i < fieldset.length; i++) {
-    fieldset[i].addEventListener('click', toggle, false);
-    }
-}
-
+        }
+        
 function show_footnote() {
     var footnote = this.nextSibling;
     console.log('footnote = ' + footnote);
@@ -31,8 +27,29 @@ function hide_footnote() {
     var footnote = this.nextSibling;
     footnote.style.display = "none";
 }
+}
+var fieldset = document.getElementsByTagName('input');
+    for (var j = 0; j < fieldset.length; j++) {
+        fieldset[j].addEventListener('click', toggle, false);
 
-function toggle () {
+var personography = Document.getElementById('pIndexNote');
+
+function show_personography() {
+    var personography = this.child/note;
+    console.log('personography = ' + footnote);
+    footnote.style.display = "inline";
+}
+
+function hide_personography() {
+    var footnote = this.child/note;
+    footnote.style.display = "none";
+}
+
+
+
+*  
+ * 
+ * function toggle () {
    var id = REGtoggle
    switch (id) {
        case "sic": {
@@ -52,7 +69,7 @@ function toggle () {
     
    }
    
-   /* var edView = document.getElementsByClassName('sic');
+   var edView = document.getElementsByClassName('sic');
     console.log('sic =' +sic);
     sic.style.display = "inline";
        
@@ -60,7 +77,7 @@ function toggle () {
     console.log('reg =' +reg);
     reg.style.display = "hidden"; */
      
-  }  
+  
 
  
 
