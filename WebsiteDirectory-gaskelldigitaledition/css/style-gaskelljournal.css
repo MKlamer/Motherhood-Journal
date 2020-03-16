@@ -48,8 +48,6 @@ p {padding-left: 5vw; padding-right: 5vw}
 a:link {color: blue; text-decoration: none}
  
 a:visited {color: purple; text-decoration: none}
- 
-span.pIndexNote {display:inline; color: blue; }
     
 span.above {
 vertical-align: super }
@@ -74,8 +72,28 @@ z-index: 3;
 display:none;
 
 }
+span.pIndex {color:crimson;}
+span.pi-note {display:none; position: absolute;
+right:40vw;
+color: #000041;
+line-height:normal;
+text-decoration:none;
+font-size: .75em;
+text-align:left;
+font-weight: normal;
+background: pink;
+border:solid #440029 2px;
+width:300px;
+height:auto;
+padding:5px;
+overflow-y:scroll;
+z-index: 3;
+display:none;}
+
 span.reg {display:none; line-height:normal; text-decoration:none; font-weight:normal;}
+span.reg.on {display:inline; line-height:normal; text-decoration:none; font-weight:normal;}
 span.sic {display:inline; line-height:normal; text-decoration:none; font-weight:normal;}
+span.sic.on {display:none; line-height:normal; text-decoration:none; font-weight:normal;}
 .line-number {color: gray; padding-right: .5em; font-size:.7em;}
 .figure {display:block;}
 .caption {color:crimson; padding-right: .5em; font-size:.7em; display:block; margin:auto;}
