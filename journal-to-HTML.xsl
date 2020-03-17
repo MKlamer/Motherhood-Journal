@@ -74,7 +74,7 @@
         <h4><xsl:apply-templates/></h4>
     </xsl:template>
    <xsl:template match="p">
-       <p><xsl:apply-templates/></p> 
+       <p><span class="prose"><xsl:apply-templates/></span></p> 
    </xsl:template>
     <xsl:template match="pb">
        <span class="figure">
@@ -120,7 +120,7 @@
         </xsl:template> -->
     <xsl:template match="choice">
         <span class="choice">
-            <span class="sic"><xsl:apply-templates select="sic"/>[sic]</span>
+            <span class="sic"><xsl:apply-templates select="sic"/></span>
             <span class="reg"><xsl:apply-templates select="reg"/></span> 
         </span>
     </xsl:template>
