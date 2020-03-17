@@ -48,6 +48,7 @@ p {padding-left: 5vw; padding-right: 5vw}
 span.prose {line-height: 2}
 span.prose.on {line-height: 1.2}
 a:link {color: blue; text-decoration: none}
+a.pagelink {font-weight: bold}
  
 a:visited {color: purple; text-decoration: none}
     
