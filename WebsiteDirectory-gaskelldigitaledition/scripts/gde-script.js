@@ -64,9 +64,9 @@ function toggle() {
             for (var i = 0; i <pHeight.length; i++) {
                 pHeight[i].classList.toggle("on")
             }
-    var checkbox = document.getElementsByClassName("label")
-            for (var i = 0; i <checkbox.length; i++) {
-                checkbox[i].classList.toggle("on")
+    var tocHeight = document.getElementsByClassName("li");
+            for (var i = 0; i <tocHeight.length; i++) {
+                tocHeight[i].classList.toggle("on")
             }
 }
 

@@ -28,21 +28,21 @@
                             <td> <a href="gde-gaskellpage.html">People</a></td>
                             <td><a href="gde-digitaldissertationpage.html">The Digital Dissertation</a></td></tr></table></div>
                 <!-- Navigational Header End -->
-                <h1>Gaskell’s Journal</h1>
+                <h2>Explore Gaskell’s Journal</h2>
 
                 <div id="fieldset">
-                    <fieldset><legend>Choose Your View:</legend><span class="dipNorm">The default view of the
+                    <fieldset><legend>Choose Your View:</legend><span class="dipNorm">The default view (Edition View) of the
                                 journal represents Gaskell's original text as it appears in the
-                                manuscript. <br/>This edition view contains editorial notes and
+                                manuscript. <br/>The edition view contains editorial notes and
                                 Gaskell's own spellings and symbols.<br/>
                                 The normalized view shows conventional spellings; hides notes, insertion marks, and
-                                deletions):</span><span class="choose"><input type="checkbox" id="REGtoggle"
+                                deletions). Click to select the normalized view.</span><span class="choose"><input type="checkbox" id="REGtoggle"
                                     style="cursor:pointer"/><label class="checkbox" for="REGtoggle">Select normalized view.</label></span></fieldset>
                 </div>
                 <h2>Explore the Journal by Entry:</h2>
 
                 <ul>
-                    <xsl:apply-templates select="descendant::body" mode="toc"/>
+                   <span class="toc"><xsl:apply-templates select="descendant::body" mode="toc"/></span>
                 </ul>
                 <hr/>
                 <div id="main">
