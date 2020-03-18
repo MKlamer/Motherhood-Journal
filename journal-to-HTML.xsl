@@ -31,12 +31,12 @@
                 <h1>Gaskell’s Journal</h1>
 
                 <div id="fieldset">
-                    <fieldset><legend>Choose Your View:<span class="dipNorm">The default view of the
+                    <fieldset><legend>Choose Your View:</legend><span class="dipNorm">The default view of the
                                 journal represents Gaskell's original text as it appears in the
                                 manuscript. <br/>This edition view contains editorial notes and
                                 Gaskell's own spellings and symbols.<br/>
                                 The normalized view shows conventional spellings; hides notes, insertion marks, and
-                                deletions):</span></legend><span class="choose"><input type="checkbox" id="REGtoggle"
+                                deletions):</span><span class="choose"><input type="checkbox" id="REGtoggle"
                                     style="cursor:pointer"/><label class="checkbox" for="REGtoggle">Select normalized view.</label></span></fieldset>
                 </div>
                 <h2>Explore the Journal by Entry:</h2>
