@@ -111,22 +111,27 @@
                 <valItem ident="#London"/>
                 <valItem ident="#Alton"/>
                 <valItem ident="#Warrington"/>
-                <valItem ident="#Prospect Hill"/>
+                <valItem ident="#ProspectHill"/>
                 <valItem ident="#Grange"/>
                 <valItem ident="#Crosby"/>
                 <valItem ident="#Wales"/>
-                <valItem ident="#Infant school"/>
+                <valItem ident="#InfantSchool"/>
                 <valItem ident="#Latchford"/>
                 <valItem ident="#Geneva"/>
                 <valItem ident="#Edinburgh"/>
                 <valItem ident="#Savannah"/>
                 <valItem ident="#Berwick"/>
                 <valItem ident="#Manchester"/>
-                <valItem ident="#Clopton Hall"/>
-                <valItem ident="#Sankey-Street-Chapel"/>
+                <valItem ident="#CloptonHall"/>
+                <valItem ident="#CrossStreetChapel"/>
+                <valItem ident="#SankeyStreetChapel"/>
                 <valItem ident="#England"/>
                 <valItem ident="#Chelsea"/>
                 <valItem ident="#Porthmadog"/>
+                <valItem ident="#Heathside"/>
+                <valItem ident="#Sandlebridge"/>
+                <valItem ident="#PlasynPenhryn"/>
+                <valItem ident="#ChurchHouse"/>
               </valList>
             </attDef>
           </attList>

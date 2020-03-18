@@ -42,7 +42,7 @@
                 <h2>Explore the Journal by Entry:</h2>
 
                 <ul>
-                   <span class="toc"><xsl:apply-templates select="descendant::body" mode="toc"/></span>
+                   <xsl:apply-templates select="descendant::body" mode="toc"/>
                 </ul>
                 <hr/>
                 <div id="main">
