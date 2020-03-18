@@ -8,18 +8,32 @@ body {
 
 span.choose {width: 100vw;}
 span.dipNorm { clear: both; display: block;}
-label {color: blue; padding: 12px;
-      width: 100vw;
-      display: block;
-      text-align: left;
-      color: #3C454C;
+
+fieldset {position: relative;}
+legend span { position: absolute;  padding: 5px; top: 10px; right: 15em; padding-right: 5px; }
+label.checkbox { display: inline-block; 
+color: black; 
+padding: 12px;
+      width: 20%;
+      text-align: center;
+      font-weight: normal;
       background-color: RGB(207,201,189);
       cursor: pointer;
       position: relative;
         overflow: hidden;  
       }
-
-input {color: black;}
+      label.checkbox.on { display: inline-block; 
+color: black; 
+padding: 12px;
+      width: 20%;
+      text-align: center;
+      font-weight: bold;
+      background-color: RGB(207,201,189);
+      cursor: pointer;
+      position: relative;
+        overflow: hidden;  
+      }
+input {color: black; margin:0;  vertical-align: auto; position: relative; display: inline;}
  
 img.header {
 max-width: 100vw;
