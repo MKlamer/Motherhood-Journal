@@ -60,7 +60,7 @@ function toggle() {
             for (var i = 0; i <lineNum.length; i++) {
                 lineNum[i].classList.toggle("on")
             }
-    var pHeight = document.getElementsByClassName ("p");
+    var pHeight = document.getElementsByClassName ("prose");
             for (var i = 0; i <pHeight.length; i++) {
                 pHeight[i].classList.toggle("on")
             }

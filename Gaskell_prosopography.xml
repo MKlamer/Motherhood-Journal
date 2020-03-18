@@ -113,7 +113,7 @@
                      <forename>Fanny</forename>
                   </persName>
                   <note type="bio" resp="#mjk">
-                     <p>No information is known about Fanny.</p>
+                     <p>A servant, mentioned in the diary. No other information is known about Fanny.</p>
                   </note>
                </person>
                <person xml:id="Elizabeth_Stevenson_Gaskell">
@@ -132,7 +132,7 @@
                      <p>Elizabeth Gaskell, the author of the journal, was born in 1810 and died in 1865. She published her first novel, <hi rend="italic">Mary Barton</hi>, in 1848, and later became a successful novelist.</p>
                   </note>
                </person>
-               <person xml:id="Hannah_Lumb">
+               <person xml:id="Hannah_Holland_Lumb">
                   <persName ref="#Hannah_Holland_Lumb">
                      <surname type="married">Lumb</surname>
                      <surname type="maiden">Holland</surname>
@@ -249,10 +249,10 @@
                   </persName>
                  
                   <note type="bio" resp="#mjk">
-                     <p>No information known.</p>
+                     <p>Elizabeth Barlowe who began working for the Gaskells in 1837, after Betsy left their service. Her name appears in the 1841 census records. No other information is known about her.</p>
                   </note>
                </person>
-               <person xml:id="Liz_Gaskell_Holland">
+               <person xml:id="Elizabeth_Gaskell_Holland">
                   <persName ref="#Elizabeth_Gaskell_Holland">
                      <surname type="birth">Gaskell</surname>
                      <surname type="married">Holland</surname>
