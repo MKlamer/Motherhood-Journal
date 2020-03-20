@@ -78,7 +78,7 @@ table.navigation {margin-right: auto; margin-left: auto;
  
  div.footer {clear: both; background-color: RGB(207,201,189); width: 100%; margin-right: auto; margin-left: auto; font-size: .75em;}
 
- 
+ span.gap {border: dashed;  display:inline-block;}
 td {width: 20%; text-align: center; padding: 16px}
  
 p {padding-left: 5vw; padding-right: 5vw; }

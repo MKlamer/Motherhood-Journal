@@ -34,11 +34,11 @@
                      <placeName ref="#Manchester"/>
                   </death>
                   <note type="bio" resp="#mjk">
-                     <p>The Gaskells’ first surviving daughter, born <date when="1834-09-12"
-                           >September 12, 1834</date>. Marianne is the subject of most of the diary,
+                     <p>The Gaskells’ first surviving daughter, Marianne, born <date when="1834-09-12"
+                           >September 12, 1834</date>. Marianne, often called "M.A." or simply "MA" by Gaskell, is the subject of most of the journal,
                         and is described as <q>gentle</q>. She was the only one of Gaskell’s
                         daughters to become a mother herself, though she was still unmarried at the
-                        time of Gaskell’s death.</p>
+                        time of Gaskell’s death. The journal has been passed down through Marianne's descendants.</p>
                   </note>
                </person>
                <person xml:id="Wm_Gaskell">
@@ -167,8 +167,7 @@
                      <placeName ref="#Knutsford"/>
                   </death>
                   <note type="bio" resp="#mjk">
-                     <p>Elizabeth Gaskell’s mother’s sister, who nursed her during her final
-                        illness. After Elizabeth Stevenson’s death, Hannah Lumb and her daughter,
+                     <p>Hannah Lumb was the sister of Elizabeth (Holland) Stevenson, Elizabeth Gaskell's mother. After Elizabeth Stevenson’s death when Elizabeth was only 13 months old,, Hannah Lumb and her daughter,
                         Marianne, took Gaskell to live with them in Knutsford. Marianne died shortly
                         after, and Gaskell lived with Aunt Lumb until her marrriage. </p>
                   </note>
@@ -253,7 +252,7 @@
                   </note>
                </person>
                <person xml:id="Bessy_Holland">
-                  <persName ref="#Bessey_Holland">
+                  <persName ref="#Bessy_Holland">
                      <surname type="married">Howorth</surname>
                      <surname type="maiden">Holland</surname>
                      <forename>Bessy</forename>
@@ -264,7 +263,7 @@
                   <death when="1886-07-16"> </death>
                   <note type="bio" resp="#mjk">
                      <p>A cousin of Gaskell’s, Bessy was the daughter of Dr. Peter Holland, the
-                        ?oldest son of Gaskell’s grandfather, Samuel Holland, of Sandlebridge in
+                        oldest son of Gaskell’s grandfather, Samuel Holland, of Sandlebridge in
                         Knutsford. Bessy was a friend of Maria Edgeworth. </p>
                   </note>
                </person>
@@ -277,7 +276,8 @@
                   <note type="bio" resp="#mjk">
                      <p>Elizabeth Barlowe who began working for the Gaskells in 1837, after Betsy
                         left their service. Her name appears in the 1841 census records. No other
-                        information is known about her.</p>
+                        information is known about her. (Thank you to Dr. Diane Duffy at the Gaskell House Museum for the census data). 
+                     </p>
                   </note>
                </person>
                <person xml:id="Elizabeth_Gaskell_Holland">
@@ -360,14 +360,14 @@
                   </note>
                </person>
                <person xml:id="God">
-                  <persName ref="#God"/>
-                  <note resp="#mjk">Gaskell refers to God frequently in the journal, particularly in
+                  <persName ref="#God">God</persName>
+                  <note resp="#mjk"><p>Gaskell refers to God frequently in the journal, particularly in
                      the later entries after she has judged that Marianne is old enough to begin to
-                     be taught about religious beliefs. </note>
+                     be taught about religious beliefs.</p> </note>
                </person>
-               <person xml:id="Caroline_Bowles_">
-                  <persName ref="#Caroline_Bowles_Southey"/>
-                  <note resp="#mjk">Bowles was a poet and author who wrote frequently for Blackwood's Edinburgh Magazine. Her poem "To A Dying Infant" is quoted by Gaskell in the second entry of the journal. Bowles married poet Robert Southey in 1839 (she was 52), after a nearly 20 year correspondence. He died three years later. </note>
+               <person xml:id="Caroline_Bowles_Southey">
+                  <persName ref="#Caroline_Bowles_Southey">Caroline Bowles</persName>
+                  <note resp="#mjk"><p>Bowles was a poet and author who wrote frequently for Blackwood's Edinburgh Magazine. Her poem "To A Dying Infant" is quoted by Gaskell in the second entry of the journal. Bowles married poet Robert Southey in 1839 (she was 52), after a nearly 20 year correspondence. He died three years later.</p> </note>
                </person>
             </listPerson>
          </div>
@@ -432,6 +432,17 @@
                         grief of his death. The result was Mary Barton; his death is alluded to in
                         the preface. </p>
                   </note>
+               </person>
+               <person xml:id="Holbrook_Gaskell">
+                  <persName ref="#Holbrook_Gaskell"></persName>
+                  <note resp="#mjk"><p>A relative who had married William’s paternal aunt, Anne Gaskell. At this point in 1836, both Holbrook and his wife were still living. William Gaskell was left a legacy in their will in 1848/9.</p></note></person>
+               <person xml:id="Peter_Holland">
+                  <persName ref="#Peter_Holland"></persName>
+                  <note resp="#mjk"><p>Physician. The eldest son of Gaskell's maternal grandfather, Samuel Holland, of Sandlebridge in Knutsford. Peter Holland was a physician, who served in a practice with Dr. Richard Deane.</p> </note>
+               </person>
+               <person xml:id="William_Howitt">
+                  <persName ref="#William_Howitt"></persName>
+                  <note resp="#mjk"><p>William Howitt was a prolific writer, who collaborated with his wife, Mary Howitt, on many projects. Together, they edited "Howitt's Journal, which published some of Gaskell's early work. </p></note>
                </person>
                <person xml:id="William_Stevenson">
                   <persName ref="#William_Stevenson">
@@ -499,17 +510,17 @@
             <listPlace>
                <place xml:id="Knutsford">
                   <placeName ref="#Knutsford"> </placeName>
-                  <note resp="#mjk">Knutsford was the home of the Hollands, Gaskell’s mother’s
+                  <note resp="#mjk"><p>Knutsford was the home of the Hollands, Gaskell’s mother’s
                      family. After Elizabeth (Holland) Stevenson died when young Elizabeth was
                      thirteen months old, she went to Knutsford to live with her mother’s sister,
-                     Hannah (Holland) Lumb and her daughter, Marianne Lumb. </note>
+                     Hannah (Holland) Lumb and her daughter, Marianne Lumb.</p> </note>
                </place>
                <place xml:id="Warrington">
                   <placeName ref="#Warrington"/>
-                  <note resp="#mjk">Warrington was the home of William Gaskell’s family, who were
+                  <note resp="#mjk"><p>Warrington was the home of William Gaskell’s family, who were
                      Dissenters. His widowed mother lived there with her second husband, Edward
                      Dimock, who was also a Unitarian minister at Sankey Street Chapel in
-                     Warrington. </note>
+                     Warrington.</p> </note>
                </place>
                <place xml:id="Alton">
                   <placeName ref="#Alton"/>
@@ -522,9 +533,11 @@
                </place>
                <place xml:id="CloptonHall">
                   <placeName ref="#CloptonHall"/>
+                  <note resp="#mjk"><p>Clopton Hall was about a mile from Stratford-on-Avon, near where Gaskell attended a school run by the Byerly sisters. She offered a description of the Hall to William Howitt in a letter, having heard he was intending to publish a volume on "Remarkable Places". The letter was published almost verbatim in "Visits to Remarkable Places" in 1840. Apart from an earlier poem co-authored with her husband, this was the first time her work appeared in print. </p></note>
                </place>
                <place xml:id="Crosby">
                   <placeName ref="#Crosby"/>
+                  <note><p>Note incomplete</p></note>
                </place>
                <place xml:id="Edinburgh">
                   <placeName ref="#Edinburgh"/>
@@ -537,14 +550,16 @@
                </place>
                <place xml:id="Grange">
                   <placeName ref="#Grange"/>
-                  <note resp="#mjk"> Grange-over-Sands on Morecambe Bay. A seaside visit was
+                  <note resp="#mjk"><p> Grange-over-Sands on Morecambe Bay. A seaside visit was
                      recommended for Marianne by her Uncle, Dr. Sam Gaskell. The town, which
                      developed from a fishing village, was originally known as only Grange, until a
                      local vicar added the suffix in the late nineteenth or early 20th century.
                      Grange-over-Sands is located on the north shore of Morecambe Bay, in Cumbria.
                      The area was known for “clean sea air and local spring water” and became a site
-                     for a sanitorium later in the century.</note>
+                     for a sanitorium later in the century.</p></note>
                </place>
+               <place xml:id="InfantSchool"><placeName ref="#InfantSchool">Infant School</placeName>
+               <note resp="#mjk"><p>The school has not been identified. Marianne began going to school at 3 1/2 years old. Gaskell writes extensively about the school decision in the eighth journal entry, weighing the arguments on both sides. </p></note></place>
                <place xml:id="Latchford">
                   <placeName ref="#Latchford"/>
                </place>
@@ -553,47 +568,52 @@
                </place>
                <place xml:id="Manchester">
                   <placeName ref="#Manchester"/>
-                  <note resp="#mjk">After her marriage, Gaskell lived in Manchester with her husband
+                  <note resp="#mjk"><p>After her marriage, Gaskell lived in Manchester with her husband
                      William, who was a Unitarian minister there. Although they moved three times,
                      their home remained in Manchester. Manchester was at the heart of the
                      Industrial Revolution, and many of Gaskell's novels feature factory workers or
                      the poor, drawing on her observations there. Daughters Meta and Julia, who
                      never married, continued to live at their last home, at Plymouth Grove, until
-                     their deaths. The home has now been turned into the Gaskell Home Museum.
+                     their deaths. The home has now been turned into the Gaskell Home Museum.</p>
                   </note>
                </place>
                <place xml:id="Porthmadog">
                   <placeName ref="#Porthmadog"/>
-                  <note resp="#mjk">In 1845, the Gaskells went on holiday with Marianne, their
+                  <note resp="#mjk"><p>In 1845, the Gaskells went on holiday with Marianne, their
                      oldest daughter, and William, the baby, who was nine months old at the time.
                      Marianne caught scarlet fever and later recovered, but when Willie caught the
-                     illness, he died at Porthmadog.</note>
+                     illness, he died at Porthmadog.</p></note>
                </place>
                <place xml:id="ProspectHill">
                   <placeName ref="#ProspectHill"/>
-                  <note resp="#mjk">The home of Holbrook Gaskell, who married his cousin, William’s
+                  <note resp="#mjk"><p>The home of Holbrook Gaskell, who married his cousin, William’s
                      paternal aunt, Anne Gaskell. At this point in 1836, both Holbrook and his wife
                      were still living. William Gaskell was left a legacy in their will in 1848/9,
-                     and the property itself was inh“Aunt Anne” This is possibly Anne Holland,
-                     Swinton Holland’s wife, but as that Anne would have been much older, it is most
-                     likely Anne Gaskell, William’s younger sister, who lived at Warrington with her
-                     mother. erited by a second Holbrook Gaskell, another nephew. </note>
+                     and the property itself was inherited by a second Holbrook Gaskell, another nephew.</p> </note>
                </place>
                <place xml:id="SankeyStreetChapel">
                   <placeName ref="#SankeyStreetChapel"/>
-                  <note resp="#mjk"/>
+                  <note resp="#mjk"><p>Sankey Street Chapel, in Warrington, was where Rev. Dimock, William Gaskell's stepfather, served as a minister.</p> </note>
                </place>
                <place xml:id="Wales">
                   <placeName ref="#Wales"/>
                </place>
                <place xml:id="CrossStreetChapel">
                   <placeName ref="#CrossStreetChapel"/>
-                  <note resp="#mjk">Cross Street Chapel was William Gaskell's first appointment as a
-                     Unitarian minister. He served here under J.G. Robberds. </note>
+                  <note resp="#mjk"><p>Cross Street Chapel was William Gaskell's first appointment as a
+                     Unitarian minister. He served here under J.G. Robberds. </p></note>
                </place>
                <place xml:id="Heathside">
                   <placeName ref="#Heathside"/>
-                  <note resp="#mjk">The home of Hannah Lumb in Knutsford.</note>
+                  <note resp="#mjk"><p>The home of Hannah Lumb in Knutsford.</p></note>
+               </place>
+               <place xml:id="Sandlebridge">
+                  <placeName ref="#Sandlebridge"></placeName>
+                  <note resp="#mjk"><p>The home of the Holland family, Gaskell's mother's parents. After their deaths, it became the home of her Uncle, Peter Holland, and his family.</p></note>
+               </place>
+               <place xml:id="ChurchHouse">
+                  <placeName ref="#ChurchHouse">
+                  </placeName>
                </place>
             </listPlace>
          </div>
