@@ -19,7 +19,7 @@
             </head>
             <body>
                 <div class="navigation"><!-- Navigational Header Begin --> 
-                    <img class="header" width="1920" height="256" src="images/GDE-headerimage-nocircle.jpg" alt="The Elizabeth Gaskell Journal Header Image"/>     
+                    <img class="header" width="1920" height="256" src="images/GDE-JournalHeaderRevised.jpg" alt="The Elizabeth Gaskell Journal Header Image"/>     
                     <table class="navigation">
                         <tr>
                             <td><a href="index.html">Home</a></td>
