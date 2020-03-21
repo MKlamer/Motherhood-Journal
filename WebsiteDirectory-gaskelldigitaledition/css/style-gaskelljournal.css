@@ -114,7 +114,7 @@ z-index: 3;
 display:none;
 
 }
-span.pIndex {color:crimson;}
+span.pIndex {color:blue;}
 span.pi-note {display:none; position: absolute;
 right:40vw;
 color: #000041;
@@ -123,7 +123,7 @@ text-decoration:none;
 font-size: .75em;
 text-align:left;
 font-weight: normal;
-background: pink;
+background: ivory;
 border:solid #440029 2px;
 width:300px;
 height:auto;

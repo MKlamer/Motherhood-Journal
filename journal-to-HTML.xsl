@@ -109,7 +109,7 @@
     </xsl:template>
     <xsl:template match="gap">
         <span class="gap">
-            <xsl:text>Portion of page cut away. See headnote.</xsl:text>
+           
             <xsl:apply-templates/>
         </span>
     </xsl:template>
