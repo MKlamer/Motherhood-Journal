@@ -1,4 +1,4 @@
-<root xmlns="http://melissaklamer.org">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <img alt="page-1" src="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi81Lmhhc2xpZ2h0Ym94VGh1bWJuYWlsVmVyc2lvbi9CQ19NU18xOWNfR2Fza2VsbC0zXzAwNS50aWY%3D.jpg">To my dear little</img>
 
 <img alt="page-2" src="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi83Lmhhc2xpZ2h0Ym94VGh1bWJuYWlsVmVyc2lvbi9CQ19NU18xOWNfR2Fza2VsbC0zXzAwNy50aWY%3D.jpg">March 10th </img>
@@ -154,4 +154,4 @@
 <img alt="page-77" src="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi85My5oYXNsaWdodGJveFRodW1ibmFpbFZlcnNpb24vQkNfTVNfMTljX0dhc2tlbGwtM18wODIudGlm.jpg">of thanksgiving and blessing.</img>
 
 <img alt="page-78" src="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi85NC5oYXNsaWdodGJveFRodW1ibmFpbFZlcnNpb24vQkNfTVNfMTljX0dhc2tlbGwtM18wODMudGlm.jpg">little creature, always ready to give away</img>
-</root>
+</TEI>
