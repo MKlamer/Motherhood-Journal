@@ -96,8 +96,8 @@
     </xsl:template>
     <xsl:template match="pb">
         <span class="figure">
-            <img class="page" id="page-{count(preceding::pb) + 1}" src="?????.jpg"
-                alt="photo facsimile page {count(preceding::pb) + 1}"/>
+            <img class="page" id="{@xml:id}" src="{@facs}"
+                alt="{@ed} (photo facsimile page {count(preceding::pb) + 1})"/>
             <span class="caption">Page <xsl:value-of select="count(preceding::pb) + 1"/></span>
         </span>
 
