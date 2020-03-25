@@ -68,6 +68,8 @@ h4, h5 {
   text-align: center;
   margin-right: auto;
   margin-left: auto;}
+  
+img.page {float: right; width: 35%; height: auto;}
 
 div.navigation {background-color: RGB(207,201,189); max-width: 100vw;}
 table.navigation {margin-right: auto; margin-left: auto;
@@ -114,6 +116,7 @@ z-index: 3;
 display:none;
 
 }
+span.underline {text-decoration: underline;}
 span.pIndex {color:blue;}
 span.pi-note {display:none; position: absolute;
 right:40vw;
