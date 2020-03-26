@@ -69,7 +69,7 @@ h4, h5 {
   margin-right: auto;
   margin-left: auto;}
   
-img.page {float: right; width: 35%; height: auto;}
+img.page {float: right; max-width: 35vw; width: 35%; height: auto;}
 
 div.navigation {background-color: RGB(207,201,189); max-width: 100vw;}
 table.navigation {margin-right: auto; margin-left: auto;
