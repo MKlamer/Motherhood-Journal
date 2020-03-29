@@ -9,7 +9,7 @@
     <xsl:variable name="IIIF-TSV" as="document-node()" select="doc('Gaskell-Diary-IIIF-Manifest-trimmed.xml')"/>
     
     <xsl:template match="pb">
-        <pb xmlns="http://www.tei-c.org/ns/1.0" n='{@n}' xml:id="page-{@n}" facs="{$IIIF-TSV//img[substring-after(@alt, '-') = current()/@n]/@src}" ed="Brotherton: {$IIIF-TSV//img[substring-after(@alt, '-') = current()/@n]}"/>
+        <pb xmlns="http://www.tei-c.org/ns/1.0" n='{@n}' xml:id="page-{@n}" facs="{$IIIF-TSV//*[local-name() = 'img'][substring-after(@alt, '-') = current()/@n]/@src}" ed="Brotherton: {$IIIF-TSV//*[local-name() = 'img'][substring-after(@alt, '-') = current()/@n]}"/>
         
     </xsl:template>
     
