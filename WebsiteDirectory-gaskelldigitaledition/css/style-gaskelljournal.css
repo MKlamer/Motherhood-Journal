@@ -116,7 +116,7 @@ z-index: 3;
 display:none;
 
 }
-span.underline {text-decoration: underline;}
+span.underline {text-decoration-line: underline;}
 span.pIndex {color:blue;}
 span.pi-note {display:none; position: absolute;
 right:40vw;

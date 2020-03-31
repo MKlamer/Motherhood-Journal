@@ -161,9 +161,9 @@
         </q>
     </xsl:template>
     <xsl:template match="hi[@type = 'underline']">
-        <span class="underline">
+        <u><span class="underline">
             <xsl:apply-templates/>
-        </span>
+        </span></u>
     </xsl:template>
     <xsl:template match="hi[@type = 'supercript']">
         <span class="above">
