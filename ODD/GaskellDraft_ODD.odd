@@ -28,6 +28,7 @@
         <moduleRef key="header"/>  
         <moduleRef key="textstructure" include="TEI body div front text dateline"/>
         <moduleRef key="transcr"/>
+        <moduleRef key="analysis"/>
         <moduleRef key="msdescription"/>
         <moduleRef key="certainty"/>
         <moduleRef key="gaiji"/>
