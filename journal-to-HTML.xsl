@@ -28,7 +28,7 @@
                             <td> <a href="gde-gaskellpage.html">People</a></td>
                             <td><a href="gde-digitaldissertationpage.html">The Digital Dissertation</a></td></tr></table></div>
                 <!-- Navigational Header End -->
-                <h2>Explore Gaskell’s Journal</h2>
+                <h2>Read Gaskell’s Journal</h2>
 
                 <div id="fieldset">
                     <fieldset><legend>Choose Your View:</legend><span class="dipNorm">The default view (Edition View) of the

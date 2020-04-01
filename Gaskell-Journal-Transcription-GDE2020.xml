@@ -391,27 +391,27 @@
                         <time>Evening</time>. 1835.</date>
                </head>
 
-               <p><lb/>The day after tomorrow <persName ref="#MA_Gaskell_Holland">Marianne</persName> will be <lb/>six months old. <milestone unit="section" type="motherhood" subtype="begin"/>I wish I had begun my
+               <p><lb/><milestone unit="section" type="physDesc" subtype="begin"/>The day after tomorrow <persName ref="#MA_Gaskell_Holland">Marianne</persName> will be <lb/>six months old. <milestone unit="section" type="physDesc" subtype="end"/><milestone unit="section" type="motherhood" subtype="begin"/>I wish I had begun my
                   <lb/>little journal sooner, for (though I should <lb/>have laughed at the idea
                   twelve months <lb/>ago) there have been many little indica=<lb/>=tions of
-                  disposition &amp;c. already; which I <lb/>can not now remember clearly.<milestone unit="section" type="motherhood" subtype="end"/> I will
+                  disposition &amp;c. already; which I <lb/>can not now remember clearly.<milestone unit="section" type="motherhood" subtype="end"/> <milestone unit="section" type="mentDesc" subtype="begin"/>I will
                   <lb/>try and describe her <hi rend="underline">mentally</hi>. I should <lb/>call
                   her remarkably good-tempered; though <lb/>at times she gives way to little bursts
                   <lb/>of passion or perhaps impatience would <lb/>be the right name. She is also
                   very firm <lb/>in her own little way occasionally; what <lb/>I suppose is
                   obstinacy really, only that <lb/> is so hard a word to apply to one so <lb/>dear.
-                  But in general she is so good <lb/> that <milestone unit="section" type="motherhood" subtype="begin"/>I feel as if I could hardly be
+                  But in general she is so good<milestone unit="section" type="mentDesc" subtype="end"/> <lb/> <milestone unit="section" type="motherhood" subtype="begin"/>that I feel as if I could hardly be
                   <lb/>sufficiently thankful, that the materials <lb/>put into my hands are so
                   excellent, and <pb n="3" xml:id="page-3" facs="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi84Lmhhc2xpZ2h0Ym94VGh1bWJuYWlsVmVyc2lvbi9CQ19NU18xOWNfR2Fza2VsbC0zXzAwOC50aWY%3D.jpg" ed="Brotherton: beautiful. And yet it "/><lb/>beautiful. And yet it seems to increase <lb/>the
                   responsibility. If I should misguide <lb/>from carele<choice>
                      <sic>ſ</sic>
                      <reg>s</reg>
-                  </choice>sness or negligence!<milestone unit="section" type="motherhood" subtype="end"/> <choice>
+                  </choice>sness or negligence!<milestone unit="section" type="motherhood" subtype="end"/> <milestone unit="section" type="matTheory" subtype="begin"/><choice>
                      <sic>Wilfully</sic>
                      <reg><hi rend="underline">Willfully</hi></reg>
                   </choice>
-                  <lb/>is not in a mother's heart. From ignorance <lb/>and errors in judgment I know
-                  I may, <lb/>and probably shall, very often. <seg type="prayer">But oh <persName ref="#God">Lord</persName>
+                  <lb/>is not in a mother's heart. <milestone unit="section" type="matTheory" subtype="end"/> <milestone unit="section" type="motherhood" subtype="begin"/>From ignorance <lb/>and errors in judgment I know
+                  I may, <lb/>and probably shall, very often.<milestone unit="section" type="motherhood" subtype="end"/> <seg type="prayer">But oh <persName ref="#God">Lord</persName>
                      <lb/>I pray thee to lead me right (if it be thy <lb/>will) and to preserve in
                      me the same <lb/>strong feeling of my responsibility which I <lb/>now
                      feel.</seg> And you too my dearest little <lb/>girl, if when you read this, you
@@ -1454,15 +1454,15 @@
                   wrong-doing, and as I <lb/>think I am very easily impre<choice>
                      <sic>ſ</sic>
                      <reg>s</reg>
-                  </choice>sible, I have<lb/> fancied there must have been some great
-                  <lb/>mismanagement to produce such little obsti=<lb/>nate fits, and whole hours of wilfulne<choice>
+                  </choice>sible, I have <lb/>fancied there must have been some great
+                  <lb/>mismanagement to produce such little obsti=<lb break="no"/>nate fits, and whole hours of wilfulne<choice>
                      <sic>ſ</sic>
                      <reg>s</reg>
                   </choice>s. </p>
                <p><lb/>I do not however think that this has been <lb/>often the case, and when it
                   has, my cooler <lb/>judgement has been aware of some little <lb/>circumstance
                   connected with her physical <lb/>state that has in some measure accounted <lb/>for
-                  it. For instance, she, (like her mother) re=<lb/>=quires a great deal of sleep.
+                  it. For instance, she, (like her mother) re=<lb break="no"/>=quires a great deal of sleep.
                   She is <hi rend="underline">always</hi><pb n="44" xml:id="page-44" facs="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi81MC5oYXNsaWdodGJveFRodW1ibmFpbFZlcnNpb24vQkNfTVNfMTljX0dhc2tlbGwtM18wNDkudGlm.jpg" ed="Brotherton: in bed, and asleep by seven"/>
                   <lb/>in bed, and asleep by seven, frequently earlier, <lb/>and seldom awakens
                   before six at the earliest. <lb/>Then she requires from two to three hours sleep
@@ -1471,32 +1471,28 @@
                   <lb/>she is in general as po<choice>
                      <sic>ſ</sic>
                      <reg>s</reg>
-                  </choice>sible.<!--unsure if this is true paragraph break; long gap mid line--><space type="long"/> We have <lb/>been puzzled for a punishment. The usual <lb/>one,
+                  </choice>sible.<!--Likely a terminal paragraph break.--><space type="long"/> We have <lb/>been puzzled for a punishment. The usual <lb/>one,
                   putting the little offender into a corner <lb/>had no effect with her, as she made
-                  it into <lb/>a game to <q><hi rend="underline">d</hi><add place="above">g</add>o
+                  it into <lb/>a game to <q><hi rend="underline">d</hi><!-- This g should be placed completely above the d. Gaskell inserts it to mark the translation of Marianne's child-speak.  --><add place="above">g</add>o
                      into a corner and be naughty <lb/>little girl;</q> so the last we have tried is
                   <lb/>putting her into a high chair, from which <lb/>she cannot get out, and
                   leaving her there <lb/>(always in the same room with one of us) <lb/>till some
                   little sign of sorrow is shown. <lb/>This with grave and sorrowful looks on our
-                  <lb/>part has generally had the desired effect <lb/>She often talks to herself
+                  <lb/>part has generally had the desired effect<supplied resp="#mjk">.</supplied> <lb/>She often talks to herself
                   about the consequences <lb/>of her conduct. <q>Baby <hi rend="underline">d</hi>ood
                         <hi rend="underline">d</hi>irl, make <lb/><persName ref="#Wm_Gaskell">Papa</persName> and <persName ref="#Elizabeth_Stevenson_Gaskell">Mama</persName> happy.</q>
                   <q>Baby not dood<pb n="45" xml:id="page-45" facs="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi81MS5oYXNsaWdodGJveFRodW1ibmFpbFZlcnNpb24vQkNfTVNfMTljX0dhc2tlbGwtM18wNTAudGlm.jpg" ed="Brotherton: dirl, Papa &amp; Mama so sorry.&#34;"/>
                      <lb/>dirl, <persName ref="#Wm_Gaskell">Papa</persName> &amp; <persName ref="#Elizabeth_Stevenson_Gaskell">Mama</persName> so sorry.</q> &amp;c I
                   think for <lb/>so young a child she has a pretty correct idea <lb/>as to whether
-                  actions are right or wrong. I've <lb/>had an instance lately when <hi rend="underline">some</hi>
-                  <hi rend="underline">one</hi>, in <lb/>anger did what was decidedly wrong in her
+                  actions are right or wrong. I've <lb/>had an instance lately when <choice><sic><hi rend="underline">some</hi>
+                  <hi rend="underline">one</hi></sic><reg>someone</reg></choice>, in <lb/>anger did what was decidedly wrong in her
                   <lb/>presence, without considering how holy that <lb/>little creature made the
                   place. She took no <lb/>notice, at the time but the next morning <lb/>told me of
                   it, adding <q>that <hi rend="underline">was</hi> naughty.</q> Though <lb/>much
-                  interested in preserving her love and <lb/>re<choice>
-                     <sic>ſ</sic>
-                     <reg>s</reg>
-                  </choice>pect for the person to whom I allude, I <lb/>knew it was my duty not to
-                  weaken her <lb/>power of discriminating, &amp; said <q>it was very <lb/>naughty,
-                     but she was very sorry now &amp;c.</q>
-                  <lb/>A few weeks ago she got a habit of refusing <lb/>her food, saying
-                     <q>bye-bye</q> &amp;c when a spoon=<lb/>=ful was offered to her which she did
+                  interested in preserving her love and <lb/>respect for the person to whom I allude, I <lb/>knew it was my duty not to
+                  weaken her <lb/>power of discriminating, &amp; said &apos;it was very <lb/>naughty,
+                     but she was very sorry now &amp;c.&apos;                 <lb/>A few weeks ago she got a habit of refusing <lb/>her food, saying
+                     <q>bye-bye</q> <!-- Tandem Verification paused 3-31-20 --> &amp;c when a spoon=<lb/>=ful was offered to her which she did
                   not <lb/>quite approve. I found the best plan was <lb/>to take her at her word,
                   and quietly sent <lb/>the plate away, which at first produed <pb n="46" xml:id="page-46" facs="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi81Mi5oYXNsaWdodGJveFRodW1ibmFpbFZlcnNpb24vQkNfTVNfMTljX0dhc2tlbGwtM18wNTEudGlm.jpg" ed="Brotherton: sad fits of crying"/><lb/>sad
                   fits of crying, and throwing herself back, but <lb/>after once or twice she became le<choice>
@@ -1543,7 +1539,7 @@
                      <reg>s</reg>
                   </choice>sed <lb/><q>Baby not bathe Mama,</q> we never had any <lb/>crying or
                   screaming. <!--long break within line again here.--> She has lately <lb/>had
-                  occasion to take one or two doses<!--smudge in this word, look more closely-->of
+                  occasion to take one or two doses<!--smudge in this word, look more closely--> of
                   Epsom <pb n="48" xml:id="page-48" facs="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi81NS5oYXNsaWdodGJveFRodW1ibmFpbFZlcnNpb24vQkNfTVNfMTljX0dhc2tlbGwtM18wNTMudGlm.jpg" ed="Brotherton: salts, and I have always told"/><lb/>salts, and I have always told her before hand <lb/>they
                   were bad bad, but were to do her good, &amp; <lb/>she has taken them directly,
                   looking however <lb/>thoroughly<!--letters missing, or wrong word here?-->
