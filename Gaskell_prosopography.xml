@@ -21,7 +21,7 @@
             <listPerson sortKey="ReferencedPersons">
                <person xml:id="MA_Gaskell_Holland">
                   <persName ref="#MA_Gaskell_Holland">
-                     <surname type="paternal">Gaskell</surname>
+                     <surname type="given">Gaskell</surname>
                      <surname type="married">Holland</surname>
                      <forename>Marianne</forename>
                      <addName>MA</addName>
@@ -43,7 +43,7 @@
                </person>
                <person xml:id="Wm_Gaskell">
                   <persName ref="#Wm_Gaskell">
-                     <surname>Gaskell</surname>
+                     <surname type="given">Gaskell</surname>
                      <forename>William</forename>
                   </persName>
                   <birth><date when="1805-07-24">July 24, 1805</date>
@@ -60,8 +60,8 @@
                </person>
                <person xml:id="Mme_DeSaussure">
                   <persName ref="#Mme_DeSaussure">
-                     <surname>de Saussure</surname>
-                     <surname>Necker</surname>
+                     <surname type="married">de Saussure</surname>
+                     <surname type="given">Necker</surname>
                      <forename>Albertine</forename>
                   </persName>
                   <birth when="1766">
@@ -78,7 +78,7 @@
                </person>
                <person xml:id="Andrew_Combe">
                   <persName ref="#Andrew_Combe">
-                     <surname>Combe</surname>
+                     <surname type="given">Combe</surname>
                      <forename>Andrew</forename>
                      <roleName>Physician</roleName>
                   </persName>
@@ -98,7 +98,7 @@
                </person>
                <person xml:id="Betsy_household">
                   <persName ref="#Betsy_household">
-                     <surname>Unknown</surname>
+                     <surname type="given">Unknown</surname>
                      <forename>Betsy</forename>
                   </persName>
                   <note type="bio" resp="#mjk">
@@ -112,7 +112,7 @@
                   <persName ref="#Margaret_Gaskell_Dimock">
                      <surname type="married">Dimock</surname>
                      <surname type="married">Gaskell</surname>
-                     <surname type="maiden">Jackson</surname>
+                     <surname type="given">Jackson</surname>
                      <forename>Margaret</forename>
                   </persName>
                   <death when="1850-01-12">January 12, 1850, aged 69 years. <!-- Chapple, Early Years p. 403 -->
@@ -128,7 +128,7 @@
                </person>
                <person xml:id="Fanny_household">
                   <persName ref="#Fanny_household">
-                     <surname>Unknown</surname>
+                     <surname type="given">Unknown</surname>
                      <forename>Fanny</forename>
                   </persName>
                   <note type="bio" resp="#mjk">
@@ -139,7 +139,7 @@
                <person xml:id="Elizabeth_Stevenson_Gaskell">
                   <persName ref="#Elizabeth_Stevenson_Gaskell">
                      <surname type="married">Gaskell</surname>
-                     <surname type="maiden">Stevenson</surname>
+                     <surname type="given">Stevenson</surname>
                      <forename>Elizabeth</forename>
                   </persName>
                   <birth when="1810-09-29">
@@ -157,7 +157,7 @@
                <person xml:id="Hannah_Holland_Lumb">
                   <persName ref="#Hannah_Holland_Lumb">
                      <surname type="married">Lumb</surname>
-                     <surname type="maiden">Holland</surname>
+                     <surname type="given">Holland</surname>
                      <forename>Hannah</forename>
                   </persName>
                   <birth when="1767-07-29">
@@ -174,7 +174,7 @@
                </person>
                <person xml:id="Mrs_Collins">
                   <persName ref="#Mrs_Collins">
-                     <surname>Collins</surname>
+                     <surname type="married">Collins</surname>
                   </persName>
 
                   <note type="bio" resp="#mjk">
@@ -183,7 +183,7 @@
                </person>
                <person xml:id="Richard_Deane">
                   <persName ref="#Richard_Deane">
-                     <surname>Deane</surname>
+                     <surname type="given">Deane</surname>
                      <roleName>Physician</roleName>
                      <forename>Richard</forename>
                   </persName>
@@ -200,7 +200,6 @@
                <person xml:id="MaryAnn_Deane">
                   <persName ref="#MaryAnn_Deane">
                      <surname type="married">Deane</surname>
-                     <surname/>
                      <forename>Mary Ann</forename>
                   </persName>
 
@@ -212,7 +211,7 @@
                </person>
                <person xml:id="Emily_Deane">
                   <persName ref="#Emily_Deane">
-                     <surname>Deane</surname>
+                     <surname type="given">Deane</surname>
                      <forename>Emily</forename>
                   </persName>
                   <birth when="1835"/>
@@ -224,7 +223,7 @@
                <person xml:id="Anne_Gaskell">
                   <persName ref="#Anne_Gaskell">
                      <surname type="married">Robson</surname>
-                     <surname type="maiden">Gaskell</surname>
+                     <surname type="given">Gaskell</surname>
                      <forename>Anne</forename>
                   </persName>
                   <birth when="1808">
@@ -237,7 +236,7 @@
                </person>
                <person xml:id="Meta_Gaskell">
                   <persName ref="#Meta_Gaskell">
-                     <surname>Gaskell</surname>
+                     <surname type="given">Gaskell</surname>
                      <forename>Margaret Emily</forename>
                   </persName>
                   <birth when="1837-02-05">
@@ -254,7 +253,7 @@
                <person xml:id="Bessy_Holland">
                   <persName ref="#Bessy_Holland">
                      <surname type="married">Howorth</surname>
-                     <surname type="maiden">Holland</surname>
+                     <surname type="given">Holland</surname>
                      <forename>Bessy</forename>
                   </persName>
                   <birth when="1796-02-22">
@@ -269,7 +268,7 @@
                </person>
                <person xml:id="Elizabeth_Barlow_household">
                   <persName ref="#Elizabeth_Barlow_household">
-                     <surname>Barlow</surname>
+                     <surname type="given">Barlow</surname>
                      <forename>Elizabeth</forename>
                   </persName>
 
@@ -282,7 +281,7 @@
                </person>
                <person xml:id="Elizabeth_Gaskell_Holland">
                   <persName ref="#Elizabeth_Gaskell_Holland">
-                     <surname type="birth">Gaskell</surname>
+                     <surname type="given">Gaskell</surname>
                      <surname type="married">Holland</surname>
                      <forename>Elizabeth</forename>
                      <addName>Lizzy</addName>
@@ -300,7 +299,7 @@
                </person>
                <person xml:id="Abigail_Holland">
                   <persName ref="#Abigail_Holland">
-                     <surname>Holland</surname>
+                     <surname type="given">Holland</surname>
                      <forename>Abigail</forename>
                      <addName>Aunt Ab</addName>
                   </persName>
@@ -317,7 +316,7 @@
                </person>
                <person xml:id="Sam_Gaskell">
                   <persName ref="#Sam_Gaskell">
-                     <surname>Gaskell</surname>
+                     <surname type="given">Gaskell</surname>
                      <roleName>Physician</roleName>
                      <forename>Samuel</forename>
                   </persName>
@@ -333,7 +332,7 @@
                </person>
                <person xml:id="James_Partington">
                   <persName ref="#James_Partington">
-                     <surname>Partington</surname>
+                     <surname type="given">Partington</surname>
                      <roleName>Physician</roleName>
                      <forename>James</forename>
                   </persName>
@@ -344,7 +343,7 @@
                </person>
                <person xml:id="Edward_Deane">
                   <persName ref="#Edward_Deane">
-                     <surname>Deane</surname>
+                     <surname type="given">Deane</surname>
                      <addName>Eddy Deane</addName>
                      <forename>Edward</forename>
                   </persName>
@@ -361,13 +360,16 @@
                </person>
                <person xml:id="God">
                   <persName ref="#God">God</persName>
-                  <note resp="#mjk"><p>Gaskell refers to God frequently in the journal, particularly in
+                  <note type="bio" resp="#mjk"><p>Gaskell refers to God frequently in the journal, particularly in
                      the later entries after she has judged that Marianne is old enough to begin to
                      be taught about religious beliefs.</p> </note>
                </person>
                <person xml:id="Caroline_Bowles_Southey">
-                  <persName ref="#Caroline_Bowles_Southey">Caroline Bowles</persName>
-                  <note resp="#mjk"><p>Bowles was a poet and author who wrote frequently for Blackwood's Edinburgh Magazine. Her poem "To A Dying Infant" is quoted by Gaskell in the second entry of the journal. Bowles married poet Robert Southey in 1839 (she was 52), after a nearly 20 year correspondence. He died three years later.</p> </note>
+                  <persName ref="#Caroline_Bowles_Southey">Caroline Bowles
+                  <forename>Caroline</forename>
+                  <surname type="given">Bowles</surname>
+                  <surname type="married">Southey</surname></persName>
+                  <note type="bio" resp="#mjk"><p>Bowles was a poet and author who wrote frequently for Blackwood's Edinburgh Magazine. Her poem "To A Dying Infant" is quoted by Gaskell in the second entry of the journal. Bowles married poet Robert Southey in 1839 (she was 52), after a nearly 20 year correspondence. He died three years later.</p> </note>
                </person>
             </listPerson>
          </div>
@@ -395,7 +397,7 @@
                <person xml:id="Julia_Gaskell">
                   <persName ref="#Julia_Gaskell">
                      <surname type="given">Gaskell</surname>
-                     <surname/>
+                    
                      <forename>Julia</forename>
                   </persName>
                   <birth>
@@ -413,8 +415,8 @@
                </person>
                <person xml:id="William_Gaskell_son">
                   <persName ref="#William_Gaskell_son">
-                     <surname>Gaskell</surname>
-                     <surname/>
+                     <surname type="given">Gaskell</surname>
+                    
                      <forename>William</forename>
                   </persName>
                   <birth>
@@ -435,18 +437,18 @@
                </person>
                <person xml:id="Holbrook_Gaskell">
                   <persName ref="#Holbrook_Gaskell"></persName>
-                  <note resp="#mjk"><p>A relative who had married William’s paternal aunt, Anne Gaskell. At this point in 1836, both Holbrook and his wife were still living. William Gaskell was left a legacy in their will in 1848/9.</p></note></person>
+                  <note type="bio" resp="#mjk"><p>A relative who had married William’s paternal aunt, Anne Gaskell. At this point in 1836, both Holbrook and his wife were still living. William Gaskell was left a legacy in their will in 1848/9.</p></note></person>
                <person xml:id="Peter_Holland">
                   <persName ref="#Peter_Holland"></persName>
-                  <note resp="#mjk"><p>Physician. The eldest son of Gaskell's maternal grandfather, Samuel Holland, of Sandlebridge in Knutsford. Peter Holland was a physician, who served in a practice with Dr. Richard Deane.</p> </note>
+                  <note type="bio" resp="#mjk"><p>Physician. The eldest son of Gaskell's maternal grandfather, Samuel Holland, of Sandlebridge in Knutsford. Peter Holland was a physician, who served in a practice with Dr. Richard Deane.</p> </note>
                </person>
                <person xml:id="William_Howitt">
                   <persName ref="#William_Howitt"></persName>
-                  <note resp="#mjk"><p>William Howitt was a prolific writer, who collaborated with his wife, Mary Howitt, on many projects. Together, they edited "Howitt's Journal, which published some of Gaskell's early work. </p></note>
+                  <note type="bio" resp="#mjk"><p>William Howitt was a prolific writer, who collaborated with his wife, Mary Howitt, on many projects. Together, they edited "Howitt's Journal, which published some of Gaskell's early work. </p></note>
                </person>
                <person xml:id="William_Stevenson">
                   <persName ref="#William_Stevenson">
-                     <surname>Stevenson</surname>
+                     <surname type="given">Stevenson</surname>
                      <forename>William</forename>
                   </persName>
                   <birth when="1770">
@@ -459,7 +461,7 @@
                </person>
                <person xml:id="Elizabeth_Holland_Stevenson">
                   <persName ref="#Elizabeth_Holland_Stevenson">
-                     <surname type="maiden">Holland</surname><surname/>
+                     <surname type="given">Holland</surname><surname/>
                      <surname type="married">Gaskell</surname>
                      <forename>Elizabeth</forename>
                   </persName>
@@ -486,7 +488,7 @@
                   </persName>
                   <birth when="1798-11-17">November 17 1798</birth>
                   <death when="1828"/>
-                  <note resp="mjk"><p>Gaskell’s older brother; a sailor, was lost at sea or in India
+                  <note type="bio" resp="mjk"><p>Gaskell’s older brother; a sailor, was lost at sea or in India
                         sometime in fall 1828.</p></note>
                </person>
                <person xml:id="Catherine_Thompson_Stevenson">
@@ -499,7 +501,7 @@
                      <placeName ref="#Savannah">Savannah, Georgia</placeName>
                   </birth>
                   <death/>
-                  <note><p>Gaskell’s stepmother. Gaskell saw little of her father after the
+                  <note type="bio" resp="#mjk"><p>Gaskell’s stepmother. Gaskell saw little of her father after the
                         marriage. Catherine’s brother married Katherine Byerly, who founded the
                         school Gaskell attended.</p></note>
                </person>
@@ -510,14 +512,14 @@
             <listPlace>
                <place xml:id="Knutsford">
                   <placeName ref="#Knutsford"> </placeName>
-                  <note resp="#mjk"><p>Knutsford was the home of the Hollands, Gaskell’s mother’s
+                  <note type="desc" resp="#mjk"><p>Knutsford was the home of the Hollands, Gaskell’s mother’s
                      family. After Elizabeth (Holland) Stevenson died when young Elizabeth was
                      thirteen months old, she went to Knutsford to live with her mother’s sister,
                      Hannah (Holland) Lumb and her daughter, Marianne Lumb.</p> </note>
                </place>
                <place xml:id="Warrington">
                   <placeName ref="#Warrington"/>
-                  <note resp="#mjk"><p>Warrington was the home of William Gaskell’s family, who were
+                  <note type="desc" resp="#mjk"><p>Warrington was the home of William Gaskell’s family, who were
                      Dissenters. His widowed mother lived there with her second husband, Edward
                      Dimock, who was also a Unitarian minister at Sankey Street Chapel in
                      Warrington.</p> </note>
@@ -533,11 +535,11 @@
                </place>
                <place xml:id="CloptonHall">
                   <placeName ref="#CloptonHall"/>
-                  <note resp="#mjk"><p>Clopton Hall was about a mile from Stratford-on-Avon, near where Gaskell attended a school run by the Byerly sisters. She offered a description of the Hall to William Howitt in a letter, having heard he was intending to publish a volume on "Remarkable Places". The letter was published almost verbatim in "Visits to Remarkable Places" in 1840. Apart from an earlier poem co-authored with her husband, this was the first time her work appeared in print. </p></note>
+                  <note type="desc" resp="#mjk"><p>Clopton Hall was about a mile from Stratford-on-Avon, near where Gaskell attended a school run by the Byerly sisters. She offered a description of the Hall to William Howitt in a letter, having heard he was intending to publish a volume on "Remarkable Places". The letter was published almost verbatim in "Visits to Remarkable Places" in 1840. Apart from an earlier poem co-authored with her husband, this was the first time her work appeared in print. </p></note>
                </place>
                <place xml:id="Crosby">
                   <placeName ref="#Crosby"/>
-                  <note><p>Note incomplete</p></note>
+                  <note type="desc" resp="#mjk"><p>Note incomplete</p></note>
                </place>
                <place xml:id="Edinburgh">
                   <placeName ref="#Edinburgh"/>
@@ -550,7 +552,7 @@
                </place>
                <place xml:id="Grange">
                   <placeName ref="#Grange"/>
-                  <note resp="#mjk"><p> Grange-over-Sands on Morecambe Bay. A seaside visit was
+                  <note type="desc" resp="#mjk"><p> Grange-over-Sands on Morecambe Bay. A seaside visit was
                      recommended for Marianne by her Uncle, Dr. Sam Gaskell. The town, which
                      developed from a fishing village, was originally known as only Grange, until a
                      local vicar added the suffix in the late nineteenth or early 20th century.
@@ -559,7 +561,7 @@
                      for a sanitorium later in the century.</p></note>
                </place>
                <place xml:id="InfantSchool"><placeName ref="#InfantSchool">Infant School</placeName>
-               <note resp="#mjk"><p>The school has not been identified. Marianne began going to school at 3 1/2 years old. Gaskell writes extensively about the school decision in the eighth journal entry, weighing the arguments on both sides. </p></note></place>
+               <note type="desc" resp="#mjk"><p>The school has not been identified. Marianne began going to school at 3 1/2 years old. Gaskell writes extensively about the school decision in the eighth journal entry, weighing the arguments on both sides. </p></note></place>
                <place xml:id="Latchford">
                   <placeName ref="#Latchford"/>
                </place>
@@ -568,7 +570,7 @@
                </place>
                <place xml:id="Manchester">
                   <placeName ref="#Manchester"/>
-                  <note resp="#mjk"><p>After her marriage, Gaskell lived in Manchester with her husband
+                  <note type="desc" resp="#mjk"><p>After her marriage, Gaskell lived in Manchester with her husband
                      William, who was a Unitarian minister there. Although they moved three times,
                      their home remained in Manchester. Manchester was at the heart of the
                      Industrial Revolution, and many of Gaskell's novels feature factory workers or
@@ -579,37 +581,37 @@
                </place>
                <place xml:id="Porthmadog">
                   <placeName ref="#Porthmadog"/>
-                  <note resp="#mjk"><p>In 1845, the Gaskells went on holiday with Marianne, their
+                  <note type="desc" resp="#mjk"><p>In 1845, the Gaskells went on holiday with Marianne, their
                      oldest daughter, and William, the baby, who was nine months old at the time.
                      Marianne caught scarlet fever and later recovered, but when Willie caught the
                      illness, he died at Porthmadog.</p></note>
                </place>
                <place xml:id="ProspectHill">
                   <placeName ref="#ProspectHill"/>
-                  <note resp="#mjk"><p>The home of Holbrook Gaskell, who married his cousin, William’s
+                  <note type="desc" resp="#mjk"><p>The home of Holbrook Gaskell, who married his cousin, William’s
                      paternal aunt, Anne Gaskell. At this point in 1836, both Holbrook and his wife
                      were still living. William Gaskell was left a legacy in their will in 1848/9,
                      and the property itself was inherited by a second Holbrook Gaskell, another nephew.</p> </note>
                </place>
                <place xml:id="SankeyStreetChapel">
                   <placeName ref="#SankeyStreetChapel"/>
-                  <note resp="#mjk"><p>Sankey Street Chapel, in Warrington, was where Rev. Dimock, William Gaskell's stepfather, served as a minister.</p> </note>
+                  <note type="desc" resp="#mjk"><p>Sankey Street Chapel, in Warrington, was where Rev. Dimock, William Gaskell's stepfather, served as a minister.</p> </note>
                </place>
                <place xml:id="Wales">
                   <placeName ref="#Wales"/>
                </place>
                <place xml:id="CrossStreetChapel">
                   <placeName ref="#CrossStreetChapel"/>
-                  <note resp="#mjk"><p>Cross Street Chapel was William Gaskell's first appointment as a
+                  <note type="desc" resp="#mjk"><p>Cross Street Chapel was William Gaskell's first appointment as a
                      Unitarian minister. He served here under J.G. Robberds. </p></note>
                </place>
                <place xml:id="Heathside">
                   <placeName ref="#Heathside"/>
-                  <note resp="#mjk"><p>The home of Hannah Lumb in Knutsford.</p></note>
+                  <note type="desc" resp="#mjk"><p>The home of Hannah Lumb in Knutsford.</p></note>
                </place>
                <place xml:id="Sandlebridge">
                   <placeName ref="#Sandlebridge"></placeName>
-                  <note resp="#mjk"><p>The home of the Holland family, Gaskell's mother's parents. After their deaths, it became the home of her Uncle, Peter Holland, and his family.</p></note>
+                  <note type="desc" resp="#mjk"><p>The home of the Holland family, Gaskell's mother's parents. After their deaths, it became the home of her Uncle, Peter Holland, and his family.</p></note>
                </place>
                <place xml:id="ChurchHouse">
                   <placeName ref="#ChurchHouse">
