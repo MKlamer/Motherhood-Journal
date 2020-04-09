@@ -45,7 +45,8 @@
         <xsl:apply-templates/>
     </xsl:template>
     <xsl:template match="person">
-        <div class="persRef" id="{@xml:id}"> <xsl:apply-templates/></div>
+        <div class="persRef" id="{@xml:id}"> <xsl:apply-templates select="persName"/>
+        <xsl:apply-templates/></div>
     </xsl:template>
     <xsl:template match="persName">
          
@@ -55,11 +56,18 @@
                 <xsl:if test="surname[@type='married']"/>
                 <span class="marriedName"><xsl:apply-templates select="surname[@type='married']"/></span>
             </h4>
-            <h4>Born <xsl:apply-templates select="following-sibling::birth/date"/></h4>
-            <h4>Died <xsl:apply-templates select="following-sibling::death/date"/></h4>
+    </xsl:template>
+    <xsl:template match="birth">
+            <h4>Born <xsl:apply-templates select="date"/></h4>
+    </xsl:template>
+    <xsl:template match="death">
+            <h4>Died <xsl:apply-templates select="date"/></h4>
+    </xsl:template>
+    <xsl:template match="note/p">
             <h4>Bio: </h4>
             <p>
-                <xsl:apply-templates select="following-sibling::note/descendant::node()"/>
+                <xsl:apply-templates/>
             </p>
-           </xsl:template>
+    </xsl:template>
+     
 </xsl:stylesheet>
