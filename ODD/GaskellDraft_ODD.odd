@@ -36,19 +36,16 @@
         <moduleRef key="textcrit"/>
         <moduleRef key="linking"/>
         <moduleRef key="namesdates"/>
-          <!-- 2020-02-17 ebb: Commenting this out until we are ready to populate it. Make sure the mode attribute isn't wrong. 
-            I think this should be mode="add". 
-            <elementSpec ident="person" module="namesdates" mode="change">
-          <attList>
-            <attDef ident="xml:id">
-              <valList type="closed">
-              <valItem ident="idWhatever"/>              
-            </valList>
-            </attDef>
-            
-          </attList>         
-          
-        </elementSpec>-->
+       
+       <elementSpec ident="milestone" module="core" mode="change">
+         <attList>
+           <attDef ident="resp" mode="replace" usage="req">
+             <valList>
+               <defaultVal ident="#mjk"/>
+             </valList>
+           </attDef>
+         </attList>
+       </elementSpec>
         <elementSpec ident="list" module="header" mode="add">
           
         </elementSpec>        

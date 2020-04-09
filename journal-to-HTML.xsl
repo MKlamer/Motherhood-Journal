@@ -72,7 +72,7 @@
         </header>
         <div class="headnote-text">
             <xsl:apply-templates select="p"/>
-        </div>
+        </div><span class="returnLink">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<a href="gde-editionpage.html"><i>Back to Top</i></a></span>
     </xsl:template>
     <xsl:template match="div[@type = 'journal']/div[@type = 'entry']">
         <section class="journal_sep">
@@ -160,12 +160,12 @@
             <xsl:apply-templates/>
         </q>
     </xsl:template>
-    <xsl:template match="hi[@type = 'underline']">
+    <xsl:template match="hi[@rend = 'underline']">
         <u><span class="underline">
             <xsl:apply-templates/>
         </span></u>
     </xsl:template>
-    <xsl:template match="hi[@type = 'supercript']">
+    <xsl:template match="hi[@rend = 'supercript']">
         <span class="above">
             <xsl:apply-templates/>
         </span>
