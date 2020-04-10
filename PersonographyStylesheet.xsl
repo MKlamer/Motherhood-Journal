@@ -45,29 +45,20 @@
         <xsl:apply-templates/>
     </xsl:template>
     <xsl:template match="person">
-        <div class="persRef" id="{@xml:id}"> <xsl:apply-templates select="persName"/>
-        <xsl:apply-templates/></div>
-    </xsl:template>
-    <xsl:template match="persName">
-         
-        <h4>
-               <span class="forename"><xsl:apply-templates select="forename"/></span>
-                <span class="givenName"><xsl:apply-templates select="surname[@type='given']"/></span>
-                <xsl:if test="surname[@type='married']"/>
-                <span class="marriedName"><xsl:apply-templates select="surname[@type='married']"/></span>
-            </h4>
-    </xsl:template>
-    <xsl:template match="birth">
-            <h4>Born <xsl:apply-templates select="date"/></h4>
-    </xsl:template>
-    <xsl:template match="death">
-            <h4>Died <xsl:apply-templates select="date"/></h4>
-    </xsl:template>
-    <xsl:template match="note/p">
-            <h4>Bio: </h4>
-            <p>
-                <xsl:apply-templates/>
-            </p>
+        <div class="persRef" id="{@xml:id}"> 
+            <h4>
+            <span class="forename"><xsl:apply-templates select="persName/forename"/></span>&#160;
+            <span class="givenName"><xsl:apply-templates select="persName/surname[@type='given']"/></span>&#160;
+                <xsl:if test="persName/surname[@type='married']"/>
+                <span class="marriedName"><xsl:apply-templates select="persName/surname[@type='married']"/></span></h4>
+              <h5> 
+                  <xsl:if test="birth">
+                  <span class="peopleBirth"> Born <xsl:apply-templates select="birth/date"/>;&#160;</span></xsl:if> 
+                  <xsl:if test="death">         
+                  <span class="peopleDeath"> Died <xsl:apply-templates select="death/date"/> </span></xsl:if> </h5>  
+               <p>
+               <span class="peopleBio"> Bio:</span><br/> <xsl:apply-templates select="note/p"/>
+            </p></div>
     </xsl:template>
      
 </xsl:stylesheet>

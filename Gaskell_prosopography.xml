@@ -30,7 +30,7 @@
                      <date when="1834-09-12">September 12 1834</date><placeName ref="#Manchester"
                         >Manchester, UK</placeName>/> </birth>
                   <death>
-                     <date when="1920"/>
+                     <date when="1920">1920</date>
                      <placeName ref="#Manchester"/>
                   </death>
                   <note type="bio" resp="#mjk">
@@ -46,10 +46,10 @@
                      <surname type="given">Gaskell</surname>
                      <forename>William</forename>
                   </persName>
-                  <birth><date when="1805-07-24">July 24, 1805</date>
+                  <birth> <date when="1805-07-24">July 24, 1805</date>
                      <placeName ref="#Latchford">Latchford, Warrington, UK</placeName>
                   </birth>
-                  <death when="1884-06-11">
+                  <death> <date when="1884-06-11">June 11, 1884</date>
                      <placeName ref="#Manchester">Manchester, UK</placeName>
                   </death>
                   <note type="bio" resp="#mjk">
@@ -64,10 +64,10 @@
                      <surname type="given">Necker</surname>
                      <forename>Albertine</forename>
                   </persName>
-                  <birth when="1766">
+                  <birth> <date when="1766">1766</date>
                      <placeName ref="#Geneva"/>
                   </birth>
-                  <death when="1841">
+                  <death> <date when="1841">1841</date>
                      <placeName ref="#Geneva"/>
                   </death>
                   <note type="bio" resp="#mjk">
@@ -82,10 +82,10 @@
                      <forename>Andrew</forename>
                      <roleName>Physician</roleName>
                   </persName>
-                  <birth when="1797-10-27">
+                  <birth> <date when="1797-10-27">October 27, 1797</date>
                      <placeName ref="#Edinburgh"/>
                   </birth>
-                  <death when="1847-08-09">
+                  <death> <date when="1847-08-09">August 9, 1847</date>
                      <placeName ref="#Edinburgh"/>
                   </death>
                   <note type="bio" resp="#mjk"><p>Author, scientist. Combe was a
@@ -98,7 +98,7 @@
                </person>
                <person xml:id="Betsy_household">
                   <persName ref="#Betsy_household">
-                     <surname type="given">Unknown</surname>
+                     <surname type="given">(Unknown)</surname>
                      <forename>Betsy</forename>
                   </persName>
                   <note type="bio" resp="#mjk">
@@ -110,12 +110,12 @@
                </person>
                <person xml:id="Margaret_Gaskell_Dimock">
                   <persName ref="#Margaret_Gaskell_Dimock">
-                     <surname type="married">Dimock</surname>
-                     <surname type="married">Gaskell</surname>
-                     <surname type="given">Jackson</surname>
+                      <surname type="married">Gaskell</surname>
+                     <surname type="married"> Dimock</surname>
+                    <surname type="given">Jackson</surname>
                      <forename>Margaret</forename>
                   </persName>
-                  <death when="1850-01-12">January 12, 1850, aged 69 years. <!-- Chapple, Early Years p. 403 -->
+                  <death><date when="1850-01-12">January 12, 1850</date><!-- Chapple, Early Years p. 403 -->
                      <placeName ref="#Warrington"/>
                   </death>
                   <note type="bio" resp="#mjk"><p>Margaret Gaskell, later Dimock, was William
@@ -142,10 +142,10 @@
                      <surname type="given">Stevenson</surname>
                      <forename>Elizabeth</forename>
                   </persName>
-                  <birth when="1810-09-29">
+                  <birth> <date when="1810-09-29">September 29, 1810</date>
                      <placeName ref="#Chelsea">"Bell Vue, Chelsea"</placeName>
                   </birth>
-                  <death when="1865-11-12">
+                  <death> <date when="1865-11-12">November 12, 1865</date>
                      <placeName ref="#Alton"/>
                   </death>
                   <note type="bio" resp="#mjk">
@@ -160,10 +160,10 @@
                      <surname type="given">Holland</surname>
                      <forename>Hannah</forename>
                   </persName>
-                  <birth when="1767-07-29">
+                  <birth> <date when="1767-07-29">July 19, 1767</date>
                      <placeName ref="#Knutsford"/>
                   </birth>
-                  <death when="1837-05-01">
+                  <death> <date when="1837-05-01">May 1, 1837</date>
                      <placeName ref="#Knutsford"/>
                   </death>
                   <note type="bio" resp="#mjk">
@@ -175,6 +175,7 @@
                <person xml:id="Mrs_Collins">
                   <persName ref="#Mrs_Collins">
                      <surname type="married">Collins</surname>
+                     <forename>Mrs.</forename>
                   </persName>
 
                   <note type="bio" resp="#mjk">
@@ -188,7 +189,7 @@
                      <forename>Richard</forename>
                   </persName>
 
-                  <death when="1851-01-20"/>
+                  <death><date when="1851-01-20">January 20, 1851</date></death>
 
                   <note type="bio" resp="#mjk">
                      <p>Dr. Richard Thomas Deane, business partner of EG’s oldest uncle, Dr. Peter
@@ -203,7 +204,7 @@
                      <forename>Mary Ann</forename>
                   </persName>
 
-                  <death when="1842-03-30"> </death>
+                  <death> <date when="1842-03-30"> March 30, 1842</date></death>
                   <note type="bio" resp="#mjk">
                      <p>Mary Ann Deane, first wife of Dr. Richard Deane. Edward and Emily were two
                         of their children.</p>
@@ -214,7 +215,7 @@
                      <surname type="given">Deane</surname>
                      <forename>Emily</forename>
                   </persName>
-                  <birth when="1835"/>
+                  <birth> <date when="1835">1835</date></birth>
                   <!--Still living 1861, death unknown -->
                   <note type="bio" resp="#mjk">
                      <p>Daughter of Dr. and Mrs. Deane of Knutsford</p>
@@ -226,7 +227,7 @@
                      <surname type="given">Gaskell</surname>
                      <forename>Anne</forename>
                   </persName>
-                  <birth when="1808">
+                  <birth> <date when="1808">1808</date>
                      <placeName ref="#Warrington"/>
                   </birth>
 
@@ -239,10 +240,10 @@
                      <surname type="given">Gaskell</surname>
                      <forename>Margaret Emily</forename>
                   </persName>
-                  <birth when="1837-02-05">
+                  <birth> <date when="1837-02-05">February 5, 1837</date>
                      <placeName ref="#Manchester"/>
                   </birth>
-                  <death when="1913-10-26">
+                  <death><date when="1913-10-26">October 26, 1913</date>
                      <placeName ref="#Manchester"/>
                   </death>
                   <note type="bio" resp="#mjk">
@@ -256,10 +257,10 @@
                      <surname type="given">Holland</surname>
                      <forename>Bessy</forename>
                   </persName>
-                  <birth when="1796-02-22">
+                  <birth> <date when="1796-02-22">February 22, 1796</date>
                      <placeName ref="#Knutsford"/>
                   </birth>
-                  <death when="1886-07-16"> </death>
+                  <death> <date when="1886-07-16"> July 16, 1886 </date></death>
                   <note type="bio" resp="#mjk">
                      <p>A cousin of Gaskell’s, Bessy was the daughter of Dr. Peter Holland, the
                         oldest son of Gaskell’s grandfather, Samuel Holland, of Sandlebridge in
@@ -287,7 +288,7 @@
                      <addName>Lizzy</addName>
                      <addName>Aunt Lizzy</addName>
                   </persName>
-                  <birth when="1812">
+                  <birth> <date when="1812">1812</date>
                      <placeName ref="#Warrington"/>
                   </birth>
                   <note type="bio" resp="#mjk">
@@ -303,10 +304,10 @@
                      <forename>Abigail</forename>
                      <addName>Aunt Ab</addName>
                   </persName>
-                  <birth when="1773-09-12">
+                  <birth> <date when="1773-09-12"> September 12, 1773</date>
                      <placeName ref="#Knutsford"/>
                   </birth>
-                  <death when="1848-07-26"><placeName ref="#Knutsford"/></death>
+                  <death> <date when="1848-07-26">July 26, 1773</date><placeName ref="#Knutsford"/></death>
                   <note type="bio" resp="#mjk">
                      <p>An unmarried sister of Elizabeth Stevenson and Hannah Lumb, Abigail, “Aunt
                         Ab”, lived with two of her brothers’ families (Swinton and Samuel) and
@@ -320,7 +321,7 @@
                      <roleName>Physician</roleName>
                      <forename>Samuel</forename>
                   </persName>
-                  <birth when="1807">
+                  <birth> <date when="1807">1807</date>
                      <placeName ref="#Warrington"/>
                   </birth>
                   <note type="bio" resp="#mjk">
@@ -347,10 +348,10 @@
                      <addName>Eddy Deane</addName>
                      <forename>Edward</forename>
                   </persName>
-                  <birth when="1833">
+                  <birth> <date when="1833">1833</date>
                      <placeName ref="#Knutsford"/>
                   </birth>
-                  <death when="1838">
+                  <death> <date when="1838">1838 </date>
                      <placeName ref="#Knutsford"/>
                   </death>
                   <note type="bio" resp="#mjk">
@@ -369,6 +370,8 @@
                   <forename>Caroline</forename>
                   <surname type="given">Bowles</surname>
                   <surname type="married">Southey</surname></persName>
+                  <birth><date when="1786-10-07">October 7, 1786</date></birth>
+                  <death><date when="1854-07-20">July 20, 1854</date></death>
                   <note type="bio" resp="#mjk"><p>Bowles was a poet and author who wrote frequently for Blackwood's Edinburgh Magazine. Her poem "To A Dying Infant" is quoted by Gaskell in the second entry of the journal. Bowles married poet Robert Southey in 1839 (she was 52), after a nearly 20 year correspondence. He died three years later.</p> </note>
                </person>
             </listPerson>
@@ -436,14 +439,23 @@
                   </note>
                </person>
                <person xml:id="Holbrook_Gaskell">
-                  <persName ref="#Holbrook_Gaskell"></persName>
+                  <persName ref="#Holbrook_Gaskell">
+                     <forename>Holbrook</forename>
+                     <surname type="given">Gaskell</surname>
+                  </persName>
                   <note type="bio" resp="#mjk"><p>A relative who had married William’s paternal aunt, Anne Gaskell. At this point in 1836, both Holbrook and his wife were still living. William Gaskell was left a legacy in their will in 1848/9.</p></note></person>
                <person xml:id="Peter_Holland">
-                  <persName ref="#Peter_Holland"></persName>
+                  <persName ref="#Peter_Holland">
+                     <forename>Peter</forename>
+                     <surname type="given">Holland</surname>
+                  </persName>
                   <note type="bio" resp="#mjk"><p>Physician. The eldest son of Gaskell's maternal grandfather, Samuel Holland, of Sandlebridge in Knutsford. Peter Holland was a physician, who served in a practice with Dr. Richard Deane.</p> </note>
                </person>
                <person xml:id="William_Howitt">
-                  <persName ref="#William_Howitt"></persName>
+                  <persName ref="#William_Howitt">
+                     <surname type="given">Howit</surname>
+                     <forename>William</forename>
+                  </persName>
                   <note type="bio" resp="#mjk"><p>William Howitt was a prolific writer, who collaborated with his wife, Mary Howitt, on many projects. Together, they edited "Howitt's Journal, which published some of Gaskell's early work. </p></note>
                </person>
                <person xml:id="William_Stevenson">
@@ -451,10 +463,10 @@
                      <surname type="given">Stevenson</surname>
                      <forename>William</forename>
                   </persName>
-                  <birth when="1770">
+                  <birth><date when="1770">1770</date>
                      <placeName ref="#Berwick"/>
                   </birth>
-                  <death when="1828"> </death>
+                  <death><date when="1828">1828</date> </death>
                   <note type="bio" resp="#mjk">
                      <p>Gaskell's Father</p>
                   </note>
@@ -465,7 +477,7 @@
                      <surname type="married">Gaskell</surname>
                      <forename>Elizabeth</forename>
                   </persName>
-                  <birth when="1771-04-19">
+                  <birth><date when="1771-04-19">April 19, 1771</date>
                      <placeName ref="#Knutsford"/>
                   </birth>
                   <death>
@@ -486,10 +498,10 @@
                      <surname type="given">Stevenson</surname>
                      <forename>John</forename>
                   </persName>
-                  <birth when="1798-11-17">November 17 1798</birth>
-                  <death when="1828"/>
+                  <birth><date when="1798-11-17">November 17 1798</date></birth>
+                  <death><date when="1828">or was lost at sea in 1828</date></death>
                   <note type="bio" resp="mjk"><p>Gaskell’s older brother; a sailor, was lost at sea or in India
-                        sometime in fall 1828.</p></note>
+                        sometime in fall 1828. During her childhood and years at school, her brother John was a frequent correspondent, who encouraged her to keep a journal.</p></note>
                </person>
                <person xml:id="Catherine_Thompson_Stevenson">
                   <persName ref="#Catherine_Thompson_Stevenson">
@@ -497,10 +509,10 @@
                      <surname type="married">Stevenson</surname>
                      <forename>Catherine</forename>
                   </persName>
-                  <birth when="1775">
+                  <birth><date when="1775">1775</date>
                      <placeName ref="#Savannah">Savannah, Georgia</placeName>
                   </birth>
-                  <death/>
+                  
                   <note type="bio" resp="#mjk"><p>Gaskell’s stepmother. Gaskell saw little of her father after the
                         marriage. Catherine’s brother married Katherine Byerly, who founded the
                         school Gaskell attended.</p></note>

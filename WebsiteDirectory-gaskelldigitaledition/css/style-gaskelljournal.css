@@ -63,11 +63,17 @@ h3 {font-size: 150%;
   
 div.headnote-text {font-style: italic;}
   
-h4, h5 {
+h4 {
   color: #000000;
   text-align: center;
   margin-right: auto;
   margin-left: auto;}
+  
+h5 {margin-left: 40vw;
+  color: #000000;
+  display: inline;
+  text-align: center;
+}
   
 img.page {float: right; max-width: 35vw; width: 35%; height: auto;}
 
@@ -135,6 +141,7 @@ overflow-y:scroll;
 z-index: 3;
 display:none;}
 
+span.people {font-weight: bold ;}
 span.reg {display:none; line-height:normal; text-decoration:none; font-weight:normal;}
 span.reg.on {display:inline; line-height:normal; text-decoration:none; font-weight:normal;}
 span.sic {display:inline; line-height:normal; text-decoration:none; font-weight:normal;}
