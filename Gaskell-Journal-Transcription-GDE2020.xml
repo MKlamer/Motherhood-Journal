@@ -413,25 +413,25 @@
                         <time>Evening</time>. 1835.</date>
                </head>
 
-               <p><lb/><milestone resp="#mjk" unit="section" type="physDesc" subtype="begin"/>The
+               <p><lb/><milestone resp="#mjk" unit="section" type="physDesc" part="initial"/>The
                   day after tomorrow <persName ref="#MA_Gaskell_Holland">Marianne</persName> will be
                   <lb/>six months old. <milestone resp="#mjk" unit="section" type="physDesc"
-                     subtype="end"/><milestone resp="#mjk" unit="section" type="motherhood"
-                     subtype="begin"/>I wish I had begun my <lb/>little journal sooner, for (though
+                     part="initial"/><milestone resp="#mjk" unit="section" type="motherhood"
+                     part="final"/>I wish I had begun my <lb/>little journal sooner, for (though
                   I should <lb/>have laughed at the idea twelve months <lb/>ago) there have been
                   many little indica=<lb/>=tions of disposition &amp;c. already; which I <lb/>can
                   not now remember clearly.<milestone resp="#mjk" unit="section" type="motherhood"
-                     subtype="end"/>
-                  <milestone resp="#mjk" unit="section" type="mentDesc" subtype="begin"/>I will
+                     part="final"/>
+                  <milestone resp="#mjk" unit="section" type="mentDesc" part="initial"/>I will
                   <lb/>try and describe her <hi rend="underline">mentally</hi>. I should <lb/>call
                   her remarkably good-tempered; though <lb/>at times she gives way to little bursts
                   <lb/>of passion or perhaps impatience would <lb/>be the right name. She is also
                   very firm <lb/>in her own little way occasionally; what <lb/>I suppose is
                   obstinacy really, only that <lb/> is so hard a word to apply to one so <lb/>dear.
                   But in general she is so good<milestone resp="#mjk" unit="section" type="mentDesc"
-                     subtype="end"/>
+                     part="final"/>
                   <lb/>
-                  <milestone resp="#mjk" unit="section" type="motherhood" subtype="begin"/>that I
+                  <milestone resp="#mjk" unit="section" type="motherhood" part="initial"/>that I
                   feel as if I could hardly be <lb/>sufficiently thankful, that the materials
                   <lb/>put into my hands are so excellent, and <pb n="3" xml:id="page-3"
                      facs="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi84Lmhhc2xpZ2h0Ym94VGh1bWJuYWlsVmVyc2lvbi9CQ19NU18xOWNfR2Fza2VsbC0zXzAwOC50aWY%3D.jpg"
@@ -440,24 +440,24 @@
                      <sic>ſ</sic>
                      <reg>s</reg>
                   </choice>sness or negligence!<milestone resp="#mjk" unit="section"
-                     type="motherhood" subtype="end"/>
-                  <milestone resp="#mjk" unit="section" type="matTheory" subtype="begin"/><hi rend="underline"><choice>
+                     type="motherhood" part="final"/>
+                  <milestone resp="#mjk" unit="section" type="matTheory" part="initial"/><hi rend="underline"><choice>
                      <sic>Wilfully</sic>
                      <reg>Willfully</reg>
                   </choice></hi>
                   <lb/>is not in a mother's heart. <milestone resp="#mjk" unit="section"
-                     type="matTheory" subtype="end"/>
-                  <milestone resp="#mjk" unit="section" type="motherhood" subtype="begin"/>From
+                     type="matTheory" part="final"/>
+                  <milestone resp="#mjk" unit="section" type="motherhood" part="final"/>From
                   ignorance <lb/>and errors in judgment I know I may, <lb/>and probably shall, very
-                     often.<milestone resp="#mjk" unit="section" type="motherhood" subtype="end"/>
+                     often.<milestone resp="#mjk" unit="section" type="motherhood" part="final"/>
                   <seg type="prayer">But oh <persName ref="#God">Lord</persName>
                      <lb/>I pray thee to lead me right (if it be thy <lb/>will) and to preserve in
                      me the same <lb/>strong feeling of my responsibility which I <lb/>now
                      feel.</seg>
-                  <milestone resp="#mjk" unit="section" type="address" subtype="begin"/>And you too
+                  <milestone resp="#mjk" unit="section" type="address" part="final"/>And you too
                   my dearest little <lb/>girl, if when you read this, you trace <lb/>back any evil,
                   or unhappy feeling to <lb/>my mismanagement in your childhood <lb/>forgive me,
-                  love! <milestone resp="#mjk" unit="section" type="address" subtype="end"/></p>
+                  love! <milestone resp="#mjk" unit="section" type="address" part="final"/></p>
                <p><lb/><persName ref="#MA_Gaskell_Holland">Marianne</persName> is now becoming every
                   day <lb/>more and more interesting. She looks at <lb/>and tries to take hold of
                   every thing. She <lb/>has pretty good ideas of distance and does <lb/>not try to
@@ -714,7 +714,7 @@
                   and I feel as if I had been negligent<lb/> about it, only it is so difficult to know<lb/>
                   <!-- double check these first two "wheres" - could be "when" instead-->where to
                   begin or where to stop when talking<lb/> thinking or writing about her.</p>
-               <p><lb/>In a few days she will be eleven months<lb/> old; and in some things I
+               <p><lb/>In a few days she will be eleven months<lb/> old; and in some things I 
                   suppose she is<lb/> rather backward; in walking and talking<lb/> for instance. <hi
                      rend="underline">I</hi> fancy she says <persName
                      ref="#Elizabeth_Stevenson_Gaskell">Mama</persName>,<lb/> but I think it is only

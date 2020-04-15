@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="ODD/out/GaskellDraft_ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="ODD/out/GaskellDraft_ODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gaskell Journal Project Alphabet File</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Collected in TEI by Melissa Klamer.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>All images of Gaskell's handwriting are drawn from the journal manuscript.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <msPart type="a">
+                <handDesc><p>Gaskell's <q>a</q> and <q>A</q> characters are fairly easy to read and decipher, and varies little throughout the manuscript. The outstroke on a final <q>a</q> usually raises only slightly above the baseline.</p> </handDesc>
+           <additional>
+               <graphic id="a-cap" type="capital" url=""></graphic>
+               <graphic id="a-init" type="low-initial" url=""></graphic>
+               <graphic id="a-med" type="low-medial" url=""></graphic>
+               <graphic id="a-fin" type="low-final" url=""></graphic>
+           </additional>
+            </msPart>
+            <physDesc type="letter" subtype="b">
+                <handDesc>
+                    <p></p>
+                </handDesc>
+                <>
+                    <binaryObject id="b-cap" type="capital" url=""></binaryObject>
+                    <graphic id="b-init" type="low-initial" url=""></graphic>
+                    <graphic id="b-med" type="low-medial" url=""></graphic>
+                    <graphic id="b-fin" type="low-final" url=""></graphic>
+                </>
+            </physDesc>
+            <div type="letter" subtype="c">
+                <desc></desc>
+                <figure>
+                    <graphic id="c-cap" type="capital" url=""></graphic>
+                    <graphic id="c-init" type="low-initial" url=""></graphic>
+                    <graphic id="c-med" type="low-medial" url=""></graphic>
+                    <graphic id="c-fin" type="low-final" url=""></graphic>
+                </figure>
+            </div>
+            <div type="letter" subtype="a">
+                <desc></desc>
+                <figure>
+                    <graphic id="b-cap" type="capital" url=""></graphic>
+                    <graphic id="b-init" type="low-initial" url=""></graphic>
+                    <graphic id="b-med" type="low-medial" url=""></graphic>
+                    <graphic id="b-fin" type="low-final" url=""></graphic>
+                </figure>
+            </div>
+            <div></div>
+        </body>
+    </text>
+</TEI>

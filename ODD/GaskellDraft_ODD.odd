@@ -9,46 +9,65 @@
         <author>Melissa J. Klamer</author>
       </titleStmt>
       <publicationStmt>
-        <p>Prepared in TEI by Melissa Klamer for the Digital Edition of Elizabeth Gaskell's Manuscript Journal. GitHub repository: https://github.com/MKlamer/Motherhood 
-        </p></publicationStmt>
+        <p>Prepared in TEI by Melissa Klamer for the Digital Edition of Elizabeth Gaskell's
+          Manuscript Journal. GitHub repository: https://github.com/MKlamer/Motherhood </p>
+      </publicationStmt>
       <sourceDesc>
         <p>[Information about the creation of the ODD]</p>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change who="#mjk" when="2019-12-18">Added RevisionDesc.</change>
+      <change when="2019-12-18">Added RevisionDesc.</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
-      <head>ODD for the Elizabeth Gaskell Diary Transcription XML file; encoding and schema developed by Melissa J. Klamer</head>
+      <head>ODD for the Elizabeth Gaskell Diary Transcription XML file; encoding and schema
+        developed by Melissa J. Klamer</head>
       <schemaSpec ident="oddex1" start="TEI">
-         <moduleRef key="tei"/>
-        <moduleRef key="core" include="listBibl bibl title author editor publisher pubPlace milestone biblScope name date desc head lg l lb note p q ref resp respStmt textLang quote pb choice unclear add gap time hi sic reg del email address"/>
-        <moduleRef key="header"/>  
+        <moduleRef key="tei"/>
+        <moduleRef key="core"
+          include="listBibl bibl title author editor publisher pubPlace milestone biblScope name date desc head lg l lb note p q ref resp respStmt textLang quote pb choice unclear add gap time hi sic reg del email address"/>
+        <moduleRef key="header"/>
         <moduleRef key="textstructure" include="TEI body div front text dateline"/>
         <moduleRef key="transcr"/>
         <moduleRef key="analysis"/>
         <moduleRef key="msdescription"/>
+        <moduleRef key="tagdocs"/>
         <moduleRef key="certainty"/>
         <moduleRef key="gaiji"/>
         <moduleRef key="verse"/>
         <moduleRef key="textcrit"/>
         <moduleRef key="linking"/>
         <moduleRef key="namesdates"/>
-       
-       <elementSpec ident="milestone" module="core" mode="change">
-         <attList>
-           <attDef ident="resp" mode="replace" usage="req">
-             <valList>
-               <defaultVal ident="#mjk"/>
-             </valList>
-           </attDef>
-         </attList>
-       </elementSpec>
-        <elementSpec ident="list" module="header" mode="add">
-          
-        </elementSpec>        
+
+        <elementSpec ident="milestone" module="core" mode="change">
+          <attList>
+            <attDef ident="resp" mode="replace" usage="req">
+              <valList type="closed">
+                <valItem ident="#mjk"/>
+                </valList>
+            </attDef>
+           <attDef ident="type" usage="req">
+              <valList type="closed">
+                <valItem ident="address"/>
+                <valItem ident="matTheory"/>
+                <valItem ident="mentDesc"/>
+                <valItem ident="motherhood"/>
+                <valItem ident="physDesc"/>
+                <valItem ident="socHist"/>
+              </valList>
+            </attDef>
+            <attDef ident="part">
+              <valList type="closed">
+                <valItem ident="initial"/>
+                <valItem ident="medial"/>
+                <valItem ident="final"/>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        <elementSpec ident="list" module="header" mode="add"> </elementSpec>
         <elementSpec ident="persName" module="core" mode="change">
           <attList>
             <attDef ident="ref" mode="replace" usage="req">
@@ -95,12 +114,12 @@
                 <valItem ident="#William_Howitt"/>
               </valList>
             </attDef>
-            
+
           </attList>
-          
-          
-        </elementSpec> 
-        
+
+
+        </elementSpec>
+
         <elementSpec ident="placeName" module="core" mode="change">
           <attList>
             <attDef ident="ref" mode="replace" usage="req">
@@ -143,7 +162,7 @@
                 <valItem ident="#Combe-Physiology"/>
                 <valItem ident="#Blackwoods"/>
                 <valItem ident="#Bible"/>
-               </valList>
+              </valList>
             </attDef>
           </attList>
         </elementSpec>
@@ -151,6 +170,3 @@
     </body>
   </text>
 </TEI>
-
-
-
