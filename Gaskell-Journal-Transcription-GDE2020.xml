@@ -297,18 +297,50 @@
             <change when="2020-03-02" resp="#mjk">Updated unattributed quote element.</change>
             <change when="2020-03-02" resp="#ebb">Simplified file names; Added figure figcaption to prep for images.</change>
             <!-- Ended change log updates here, working backwards. -->
+            <change when="2020-03-02" resp="#ebb">Modifications to XSLT for HTML journal output.</change>
+            <change when="2020-03-02" resp="#mjk">Completed Updating of line beginnings throughout manuscript to verify all are marked. </change>
             <change when="2020-03-01" resp="#mjk">Verifying line begin elements in transcription
                file. </change>
+            <change when="2020-03-01" resp="#mjk">Updating prosopography file, new line elements, gap elements.</change>
+            <change when="2020-02-29" resp="#mjk">Updated XSLT to process paragraph level elements.</change>
+            <change when="2020-02-24" resp="#mjk">Added head to dedication div for consistency in edition HTML. </change>
+            <change when="2020-02-24" resp="#ebb">Initial XSTL to create Journal edition HTML; internal links for entries. </change>
+            <change when="2020-02-23" resp="#mjk">ODD fix - hashtags in placeName ids; elementSpec; updated CSS.</change>
+            <change when="2020-02-22" resp="#mjk">Updating site pages and links; Adding alternate header images to web directory.</change>
             <change when="2020-02-18" resp="#mjk">New Site Domain Name. First version of site
                available online.</change>
+            <change when="2020-02-18" resp="#mjk">Created website directory for Digital Edition site; Created first version index.html &amp; CSS files.</change>
             <change when="2020-02-17" resp="#mjk">Updated Odd; Validation working. </change>
+            <change when="2020-02-17" resp="#ama">Adding div @type=journal wrapper to diary entries.</change>
+            <change when="2020-02-17" resp="#ebb">Updating ODD file. </change>
+            <change when="2020-02-17" resp="#ama">Adding ref to empty persName elements.</change>
+            <change when="2020-02-17" resp="#amp">Adding missing ODD values.</change>
+            <change when="2020-02-17" resp="#ebb">Cleaning up ODD schema, adding gitignore, repaired ODD.</change>
+            <change when="2020-01-20" resp="#mjk">Updated ODD with PI info.</change>
             <change when="2020-01-05" resp="#mjk">Tandem Verification complete entry 7.</change>
+            <change when="2019-12-30" resp="#mjk">Updated quotation mark encoding.</change>
             <change when="2019-12-29" resp="#mjk">Tandem Verification complete entries
                8-11.</change>
+            <change when="2019-12-17" resp="#mjk">Encoded headnotes within transcription file.</change>
             <change when="2018-10-27" resp="#mjk">Tandem Verification begun; complete through page
-               6.</change>
+               7.</change>
+            <change when="2018-10-19" resp="#mjk">Updating XSLT to output prosopography wiht populated xml:ids.</change>
+            <change when="2018-10-18" resp="#mjk">Adding XSLT to create prosopography.</change>
+            <change when="2018-09-13" resp="#mjk">Wrapped unicode long s characters in choice elements. Created new directory to house old files / exercises.</change>
             <change when="2018-09-13" resp="#mjk">Updated xml:ids.</change>
-            <change when="2018-06-20" resp="#mjk">Transcription Complete - first version.</change>
+            <change when="2018-08-30" resp="#ebb">Updating and correcting ODD for elementSpec.</change>
+            <change when="2018-07-26" resp="#mjk">Reconciling xml:ids; complete through entry 7.</change>
+            <change when="2018-06-20" resp="#mjk">Transcription Complete (coding entries 10 &amp; 11 complete) - first version.</change>
+            <change when="2018-06-20" resp="#mjk">Entry 9 transcription complete.</change>
+            <change when="2018-06-20" resp="#mjk">Schema fix; association was looking for wrong directory.</change>
+            <change when="2018-06-18" resp="#mjk">Entry 8 transcription complete.</change>
+            <change when="2018-06-18" resp="#mjk">Commit post upgrade to Oxygen 20.1</change>
+            <change when="2018-06-17" resp="#mjk">Entry 6 / 7 transcription complete.</change>
+            <change when="2018-06-05" resp="#mjk">Entry 4 / 5 transcription complete. Updated ODD to add transcr module.</change>
+            <change when="2018-05-21" resp="#mjk">Continuing transcription of entry 4.</change>
+            <change when="2018-05-17" resp="#mjk">Began transcription of entry 4.</change>
+            <change when="2018-03-30" resp="#mjk">Updates to entry 3 transcription.</change>
+            <change when="2018-03-13" resp="#mjk">Adding personography file.</change>
             <change when="2018-01-30" resp="#mjk">Added first draft of ODD file.</change>
             <change when="2018-01-17" resp="#mjk">Initial file commit to GitHub Repo</change>
             <change datingPoint="2017-08-18" resp="#mjk">Transcription File Created August 18,
