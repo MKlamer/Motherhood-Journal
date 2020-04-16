@@ -6,37 +6,22 @@
     <fileDesc>
       <titleStmt>
         <title>Gaskell Journal ODD</title>
-        <author ref="#mjk">Melissa J. Klamer</author>
-        <author ref="#ebb">Dr. Elisa Beshero-Bondar</author>
-        <author ref="#ama">Alyssa Argento</author>
-        <author ref="#amp">Amber Peddicord</author>
-        <!--2020-04-16 ebb: Would you acknowledge the assistance of me and Alyssa Argento and Amber Peddicord 
-          in the development of this ODD? We'd appreciate it. You should research the TEI header to determine the 
-        way you'd like to handle this acknowledgement. You can also designate our usual initials as they appear in comments
-        on the code with an @ref attribute when you mention us. So here you could say
-        <author ref="#mjk">
-        and refer to us, on whatever elements you choose to designate us, as #ebb, #ama and #amp
-        -->
-      </titleStmt>
+        <author role="principal" ref="#mjk">Melissa J. Klamer</author>
+        <author role="collaborator" ref="#ebb">Dr. Elisa Beshero-Bondar</author>
+        <author role="collaborator" ref="#ama">Alyssa Argento</author>
+        <author role="collaborator" ref="#amp">Amber Peddicord</author>
+       </titleStmt>
       <publicationStmt>
         <p>Prepared in TEI by Melissa Klamer for the Digital Edition of Elizabeth Gaskell's
           Manuscript Journal. GitHub repository: <ptr target="https://github.com/MKlamer/Motherhood-Journal"/>
-        <!--2020-04-16 ebb: Since your GitHub repository location is a web URL, I added a ptr element to contain it as a URL.
-        This isn't exactly a hyperlink, but a tagged way of storing url information. The other option is ref with the same attribute, 
-        like so: <ref target="https://github.com/MKlamer/Motherhood">https://github.com/MKlamer/Motherhood</ref>
-        And that looks more like a web link, but it's not really necessary to duplicate the URL information in the context of the 
-        informational TEI header.
-        -->
         </p>
       </publicationStmt>
       <sourceDesc>
-        <p>Code draws on customizations </p>
+        <p></p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc><!--2020-04-16 ebb: ALWAYS UPDATE YOUR CHANGE LOG when you make a change to your ODD. 
-    This is very important documentation for the long life of your project. You should have an entry for 2020-04-15 here.-->
-     
-      <!--MISSING ENTRY or ENTRIES  -->
+    <revisionDesc>
+      <change when="2020-04-16" resp="#mjk">Updated change log; Added contributors' acknowledgement.</change>
       <change when="2020-04-16" resp="ebb">Repaired erroneous attribute definitions on the milestone elementSpec to add mode="replace".</change>
       <change when="2020-04-15" resp="#mjk">Updating ODD to validate milestone tagging.</change>
       <change when="2020-03-31" resp="#mjk">Added milestone element to transcription file, reapplying ODD.</change>
@@ -116,7 +101,10 @@
           <attList>
             <attDef ident="ref" mode="replace" usage="req">
               <valList type="closed">
-                <valItem ident="#mjk"/>
+                <valItem ident="#mjk"/><!-- Principal Editor -->
+                <valItem ident="#ebb"/><!--Contributor:  Dr. Elisa Beshero-Bondar, Associate Professor of English, University of Pittsburgh-Greensburg;  Director, Digital Mitford Project, External Member, Doctoral Guidance Committee. -->
+                <valItem ident="#ama"/><!-- Contributor: Alyssa Argento, student, University of Pittsburgh-Greensburg -->
+                <valItem ident="#amp"/><!-- Contributor: Amber Peddicord, student, University of Pittsburgh-Greensburg -->
                 <valItem ident="#Elizabeth_Stevenson_Gaskell"/>
                 <valItem ident="#Wm_Gaskell"/>
                 <valItem ident="#MA_Gaskell_Holland"/>

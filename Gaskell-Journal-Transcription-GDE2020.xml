@@ -8,13 +8,20 @@
             <title>Elizabeth Gaskell's Journal: A Digital Edition</title>
             <author><persName ref="#Elizabeth_Stevenson_Gaskell">Elizabeth Cleghorn
                   Gaskell</persName></author>
-            <editor>Edited by <persName ref="#mjk">Melissa J Klamer</persName></editor>
+            <editor role="principalEditor">Edited by <persName ref="#mjk">Melissa J Klamer</persName></editor>
+            <editor role="collaborators">Assistance with encoding and schema by 
+               <persName ref="#ebb">Dr. Elisa Beshero-Bondar</persName>
+               <persName ref="#ama">Alyssa Argento</persName> and 
+               <persName ref="#amp">Amber Peddicord</persName>
+            </editor>
             <!-- Persistent Link to Diary: https://explore.library.leeds.ac.uk/special-collections-explore/33745 -->
             <respStmt>
                <resp>Transcription and coding by </resp>
-               <name><persName ref="#mjk">Melissa J. Klamer</persName></name>
+               <name><persName ref="#mjk">Melissa J. Klamer</persName></name> 
+              
                <!-- Include respstmt re: photos taken, include photo files -->
-            </respStmt>
+            </respStmt> 
+           
          </titleStmt>
          <editionStmt>
             <edition>First digital edition in TEI, date: <date when="2020-02-18">February 18,
