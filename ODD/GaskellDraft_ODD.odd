@@ -29,6 +29,8 @@
     <revisionDesc><!--2020-04-16 ebb: ALWAYS UPDATE YOUR CHANGE LOG when you make a change to your ODD. 
     This is very important documentation for the long life of your project. You should have an entry for 2020-04-15 here.-->
       <change when="2019-12-18">Added RevisionDesc.</change>
+      <!--MISSING ENTRY or ENTRIES  -->
+      <change when="2020-04-16" resp="ebb">Repaired erroneous attribute definitions on the milestone elementSpec to add mode="replace".</change>
     </revisionDesc>
   </teiHeader>
   <text>
