@@ -276,14 +276,27 @@
       <revisionDesc>
          <!-- From TEI: "summarizes the revision history for a file." -->
          <listChange>
-            <change when="2020-04-02" resp="#mjk">Milestone coding begun.</change>
-            <change when="2020-03-30" resp="#mjk">Tandem verification complete entry 5.</change>
-            <change when="2020-03-24" resp="#mjk">Updated page breaks to add id attributes. Inserted
+            <change when="2020-04-16" resp="#mjk">Updating change log.</change>
+            <change when="2020-04-15" resp="#mjk">Updating milestone attributes (subtype to part) to prep for ODD validation.</change>
+            <change when="2020-04-09" resp="#mjk">Fix to underlining in XSLT; Added return to top links for edition page in XSLT.</change>
+            <change when="2020-04-02" resp="#mjk">Milestone coding adjustment; use of @type attribute with 5 values.</change>
+            <change when="2020-04-01" resp="#mjk">Applied milestone tags to Entry 1.</change>
+            <change when="2020-03-31" resp="#mjk">First draft at milestone tagging; updating README file.</change>
+            <change when="2020-03-30" resp="#mjk">Tandem verification complete entry 5. Partial verification of Entry 6.</change>
+            <change when="2020-03-25" resp="#ebb">Updating TEI file with IIIF images added to pb elements.</change>
+            <!-- Thanks to Alyssa Argento for her use of regex to regularize my data file to prepare for the addition of these iiif images.  -->
+            <change when="2020-03-25" resp="#mjk">Updated page breaks to add id attributes. Inserted
                links to IIIF image files available at the Brotherton Special Collections.</change>
+            <change when="2020-03-24" resp="#mjk">No change to transcription; parsed JSON IIIF manifest to prepare dataset for importing IIIF images.</change>
+            <change when="2020-03-20" resp="#mjk">Changed file name to ensure user readability. Previous file: Gaskell_diary_draftB.xml</change>
             <change when="2020-03-08" resp="#mjk">Updated transcription: added seg elements to
                encode prayers within the text.</change>
+            <change when="2020-03-07" resp="#mjk">Updated transcription file. </change>
             <change when="2020-03-04" resp="#mjk">Updated TEI Header.</change>
             <change when="2020-03-03" resp="#mjk">Tandem Verification complete entry 4.</change>
+            <change when="2020-03-02" resp="#mjk">Updated unattributed quote element.</change>
+            <change when="2020-03-02" resp="#ebb">Simplified file names; Added figure figcaption to prep for images.</change>
+            <!-- Ended change log updates here, working backwards. -->
             <change when="2020-03-01" resp="#mjk">Verifying line begin elements in transcription
                file. </change>
             <change when="2020-02-18" resp="#mjk">New Site Domain Name. First version of site

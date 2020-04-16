@@ -6,7 +6,10 @@
     <fileDesc>
       <titleStmt>
         <title>Gaskell Journal ODD</title>
-        <author>Melissa J. Klamer</author>
+        <author ref="#mjk">Melissa J. Klamer</author>
+        <author ref="#ebb">Dr. Elisa Beshero-Bondar</author>
+        <author ref="#ama">Alyssa Argento</author>
+        <author ref="#amp">Amber Peddicord</author>
         <!--2020-04-16 ebb: Would you acknowledge the assistance of me and Alyssa Argento and Amber Peddicord 
           in the development of this ODD? We'd appreciate it. You should research the TEI header to determine the 
         way you'd like to handle this acknowledgement. You can also designate our usual initials as they appear in comments
@@ -17,7 +20,7 @@
       </titleStmt>
       <publicationStmt>
         <p>Prepared in TEI by Melissa Klamer for the Digital Edition of Elizabeth Gaskell's
-          Manuscript Journal. GitHub repository: <ptr target="https://github.com/MKlamer/Motherhood"/>
+          Manuscript Journal. GitHub repository: <ptr target="https://github.com/MKlamer/Motherhood-Journal"/>
         <!--2020-04-16 ebb: Since your GitHub repository location is a web URL, I added a ptr element to contain it as a URL.
         This isn't exactly a hyperlink, but a tagged way of storing url information. The other option is ref with the same attribute, 
         like so: <ref target="https://github.com/MKlamer/Motherhood">https://github.com/MKlamer/Motherhood</ref>
@@ -27,14 +30,38 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <p>[Information about the creation of the ODD]</p>
+        <p>Code draws on customizations </p>
       </sourceDesc>
     </fileDesc>
     <revisionDesc><!--2020-04-16 ebb: ALWAYS UPDATE YOUR CHANGE LOG when you make a change to your ODD. 
     This is very important documentation for the long life of your project. You should have an entry for 2020-04-15 here.-->
-      <change when="2019-12-18">Added RevisionDesc.</change>
+     
       <!--MISSING ENTRY or ENTRIES  -->
       <change when="2020-04-16" resp="ebb">Repaired erroneous attribute definitions on the milestone elementSpec to add mode="replace".</change>
+      <change when="2020-04-15" resp="#mjk">Updating ODD to validate milestone tagging.</change>
+      <change when="2020-03-31" resp="#mjk">Added milestone element to transcription file, reapplying ODD.</change>
+      <change when="2020-03-20" resp="#mjk">Updated file names for digital edition.</change>
+      <change when="2020-03-18" resp="#mjk">Additional placeNames added to ODD customization.</change>
+      <change when="2020-03-14" resp="#mjk">Updating javascript; changes to CSS.</change>
+      <change when="2020-03-08" resp="#mjk">Encoded prayers within seg elements; added seg to ODD.</change>
+      <change when="2020-03-04" resp="#mjk">Updated TEI header; adjusted ODD, placeName validation now working.</change>
+      <change when="2020-03-01" resp="#mjk">Prosopography updated; placeNames not validating. </change>
+      <change when="2020-03-01" resp="#mjk">Updated ODD entries corresponding to prosopography changes.</change>
+      <change when="2020-02-29" resp="#mjk">Updated XSLT to process paragraph-level elements.</change>
+      <change when="2020-02-23" resp="#mjk">ODD fix: adding hashtags in placeName ids.</change>
+      <change when="2020-02-23" resp="#mjk">Updating: Added elementSpec for placename vallist.</change>
+      <change when="2020-02-17" resp="#amp">Adding missing ODD values.</change>
+      <change when="2020-02-17" resp="#ebb">further refinements to ODD. </change>
+      <change when="2020-02-17" resp="#ebb">repaired ODD schema; validation working</change>
+      <change when="2020-02-17" resp="#ebb">cleaning up ODD schema, adding gitignore.</change>
+      <change when="2020-02-17" resp="#mjk">Updated ODD to correct for validation.</change>
+      <change when="2020-01-20" resp="#mjk">Updated ODD with PI information.</change>
+      <change when="2020-01-01" resp="#mjk">Partial verification of entry 7; updates to quotation mark encoding</change>
+      <change when="2019-12-29" resp="#mjk">Tandem verification complete, entries 8-11.</change>
+      <change when="2019-12-18" resp="#mjk">Added RevisionDesc.</change>
+      <change when="2018-09-13" resp="#mjk">Updated xml:ids</change>
+      <change when="2018-08-30" resp="#ebb">Updated ODD for elementSpec; corrections made to ensure validation. </change>
+      <change when="2018-06-18" resp="#mjk">Schema fix: wrong directory; Updated to ensure validation is working.</change>
     </revisionDesc>
   </teiHeader>
   <text>
