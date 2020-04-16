@@ -7,16 +7,27 @@
       <titleStmt>
         <title>Gaskell Journal ODD</title>
         <author>Melissa J. Klamer</author>
+        <!--2020-04-16 ebb: Would you acknowledge the assistance of me and Alyssa Argento and Amber Peddicord 
+          in the development of this ODD? We'd appreciate it. You should research the TEI header to determine the 
+        way you'd like to handle this acknowledgement.-->
       </titleStmt>
       <publicationStmt>
         <p>Prepared in TEI by Melissa Klamer for the Digital Edition of Elizabeth Gaskell's
-          Manuscript Journal. GitHub repository: https://github.com/MKlamer/Motherhood </p>
+          Manuscript Journal. GitHub repository: <ptr target="https://github.com/MKlamer/Motherhood"/>
+        <!--2020-04-16 ebb: Since your GitHub repository location is a web URL, I added a ptr element to contain it as a URL.
+        This isn't exactly a hyperlink, but a tagged way of storing url information. The other option is ref with the same attribute, 
+        like so: <ref target="https://github.com/MKlamer/Motherhood">https://github.com/MKlamer/Motherhood</ref>
+        And that looks more like a web link, but it's not really necessary to duplicate the URL information in the context of the 
+        informational TEI header.
+        -->
+        </p>
       </publicationStmt>
       <sourceDesc>
         <p>[Information about the creation of the ODD]</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
+    <revisionDesc><!--2020-04-16 ebb: ALWAYS UPDATE YOUR CHANGE LOG when you make a change to your ODD. 
+    This is very important documentation for the long life of your project. You should have an entry for 2020-04-15 here.-->
       <change when="2019-12-18">Added RevisionDesc.</change>
     </revisionDesc>
   </teiHeader>
@@ -48,7 +59,7 @@
                 <valItem ident="#mjk"/>
                 </valList>
             </attDef>
-           <attDef ident="type" usage="req">
+           <attDef ident="type" mode="replace" usage="req">
               <valList type="closed">
                 <valItem ident="address"/>
                 <valItem ident="matTheory"/>
@@ -58,7 +69,7 @@
                 <valItem ident="socHist"/>
               </valList>
             </attDef>
-            <attDef ident="part">
+            <attDef ident="part" mode="replace" usage="opt">
               <valList type="closed">
                 <valItem ident="initial"/>
                 <valItem ident="medial"/>
