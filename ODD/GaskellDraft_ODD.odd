@@ -9,7 +9,11 @@
         <author>Melissa J. Klamer</author>
         <!--2020-04-16 ebb: Would you acknowledge the assistance of me and Alyssa Argento and Amber Peddicord 
           in the development of this ODD? We'd appreciate it. You should research the TEI header to determine the 
-        way you'd like to handle this acknowledgement.-->
+        way you'd like to handle this acknowledgement. You can also designate our usual initials as they appear in comments
+        on the code with an @ref attribute when you mention us. So here you could say
+        <author ref="#mjk">
+        and refer to us, on whatever elements you choose to designate us, as #ebb, #ama and #amp
+        -->
       </titleStmt>
       <publicationStmt>
         <p>Prepared in TEI by Melissa Klamer for the Digital Edition of Elizabeth Gaskell's
