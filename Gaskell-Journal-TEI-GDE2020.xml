@@ -182,7 +182,7 @@
             <p>The Gaskell Journal Digital Edition is an online, openly accessible edition of a
                single Gaskell text, Elizabeth Gaskell’s manuscript journal, offering an annotated
                and newly transcribed text with high-quality digital images of the manuscript pages.
-               This new edition provides a fully-encoded version of the text, allowing richer
+               This new edition provides a fully-encoded TEI file of the text, allowing richer
                analysis of the content of the journal. Additionally, the Elizabeth Gaskell Journal -
                Digital Edition includes editorial headnotes contextualizing the journal as a text
                predominantly focused on motherhood, and a full prosopography identifying important
@@ -251,7 +251,7 @@
                with the additional @break attribute, with a value of “no,”</ab>
             <ab>Unclear and Gap: Obscure text has been marked with an unclear element, and the
                single cut away section is marked by a gap element.</ab>
-            <p> Structural Markup: The journal has been encoded as a single XML-TEI file. Journal
+            <p> Structural Markup: The journal has been encoded as a single TEI XML file. Journal
                entries, together with their respective headnotes, are enclosed within a div element
                of type <q>journal</q>. Each individual journal entry and headnote is enclosed in an
                individual div element within these larger divs. </p>
@@ -260,8 +260,8 @@
          <refsDecl>
             <p>The unique entities named in the diary have all been given individual xml:ids. There
                are nineteen individuals named within the text. The methodology used in naming these
-               entities is as follows. Wherever possible, the xml:ids have been created to assist in
-               human readability of the code. Assigned xml:ids begin with the name that Gaskell most
+               entities is as follows. Wherever possible, the @xml:ids have been created to assist in
+               human readability of the code. Assigned @xml:ids begin with the name that Gaskell most
                commonly applies within the diary, and are followed with an underscore and the last
                name. In the case of married women, the first name is followed by underscores and the
                maiden name, followed by the married name of the individual. In this way the xml:ids
@@ -283,6 +283,7 @@
       <revisionDesc>
          <!-- From TEI: "summarizes the revision history for a file." -->
          <listChange>
+            <change when="2020-04-21" resp="#mjk">Updated file name: Gaskell-Journal-TEI-GDE2020.xml</change>
             <change when="2020-04-16" resp="#mjk">Updating change log. Added collaborator acknowledgement.</change>
             <change when="2020-04-15" resp="#mjk">Updating milestone attributes (subtype to part) to prep for ODD validation.</change>
             <change when="2020-04-09" resp="#mjk">Fix to underlining in XSLT; Added return to top links for edition page in XSLT.</change>
@@ -376,10 +377,10 @@
                <pb n="1" xml:id="page-1"
                   facs="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi81Lmhhc2xpZ2h0Ym94VGh1bWJuYWlsVmVyc2lvbi9CQ19NU18xOWNfR2Fza2VsbC0zXzAwNS50aWY%3D.jpg"
                   ed="Brotherton: To my dear little"/>
-               <p><lb/>To my dear little <persName ref="#MA_Gaskell_Holland">Marianne</persName> I
+               <p><milestone resp="#mjk" type="address" unit="section" part="initial"/><lb/>To my dear little <persName ref="#MA_Gaskell_Holland">Marianne</persName> I
                   shall <q>dedicate</q>
                   <lb/>this book, which, if I should not live to give <lb/>it her myself, will I
-                  trust be reserved for her <lb/>as a token of her mother's love, and extreme
+                  trust be reserved for her <milestone resp="#mjk" type="address" unit="section" part="final"/><milestone resp="#mjk" type="motherhood" unit="section" part="initial"/><lb/>as a token of her mother's love, and extreme
                   <lb/>anxiety in the formation of her little <lb/>daughter's character. If that
                   little daughter <lb/>should in time become a mother herself, <lb/>she may take an
                   interest in the experience <lb/>of another; and at any rate she will <lb/>perhaps
@@ -391,7 +392,7 @@
                   <lb/>her. The love which passeth every earth=<lb/>=ly love, and the hope that
                   however we <lb/>may be separated on earth, we may <lb/>each of us so behave while
                   sojourning here <lb/>that we may meet again to renew the <lb/>dear &amp; tender
-                  tie of Mother and Daughter.</p>
+                  tie of Mother and Daughter.<milestone resp="#mjk" type="motherhood" unit="section" part="final"/></p>
 
             </div>
          </div>
@@ -510,25 +511,25 @@
                   my dearest little <lb/>girl, if when you read this, you trace <lb/>back any evil,
                   or unhappy feeling to <lb/>my mismanagement in your childhood <lb/>forgive me,
                   love! <milestone resp="#mjk" unit="section" type="address" part="final"/></p>
-               <p><lb/><persName ref="#MA_Gaskell_Holland">Marianne</persName> is now becoming every
+               <p><milestone resp="#mjk" type="physDesc" unit="section" part="initial"/><lb/><persName ref="#MA_Gaskell_Holland">Marianne</persName> is now becoming every
                   day <lb/>more and more interesting. She looks at <lb/>and tries to take hold of
                   every thing. She <lb/>has pretty good ideas of distance and does <lb/>not try to
                   catch sunbeams now, as she <pb n="4" xml:id="page-4"
                      facs="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi85Lmhhc2xpZ2h0Ym94VGh1bWJuYWlsVmVyc2lvbi9CQ19NU18xOWNfR2Fza2VsbC0zXzAwOS50aWY%3D.jp"
                      ed="Brotherton: did two months ago"/>
                   <lb/>did two months ago. Her sense of sight <lb/>is much improved lately in seeing
-                  objects <lb/>at a distance, and distinguishing them. <lb/>For instance I had her
+                  objects <lb/>at a distance, and distinguishing them. <milestone resp="#mjk" type="physDesc" unit="section" part="final"/><milestone resp="#mjk" type="socHist" unit="section" part="initial"/><lb/>For instance I had her
                   in my arms today <lb/>in the drawing room, and her <persName ref="#Wm_Gaskell"
                      >Papa</persName>
                   <lb/>was going out of the gate; and she evi=<lb break="no"/>=dently knew him;
-                  smiled and kicked. <lb/>She begins to show a decided preference <lb/>to those she
+                  smiled and kicked.<milestone resp="#mjk" type="socHist" unit="section" part="final"/> <milestone resp="#mjk" type="mentDesc" unit="section" part="initial"/><lb/>She begins to show a decided preference <lb/>to those she
                   likes; she puts out her little <lb/>arms to come to me, and would I <lb/>am sure,
                   do so to her <persName ref="#Wm_Gaskell">Papa</persName>. She catches <lb/>the
                   expression of a countenance <lb/>to which she is accustomed directly; <lb/> when
                   we laugh, she laughs; and when <lb/>I look attentive to <persName
                      ref="#Wm_Gaskell">William</persName>'s reading, <lb/>it is quite ridiculous to
                   see her little <lb/>face of gravity, and earnestness, as if <lb/>she understood
-                  every word. I try always <lb/>to let her look at any thing which at=<lb break="no"
+                  every word.<milestone resp="#mjk" type="mentDesc" unit="section" part="final"/> <milestone resp="#mjk" type="matTheory" unit="section" part="initial"/>I try always <lb/>to let her look at any thing which at=<lb break="no"
                   />=tracts her notice as long as she <unclear>will</unclear><pb n="5"
                      xml:id="page-5"
                      facs="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi8xMC5oYXNsaWdodGJveFRodW1ibmFpbFZlcnNpb24vQkNfTVNfMTljX0dhc2tlbGwtM18wMTAudGlm.jpg"
@@ -539,31 +540,31 @@
                   </choice>, I take her to it, and let <lb/>her exercise all her senses upon
                   it-<!-- place spaces around dashes or leave words connected?-->even <lb/>to
                   tasting, if I am sure it can do her <lb/>no harm. My object is to give her a
-                  <lb/>habit of fixing her attention. </p>
-               <p><lb/>She takes great delight in motion just <lb/>at present; dancing, jumping,
+                  <lb/>habit of fixing her attention. <milestone resp="#mjk" type="matTheory" unit="section" part="final"/></p>
+               <p><milestone resp="#mjk" type="physDesc" unit="section" part="initial"/><lb/>She takes great delight in motion just <lb/>at present; dancing, jumping,
                   shutting <lb/>and opening the hand pleases her very <lb/>much.<space type="short"
                   /><!-- long gap. Not sure whether to code this as a paragraph break or an empty space-->
                   I had no idea children <lb/>at her age, made such continued <lb/>noises; she
                   shouts, and murmurs, and <lb/>talks in her way, just like conversa=<lb break="no"
-                  />=tion, varying her tones &amp;c. I wish <lb/>we could know what is passing
-                  <lb/>in her little mind. She likes any=<lb break="no"/>=thing like singing, but
+                  />=tion, varying her tones &amp;c. <milestone resp="#mjk" type="physDesc" unit="section" part="final"/><milestone resp="#mjk" type="motherhood" unit="section" part="initial"/> I wish <lb/>we could know what is passing
+                  <lb/>in her little mind.<milestone resp="#mjk" type="motherhood" unit="section" part="final"/> <milestone resp="#mjk" type="mentDesc" unit="section" part="initial"/>She likes any=<lb break="no"/>=thing like singing, but
                   seems afraid <lb/>of the piano; today she even began <lb/>to cry, when I began to
-                  play. </p>
+                  play. <milestone resp="#mjk" type="mentDesc" unit="section" part="final"/></p>
                <pb n="6" xml:id="page-6"
                   facs="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi8xMS5oYXNsaWdodGJveFRodW1ibmFpbFZlcnNpb24vQkNfTVNfMTljX0dhc2tlbGwtM18wMTEudGlm.jpg"
                   ed="Brotherton: In general I think"/>
-               <p><lb/>In general, I think she is remarkably <lb/>free from fear or shyness of any
+               <p><milestone resp="#mjk" type="mentDesc" unit="section" part="initial"/><lb/>In general, I think she is remarkably <lb/>free from fear or shyness of any
                   sort. <lb/>She goes to <choice>
                      <sic>any one</sic>
                      <reg>anyone</reg>
                   </choice> who will take her, <lb/>staring at strangers to be sure, and being
                   <lb/>very grave while they are in the room, <lb/>but not crying, or clinging to
-                  me. I am <lb/>very glad of this, as though it is very <lb/>flattering and
+                  me.<milestone resp="#mjk" type="mentDesc" unit="final"/><milestone resp="#mjk" type="motherhood" unit="section" part="initial"/> I am <lb/>very glad of this, as though it is very <lb/>flattering and
                   endearing to me, yet <lb/>I should be sorry if she were to get the <lb/>habit of
-                  refusing to go to others.</p>
-               <p><lb/>Then as to her <q>bodily</q> qualifications. <lb/>She has had two teeth cut
+                  refusing to go to others.<milestone resp="#mjk" type="motherhood" unit="section" part="final"/></p>
+               <p><milestone resp="#mjk" type="physDesc" unit="section" part="initial"/><lb/>Then as to her <q>bodily</q> qualifications. <lb/>She has had two teeth cut
                   with very little <lb/>trouble; but I believe the worst are <lb/>to come. She is
-                  very strong in her <lb/>limbs, though because she is so fat, we <lb/>do not let
+                  very strong in her <lb/>limbs,<milestone resp="#mjk" type="physDesc" unit="section" part="final"/><milestone resp="#mjk" type="matTheory" unit="section" part="initial"/> though because she is so fat, we <lb/>do not let
                   her use her <choice>
                      <sic>ancles</sic>
                      <reg>ankles</reg>
@@ -576,9 +577,9 @@
                      facs="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi8xMi5oYXNsaWdodGJveFRodW1ibmFpbFZlcnNpb24vQkNfTVNfMTljX0dhc2tlbGwtM18wMTIudGlm.jpg"
                      ed="Brotherton: ance from hands"
                   /><!--photo blocks the equal sign used to mark split word or there is none here--><lb/>ance
-                  from hands &amp;c. She lies down on the<lb/> floor a good deal, and kicks about;
-                  a<lb/> practice I began very early, and which<lb/> has done her a great deal of
-                  good.</p>
+                  from hands &amp;c.<milestone resp="#mjk" type="matTheory" unit="section" part="final"/><milestone resp="#mjk" type="physDesc" unit="section" part="initial"/>She lies down on the<lb/> floor a good deal, and kicks about;<milestone resp="#mjk" type="physDesc" unit="section" part="final"/>
+                  <milestone resp="#mjk" type="matTheory" unit="section" part="initial"/>a<lb/> practice I began very early, and which<lb/> has done her a great deal of
+                  good.<milestone resp="#mjk" type="matTheory" unit="section" part="final"/></p>
                <p><lb/>She goes to bed <hi rend="underline">awake</hi>; another practice<lb/> I
                   began early, and which is so comfort<lb break="no"/>=able I wonder it is not more
                   generally <lb/>adopted. Once or twice we have had <lb/>grand cryings, which have
