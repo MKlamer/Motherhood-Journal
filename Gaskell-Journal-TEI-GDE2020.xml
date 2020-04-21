@@ -283,7 +283,7 @@
       <revisionDesc>
          <!-- From TEI: "summarizes the revision history for a file." -->
          <listChange>
-            <change when="2020-04-16" resp="#mjk">Updating change log.</change>
+            <change when="2020-04-16" resp="#mjk">Updating change log. Added collaborator acknowledgement.</change>
             <change when="2020-04-15" resp="#mjk">Updating milestone attributes (subtype to part) to prep for ODD validation.</change>
             <change when="2020-04-09" resp="#mjk">Fix to underlining in XSLT; Added return to top links for edition page in XSLT.</change>
             <change when="2020-04-02" resp="#mjk">Milestone coding adjustment; use of @type attribute with 5 values.</change>
