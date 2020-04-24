@@ -26,7 +26,8 @@
                             <td><a href="gde-aboutpage.html">About</a> </td>
                             <td><a href="gde-editionpage.html">The Digital Edition</a> </td>
                             <td> <a href="gde-gaskellpage.html">People</a></td>
-                            <td><a href="gde-digitaldissertationpage.html">The Digital Dissertation</a></td></tr></table></div>
+                            <td><a href="gde-digitaldissertationpage.html">The Digital Dissertation</a></td>
+                            <td><a href="gde-resourcespage.html">Resources</a></td></tr></table></div>
                 <!-- Navigational Header End -->
                 <h2>Read Gaskell’s Journal</h2>
 
