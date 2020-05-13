@@ -101,8 +101,8 @@ td {width: 15%; text-align: center; padding: 16px}
 
 
 /* Styling Acknowledgements Page (Descriptive List) */
-dl {line-height: 2em; padding-left: 5em}
-dt {font-weight: bold; margin-top: 2em}
+dl {line-height: 2em; padding-left: 5em; padding-right: 5em;}
+dt {font-weight: bold; margin-top: 2em;}
 span.name {font-weight: bold}
 
 /* Styling prose elements for Default View vs. Simplified View */
