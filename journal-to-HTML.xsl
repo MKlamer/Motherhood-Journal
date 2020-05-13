@@ -23,7 +23,17 @@
                     <table class="navigation">
                         <tr>
                             <td><a href="index.html">Home</a></td>
-                            <td><a href="gde-aboutpage.html">About</a> </td>
+                            <td><div class="dropdown">
+                                <button class="dropbtn">About</button>
+                                <div class="dropdown-content">
+                                    <a href="gde-aboutpage.html">About The Journal</a>
+                                    <a href="https://github.com/MKlamer/Motherhood-Journal"
+                                        target="_blank">View the TEI File</a>
+                                    <a href="gde-acknowledgements.html">Acknowledgements</a>
+                                    <a href="gde-methodspage.html">Methodology</a>
+                                    <a href="gde-editorialpolicypage.html">Editing Policy</a>
+                                </div>
+                            </div></td>
                             <td><a href="gde-editionpage.html">The Digital Edition</a> </td>
                             <td> <a href="gde-gaskellpage.html">People</a></td>
                             <td><a href="gde-digitaldissertationpage.html">The Digital Dissertation</a></td>
