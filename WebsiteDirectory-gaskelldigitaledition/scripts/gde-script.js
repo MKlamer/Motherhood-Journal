@@ -6,6 +6,26 @@
 
 window.onload = init;
 
+
+/* Attempting to setup fixed navbar 
+
+window.onscroll = function() {fixnavbar()};
+
+var headimg = document.getElementById('headerimage');
+ 
+var height = headimg.offsetTop; 
+
+function fixnavbar() {
+    if (window.pageYOffset > height) {
+        navbar.classList.add("fixed");
+        } else {
+            navbar.classList.remove("fixed");
+    }
+}
+ */
+
+
+/* Event Listeners for Mouseover Notes */
 function init() /* ebb: Here's where Being is but an Ear! Add your event listeners here and set up what functions you want to fire next. */
 {
     var anchors = document.getElementsByClassName("ref");
