@@ -70,32 +70,7 @@
         <moduleRef key="linking"/>
         <moduleRef key="namesdates"/>
 
-        <elementSpec ident="milestone" module="core" mode="change">
-          <attList>
-            <attDef ident="resp" mode="replace" usage="req">
-              <valList type="closed">
-                <valItem ident="#mjk"/>
-                </valList>
-            </attDef>
-           <attDef ident="type" mode="replace" usage="req">
-              <valList type="closed">
-                <valItem ident="address"/>
-                <valItem ident="matTheory"/>
-                <valItem ident="mentDesc"/>
-                <valItem ident="motherhood"/>
-                <valItem ident="physDesc"/>
-                <valItem ident="socHist"/>
-              </valList>
-            </attDef>
-            <attDef ident="part" mode="replace" usage="opt">
-              <valList type="closed">
-                <valItem ident="initial"/>
-                <valItem ident="medial"/>
-                <valItem ident="final"/>
-              </valList>
-            </attDef>
-          </attList>
-        </elementSpec>
+
         <elementSpec ident="list" module="header" mode="add"> </elementSpec>
         <elementSpec ident="persName" module="core" mode="change">
           <attList>
