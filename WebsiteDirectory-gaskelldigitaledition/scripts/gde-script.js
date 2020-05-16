@@ -7,22 +7,7 @@
 window.onload = init;
 
 
-/* Attempting to setup fixed navbar 
-
-window.onscroll = function() {fixnavbar()};
-
-var headimg = document.getElementById('headerimage');
- 
-var height = headimg.offsetTop; 
-
-function fixnavbar() {
-    if (window.pageYOffset > height) {
-        navbar.classList.add("fixed");
-        } else {
-            navbar.classList.remove("fixed");
-    }
-}
- */
+/* Attempting to setup fixed navbar */
 
 
 /* Event Listeners for Mouseover Notes */
