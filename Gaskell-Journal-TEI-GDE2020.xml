@@ -284,6 +284,7 @@
       <revisionDesc>
          <!-- From TEI: "summarizes the revision history for a file." -->
          <listChange>
+            <change when="2020-05-29" resp="#mjk">Added editorial notes for unclear and supplied tags; corrected minor issues with spacing on some lines. Updated XSLT to properly represent strikethroughs.</change>
             <change when="2020-04-21" resp="#mjk">Updated file name:
                Gaskell-Journal-TEI-GDE2020.xml</change>
             <change when="2020-04-16" resp="#mjk">Updating change log. Added collaborator
