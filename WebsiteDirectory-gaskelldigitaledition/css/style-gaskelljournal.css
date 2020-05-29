@@ -149,7 +149,9 @@ z-index: 3;
 display:none;}
 
 /* Styling Personography Notes */
-span.underline {text-decoration-line: underline;}
+span.underline {text-decoration: underline;}
+span.strikethrough {text-decoration:line-through}
+span.insertion {vertical-align: top;}
 span.pIndex {color:blue;}
 span.pi-note {display:none; position: absolute;
 right:40vw;

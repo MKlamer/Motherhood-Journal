@@ -18,15 +18,18 @@
                 <script type="text/javascript" src="scripts/gde-script.js"/>
             </head>
             <body>
-                <div class="navigation"><!-- Navigational Header Begin --> 
-                    <img class="header" width="1920" height="256" src="images/GDE-JournalHeaderRevised.jpg" alt="The Elizabeth Gaskell Journal Header Image"/>     
+                <!-- Navigational Header Begin -->
+                <div class="navigation">
+                    
                     <table class="navigation">
                         <tr>
-                            <td><a href="index.html">Home</a></td>
+                            <td><div class="navLink">
+                                <a href="index.html">Home</a>
+                            </div></td>
                             <td><div class="dropdown">
                                 <button class="dropbtn">About</button>
                                 <div class="dropdown-content">
-                                    <a href="gde-aboutpage.html">About The Journal</a>
+                                    <a href="gde-aboutpage.html">Previous Editions</a>
                                     <a href="https://github.com/MKlamer/Motherhood-Journal"
                                         target="_blank">View the TEI File</a>
                                     <a href="gde-acknowledgements.html">Acknowledgements</a>
@@ -34,10 +37,39 @@
                                     <a href="gde-editorialpolicypage.html">Editing Policy</a>
                                 </div>
                             </div></td>
-                            <td><a href="gde-editionpage.html">The Digital Edition</a> </td>
-                            <td> <a href="gde-gaskellpage.html">People</a></td>
-                            <td><a href="gde-digitaldissertationpage.html">The Digital Dissertation</a></td>
-                            <td><a href="gde-resourcespage.html">Resources</a></td></tr></table></div>
+                            <td><div class="navLink">
+                                <a href="gde-editionpage.html">Elizabeth Gaskell Journal:<br/>The Digital Edition</a>
+                            </div></td>
+                            <td><div class="dropdown">
+                                <button class="dropbtn">Gaskell's World</button>
+                                <div class="dropdown-content">
+                                    <a href="gde-gaskellpage.html">Elizabeth Gaskell</a>
+                                    <a href="gde-personpage.html">Key People</a>
+                                    <a href="gde-diaryessay.html">Victorian Diaries</a>
+                                    <a href="gde-motherhoodessay.html">Victorian Motherhood</a>
+                                    <a href="gde-alphabetpage.html">Reading Gaskell</a>
+                                    <!-- ? Gaskell As Novelist -->
+                                </div>
+                            </div></td>
+                            <td><div class="dropdown">
+                                <button class="dropbtn">Resources</button>
+                                <div class="dropdown-content">
+                                    <a href="gde-resourcespage.html">More About Gaskell</a>
+                                    <a href="gde-otherprojects.html">Victorian Digital Editions</a>
+                                    <a href="gde-projecttoolspage.html">Digital Tools Used in the
+                                        Project</a>
+                                    <a href="gde-digitaldissertationpage.html">The Digital
+                                        Dissertation</a>
+                                </div>
+                            </div></td>
+                        </tr>
+                    </table><div class="block"></div>
+                </div>
+                
+                <img class="header" id="headerimage" width="1920" height="256"
+                    src="images/GDE-JournalHeaderRevised.jpg"
+                    alt="The Elizabeth Gaskell Journal Header Image" />
+                
                 <!-- Navigational Header End -->
                 <h2>Read Gaskell’s Journal</h2>
 
@@ -139,14 +171,15 @@
     </xsl:template>
     <xsl:template match="add">
         <!-- This needs to be changed - possibly using CSS? -  to align above the regular text line. I realized later that it isn't actually a superscript... Need to check in manuscript. -->
-        <sup>
+        <span class="insertion">
             <xsl:apply-templates/>
-        </sup>
+        </span>
     </xsl:template>
+   <!-- Removed to adjust; supplied text will appear inline and be combined with an editorial note; Change made: 29 May 2020, #mjk.
     <xsl:template match="supplied">
         <i>&#160;*Supplied by&#160;<xsl:value-of select="./@resp"/>&#160;:&#160;
             [<xsl:apply-templates/>]</i>
-    </xsl:template>
+    </xsl:template> -->
     <xsl:template match="lg | l">
         <!-- This and other elements (add, delete, etc. need to appear differently in a clear reading view and in an analytical view. The italics should only show up in the simple reading view. The scholarly view will include the note regarding where Gaskell was quoting from. -->
         <br/>
@@ -176,8 +209,13 @@
             <xsl:apply-templates/>
         </span></u>
     </xsl:template>
-    <xsl:template match="hi[@rend = 'supercript']">
+    <xsl:template match="hi[@rend = 'superscript']">
         <span class="above">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="hi[@rend = 'strikethrough']">
+        <span class="strikethrough">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
