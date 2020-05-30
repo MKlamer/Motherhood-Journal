@@ -7,8 +7,10 @@
 window.onload = init;
 
 
-/* Attempting to setup fixed navbar */
-
+/* Attempting to setup responsive sizing for mobile 
+function responsive() {
+  var smallnav = document.getElementByClassName("navigation");
+  element.classlist.add("responsive");}*/
 
 /* Event Listeners for Mouseover Notes */
 function init() /* ebb: Here's where Being is but an Ear! Add your event listeners here and set up what functions you want to fire next. */
@@ -75,14 +77,7 @@ function toggle() {
             }
 }
 /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
-function myFunction() {
-  var x = document.getElementById("navlink");
-  if (x.className === "navlink") {
-    x.className += " responsive";
-  } else {
-    x.className = "navlink";
-  }
-}
+
  
 
 
