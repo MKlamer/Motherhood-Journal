@@ -284,10 +284,17 @@
       <revisionDesc>
          <!-- From TEI: "summarizes the revision history for a file." -->
          <listChange>
-            <change when="2020-05-29" resp="#mjk">Added editorial notes for unclear and supplied tags; corrected minor issues with spacing on some lines. Updated XSLT to properly represent strikethroughs.</change>
+            <change when="2020-06-13" resp="#mjk">Edited note for gap in entry 2. Added two blank
+               "line beginning" elements to mark the portions of text that remain in the margin of
+               the cut away section.</change>
+            <change when="2020-05-29" resp="#mjk">Added editorial notes for unclear and supplied
+               tags; corrected minor issues with spacing on some lines. Updated XSLT to properly
+               represent strikethroughs.</change>
             <change when="2020-05-27" resp="#mjk">CSS updating for new headers.</change>
-            <change when="2020-05-16" resp="#mjk">Removed milestone encoding; updates to header.</change>
-            <change when="2020-05-14" resp="#mjk">Updated dropdown menus; created page structure for additional resources.</change>
+            <change when="2020-05-16" resp="#mjk">Removed milestone encoding; updates to
+               header.</change>
+            <change when="2020-05-14" resp="#mjk">Updated dropdown menus; created page structure for
+               additional resources.</change>
             <change when="2020-05-13" resp="#mjk">Added dropdown menus; new website header.</change>
             <change when="2020-04-21" resp="#mjk">Updated file name:
                Gaskell-Journal-TEI-GDE2020.xml</change>
@@ -551,8 +558,13 @@
                      ref="#Wm_Gaskell">William</persName>'s reading, <lb/>it is quite ridiculous to
                   see her little <lb/>face of gravity, and earnestness, as if <lb/>she understood
                   every word. I try always <lb/>to let her look at any thing which at=<lb break="no"
-                  />=tracts her notice as long as she <unclear>will</unclear><note resp="#mjk">This "will" clearly shows Gaskell's usual habit of writing "ll" with the second "l" significantly shorter than the first. This happens also in the name "William" about six lines earlier. Gaskell often writes double ts ("tt") with a similar difference in height, the first taller than the second. An example can be seen in "attention" at the end of the first paragraph on the following page.</note><pb n="5"
-                     xml:id="page-5"
+                  />=tracts her notice as long as she <unclear>will</unclear><note resp="#mjk">This
+                     "will" clearly shows Gaskell's usual habit of writing "ll" with the second "l"
+                     significantly shorter than the first. This happens also in the name "William"
+                     about six lines earlier. Gaskell often writes double ts ("tt") with a similar
+                     difference in height, the first taller than the second. An example can be seen
+                     in "attention" at the end of the first paragraph on the following
+                     page.</note><pb n="5" xml:id="page-5"
                      facs="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi8xMC5oYXNsaWdodGJveFRodW1ibmFpbFZlcnNpb24vQkNfTVNfMTljX0dhc2tlbGwtM18wMTAudGlm.jpg"
                      ed="Brotherton: and when I see"/>
                   <lb/>and when I see her looking very intently <lb/>at <choice>
@@ -592,9 +604,8 @@
                   </choice> at all, <lb/>and I hope she will be rather late in <lb/>walking that her
                   little legs may be <lb/>very firm. I shall find it difficult to <lb/>damp the
                   energies of the servants in <lb/>this respect, but I intend that she shall
-                  <lb/>teach herself to walk, &amp; receive no
-                     assist=<!-- Tandem verification stoppped here 10/27/18 -->
-                  <pb n="7" xml:id="page-7" 
+                  <lb/>teach herself to walk, &amp; receive no assist=<!-- Tandem verification stoppped here 10/27/18 -->
+                  <pb n="7" xml:id="page-7"
                      facs="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi8xMi5oYXNsaWdodGJveFRodW1ibmFpbFZlcnNpb24vQkNfTVNfMTljX0dhc2tlbGwtM18wMTIudGlm.jpg"
                      ed="Brotherton: ance from hands"
                   /><!--photo blocks the equal sign used to mark split word or there is none here--><lb/>ance
@@ -627,23 +638,23 @@
                   <quote>Do not let them have <choice>
                         <sic>any thing</sic>
                         <reg>anything</reg>
-                     </choice> they <lb/>cry for</quote><note resp="#mjk">This source has not been identified.</note>, another (<persName ref="#Mme_DeSaussure"
-                        >M<hi rend="superscript">me</hi> Necker de Saus<lb break="no"
-                     />=sure</persName>, <title>sur L'Education Progressive</title><note resp="#mjk"
-                        ><title>L’Education Progressive; ou, etude sur la cours de la vie</title>
-                     was published in England in several volumes between <date when="1829"
-                        >1829</date> and <date when="1838">1838</date>. <persName
-                        ref="#Elizabeth_Stevenson_Gaskell">Gaskell</persName> must have been reading
-                     the original French; an English translation was not printed in <placeName
-                        ref="#England">England</placeName> until <date when="1838">1838</date>.
-                        <persName ref="#Mme_DeSaussure">Mme Necker de Saussure</persName> was a
-                     Swiss woman of letters known primarily for this text. The quotation included
-                     here (“les larmes des enfans sont si amère, la calme parfaite de l’âme leur est
-                     si necessaire qu’il faut surtout epargner des larmes”) is translated “The tears
-                     of infants are so bitter, the perfect calm of the soul is so necessary to them,
-                     that it is necessary especially to spare them tears.” (Translation by Melissa
-                     Klamer, 2019) </note><!--lang="Fr"-->, the <lb/>nicest <title
-                     ref="sur L'Education_Progressive"
+                     </choice> they <lb/>cry for</quote><note resp="#mjk">This source has not been
+                     identified.</note>, another (<persName ref="#Mme_DeSaussure">M<hi
+                        rend="superscript">me</hi> Necker de Saus<lb break="no"/>=sure</persName>,
+                     <title>sur L'Education Progressive</title><note resp="#mjk"><title>L’Education
+                        Progressive; ou, etude sur la cours de la vie</title> was published in
+                     England in several volumes between <date when="1829">1829</date> and <date
+                        when="1838">1838</date>. <persName ref="#Elizabeth_Stevenson_Gaskell"
+                        >Gaskell</persName> must have been reading the original French; an English
+                     translation was not printed in <placeName ref="#England">England</placeName>
+                     until <date when="1838">1838</date>. <persName ref="#Mme_DeSaussure">Mme Necker
+                        de Saussure</persName> was a Swiss woman of letters known primarily for this
+                     text. The quotation included here (“les larmes des enfans sont si amère, la
+                     calme parfaite de l’âme leur est si necessaire qu’il faut surtout epargner des
+                     larmes”) is translated “The tears of infants are so bitter, the perfect calm of
+                     the soul is so necessary to them, that it is necessary especially to spare them
+                     tears.” (Translation by Melissa Klamer, 2019) </note><!--lang="Fr"-->, the
+                  <lb/>nicest <title ref="sur L'Education_Progressive"
                   >book</title><!-- bibl, rather than title here? --> I have read on the subject <pb
                      n="9" xml:id="page-9"
                      facs="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi8xNC5oYXNsaWdodGJveFRodW1ibmFpbFZlcnNpb24vQkNfTVNfMTljX0dhc2tlbGwtM18wMTQudGlm.jpg"
@@ -651,7 +662,10 @@
                   <lb/>says <quote><!--lang
                   ref="fr"-->les larmes des
                         <sic>enfans</sic> sont si a=<lb break="no"/>=mires, la calme parfaite de
-                     l'âme <unclear unit="word" n="1"><supplied resp="#Wilson">leur</supplied></unclear><note resp="#mjk">The last word of this line is unclear. My transcription of "leur" is drawn from J.A.V. Chapple's and Anita Wilson's work in their 1996 edition of the journal.</note>
+                     l'âme <unclear unit="word" n="1"><supplied resp="#Wilson"
+                        >leur</supplied></unclear><note resp="#mjk">The last word of this line is
+                        unclear. My transcription of "leur" is drawn from J.A.V. Chapple's and Anita
+                        Wilson's work in their 1996 edition of the journal.</note>
                      <lb/>est si neccessaire qu'il faut surtout a<!--accent mark-->=<lb break="no"
                      />=parquer des larmes.</quote> So I had to <lb/>make a rule for myself, and
                   though <lb/>I am afraid I have not kept to it <lb/>quite as I ought, I still think
@@ -812,8 +826,16 @@
                      <sic>ſ</sic>
                      <reg>s</reg>
                   </choice>sion she sees. If <del rend="strikethrough">we</del><add place="inline"
-                     >I</add><note resp="#mjk"> Wilson and Chapple note this word as <q>we,</q> changed from <q>I</q>. On close inspection of the manuscript, however, it is apparent that the strikethrough, which Gaskell usually writes as a horizontally squiggly line, is passing through <q>we</q>. I have chosen to transcribe the word "we", as did Joanne Shattock in her 2006 edition. This change is consistent with Gaskell’s writing throughout the journal; she critiques herself frequently, and comments on the responsibility which weighs heavily on her as a mother. Changing the pronoun to “we” would have been an uncharacteristically public gesture, given the context in which it occurs. </note> could <lb/>but consider a child properly, what <lb/>a beautiful
-                  safe-guard from evil would <lb/><choice>
+                     >I</add><note resp="#mjk"> Wilson and Chapple note this word as <q>we,</q>
+                     changed from <q>I</q>. On close inspection of the manuscript, however, it is
+                     apparent that the strikethrough, which Gaskell usually writes as a horizontally
+                     squiggly line, is passing through <q>we</q>. I have chosen to transcribe the
+                     word "we", as did Joanne Shattock in her 2006 edition. This change is
+                     consistent with Gaskell’s writing throughout the journal; she critiques herself
+                     frequently, and comments on the responsibility which weighs heavily on her as a
+                     mother. Changing the pronoun to “we” would have been an uncharacteristically
+                     public gesture, given the context in which it occurs. </note> could <lb/>but
+                  consider a child properly, what <lb/>a beautiful safe-guard from evil would <lb/><choice>
                      <sic>it's</sic>
                      <reg>its</reg>
                   </choice> presence be. Oh! I do hope &amp; intend </p>
@@ -826,9 +848,17 @@
                with XML and IIIF, and he will know how this is best done.  
                -->
                <gap unit="lines" quantity="6"/>
-               <note resp="#mjk">The top third of the second leaf of this entry has been cut away.
+               
+               <p><lb/>
+                  <lb/><note resp="#mjk">The top third of the second leaf of this entry has been cut away,
+                  but the beginning of two lines of text remain. The first contains a small mark
+                  that may be the upstroke to a letter. A subsequent line contains an equal sign,
+                  Gaskell's characteristic mark for a word which has been split across the line,
+                  followed by one stroke of a letter. Taken together, and compared to her usual
+                  handwriting size, these marks seem to indicate that approximately six lines of
+                  text existed on the cut away portion of the page, and are missing here.
                   See headnote for this entry.</note>
-               <p><lb/>how all a woman's life, at least so it <lb/>seems to me now, ought to have a
+                  <lb/>how all a woman's life, at least so it <lb/>seems to me now, ought to have a
                      refe=<lb break="no"/>=rence to the period when she will be ful=<lb break="no"
                   />=filling one of her greatest &amp; highest<lb/> duties, those of a mother. I
                   feel myself<lb/> so unknowing, so doubtful about many<lb/> things in her
@@ -842,25 +872,27 @@
                   facs="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi8yMC5oYXNsaWdodGJveFRodW1ibmFpbFZlcnNpb24vQkNfTVNfMTljX0dhc2tlbGwtM18wMjAudGlm.jpg"
                   ed="Brotherton: afraid of pleasure "/>
                <p><gap unit="lines" quantity="6"
-                     ><!--quantity unknown here, back of gap margin is not visible--></gap><note
-                     resp="#mjk">The top third of the second leaf of this entry has been cut away.
-                     See headnote for this entry.</note><lb/>afraid of pleasure being a<choice>
+                     ><!--quantity unknown here, back of gap margin is not visible--></gap>
+                  <lb/>
+                  <note resp="#mjk">The top third of the second leaf of this entry has been cut away. It is unclear how many lines of text may be missing, as no portions of text remain in the margin. See
+                     headnote for this entry.</note><lb/>afraid of pleasure being a<choice>
                      <sic>ſ</sic>
                      <reg>s</reg>
                   </choice>sociated with<lb/> the faces of pain they pull. Perhaps this<lb/> is
                   foolish but I will put every thing down<lb/> relating to her.</p>
                <p><lb/>She has been to <placeName ref="#Knutsford">Knutsford</placeName> and
-                     <placeName ref="#Warrington">Warring<lb/>ton</placeName>since I last wrote in
+                     <placeName ref="#Warrington">Warring<lb/>ton</placeName> since I last wrote in
                   this journal.<lb/> And oh! after her visit to <placeName ref="#Warrington"
                      >Warrington</placeName><lb/> she was very very ill; and I was very<lb/> much
                   afraid we should have lost her.<lb/> I did so try to be resigned; but I
                   cannot<lb/> tell how I sickened at my heart, at<lb/> the thought of seeing her no
-                  more here.<lb/><note resp="#mjk">Gaskell quotes, without attribution, from the eleventh stanza of <q>To
-                        A Dying Infant,</q> a poem written by Caroline Bowles (later Southey), which
-                     was originally published in “Blackwood’s Edinburgh Magazine” in 1821,
-                     frequently reprinted, and often used as an epitaph in the period. Gaskell has
-                     changed the pronouns; in the original, the infant is male. See headnote to this
-                     entry for information on Caroline Bowles.</note><quote type="unattributed">
+                  more here.<lb/><note resp="#mjk">Gaskell quotes, without attribution, from the
+                     eleventh stanza of <q>To A Dying Infant,</q> a poem written by Caroline Bowles
+                     (later Southey), which was originally published in “Blackwood’s Edinburgh
+                     Magazine” in 1821, frequently reprinted, and often used as an epitaph in the
+                     period. Gaskell has changed the pronouns; in the original, the infant is male.
+                     See headnote to this entry for information on Caroline Bowles.</note><quote
+                     type="unattributed">
                      <lg>
                         <l>Her empty crib to see</l>
                         <l>Her silent nursery,</l>
@@ -984,7 +1016,12 @@
             <div type="entry" n="3">
                <head>
                   <date when="1835-10-04">Sunday <time>Evening</time>
-                     <unclear unit="word" n="1"><supplied><hi rend="strikethrough">August</hi></supplied></unclear><note resp="#mjk">The struck through word here appears to be "August". Gaskell's first line of the entry notes that she had looked back to see how long it had been since her previous entry, which was in August. It is probable that she mistakenly wrote down "August" here and then corrected the mistake.</note> October 4 1835</date>
+                     <unclear unit="word" n="1"><supplied><hi rend="strikethrough"
+                           >August</hi></supplied></unclear><note resp="#mjk">The struck through
+                        word here appears to be "August". Gaskell's first line of the entry notes
+                        that she had looked back to see how long it had been since her previous
+                        entry, which was in August. It is probable that she mistakenly wrote down
+                        "August" here and then corrected the mistake.</note> October 4 1835</date>
                </head>
                <p>
                   <lb/>I see it is exactly two months since I <lb/>last wrote in this book, and I
@@ -1103,12 +1140,15 @@
                   childish lip look so eloquent. </p>
                <p><lb/>She is very much tired &amp; consequently more <lb/>irritable after a certain
                   degree of play, &amp; <unclear unit="word" quantity="1"><supplied resp="#Wilson"
-                        >novelty</supplied></unclear><note resp="#mjk">The word "novelty" wraps downward diagonally at the edge of the page, and the initial "n" is very unclear. The transcription of the word "novelty" is supplied here after consultation of previous editions by J.A.V. Chapple / Anita Wilson and Joanne Shattock.</note><lb/> and besides her sensibilities seem to me
-                  very <lb/>acute. If she sees others laughing when she is <lb/>grave &amp; serious,
-                  or is not aware of the joke; she <lb/>bursts into tears; I fancy it must a want
-                  <lb/>of sympathy with her (at the time) serious <lb/>&amp; thoughtful feelings
-                  which makes her cry, <lb/>but it must be a morbid feeling I should <lb/>think,
-                  &amp; one that for her happine<choice>
+                        >novelty</supplied></unclear><note resp="#mjk">The word "novelty" wraps
+                     downward diagonally at the edge of the page, and the initial "n" is very
+                     unclear. The transcription of the word "novelty" is supplied here after
+                     consultation of previous editions by J.A.V. Chapple / Anita Wilson and Joanne
+                     Shattock.</note><lb/> and besides her sensibilities seem to me very <lb/>acute.
+                  If she sees others laughing when she is <lb/>grave &amp; serious, or is not aware
+                  of the joke; she <lb/>bursts into tears; I fancy it must a want <lb/>of sympathy
+                  with her (at the time) serious <lb/>&amp; thoughtful feelings which makes her cry,
+                  <lb/>but it must be a morbid feeling I should <lb/>think, &amp; one that for her happine<choice>
                      <sic>ſ</sic>
                      <reg>s</reg>
                   </choice>s had <lb/>better be checked, <hi rend="underline">if I but knew
@@ -1116,7 +1156,9 @@
                   her <persName ref="#Wm_Gaskell">Papa</persName> after an <lb/>absence of a few
                   days; and I thought tears <lb/>were not a common manifestation of joy <lb/>in
                   children (so young, not 13 months old yet.<supplied resp="#mjk">)</supplied>
-<note resp="#mjk">The closing parentheses are missing in the manuscript here; they have been supplied by the editor.</note>                  <lb/>I feel very ignorant of the best way of ma=<lb break="no"/>=naging their
+                  <note resp="#mjk">The closing parentheses are missing in the manuscript here; they
+                     have been supplied by the editor.</note>
+                  <lb/>I feel very ignorant of the best way of ma=<lb break="no"/>=naging their
                   sensibilities, so beautiful when <lb/>healthy, &amp; so distre<choice>
                      <sic>ſ</sic>
                      <reg>s</reg>
@@ -1187,10 +1229,10 @@
                <p><lb/><seg type="prayer"><persName ref="#God">Lord</persName>! Unto thee do I
                      commit this darling <lb/>precious treasure; thou knowest how I love <lb/>her; I
                      pray that I may not make her too <lb/>much my idol, and oh! if thoug shouldst
-                     <lb/>call her away from <q>the evil to come</q> may <lb/>I try to yield
-                     her up to him who gave her <lb/>to me without a murmur - I hope I may <lb/>say
-                     thou also knowest how truly I wish to <lb/>do my duty to her; Help my
-                     ignorance. O <persName ref="#God">Lord</persName>
+                     <lb/>call her away from <q>the evil to come</q> may <lb/>I try to yield her up
+                     to him who gave her <lb/>to me without a murmur - I hope I may <lb/>say thou
+                     also knowest how truly I wish to <lb/>do my duty to her; Help my ignorance. O
+                        <persName ref="#God">Lord</persName>
                      <lb/>strengthen my good purposes, &amp; preserve <pb n="28" xml:id="page-28"
                         facs="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi8zMy5oYXNsaWdodGJveFRodW1ibmFpbFZlcnNpb24vQkNfTVNfMTljX0dhc2tlbGwtM18wMzMudGlm.jpg"
                         ed="Brotherton: a due sense of my holy trust"/><lb/>a due sense of my holy
@@ -1287,8 +1329,10 @@
                   present; but when she has <lb/>been angry, we look grave, <hi rend="underline"
                      >not</hi>
                   <hi rend="underline">angry</hi>, &amp; <lb/>sometimes put our<unclear
-                     reason="illegible" unit="chars" quantity="1"/><note resp="#mjk">One letter is unclear here; it appears to be an accidental mark that was crossed out.</note> hands before our <lb/>faces,
-                  which always attracts her attention, <lb/>&amp; by so doing stops her little pa<choice>
+                     reason="illegible" unit="chars" quantity="1"/><note resp="#mjk">One letter is
+                     unclear here; it appears to be an accidental mark that was crossed out.</note>
+                  hands before our <lb/>faces, which always attracts her attention, <lb/>&amp; by so
+                  doing stops her little pa<choice>
                      <sic>ſ</sic>
                      <reg>s</reg>
                   </choice>sion. <lb/>She tries to pull in down<!-- Look up this phrase -->, &amp; I
@@ -1358,8 +1402,10 @@
                   her <lb/>having been put in <add place="above">it<metamark place="below"
                         function="insertion" rend="caret"/></add> too cold sometimes. <lb/>She
                   dislikes <hi rend="underline">finishing</hi> her food, and by <lb/><unclear
-                     unit="character" quantity="1"><supplied resp="#mjk">a</supplied></unclear><note resp="#mjk">The "a" appears to be multiple characters here. It is possible that Gaskell began one letter and then changed it. .</note>
-                  curious sort of fancy, often refuses <pb n="32" xml:id="page-32"
+                     unit="character" quantity="1"><supplied resp="#mjk">a</supplied></unclear><note
+                     resp="#mjk">The "a" appears to be multiple characters here. It is possible that
+                     Gaskell began one letter and then changed it. .</note> curious sort of fancy,
+                  often refuses <pb n="32" xml:id="page-32"
                      facs="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi8zNy5oYXNsaWdodGJveFRodW1ibmFpbFZlcnNpb24vQkNfTVNfMTljX0dhc2tlbGwtM18wMzcudGlm.jpg"
                      ed="Brotherton: the last two or three"/><lb/>the last two or three spoonsful
                   through <lb/>dread of coming to the bottom.</p>
@@ -1392,10 +1438,13 @@
                   excited, I <lb/>merely described them as <q>things that <lb/>were on the breakfast
                      table this morning</q>. <lb/>(there were
                      none<!-- this incorrect notation - the word is "in", and it is legible albeit underneath what appears to be a blot of ink--><unclear
-                     reason="illegible" unit="word" quantity="1"><supplied resp="#mjk"
-                     > in</supplied></unclear><note resp="#mjk">The word "in" is covered by an ink blot, and all but the outstroke of the n is illegible from even a modest reading distance. Upon very close inspection of the manuscript page, the downstrokes of "in" are just visible beneath the ink.</note> the room at the time, <lb/>when immediately she began
-                  to dance <lb/>in <persName ref="#Fanny_household">Fanny</persName>'s arms saying
-                  Bis, bis, bis.</p>
+                     reason="illegible" unit="word" quantity="1"><supplied resp="#mjk">
+                        in</supplied></unclear><note resp="#mjk">The word "in" is covered by an ink
+                     blot, and all but the outstroke of the n is illegible from even a modest
+                     reading distance. Upon very close inspection of the manuscript page, the
+                     downstrokes of "in" are just visible beneath the ink.</note> the room at the
+                  time, <lb/>when immediately she began to dance <lb/>in <persName
+                     ref="#Fanny_household">Fanny</persName>'s arms saying Bis, bis, bis.</p>
                <p><lb/>She is I think a small child, &amp; I fear <lb/>not a very strong one. We
                   hope to <lb/>take <sic>to</sic> her to the sea-side this spring.</p>
                <p><lb/><seg type="prayer">Oh may I constantly bear in mind <lb/>the words <quote>The
@@ -1404,7 +1453,9 @@
                            <sic>ſ</sic>
                            <reg>s</reg>
                         </choice>sed be the <lb/>name of the <persName ref="#God"
-                        >Lord</persName>.</quote><note resp="#mjk">Gaskell quotes Job 1:21, from the King James Version of the Bible. The verb tenses are slightly altered from "gave" in the original.</note></seg> I feel weak &amp; <pb n="34"
+                        >Lord</persName>.</quote><note resp="#mjk">Gaskell quotes Job 1:21, from the
+                        King James Version of the Bible. The verb tenses are slightly altered from
+                        "gave" in the original.</note></seg> I feel weak &amp; <pb n="34"
                      xml:id="page-34"
                      facs="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi8zOS5oYXNsaWdodGJveFRodW1ibmFpbFZlcnNpb24vQkNfTVNfMTljX0dhc2tlbGwtM18wMzkudGlm.jpg"
                      ed="Brotherton: exhausted with writing"/><lb/>exhausted with writing, or I had
@@ -1574,9 +1625,10 @@
                      <sic>ſ</sic>
                      <reg>s</reg>
                   </choice>s &amp; care, <lb/>but she soon <unclear unit="character" quantity="1"
-                     reason="squiggles"
-                  ><supplied resp="#mjk"><hi rend="strikethrough">s</hi></supplied></unclear><note resp="#mjk"> This unclear character appears to be  an s, accidentally added by Gaskell and consequently crossed out.</note>
-                  puts up her finger, and <lb/>says <q>hush</q> &amp; offers to ki<choice>
+                     reason="squiggles"><supplied resp="#mjk"><hi rend="strikethrough"
+                        >s</hi></supplied></unclear><note resp="#mjk"> This unclear character
+                     appears to be an s, accidentally added by Gaskell and consequently crossed
+                     out.</note> puts up her finger, and <lb/>says <q>hush</q> &amp; offers to ki<choice>
                      <sic>ſ</sic>
                      <reg>s</reg>
                   </choice>s the person she <lb/>has offended against. Another more <lb/>difficult
@@ -1606,9 +1658,11 @@
                      <lb/><persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName>, and introducing
                   the names <lb/>of all the things she knows, such as<lb/>"flowers, geese &amp;c. <choice>
                      <supplied resp="#mjk"><q/></supplied>
-                  </choice><note resp="#mjk">The closing quotation marks are missing from the manuscript, and are supplied by the editor here.</note> This and pictures <lb/>delight her extremely, but certainly <lb/>she is
-                  not so independent as she should <lb/>be, and as I intended her to be. She
-                  <lb/>has not much idea of amusing herself<pb n="38" xml:id="page-38"
+                  </choice><note resp="#mjk">The closing quotation marks are missing from the
+                     manuscript, and are supplied by the editor here.</note> This and pictures
+                  <lb/>delight her extremely, but certainly <lb/>she is not so independent as she
+                  should <lb/>be, and as I intended her to be. She <lb/>has not much idea of amusing
+                     herself<pb n="38" xml:id="page-38"
                      facs="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi80My5oYXNsaWdodGJveFRodW1ibmFpbFZlcnNpb24vQkNfTVNfMTljX0dhc2tlbGwtM18wNDMudGlm.jpg"
                      ed="Brotherton: which has been a great error"/><lb/>which has been a great
                   error in her edu=<lb break="no"/>=cation hitherto, probably arising from her
@@ -1627,8 +1681,9 @@
                   <lb/>talents; I hope they may never be neglected <lb/>through me.</p>
                <p><lb/><seg type="prayer"><persName ref="#God">Lord</persName> thou knowest that the
                         <quote>sin that doth <lb/>so easily beset me</quote><note resp="#mjk"
-                        >Gaskell quotes Hebrews 12:1, from the King James translation of the
-                        Bible. The original refers to the plural "us"; Gaskell has personalized the reference.</note> hath overtaken me <lb/>once or twice even with this dear
+                        >Gaskell quotes Hebrews 12:1, from the King James translation of the Bible.
+                        The original refers to the plural "us"; Gaskell has personalized the
+                        reference.</note> hath overtaken me <lb/>once or twice even with this dear
                      child- <lb/>but thou knowest too how bitterly I have <lb/>repented, and how
                      earnestly I mean to <lb/>try for the future. Help thou my weak=<lb break="no"/>=ne<choice>
                         <sic>ſ</sic>
@@ -1781,13 +1836,14 @@
                <p><lb/>She is a famous <choice>
                      <sic>chatter-box</sic>
                      <reg>chatterbox</reg>
-                  </choice> seldom letting <lb/>her little tongue rest either with sense
-                     o<unclear unit="character" quantity="1"
-                     ><supplied resp="#mjk">r</supplied></unclear><note resp="#mjk">This "r" character appears to be written over an "f". </note> non<lb break="no"/>=sense, and it is amusing to hear her talk
-                  <lb/>in this latter fashion, inventing so many new <lb/>sounds in such varied
-                  tones. Her great de=<lb break="no"/>=light is in hearing <q>tories,</q> and little
-                  scraps <lb/>of verse; and I think she shows a pretty <lb/>good memory in repeating
-                  them again. <lb/>We have not begun yet to teach her <choice>
+                  </choice> seldom letting <lb/>her little tongue rest either with sense o<unclear
+                     unit="character" quantity="1"><supplied resp="#mjk">r</supplied></unclear><note
+                     resp="#mjk">This "r" character appears to be written over an "f". </note>
+                     non<lb break="no"/>=sense, and it is amusing to hear her talk <lb/>in this
+                  latter fashion, inventing so many new <lb/>sounds in such varied tones. Her great
+                     de=<lb break="no"/>=light is in hearing <q>tories,</q> and little scraps
+                  <lb/>of verse; and I think she shows a pretty <lb/>good memory in repeating them
+                  again. <lb/>We have not begun yet to teach her <choice>
                      <sic>any thing</sic>
                      <reg>anything</reg>
                   </choice>
@@ -1810,7 +1866,9 @@
                         <reg>s</reg>
                      </choice>sons</hi> &amp;c, &amp; even <lb/>then it shall be in compliance with
                   her own <!-- Tandem Verification paused - 3/30/20 --><lb/>wish to learn, which
-                  wish I must try to excite<supplied resp="#mjk">.</supplied><note resp="#mjk">This period is not present in the manuscript and has been editorially supplied.</note>
+                  wish I must try to excite<supplied resp="#mjk">.</supplied><note resp="#mjk">This
+                     period is not present in the manuscript and has been editorially
+                     supplied.</note>
                   <lb/>So much for <hi rend="underline">intellect</hi>. Now for morals.</p>
                <p><lb/>There have been times when I have felt, oh! <lb/>so cast down by her
                   wrong-doing, and as I <lb/>think I am very easily impre<choice>
@@ -1841,12 +1899,17 @@
                   offender into a corner <lb/>had no effect with her, as she made it into <lb/>a
                   game to <q><hi rend="underline"
                         >d</hi><!-- This g should be placed completely above the d. Gaskell inserts it to mark the translation of Marianne's child-speak.  --><add
-                        place="above">g</add>o<note resp="#mjk">Gaskell inserts the <q>g</q> directly above the d in the manuscript to indicate that Marianne means to say "go" but is pronouncing it with a "d" instead. In subsequent transcription of her speech, Gaskell simply spells Marianne's words as they sound.</note> into a corner and be naughty <lb/>little girl;</q> so
-                  the last we have tried is <lb/>putting her into a high chair, from which <lb/>she
-                  cannot get out, and leaving her there <lb/>(always in the same room with one of
-                  us) <lb/>till some little sign of sorrow is shown. <lb/>This with grave and
-                  sorrowful looks on our <lb/>part has generally had the desired effect<supplied
-                     resp="#mjk">.</supplied><note resp="#mjk">This period is not in the manuscript and has been supplied by the editor for clarity of reading.</note>
+                        place="above">g</add>o<note resp="#mjk">Gaskell inserts the <q>g</q>
+                        directly above the d in the manuscript to indicate that Marianne means to
+                        say "go" but is pronouncing it with a "d" instead. In subsequent
+                        transcription of her speech, Gaskell simply spells Marianne's words as they
+                        sound.</note> into a corner and be naughty <lb/>little girl;</q> so the last
+                  we have tried is <lb/>putting her into a high chair, from which <lb/>she cannot
+                  get out, and leaving her there <lb/>(always in the same room with one of us)
+                  <lb/>till some little sign of sorrow is shown. <lb/>This with grave and sorrowful
+                  looks on our <lb/>part has generally had the desired effect<supplied resp="#mjk"
+                     >.</supplied><note resp="#mjk">This period is not in the manuscript and has
+                     been supplied by the editor for clarity of reading.</note>
                   <lb/>She often talks to herself about the consequences <lb/>of her conduct.
                      <q>Baby <hi rend="underline">d</hi>ood <hi rend="underline">d</hi>irl, make
                         <lb/><persName ref="#Wm_Gaskell">Papa</persName> and <persName
@@ -1982,7 +2045,9 @@
                      <lb/>earthen ve<choice>
                         <sic>ſ</sic>
                         <reg>s</reg>
-                     </choice>sels</quote><note resp="#mjk">Gaskell is referring to the Bible here, from 2 Corinthians 4:7, which refers to "treasure in earthen vessels." </note> are.</p>
+                     </choice>sels</quote><note resp="#mjk">Gaskell is referring to the Bible here,
+                     from 2 Corinthians 4:7, which refers to "treasure in earthen vessels." </note>
+                  are.</p>
                <p>
                   <lb/><seg type="prayer">Oh God! give me that spirit which can feel <lb/>and say
                      not my will but thine be done. <lb/>Teach me to love this darling chlld with
@@ -2255,8 +2320,9 @@
                   me <persName ref="#Hannah_Holland_Lumb">Aunt Lumb</persName> did not live with
                      <lb/><persName ref="#Abigail_Holland">Aunt Ab</persName> now; she had left that
                   house. I longed to <lb/>say she was <quote>gone to a house not made with hands,
-                     <lb/>eternal, in the heavens.</quote><note resp="#mjk">Gaskell quotes 2 Corinthians 5:1, King James Version.</note> But I thought I had better <lb/>not, for
-                  to her it would have been unintelligible at <lb/>present.
+                     <lb/>eternal, in the heavens.</quote><note resp="#mjk">Gaskell quotes 2
+                     Corinthians 5:1, King James Version.</note> But I thought I had better
+                  <lb/>not, for to her it would have been unintelligible at <lb/>present.
                   <!--pen shift--><!-- Ink change; darker strokes follow -->Before she went to
                      <placeName ref="#Knutsford">Knutsford</placeName> in <date when="1837-09"
                      >September</date>, <lb/>she had again a few days of untractablene<choice>
@@ -2468,10 +2534,10 @@
                      <reg>s</reg>
                   </choice>sing <lb/>to me; - she <hi rend="underline">may</hi> meet with children
                   who may <lb/>teach her the meaning of things of which at <lb/>present we desire to
-                  keep her ignorant, that <lb/>we may give her correct ideas when her mind
-                  <lb/>is more advanced; such as Death, falsehood <lb/>&amp;c &amp;c. But our
-                  reasons for wishing her to go <lb/>to school, are also strong; not to advance her
-                     <pb n="64" xml:id="page-64"
+                  keep her ignorant, that <lb/>we may give her correct ideas when her mind <lb/>is
+                  more advanced; such as Death, falsehood <lb/>&amp;c &amp;c. But our reasons for
+                  wishing her to go <lb/>to school, are also strong; not to advance her <pb n="64"
+                     xml:id="page-64"
                      facs="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi83NS5oYXNsaWdodGJveFRodW1ibmFpbFZlcnNpb24vQkNfTVNfMTljX0dhc2tlbGwtM18wNjkudGlm.jp"
                      ed="Brotherton: rapidly in any branch of learning"/><lb/>rapidly in any branch
                   of learning, for <persName ref="#Wm_Gaskell">William</persName>
@@ -2515,8 +2581,10 @@
                      <hi rend="underline">material</hi> questions. <q>When does
                      <!-- encode the emdash? --> - go to <lb/>bed,</q> &amp;c. But now we talk
                   together in a low <lb/>tone, and she likes to hear about him, and refers <lb/>very
-                  properly to him as the <quote>Giver of every good <lb/>thing.</quote><note resp="#mjk">A paraphrased reference to James 1:17, KJV: "Every good gift and every perfect gift is from above, and cometh down from the Father".</note> (Not her
-                  words, of course.) Her <persName ref="#Elizabeth_Gaskell_Holland">Aunt Liz=<lb
+                  properly to him as the <quote>Giver of every good <lb/>thing.</quote><note
+                     resp="#mjk">A paraphrased reference to James 1:17, KJV: "Every good gift and
+                     every perfect gift is from above, and cometh down from the Father".</note> (Not
+                  her words, of course.) Her <persName ref="#Elizabeth_Gaskell_Holland">Aunt Liz=<lb
                         break="no"/>=zy</persName> is coming here soon, and tonight I told <lb/>her
                   we should have <persName ref="#Elizabeth_Gaskell_Holland">Aunt Lizzy</persName>
                   here in three <lb/>weeks, if we were all well. <q>But whom must <lb/>we ask to
@@ -2528,8 +2596,11 @@
                      <date>Christmas day</date>, &amp; <lb/>was I think a little tired, though she
                   likes <lb/>much to talk about it.</p>
                <p>She has picked up all her large letters, <lb/>and can arrange them so as to make
-                  Dog <lb/>Cow, Horse. She can say <q><title>The Little Busy Bee</title></q><note resp="#mjk">Marianne is 3 and a half here, and knows all her letters and how to spell simple words. She can also repeat the poem by Isaac Watts. Watts was a prominent dissenter and hymn writer, who wrote some texts of poetry for children.</note>- <pb
-                     n="67" xml:id="page-67"
+                  Dog <lb/>Cow, Horse. She can say <q><title>The Little Busy Bee</title></q><note
+                     resp="#mjk">Marianne is 3 and a half here, and knows all her letters and how to
+                     spell simple words. She can also repeat the poem by Isaac Watts. Watts was a
+                     prominent dissenter and hymn writer, who wrote some texts of poetry for
+                     children.</note>- <pb n="67" xml:id="page-67"
                      facs="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi83OC5oYXNsaWdodGJveFRodW1ibmFpbFZlcnNpb24vQkNfTVNfMTljX0dhc2tlbGwtM18wNzIudGlm.jpg"
                      ed="Brotherton: but I do not know if she attaches much meaning"/><lb/>but I do
                   not know if she attaches much <lb/>meaning to the words.</p>
@@ -2662,7 +2733,9 @@
                      darling children, may I <lb/>not be too much wrapt up in them. Every <lb/>proof
                      of <persName ref="#MA_Gaskell_Holland">Marianne</persName>'s delicacy seems to
                         en=<lb break="no"/>=dear her more to me.<supplied resp="#mjk"
-                     >)</supplied><note resp="#mjk">This closing parentheses is not in the manuscript and has been supplied by the editor.</note></seg><!-- missing closing parentheses --></p>
+                        >)</supplied><note resp="#mjk">This closing parentheses is not in the
+                        manuscript and has been supplied by the
+                  editor.</note></seg><!-- missing closing parentheses --></p>
                <p><lb/>when I last wrote in my journal, I was <lb/>stopped by the <choice>
                      <sic>latene<choice>
                            <sic>ſ</sic>
@@ -2685,7 +2758,9 @@
                   </choice>sage directly making to=<lb break="no"/>wards the kitchen. She can raise
                   herself by <lb/>any thing on to her feet, but has no idea of <lb/>walking. She
                   will play on the floor for an <lb/>hour at a time in preference to being <unclear
-                     unit="word" quantity="1"><supplied resp="#Wilson">nursed</supplied></unclear>. <note resp="#mjk">Both Wilson and Chapple in their 1996 edition and Joanne Shattock in her 2006 edition identify this word as "nursed".</note><!-- Wilson and Shattock say "nursed" -->
+                     unit="word" quantity="1"><supplied resp="#Wilson">nursed</supplied></unclear>.
+                     <note resp="#mjk">Both Wilson and Chapple in their 1996 edition and Joanne
+                     Shattock in her 2006 edition identify this word as "nursed".</note><!-- Wilson and Shattock say "nursed" -->
                   <lb/>She has no idea of talking, though she is <lb/>constantly singing and making
                   noises. She <lb/>is very affectionate, but not so sensitive as <lb/><persName
                      ref="#MA_Gaskell_Holland">M. A.</persName> was, for instance she does not in
@@ -2904,10 +2979,11 @@
                   perseverance and depend<choice>
                      <reg>e</reg>
                      <sic>a</sic>
-                  </choice>nce <lb/>upon <unclear unit="word" quantity="1"
-                     ><supplied resp="#Wilson">others</supplied></unclear><note resp="#mjk">Both previous editors identify this word as "others".</note> as to her
-                  occupations and amuse=<lb break="no"/>=ments. I have begun to teach her a little
-                  prayer <lb/>morning and night, merely a few words, <pb n="77" xml:id="page-77"
+                  </choice>nce <lb/>upon <unclear unit="word" quantity="1"><supplied resp="#Wilson"
+                        >others</supplied></unclear><note resp="#mjk">Both previous editors identify
+                     this word as "others".</note> as to her occupations and amuse=<lb break="no"
+                  />=ments. I have begun to teach her a little prayer <lb/>morning and night, merely
+                  a few words, <pb n="77" xml:id="page-77"
                      facs="https://explore.library.leeds.ac.uk/ixif/media/aHR0cHM6Ly9kaWdpdGFsLmxpYnJhcnkubGVlZHMuYWMudWsvODI2Mi85My5oYXNsaWdodGJveFRodW1ibmFpbFZlcnNpb24vQkNfTVNfMTljX0dhc2tlbGwtM18wODIudGlm.jpg"
                      ed="Brotherton: of thanksgiving and blessing."/><lb/>of thanksgiving and ble<choice>
                      <sic>ſ</sic>
@@ -2915,8 +2991,10 @@
                   </choice>sing. I am not sure <lb/>that she attaches much devotional feeling to
                   this <lb/>observance, but I thought it desirable to lead her <lb/>to something
                   beyond the visible and material, and <lb/>some day I hope more interest will be
-                  shown as <unclear resp="Shattock_and_Wilson"
-                     ><supplied resp="#Wilson">to</supplied></unclear><note resp="#mjk">Both previous editions have identified this word as "to". The crossbar of the "t" has nearly disappeared with age. </note>
+                  shown as <unclear resp="Shattock_and_Wilson"><supplied resp="#Wilson"
+                        >to</supplied></unclear><note resp="#mjk">Both previous editions have
+                     identified this word as "to". The crossbar of the "t" has nearly disappeared
+                     with age. </note>
                   <lb/>the <persName ref="#God">Being</persName> to whom they are addre<choice>
                      <sic>ſ</sic>
                      <reg>s</reg>
