@@ -285,6 +285,10 @@
          <!-- From TEI: "summarizes the revision history for a file." -->
          <listChange>
             <change when="2020-05-29" resp="#mjk">Added editorial notes for unclear and supplied tags; corrected minor issues with spacing on some lines. Updated XSLT to properly represent strikethroughs.</change>
+            <change when="2020-05-27" resp="#mjk">CSS updating for new headers.</change>
+            <change when="2020-05-16" resp="#mjk">Removed milestone encoding; updates to header.</change>
+            <change when="2020-05-14" resp="#mjk">Updated dropdown menus; created page structure for additional resources.</change>
+            <change when="2020-05-13" resp="#mjk">Added dropdown menus; new website header.</change>
             <change when="2020-04-21" resp="#mjk">Updated file name:
                Gaskell-Journal-TEI-GDE2020.xml</change>
             <change when="2020-04-16" resp="#mjk">Updating change log. Added collaborator
