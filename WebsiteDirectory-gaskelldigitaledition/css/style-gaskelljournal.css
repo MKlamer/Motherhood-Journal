@@ -127,7 +127,7 @@ z-index: 20;}
 
  span.gap {border: dashed;  display:inline-block;}
 
-
+span.title {font-style: italic;}
 
 /* Styling Acknowledgements Page (Descriptive List) */
 dl {line-height: 2em; padding-left: 5em; padding-right: 5em;}
