@@ -5,73 +5,100 @@
         <title>Gaskell Journal Methodology</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
     </head>
-    <body>     <!-- Navigational Header Begin -->
+    <body>      <!-- Navigational Header Begin -->
         <div class="navigation">
-            <table class="navigation">
-                <tr>
-                    <td class="home"><div class="navLink"><a href="index.html">Home</a></div></td>
-                    <td><div class="dropdown">
-                        <button class="dropbtn">The Dissertation</button>
-                        <div class="dropdown-content">
-                            <a href="gde-dissertationrationalepage.html">Dissertation Rationale</a>
-                            <a href="gde-digitaldissertationpage.html">Read the Dissertation Chapter</a>
-                            <a href="abouteditorpage.html">About the Editor</a>
-                        </div>
-                        
-                    </div></td>
-                    <td><div class="dropdown">
-                        <button class="dropbtn">About</button>
-                        <div class="dropdown-content">
-                            <a href="gde-aboutpage.html">Previous Editions</a>
-                            <a href="https://github.com/MKlamer/Motherhood-Journal"
-                                target="_blank">View the TEI File</a>
-                            <a href="gde-acknowledgements.html">Acknowledgements</a>
-                            <a href="gde-methodspage.html">Methodology</a>
-                            <a href="gde-editorialpolicypage.html">Editing Policy</a>
-                        </div>
-                    </div></td>
-                    <td><div class="navLink">
-                        <a href="gde-editionpage.html">Elizabeth Gaskell Journal:<br/>The Digital Edition</a>
-                    </div></td>
-                    <td><div class="dropdown">
-                        <button class="dropbtn">Gaskell's World</button>
-                        <div class="dropdown-content">
-                            <a href="gde-gaskellpage.html">Gaskell's Journal</a>
-                            <a href="gde-personpage.html">Key People</a>
-                            <a href="gde-diaryessay.html">Victorian Diaries</a>
-                            <a href="gde-motherhoodessay.html">Victorian Motherhood</a>
-                            <!-- <a href="gde-familytreepage.html">Gaskell's Family</a> -->
+            <nav>
+                <div class="navbar" id="navbar">
+                    <div class="block"></div>
+                    <ul class="navigation">
+                        <li><a class="Homelink" href="index.html">Home</a></li>
+                        <li><div class="dropdown">
+                            <button class="dropbtn">The Dissertation</button>
+                            <div class="dropdown-content">
+                                <a href="gde-dissertationrationalepage.html">Dissertation Rationale</a>
+                                <a href="gde-digitaldissertationpage.html">Read the Dissertation
+                                    Chapter</a>
+                                <a href="gde-abouteditorpage.html">About the Editor</a>
+                            </div>
                             
-                            <!-- ? Gaskell As Novelist -->
-                        </div>
-                    </div></td>
-                    <td><div class="dropdown">
-                        <button class="dropbtn">Resources</button>
-                        <div class="dropdown-content">
-                            <a href="gde-resourcespage.html">Other Gaskell Resources</a>
-                            <a href="gde-otherprojects.html">More 19th Century Digital Editions</a>
-                            <a href="gde-projecttoolspage.html">Digital Tools Used in the
-                                Project</a>
-                            <a href="gde-alphabetpage.html">Gaskell's Handwriting</a>
-                        </div>
-                    </div></td>
-                </tr>
-            </table><div class="block"></div>
-        </div><a href="index.html"><img class="header" id="headerimage" width="1920" height="256"
-            src="images/GDE-JournalHeaderRevised.jpg"
-            alt="The Elizabeth Gaskell Journal Header Image"/></a><div class="block"></div>
+                        </div></li>
+                        <li><div class="dropdown">
+                            <button class="dropbtn">About</button>
+                            <div class="dropdown-content">
+                                <a href="gde-aboutpage.html">Previous Editions</a>
+                                <a href="https://github.com/MKlamer/Motherhood-Journal" target="_blank">View the TEI File</a>
+                                <a href="gde-acknowledgements.html">Acknowledgements</a>
+                                <a href="gde-methodspage.html">Methodology</a>
+                                <a href="gde-editorialpolicypage.html">Editing Policy</a>
+                            </div>
+                        </div></li>
+                        <li><div class="Edition">
+                            <a href="gde-editionpage.html">Elizabeth Gaskell Journal:<br />The Digital
+                                Edition</a>
+                        </div></li>
+                        <li><div class="dropdown">
+                            <button class="dropbtn">Gaskell's World</button>
+                            <div class="dropdown-content">
+                                <a href="gde-gaskellpage.html">Gaskell's Journal</a>
+                                <a href="gde-personpage.html">Key People</a>
+                                <a href="gde-diaryessay.html">Victorian Diaries</a>
+                                <a href="gde-motherhoodessay.html">Victorian Motherhood</a>
+                                <!-- <a href="gde-familytreepage.html">Gaskell's Family</a> -->
+                                
+                                <!-- ? Gaskell As Novelist -->
+                            </div>
+                        </div></li>
+                        <li><div class="dropdown">
+                            <button class="dropbtn">Resources</button>
+                            <div class="dropdown-content">
+                                <a href="gde-resourcespage.html">Other Gaskell Resources</a>
+                                <a href="gde-otherprojects.html">More 19th Century Digital Editions</a>
+                                <a href="gde-projecttoolspage.html">Digital Tools Used in the
+                                    Project</a>
+                                <a href="gde-alphabetpage.html">Gaskell's Handwriting</a>
+                            </div>
+                        </div></li>
+                    </ul><div class="block"></div>
+                </div>
+            </nav>
+            <img class="header" id="headerimage" width="1920" height="256"
+                src="images/GDE-JournalHeaderRevised.jpg"
+                alt="The Elizabeth Gaskell Journal Header Image"/>
+            
+            
+        </div>
         <!-- Navigational Header End -->
-        <div class="content"><h3>Methods and Structure:</h3>
-        <h5>Version Control:</h5>
-        <p>The files for the digital edition are stored and version-controlled through a <a href="https://github.com/MKlamer/Motherhood-Journal">GitHub repository</a>. In addition to tracking the project and maintaining a record of changes through the Git version-control system, the GitHub repository simultaneously allows a venue for the online publication of the code underlying the project, participating in a movement that enables the free sharing and remixing of encoding structures and examples to enrich further online projects and data models.</p>
-       <h5>XML Markup</h5>
-        <p>The Elizabeth Gaskell Journal: Digital edition provides a new transcription encoded in eXtensible Markup Language (XML), an international standard for editing documents in the humanities and history defined by the Text Encoding Initiative (TEI) and their current P5 guidelines. View <a href="gde-editorialpolicypage">Editing Policy</a>. This project has been written via the text editor oXygen. XML (extensible markup language) enables the editor to embed contextual information at the level of the code itself, so that research and referencing material is available within the transcription itself. XML is a markup language, through which I as editor am able to place tags around key textual elements to render them machine readable. In this way, the transcription is able to contain embedded information that preserves physical characteristics of the manuscript, including for example line breaks and gaps or physical damage to the pages. The encoded file contains all the metadata that will be required to identify the document, its provenance and its physical description, and also allows for clear references to the editorial and authorial entities who are responsible for interpretive decisions through the inclusion of an attribute.</p> 
+        <div class="content"><h3>Technological Infrastructure:</h3>
+            <p>Multiple digital tools were utilized to store, track and build the digital Edition file and the website that presents it to the public. A list of tools and software used is available on the dissertation website: http://elizabethgaskelldiary.com/gde-projecttoolspage.html. The code files were written and developed using Oxygen XML Editor text editing software.</p>
+            <h4>Git Version Control:</h4>
+            <p>The files for the digital edition are stored and version-controlled through a <a href="https://github.com/MKlamer/Motherhood-Journal" target="_blank">GitHub repository</a>. In addition to tracking the project through maintaining a record of changes through the Git version-control system, the GitHub repository simultaneously allows a venue for the online publication of the code underlying the project, participating in a movement that enables the free sharing and remixing of encoding structures and examples to enrich further online projects and data models.</p>
+            <h4>Reclaim Hosting:</h4>
+            <p>	The Elizabeth Gaskell Journal Digital Edition lives online at www.elizabethgaskelljournal.com. The domain name was purchased by the Editor personally and has been mapped to the msu.domains account held by the Editor through MSU.  The domain space &#39;elizabethgaskelldiary.com&#39; has also been purchased and set up with a redirect that will lead users to the digital edition site. The website is hosted via a Reclaim Hosting account provided to the Editor by MSU, which will continue to be available until a year following my graduation in August 2020. Reclaim is a commercial hosting service contracted by MSU &#39;to provide its graduate students and faculty with a full commercial web hosting package and domains that they control in order to build online spaces for professional portfolios, digital projects, and more&#39; (&#39;Invited&#39;).  At the end of the MSU-provided hosting period, I will migrate the hosting service to a personal account where I will continue to run the site and update the project, adding additional modules as I am able.</p>
+            <h4>TEI Encoding</h4>
+            <p>The Elizabeth Gaskell Journal: Digital edition provides a new transcription encoded in eXtensible Markup Language (XML), an international standard for editing documents in the humanities and history, as defined by the Text Encoding Initiative (TEI) and utilizing their current P5 guidelines. The TEI was founded in 1987 &#39;to develop, maintain, and promulgate hardware- and software-independent methods for encoding humanities data in electronic form&#39; (<a href="https://tei-c.org/about/history/" target="_blank">TEI History</a>). TEI documents are written in XML (Extensible Markup Language), which was published in 1998 by the World Wide Web Consortium (W3C) (Burnard, <a href="https://books.openedition.org/oep/679?lang=en" target="_blank">What Is The TEI?</a>). The TEI Consortium was founded to write and maintain Guidelines, which define a broad tag set to be used in textual encoding. The TEI guidelines provide labels and definitions for a standard group of elements and attributes. The Guidelines are extensive, but also allow customization and have grown with the community of users and the projects being created. TEI projects customize their use of the TEI through the use of schemas, which declare subsets of the entire TEI to be used within individual projects and can also modify the usage suggested in the Guidelines to fit their own projects. </p>
+    
+       <h4>XML Markup</h4>
+            <p>According to Digital Humanities expert and practitioner, Lou Burnard, &#39;An XML document consists of a sequence of human readable characters, with no special additional codes or binary data. The characters &lt; and &gt; are used to mark the start and end of tags within this sequence&#39; (14). XML uses these sets of tags (or elements) around or within portions of the text to &#39;mark&#39; them as containing structural or semantic metadata. Most tags are paired, consisting of an opening and a closing tag, which surround the text they mark. Syntactically, XML tagging is hierarchical; an XML document &#39;is said to be well-formed if it respects the syntax&#8230; with start- and end- tags both present and correctly nested&#39; (Burnard 15). The exception to this is milestone tags, which are self-closing, and do not occur in pairs. Self-closing tags are used to balance the need to encode visual and semantic moments in the text which would normally break the XML hierarchy. For example, a paragraph is often marked in XML by placing &lt;p&gt; tags around the text. When a paragraph, however, flows from one page onto the next, the milestone tag &lt;pb/ which is self-closing and does not require pairing, can be inserted within the paragraph tags. Without milestone elements, markup for each individual page and paragraph would overlap, breaking the hierarchy</p>
+            <h4>Prosopography File</h4>
+            <p>
+                An XML prosopography index was produced simultaneously with the transcription file, which gathers information on all the relevant people, places and texts within the journal. This prosopography assigns unique xml:ids to each entity within the journal (as well as several others referenced in the contextual documents produced as part of the edition), which are tracked and validated through the schema to ensure consistency across project documents. The prosopography gathers relevant detail about these entities that can be used to provide annotations and indexes, and can be mobilized in later stages of the project to connect Gaskell&#34;s social network to those of other prominent figures in the period, and to create data visualizations to support the project. The visualizations can be developed through the use of data obtained from the edition file. Xpath, a query language used to select nodes of an XML document, can be used to read quickly through the XML hierarchy to determine, for example, how many times each individual within the text is referenced. The resulting data could be organized into a table and output as a cluster visualization depicting the relative frequency with which Gaskell refers to each in the journal. 
+            </p>
        <h5>Project Schema</h5> 
         <p>In addition to the  core transcription, the digital edition of the journal makes use of an ODD file, XSLT transformations, and an XML prosopography. The journal&#39;s ODD file governs the code through setting rules and structures against which the transcription is validated. This ODD validation ensures that the code conforms to a correct, hierarchical TEI structure, while also protecting the project&#39;s own consistency in the usage of uniquely assigned xml:ids and designated subset of TEI tags. The project also implements XSLT (extensible stylesheet transformations) which transform the XML transcription into a machine-readable html file for display on web browsers. </p>
         <h5>Prosopography</h5>
         <p>An XML prosopography index was produced simultaneously with the transcription file, which gathers information on all the relevant people, places and texts within the journal. This prosopography assigns unique xml:ids to each entity within the journal (as well as several others referenced in the contextual documents produced as part of the edition), which are tracked and validated through the ODD to ensure consistency across project documents. The prosopography gathers relevant detail about these entities that can be used to provide annotations and indexes, and can be mobilized in later stages of the project to connect Gaskell’s social network to those of other prominent figures in the period, and to create data visualizations to support the project.</p>
-        <h5>IIIF</h5> 
-        <p>A key technology which the edition will make use of is IIIF technology (International Image Interoperability Frameworks). IIIF allows the use of reciprocal APIs to enable the project to digitally enable the use of high-quality pan and zoom ready images of the manuscript pages created by the Brotherton Special Collections within my own digital edition site. Through the use of the APIs and the IIIF images, visitors to the digital edition site will be able to gain rich access to highly detailed images of the original manuscript pages. The coding files for the Digital Edition, including the XML transcription, ODD file, XSLT transformation, XML prosopography, HTML site pages, CSS stylesheet, and Javascript additions, have all been encoded using the text editor oXygen, now in version 22.1. </p>
+            <h4>XSLT: Extensible Stylesheet Transformations</h4>
+            <p>The Elizabeth Gaskell Journal: Digital Edition also implements XSLT (extensible stylesheet transformations) which convert XML into a machine-readable HTML file for display on web browsers. The &#39;People&#39; page of the Edition Website was produced via an XSLT transformation of the prosopography file. The edition&#34;s core HTML digital edition file uses XSLT to seamlessly combine the TEI edition file with data from the XML prosopography file, enabling users reading the digital edition to mouseover and see notes about key people, which are drawn from the prosopography. XSLT was also used to create the HTML table of contents that begins the edition. The well-formedness of XML, together with XSLT, also allows the use of identity transformations, which can be written to make simultaneous adjustments throughout the code file, should updating be necessary. Additional website pages have been encoded using HTML and the entire Edition website is styled with a single CSS file. JavaScript has been added to the Digital Edition page to create an input box, which allows users to select between annotated and simple reading views of the text.</p>
+            <h4>IIIF: International Image Interoperability Frameworks</h4> 
+            <p>I am grateful to the Brotherton Special Collections, whose investment in the long-term availability and sustainability of the manuscript, currently in their possession, produced the IIIF images which the edition imports. The Brotherton images of the journal pages are facilitated and implemented through IIIF technology (International Image Interoperability Frameworks). According to the IIIF website,</p> 
+            <blockquote>The IIIF standards are a set of shared application programming interface (API) 
+            specifications for interoperable functionality in digital asset repositories. Using 
+            JSON-LD, linked data, and standard W3C web protocols such as Web Annotation, IIIF 
+            makes it easy to parse and share digitized materials, migrate across technology systems, 
+            and provide enhanced image access for scholars and researchers.</blockquote><a href="https://iiif.io/" target="_blank">IIIF Information</a>  
+            <p>IIIF (recently amended to IxIF to allow flexibility in promoting openness for multiple media formats) makes images available using a universal API (application programming interface), which locates the files at a persistent link. The advantages of IIIF are twofold: First, the images are merely displayed through the API, which means they do not have to be stored on the site; Second, the images are provided in a high-resolution format. As IIIF makes its materials available without requiring users to have their own copies, it does not require explicit copyright permission. The IIIF image links were obtained through the IIIF manifest <a href="https://explore.library.leeds.ac.uk/ixif/archives-isadg-33745/manifest/0/details.json" target="_blank">JSON manifest file</a>, available on the Brotherton Special Collections website. This JSON file was searched and collated by the editor into a <a href="https://github.com/MKlamer/Motherhood-Journal/blob/master/Gaskell-Diary-IIIF-Manifest.tsv" target="_blank">dataset</a>, now available on the GitHub repository, which provides a linked open data list of all the IIIF images of the manuscript produced by the Brotherton Special Collections.</p> 
+            <p>The resulting Digital Edition is built on the understanding that the use of these digital tools makes available to the reader the methodological and editorial decisions that underlie the presented text of the journal. The complete <a href="https://github.com/MKlamer/Motherhood-Journal/blob/master/Gaskell-Journal-TEI-GDE2020.xml" target="_blank">TEI edition file</a> is available on the site through a link to the GitHub repository. The digital medium also offers the option of allowing readers a choice between a simple reading view of the text and an annotated version. Throughout, the policy of this edition has been to adhere to Gaskell&#34;s own choices; the XML markup, however, makes it possible to simultaneously encode a regularized alternative to obscure spellings or chirography (as in the case of Gaskell&#34;s long s usage), which enables the reader to engage with the text at a level they are comfortable with. The use of encoding also makes possible new levels of analysis through digital tools that can provide insights into Gaskell&#34;s social network.  </p>
+            
 
 Back to <a href="gde-aboutpage.html">About Page</a>
         </div>

@@ -41,16 +41,7 @@ padding: 12px;
       }
 input[type="checkbox"] {color: black; margin:0;  vertical-align: auto; position: relative; display: inline;}
  
-img.header {
-max-width: 100vw;
-width: 100vw;
-margin-right: auto;
-margin-left: auto;
-height: auto;
-position: relative;
-padding-top: 85px; padding-bottom: 0px; margin-bottom: 0;
 
-}
 header {position: relative;}
 h2 {font-size: 250%;
   color: #000000;
@@ -79,37 +70,60 @@ h5 {color: #000000;
  
 }
 
-blockquote {text-align: center; margin-left: 10vw; margin-right: 10vw;}
-/* Styling pages' content */
+blockquote {text-align: left; margin-left: 10vw; margin-right: 10vw;}
 
+/* Styling pages' content */
 p {margin-top: 1em; margin-bottom: 0em; padding-top: 0; padding-left: 5vw; padding-right: 5vw; }
 a:visited {color: RGB(131,8,22); text-decoration: none}
 
-/* Styling journal images */  
+/* Styling journal images for Edition page */  
 img.page {float: right; max-width: 35vw; width: 35%; height: auto;}
 
+/* Styling page illustrations */
+img.illustration {display:inline; margin-left: 10vw; margin-top: 10px; width: 35%; height:auto; }
+
+/* Styling Static Home Link div.Homelink {margin-left: 8px; vertical-align:top; padding:4px; z-index:0}*/
+a.Homelink {background-color:RGB(207,201,189); width: 4vw; padding:16px; text-align: center;}
+.Homelink:hover {background-color: RGB(79,142,141); color:white; padding: 16px; }
+ 
+
 /* Styling navigation bar & footer */
-div.block {height: .5em; padding-top: 0; margin-top: 0; margin-bottom: 0; background-color: RGB(122,118,126); z-index: 10;}
-div.navigation {background-color: RGB(207,201,189); max-width: 100vw; position: fixed; top:0; z-index:20;}
-table.navigation {margin-right: auto; margin-left: auto;
- width: 100vw; height: 4em; }
+img.header {display:block; 
+max-width: 100vw;
+width: 100vw;
+margin-right: auto;
+margin-left: auto;
+height: auto; 
+position: relative;
+padding-top: 80px; padding-bottom: 0px; margin-bottom: 0; margin-top:0; }
+
+nav {margin-left: 10px; background-color: RGB(207,201,189); max-width: 100vw;}
+
+div.block {height: .5em; padding: 0; margin-top: 5px; margin-bottom: 0; background-color: RGB(122,118,126); z-index: 15; }
+div.navigation {display:table; background-color: RGB(207,201,189); max-width: 100vw; position: relative; top:0; z-index:15; padding-bottom: 10px;}
+.navbar {background-color: RGB(207,201,189); max-width: 100vw; height: 80px; position: fixed; top:0; z-index:20; padding-bottom: 10px;}
+ul.navigation {height: 60px; list-style-type: none; position:relative;  margin: 0;  padding-top: 0px;  margin-right: auto; margin-left: auto;
+ max-width: 100vw; height: 4em; z-index: 15;}
+
 div.navLink:hover {padding: 16px; background-color: RGB(79,142,141); color: white;}
 
-.navLink:hover a {color: white; text-decoration:none; }
-td.home {width: 8%; text-align: center; padding: 16px; display: inline-block;}
+.Edition:hover a {display: table-cell; color: white; text-decoration:none; background-color: RGB(79,142,141); padding: 20px; min-width: 160px;}
 
-td {width: 14%; text-align: center; padding: 16px; display: inline-block;}
+li {display: table-cell; width: 14vw; text-align: center; padding: 16px;}
+.Edition {width: 20vw; }
 
 p.subheading {font-size: 125%; font-weight: bold;}
  div.footer {clear: both; background-color: RGB(207,201,189); width: 100%; margin-right: auto; margin-left: auto; font-size: .75em;}
  
  
-/* Creating class for Fixed Header on Scrolling */
-nav.fixed {position: fixed;
-width: 100%;
-top: 0;
-z-index: 20;}
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+ul {
+   position: sticky;
+  top: 0;
+}
 
+
+ 
 /* Offsetting anchors to accommodate fixed header */
 .offset:before { 
 	display: block; 
@@ -117,6 +131,16 @@ z-index: 20;}
   	height: 150px;      /* Give height of your fixed element */
         margin-top: -150px; /* Give negative margin of your fixed element */  	
         visibility: hidden; 
+}
+
+/* Styling Table for Rationale page */
+table.information {table-layout: fixed; border-collapse: collapse;  border: 1px solid black; width: 80%; background-color: white; }
+th.information, td.information, tr.information { border-collapse: collapse;  border: 1px solid black; width:100%;}
+
+th.information {height: 50px;}
+td.information {
+  height: 50px;
+  vertical-align: bottom;
 }
 
 /* Changing line height for alternate views */

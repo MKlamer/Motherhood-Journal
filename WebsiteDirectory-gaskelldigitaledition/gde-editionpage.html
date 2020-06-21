@@ -8,62 +8,39 @@
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <link rel="stylesheet" type="text/css" href="css/style-gaskelljournal.css" /><script type="text/javascript" src="scripts/gde-script.js"></script></head>
    <body>
-      <!-- Navigational Header Begin -->
       <div class="navigation">
-         <table class="navigation">
-            <tr>
-               <td class="home"><div class="navLink"><a href="index.html">Home</a></div></td>
-               <td><div class="dropdown">
-                  <button class="dropbtn">The Dissertation</button>
-                  <div class="dropdown-content">
-                     <a href="gde-dissertationrationalepage.html">Dissertation Rationale</a>
-                     <a href="gde-digitaldissertationpage.html">Read the Dissertation Chapter</a>
-                     <a href="abouteditorpage.html">About the Editor</a>
-                  </div>
-                  
-               </div></td>
-               <td><div class="dropdown">
-                  <button class="dropbtn">About</button>
-                  <div class="dropdown-content">
-                     <a href="gde-aboutpage.html">Previous Editions</a>
-                     <a href="https://github.com/MKlamer/Motherhood-Journal"
-                        target="_blank">View the TEI File</a>
-                     <a href="gde-acknowledgements.html">Acknowledgements</a>
-                     <a href="gde-methodspage.html">Methodology</a>
-                     <a href="gde-editorialpolicypage.html">Editing Policy</a>
-                  </div>
-               </div></td>
-               <td><div class="navLink">
-                  <a href="gde-editionpage.html">Elizabeth Gaskell Journal:<br/>The Digital Edition</a>
-               </div></td>
-               <td><div class="dropdown">
-                  <button class="dropbtn">Gaskell's World</button>
-                  <div class="dropdown-content">
-                     <a href="gde-gaskellpage.html">Gaskell's Journal</a>
-                     <a href="gde-personpage.html">Key People</a>
-                     <a href="gde-diaryessay.html">Victorian Diaries</a>
-                     <a href="gde-motherhoodessay.html">Victorian Motherhood</a>
-                     <!-- <a href="gde-familytreepage.html">Gaskell's Family</a> -->
-                     
-                     <!-- ? Gaskell As Novelist -->
-                  </div>
-               </div></td>
-               <td><div class="dropdown">
-                  <button class="dropbtn">Resources</button>
-                  <div class="dropdown-content">
-                     <a href="gde-resourcespage.html">Other Gaskell Resources</a>
-                     <a href="gde-otherprojects.html">More 19th Century Digital Editions</a>
-                     <a href="gde-projecttoolspage.html">Digital Tools Used in the
-                        Project</a>
-                     <a href="gde-alphabetpage.html">Gaskell's Handwriting</a>
-                  </div>
-               </div></td>
-            </tr>
-         </table><div class="block"></div>
-      </div><a href="index.html"><img class="header" id="headerimage" width="1920" height="256"
-         src="images/GDE-JournalHeaderRevised.jpg"
-         alt="The Elizabeth Gaskell Journal Header Image"/></a><div class="block"></div>
-      <!-- Navigational Header End -->    
+         <nav>
+            <div class="navbar" id="navbar">
+               <div class="block"></div>
+               <ul class="navigation">
+                  <li><a class="Homelink" href="index.html">Home</a></li>
+                  <li>
+                     <div class="dropdown"><button class="dropbtn">The Dissertation</button><div class="dropdown-content"><a href="gde-dissertationrationalepage.html">Dissertation Rationale</a><a href="gde-digitaldissertationpage.html">Read the Dissertation
+                              Chapter</a><a href="gde-abouteditorpage.html">About the Editor</a></div>
+                     </div>
+                  </li>
+                  <li>
+                     <div class="dropdown"><button class="dropbtn">About</button><div class="dropdown-content"><a href="gde-aboutpage.html">Previous Editions</a><a href="https://github.com/MKlamer/Motherhood-Journal" target="_blank">View the TEI File</a><a href="gde-acknowledgements.html">Acknowledgements</a><a href="gde-methodspage.html">Methodology</a><a href="gde-editorialpolicypage.html">Editing Policy</a></div>
+                     </div>
+                  </li>
+                  <li>
+                     <div class="Edition"><a href="gde-editionpage.html">Elizabeth Gaskell Journal:<br />The Digital
+                           Edition</a></div>
+                  </li>
+                  <li>
+                     <div class="dropdown"><button class="dropbtn">Gaskell's World</button><div class="dropdown-content"><a href="gde-gaskellpage.html">Gaskell's Journal</a><a href="gde-personpage.html">Key People</a><a href="gde-diaryessay.html">Victorian Diaries</a><a href="gde-motherhoodessay.html">Victorian Motherhood</a></div>
+                     </div>
+                  </li>
+                  <li>
+                     <div class="dropdown"><button class="dropbtn">Resources</button><div class="dropdown-content"><a href="gde-resourcespage.html">Other Gaskell Resources</a><a href="gde-otherprojects.html">More 19th Century Digital Editions</a><a href="gde-projecttoolspage.html">Digital Tools Used in the
+                              Project</a><a href="gde-alphabetpage.html">Gaskell's Handwriting</a></div>
+                     </div>
+                  </li>
+               </ul>
+               <div class="block"></div>
+            </div>
+         </nav><img class="header" id="headerimage" width="1920" height="256" src="images/GDE-JournalHeaderRevised.jpg" alt="The Elizabeth Gaskell Journal Header Image" /></div>
+      <h2>Read Gaskell’s Journal</h2>
       <div id="fieldset">
          <fieldset>
             <legend>Choose Your View:</legend><span class="dipNorm">The default view (Edition View) of the
@@ -74,31 +51,31 @@
                deletions). Click to select the normalized view.</span><span class="choose"><input type="checkbox" id="REGtoggle" style="cursor:pointer" /><label class="checkbox" for="REGtoggle">Select normalized view.</label></span></fieldset>
       </div>
       <h2>Explore the Journal by Entry:</h2>
-      <ul>
+      <ul class="entryLink">
          
-         <li><a href="#j1">Dedication: </a></li>
+         <li class="entryLink"><a href="#j1">Dedication: </a></li>
          
-         <li><a href="#j2">Entry 1:  March 10, 1835</a></li>
+         <li class="entryLink"><a href="#j2">Entry 1:  March 10, 1835</a></li>
          
-         <li><a href="#j3">Entry 2: August 4, 1835</a></li>
+         <li class="entryLink"><a href="#j3">Entry 2: August 4, 1835</a></li>
          
-         <li><a href="#j4">Entry 3:  October 4, 1835</a></li>
+         <li class="entryLink"><a href="#j4">Entry 3:  October 4, 1835</a></li>
          
-         <li><a href="#j5">Entry 4: December 28, 1835</a></li>
+         <li class="entryLink"><a href="#j5">Entry 4: December 28, 1835</a></li>
          
-         <li><a href="#j6"> Entry 5: February 7, 1836</a></li>
+         <li class="entryLink"><a href="#j6"> Entry 5: February 7, 1836</a></li>
          
-         <li><a href="#j7">Entry 6: November 5, 1836</a></li>
+         <li class="entryLink"><a href="#j7">Entry 6: November 5, 1836</a></li>
          
-         <li><a href="#j8">Entry 7: December 9, 1837</a></li>
+         <li class="entryLink"><a href="#j8">Entry 7: December 9, 1837</a></li>
          
-         <li><a href="#j9">Entry 8: March 25, 1838</a></li>
+         <li class="entryLink"><a href="#j9">Entry 8: March 25, 1838</a></li>
          
-         <li><a href="#j10">Entry 9: April 8, 1838</a></li>
+         <li class="entryLink"><a href="#j10">Entry 9: April 8, 1838</a></li>
          
-         <li><a href="#j11">Entry 10: October 14, 1838</a></li>
+         <li class="entryLink"><a href="#j11">Entry 10: October 14, 1838</a></li>
          
-         <li><a href="#j12">Entry 11: October 28, 1838</a></li>
+         <li class="entryLink"><a href="#j12">Entry 11: October 28, 1838</a></li>
          </ul>
       <hr />
       <div id="main">
