@@ -56,6 +56,11 @@ h3 {font-size: 150%;
   margin-left: auto;}
   
 div.headnote-text {font-style: italic;}
+
+/* Styling headers uniquely to left align on citation page: */
+
+h4.left {text-align: left; font-size: 125%;
+  color: #000000; }
   
 h4 { font-size: 125%;
   color: #000000;
